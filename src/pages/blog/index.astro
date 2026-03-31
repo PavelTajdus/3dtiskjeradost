@@ -1,10 +1,13 @@
 ---
+import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
+import Newsletter from '../../components/Newsletter.astro';
 import { SITE_TITLE } from '../../consts';
+import { getPostImage } from '../../utils/getPostImage';
 
 const posts = (await getCollection('blog'))
 	.filter(p => !p.data.draft)
@@ -14,41 +17,45 @@ const posts = (await getCollection('blog'))
 <!doctype html>
 <html lang="cs">
 	<head>
-		<BaseHead title={`Blog — ${SITE_TITLE}`} description="Všechny články o 3D tisku." />
+		<BaseHead title={`Články — ${SITE_TITLE}`} description="Všechny články o 3D tisku." />
 	</head>
 	<body>
 		<Header />
-		<main class="container">
-			<div class="page-header">
-				<h1>Blog</h1>
+		<main>
+			<div class="page-hero-wrap">
+				<div class="page-header">
+					<h1>Články</h1>
+					<p>Všechny články, návody a novinky ze světa 3D tisku.</p>
+				</div>
 			</div>
+			<div class="container">
 			<div class="post-grid">
 				{posts.map(post => (
 					<article class="post-card">
 						<a href={`/blog/${post.id}/`}>
-							{post.data.heroImage && (
-								<img class="card-image" src={post.data.heroImage} alt={post.data.title} loading="lazy" />
-							)}
-							<div class="card-meta">
+							{(() => { const img = getPostImage(post); return img ? (
+								<div class="card-image-wrap">
+									<Image src={img} alt={post.data.title} width={560} height={315} format="webp" quality={75} loading="lazy" />
+								</div>
+							) : null; })()}
+							<div class="meta">
+								{post.data.tags?.[0] && (
+									<span class="tag-label">{post.data.tags[0]}</span>
+								)}
+								{post.data.tags?.[0] && <span class="sep"></span>}
 								<FormattedDate date={post.data.pubDate} />
-								{post.data.tags?.[0] && <span> · {post.data.tags[0]}</span>}
 							</div>
 							<h3>{post.data.title}</h3>
 							{post.data.description && (
-								<p class="card-excerpt">{post.data.description.slice(0, 120)}…</p>
+								<p class="card-excerpt">{post.data.description.slice(0, 140)}…</p>
 							)}
 						</a>
 					</article>
 				))}
 			</div>
+			</div>
 		</main>
+		<Newsletter />
 		<Footer />
 	</body>
 </html>
-
-<style>
-	.page-header {
-		padding: 60px 0 32px;
-		text-align: center;
-	}
-</style>

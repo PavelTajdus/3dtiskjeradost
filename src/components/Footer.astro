@@ -1,49 +1,46 @@
 ---
+import { SITE_TITLE } from '../consts';
+
 const year = new Date().getFullYear();
 ---
 
 <footer class="site-footer">
-	<div class="footer-inner container">
-		<span class="copyright">© {year} Pavel Tajduš</span>
-		<nav class="footer-links">
-			<a href="https://www.youtube.com/paveltajdus3d" target="_blank" rel="noopener">YouTube</a>
-			<a href="https://x.com/PavelTajdus" target="_blank" rel="noopener">X</a>
-			<a href="https://hotend.cz" target="_blank" rel="noopener">hotend.cz</a>
-		</nav>
+	<div class="footer-inner">
+		<div class="footer-brand">
+			<a href="/" class="footer-logo">{SITE_TITLE}</a>
+			<p>
+				Blog, newsletter a praktické články ze světa 3D tisku.
+				Novinky, návody i osobní zkušenosti na jednom místě.
+			</p>
+		</div>
+
+		<div class="footer-columns">
+			<div class="footer-column">
+				<h4>Web</h4>
+				<a href="/">Domů</a>
+				<a href="/blog">Blog</a>
+				<a href="/o-mne">O mně</a>
+				<a href="/podpora">Podpora</a>
+			</div>
+
+			<div class="footer-column">
+				<h4>Projekty</h4>
+				<a href="https://hotend.cz" target="_blank" rel="noopener">Hotend.cz</a>
+				<a href="https://printerhive.com" target="_blank" rel="noopener">Printerhive.com</a>
+			</div>
+
+			<div class="footer-column">
+				<h4>Sleduj mě</h4>
+				<a href="https://www.youtube.com/paveltajdus3d" target="_blank" rel="noopener">YouTube</a>
+				<a href="https://www.facebook.com/3dtiskjeradost" target="_blank" rel="noopener">Facebook</a>
+				<a href="https://x.com/PavelTajdus" target="_blank" rel="noopener">X / Twitter</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="footer-bottom">
+		<div class="footer-bottom-inner">
+			<span class="copyright">© {year} Pavel Tajduš</span>
+		</div>
 	</div>
 </footer>
-
-<style>
-	.site-footer {
-		border-top: 1px solid var(--border);
-		padding: 32px 0;
-		margin-top: 80px;
-	}
-	.footer-inner {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-	}
-	.copyright {
-		font-size: 0.8rem;
-		color: var(--text-muted);
-	}
-	.footer-links {
-		display: flex;
-		gap: 24px;
-	}
-	.footer-links a {
-		font-size: 0.8rem;
-		color: var(--text-muted);
-		text-decoration: none;
-	}
-	.footer-links a:hover {
-		color: var(--text);
-	}
-	@media (max-width: 600px) {
-		.footer-inner {
-			flex-direction: column;
-			gap: 12px;
-		}
-	}
-</style>

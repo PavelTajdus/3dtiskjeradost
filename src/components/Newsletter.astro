@@ -1,0 +1,254 @@
+---
+interface Props {
+	heading?: string;
+	text?: string;
+}
+
+const {
+	heading = 'Nenech si ujít novinky ze světa 3D tisku!',
+	text = 'Přihlas se k odběru newsletteru a dostávej nové články, tipy a novinky přímo do schránky.',
+} = Astro.props;
+---
+
+<section class="newsletter" id="newsletter">
+	<div class="newsletter-inner container">
+		<div class="newsletter-card">
+		<div class="newsletter-text">
+			<h3>{heading}</h3>
+			<p>{text}</p>
+		</div>
+		<form class="newsletter-form" data-newsletter-form>
+			<div class="newsletter-field">
+				<input
+					type="email"
+					name="email"
+					placeholder="Tvůj e-mail"
+					required
+					autocomplete="email"
+				/>
+				<button type="submit">Odebírat</button>
+			</div>
+			<label class="newsletter-consent">
+				<input type="checkbox" name="consent" required />
+				<span>Souhlasím se zpracováním e-mailu pro zasílání newsletteru.</span>
+			</label>
+		</form>
+		</div>
+	</div>
+</section>
+
+<style>
+	.newsletter {
+		background: var(--accent);
+		padding: 72px 0;
+		margin-top: 80px;
+	}
+
+	.newsletter-inner {
+		display: block;
+	}
+
+	.newsletter-card {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: 48px;
+	}
+
+	.newsletter-text {
+		flex: 1;
+		max-width: 440px;
+	}
+
+	.newsletter-text h3 {
+		font-family: var(--font-display);
+		font-size: 2rem;
+		font-weight: 800;
+		letter-spacing: -0.03em;
+		margin-bottom: 10px;
+		line-height: 1.15;
+		color: #ffffff;
+	}
+
+	.newsletter-text p {
+		font-size: 1rem;
+		color: rgba(255, 255, 255, 0.7);
+		line-height: 1.65;
+		margin: 0;
+	}
+
+	.newsletter-form {
+		flex: 1;
+		max-width: 480px;
+	}
+
+	.newsletter-field {
+		display: flex;
+		gap: 0;
+		border-radius: var(--radius-sm);
+		overflow: hidden;
+		border: 1px solid rgba(0, 0, 0, 0.15);
+		background: rgba(0, 0, 0, 0.08);
+	}
+
+	.newsletter-field input {
+		flex: 1;
+		padding: 14px 18px;
+		border: none;
+		outline: none;
+		font-family: var(--font-body);
+		font-size: 0.92rem;
+		color: #ffffff;
+		background: transparent;
+		min-width: 0;
+	}
+
+	.newsletter-field input::placeholder {
+		color: rgba(255, 255, 255, 0.5);
+	}
+
+	.newsletter-field button {
+		padding: 14px 28px;
+		background: var(--bg-dark);
+		color: #fff;
+		border: none;
+		font-family: var(--font-body);
+		font-size: 0.9rem;
+		font-weight: 700;
+		cursor: pointer;
+		white-space: nowrap;
+		transition: background var(--transition);
+	}
+
+	.newsletter-field button:hover {
+		background: #0a1020;
+	}
+
+	.newsletter-consent {
+		display: flex;
+		align-items: flex-start;
+		gap: 10px;
+		font-size: 0.75rem;
+		color: rgba(255, 255, 255, 0.5);
+		margin-top: 12px;
+		margin-bottom: 0;
+		margin-left: 10px;
+		line-height: 1.5;
+	}
+
+	.newsletter-consent input {
+		margin-top: 2px;
+		accent-color: #ffffff;
+		flex-shrink: 0;
+	}
+
+	/* Success / error states */
+	.newsletter-form.success .newsletter-field {
+		display: none;
+	}
+
+	.newsletter-form.success .newsletter-consent {
+		display: none;
+	}
+
+	.newsletter-msg {
+		font-size: 0.95rem;
+		font-weight: 600;
+		color: #ffffff;
+		padding: 14px 0;
+	}
+
+	@media (max-width: 768px) {
+		.newsletter {
+			padding: 48px 0;
+			margin-top: 48px;
+		}
+
+		.newsletter-card {
+			flex-direction: column;
+			align-items: stretch;
+			gap: 24px;
+		}
+
+		.newsletter-text,
+		.newsletter-form {
+			max-width: 100%;
+		}
+		.newsletter-text h3 {
+			font-size: 1.5rem;
+		}
+	}
+</style>
+
+<script>
+	const LISTMONK_URL = 'https://newsletter.hotend.cz/api/public/subscription';
+	const LIST_UUID = 'a7353135-0117-4bcd-a34d-790e47b9b07c';
+
+	function showMessage(form: HTMLFormElement, text: string, isError = false) {
+		const existingMsg = form.querySelector('.newsletter-msg');
+		if (existingMsg) existingMsg.remove();
+
+		const msg = document.createElement('p');
+		msg.className = 'newsletter-msg';
+		if (isError) msg.classList.add('newsletter-msg-error');
+		msg.textContent = text;
+		form.appendChild(msg);
+	}
+
+	document.querySelectorAll('[data-newsletter-form]').forEach((form) => {
+		form.addEventListener('submit', async (event) => {
+			event.preventDefault();
+
+			const currentForm = event.currentTarget;
+			if (!(currentForm instanceof HTMLFormElement)) return;
+
+			const emailInput = currentForm.querySelector('input[name="email"]');
+			if (!(emailInput instanceof HTMLInputElement) || !emailInput.value) return;
+
+			const submitBtn = currentForm.querySelector('button[type="submit"]');
+			if (submitBtn instanceof HTMLButtonElement) {
+				submitBtn.disabled = true;
+				submitBtn.textContent = 'Odesílám…';
+			}
+
+			try {
+				const response = await fetch(LISTMONK_URL, {
+					method: 'POST',
+					headers: { 'Content-Type': 'application/json' },
+					body: JSON.stringify({
+						email: emailInput.value,
+						list_uuids: [LIST_UUID],
+					}),
+				});
+
+				if (response.ok) {
+					const data = await response.json().catch(() => null);
+					currentForm.classList.add('success');
+
+					if (data?.data?.has_optin) {
+						showMessage(currentForm, '🎉 Díky! Zkontroluj si e-mail a potvrď odběr.');
+					} else {
+						showMessage(currentForm, '🎉 Díky za přihlášení! Od teď ti neunikne žádná novinka.');
+					}
+				} else {
+					const data = await response.json().catch(() => null);
+					const errorMsg = data?.message || '';
+
+					if (response.status === 409 || errorMsg.toLowerCase().includes('already')) {
+						currentForm.classList.add('success');
+						showMessage(currentForm, '👍 Tento e-mail je již přihlášen k odběru.');
+					} else {
+						showMessage(currentForm, '😕 Něco se pokazilo. Zkus to prosím znovu.', true);
+					}
+				}
+			} catch {
+				showMessage(currentForm, '😕 Nepodařilo se spojit se serverem. Zkus to prosím znovu.', true);
+			} finally {
+				if (submitBtn instanceof HTMLButtonElement) {
+					submitBtn.disabled = false;
+					submitBtn.textContent = 'Odebírat';
+				}
+			}
+		});
+	});
+</script>

@@ -19,7 +19,9 @@ Krátce poté, v roce 1989, si Scott Crump nechává patentovat technologii FDM 
 
 **První 3D tiskárnou byla SLA-1** vyrobená v roce 1992 firmou 3D Systems (založená Chuckem Hallem).
 
-V 90. letech minulého století dochází k rozšíření 3D tisku hlavně ve firemní sféře. Vzniká mnoho nových firem a startupů.#### RepRap Projekt[![RepRap Projekt a Dr. Adrian Bowyer s 3D tiskárnou replikující sama sebe.](https://3dtiskjeradost.cz/content/images/2025/04/3d_tisk_reprap_projekt_first_replication.jpg)](https://commons.wikimedia.org/wiki/File:First_replication.jpg)
+V 90. letech minulého století dochází k rozšíření 3D tisku hlavně ve firemní sféře. Vzniká mnoho nových firem a startupů.#### RepRap Projekt[
+
+![RepRap Projekt a Dr. Adrian Bowyer s 3D tiskárnou replikující sama sebe.](https://3dtiskjeradost.cz/content/images/2025/04/3d_tisk_reprap_projekt_first_replication.jpg)](https://commons.wikimedia.org/wiki/File:First_replication.jpg)
 
 2005 je zřejmě nejzásadnější milník v dostupnosti 3D tisku pro běžné uživatele. V tomto roce byl zahájen projekt RepRap, založen Dr. Adrianem Bowyerem, jehož cílem bylo přehodnotit aditivní výrobu (FDM) jako nákladově efektivní výrobu schopnou sebe replikace. Výsledkem pak byla 3D tiskárna, která dokázala vytisknout většinu svých vlastních součástí.
 
@@ -100,13 +102,17 @@ Software, bez kterého se ale neobejdete, je Slicer.### Slicer
 
 Slicing software vezme váš 3D model a "rozřeže" ho na tenké vrstvy. Vezme v potaz specifika vaší tiskárny, doplní o různá nastavení tisku, jako je rychlost, výška vrstvy, počet perimetru a další a další parametry, a nakonec vám připraví soubor (gcode) kterému bude vaše 3D tiskárna rozumět a podle kterého bude tisknout.#### Nejlepší slicing software pro 3D tisk
 
-Představím vám několik slicing programů, které vám pomohou "nařezat" vaše modely pro tisk. Každý z nich má své silné a slabé stránky, takže si vyberete podle toho, co vám nejlépe sedí a vyhovuje. Samozřejmě slicovacích programů existuje celá řada, ale zde si představíme ty absolutně nejpoužívanější.#### Prusa Slicer![](https://3dtiskjeradost.cz/content/images/2025/04/image.png)
+Představím vám několik slicing programů, které vám pomohou "nařezat" vaše modely pro tisk. Každý z nich má své silné a slabé stránky, takže si vyberete podle toho, co vám nejlépe sedí a vyhovuje. Samozřejmě slicovacích programů existuje celá řada, ale zde si představíme ty absolutně nejpoužívanější.#### Prusa Slicer
+
+![](https://3dtiskjeradost.cz/content/images/2025/04/image.png)
 
 [Open-source Slicer](https://www.prusa3d.com/cs/stranka/prusaslicer_424/) od českého výrobce 3D tiskáren Prusa Research. Má intuitivní rozhraní a je optimálně nastavený pro tiskárny od Prusa. Nabízí tři úrovně nastavení, aby začátečníky nezahltil nastavením ale zároveň vyhověl i velmi pokročilým uživatelům. Původně vychází ze Sli3er.
 
 **Výhody**:- Optimalizováno pro Prusa tiskárny- Bezplatný- Často aktualizován
 
-**Nevýhody**:- Horší integrované profily pro tiskárny jiných značek- Někdy složitější nastavení#### Ultimaker Cura![](https://3dtiskjeradost.cz/content/images/2025/04/image-2-1.png)
+**Nevýhody**:- Horší integrované profily pro tiskárny jiných značek- Někdy složitější nastavení#### Ultimaker Cura
+
+![](https://3dtiskjeradost.cz/content/images/2025/04/image-2-1.png)
 
 Jedná se o jeden z nejznámějších a nejrozšířenějších slicing programů na trhu. [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/) je známý svou uživatelskou přívětivostí a velkým množstvím nastavení. Za vývojem tohoto programu stojí firma Ultimaker.
 

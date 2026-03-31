@@ -16,7 +16,9 @@ No a co je na tom úplně nejvíc zajímavé? Že tyhle poznatky můžou inspiro
 
 *Zdroj: *[https://theconversation.com/new-research-reveals-why-sabre-toothed-predators-evolved-their-deadly-teeth-246783](https://theconversation.com/new-research-reveals-why-sabre-toothed-predators-evolved-their-deadly-teeth-246783)## HyperX Myš: Personalizace pomocí 3D tisku
 
-HyperX přišel s modulární herní myší, kterou si můžeš snadno přizpůsobit díky magnetickým dílům. Kryty, boční tlačítka nebo gripy – to všechno si můžeš měnit a vytvořit si tak myš přesně podle svých potřeb. Zajímavé je, že HyperX nabízí ke stažení 3D modely těchto dílů, takže pokud máš 3D tiskárnu, můžeš si je vytisknout doma nebo je upravit na míru.![](https://3dtiskjeradost.cz/content/images/2025/04/image-15.png)*HyperX Saga s 3D tištěnými kryty*
+HyperX přišel s modulární herní myší, kterou si můžeš snadno přizpůsobit díky magnetickým dílům. Kryty, boční tlačítka nebo gripy – to všechno si můžeš měnit a vytvořit si tak myš přesně podle svých potřeb. Zajímavé je, že HyperX nabízí ke stažení 3D modely těchto dílů, takže pokud máš 3D tiskárnu, můžeš si je vytisknout doma nebo je upravit na míru.
+
+![](https://3dtiskjeradost.cz/content/images/2025/04/image-15.png)*HyperX Saga s 3D tištěnými kryty*
 
 Je to skvělý příklad praktického využití 3D tisku v každodenním životě. Ať už tě baví gaming, nebo jen rád personalizuješ věci, tohle propojení technologií určitě stojí za pozornost.
 
@@ -27,7 +29,9 @@ Pro tisk dílů doporučuji PETG – vydrží i intenzivní gamingové maratony.
 
 *Zdroj: *[https://row.hyperx.com/collections/new-releases/products/hyperx-pulsefire-saga-pro-wireless-gaming-mouse?variant=51779469607277](https://row.hyperx.com/collections/new-releases/products/hyperx-pulsefire-saga-pro-wireless-gaming-mouse?variant=51779469607277)## Bugatti Chiron: Luxusní držák na nápoje
 
-Bugatti ukázalo, jak může 3D tisk posouvat hranice personalizace i v luxusním automobilovém průmyslu. Pro majitele modelu Chiron Super Sport vytvořili na míru 3D tištěný držák na nápoje, který řeší absenci tohoto praktického prvku v interiéru vozu. Držák je navržen tak, aby se jednoduše zacvakl do kapsy ve dveřích, a nabízí místo pro láhev i plechovku. Navíc obsahuje personalizaci – jméno majitele přímo v designu.![](https://3dtiskjeradost.cz/content/images/2025/04/image-17.png)*Autor: Norbert Aepli, Switzerland, CC BY 4.0, [https://commons.wikimedia.org/w/index.php?curid=47283866](https://commons.wikimedia.org/w/index.php?curid=47283866)*
+Bugatti ukázalo, jak může 3D tisk posouvat hranice personalizace i v luxusním automobilovém průmyslu. Pro majitele modelu Chiron Super Sport vytvořili na míru 3D tištěný držák na nápoje, který řeší absenci tohoto praktického prvku v interiéru vozu. Držák je navržen tak, aby se jednoduše zacvakl do kapsy ve dveřích, a nabízí místo pro láhev i plechovku. Navíc obsahuje personalizaci – jméno majitele přímo v designu.
+
+![](https://3dtiskjeradost.cz/content/images/2025/04/image-17.png)*Autor: Norbert Aepli, Switzerland, CC BY 4.0, [https://commons.wikimedia.org/w/index.php?curid=47283866](https://commons.wikimedia.org/w/index.php?curid=47283866)*
 
 Tento projekt je skvělým příkladem toho, jak 3D tisk umožňuje rychlou výrobu unikátních komponentů na míru. Ať už jde o náhradní díly, nebo přizpůsobení vozidel konkrétním potřebám zákazníků, technologie 3D tisku otevírá nové možnosti nejen pro automobilky, ale i pro nás nadšence do 3D tisku. Co bys vytvořil ty?
 
@@ -35,7 +39,9 @@ Já asi nic, protože Bugatti nemám a můj modelářský skill je mizerný 😅
 
 *Zdroj: *[https://www.instagram.com/p/DDzr34-om1X/](https://www.instagram.com/p/DDzr34-om1X/)## 4. Backflip AI: Možná revoluce v modelování?
 
-Představ si, že bys mohl vytvořit 3D model jen tím, že ho popíšeš textem nebo nahraješ fotku. Přesně to teď umožňuje nová AI platforma Backflip, za kterou stojí zakladatelé známé firmy Markforged (PS: na Formnext 2024 jsem byl u nich na stánku). Tato technologie dokáže zjednodušit a zrychlit proces návrhu – složité modely, které by normálně trvaly dny, zvládne během několika minut.![](https://3dtiskjeradost.cz/content/images/2025/04/image-16.png)
+Představ si, že bys mohl vytvořit 3D model jen tím, že ho popíšeš textem nebo nahraješ fotku. Přesně to teď umožňuje nová AI platforma Backflip, za kterou stojí zakladatelé známé firmy Markforged (PS: na Formnext 2024 jsem byl u nich na stánku). Tato technologie dokáže zjednodušit a zrychlit proces návrhu – složité modely, které by normálně trvaly dny, zvládne během několika minut.
+
+![](https://3dtiskjeradost.cz/content/images/2025/04/image-16.png)
 
 Backflip je ideální pro rychlé prototypování nebo tvorbu náhradních dílů. Díky vysokému rozlišení a podpoře materiálů jako kov, plast nebo karbonová vlákna má obrovský potenciál pro designéry i inženýry. Pokud tě zajímá, jak by AI mohla posunout tvůj 3D tisk na další úroveň, určitě stojí za to tuhle platformu vyzkoušet! Nicméně zatím se můžeš přihlásit jen na čekačku. Tak uvidíme.
 

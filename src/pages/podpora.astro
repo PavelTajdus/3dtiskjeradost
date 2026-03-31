@@ -2,6 +2,7 @@
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
+import Newsletter from '../components/Newsletter.astro';
 import { SITE_TITLE } from '../consts';
 ---
 
@@ -12,20 +13,46 @@ import { SITE_TITLE } from '../consts';
 	</head>
 	<body>
 		<Header />
-		<main class="container">
-			<div class="prose page-content">
-				<h1>Podpoř mé aktivity</h1>
+		<main>
+			<div class="page-hero-wrap">
+				<div class="page-header">
+					<h1>Podpoř mé aktivity</h1>
+					<p>
+						Bez tvé podpory by to nešlo. Každý příspěvek mě motivuje pokračovat
+						ve tvorbě obsahu, streamů a článků o 3D tisku.
+					</p>
+				</div>
+			</div>
+			<div class="container">
+				<div class="page-content prose">
+				<h2>Jak mě můžeš podpořit</h2>
+
+				<h3>YouTube členství</h3>
 				<p>
-					Bez tvé podpory by to nešlo. Každý příspěvek mě motivuje pokračovat
-					ve tvorbě obsahu, streamů a článků o 3D tisku.
+					Bez téhle podpory by to nešlo. Kvůli streamům, testům a obsahu jsem už nakoupil desítky tiskáren,
+					hromadu příslušenství a spoustu věcí okolo. Bez vaší podpory bych tohle tempo dlouhodobě nezvládl.
+				</p>
+				<p>
+					Členství na mém <a href="https://www.youtube.com/paveltajdus3d" target="_blank">YouTube kanálu</a>
+					je pro mě ta nejdůležitější a nejstabilnější forma podpory. Pokud chceš pomoct tomu,
+					aby mohl obsah vznikat dál pravidelně, právě tady to má pro mě největší smysl.
 				</p>
 
-				<h2>Jak mě můžeš podpořit</h2>
+				<h3>Hotend.cz</h3>
+				<p>
+					<a href="https://hotend.cz" target="_blank">Hotend.cz</a> je můj e-shop a zároveň jeden z důvodů,
+					proč můžu dělat to, co dělám. Díky němu jsem se dostal ke spoustě zajímavých tiskáren,
+					hardwaru a projektů, ke kterým bych se jinak vůbec nedostal.
+				</p>
+				<p>
+					A zároveň to funguje i opačně — Hotend.cz by nikdy nevznikl nebýt mého YouTube kanálu.
+					Obě věci jsou dnes úzce propojené. Když nakoupíš na Hotend.cz, podpoříš tím přímo i moji další tvorbu.
+				</p>
 
 				<h3>Ko-fi</h3>
 				<p>
 					Jednorázový příspěvek přes <a href="https://ko-fi.com/paveltajdus" target="_blank">Ko-fi</a>.
-					Během streamu se objeví poděkování přímo na obrazovce.
+					Jednoduchý způsob, jak mě podpořit napřímo.
 				</p>
 
 				<h3>Streamlabs</h3>
@@ -34,30 +61,11 @@ import { SITE_TITLE } from '../consts';
 					s notifikací přímo na streamu.
 				</p>
 
-				<h3>YouTube členství</h3>
-				<p>
-					Staň se členem na <a href="https://www.youtube.com/paveltajdus3d" target="_blank">YouTube kanálu</a>
-					a získej výhody — od věrnostních odznaků až po config soubory k tiskárnám.
-				</p>
-
-				<h3>Nákup na hotend.cz</h3>
-				<p>
-					Pokud nakoupíš na <a href="https://hotend.cz" target="_blank">hotend.cz</a>,
-					pořídíš si kvalitní věci pro 3D tisk a zároveň podpoříš mou tvorbu.
-				</p>
-
-				<p>Díky za každou formu podpory! 🙏</p>
+				<p>Díky za každou formu podpory. Vážím si toho. 🙏</p>
+			</div>
 			</div>
 		</main>
+		<Newsletter />
 		<Footer />
 	</body>
 </html>
-
-<style>
-	.page-content {
-		padding-top: 60px;
-	}
-	.page-content h1 {
-		margin-bottom: 24px;
-	}
-</style>

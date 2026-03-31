@@ -9,13 +9,19 @@ tags: ["Základy 3D tisku"]
 
 Orca Slicer je open-source slicer, který je určený pro FDM tiskárny. Je postavený na základech Bambu Studia, které je zase postavené na Prusa Sliceru. Takže pokud máte rádi Prusa Slicer, najdete zde známé předvolby, ale s několika extra vychytávkami.
 
-**OrcaSlicer je příjemně ovladatelný a řekl bych že oproti jiným programům i uživatelsky přívětivější slicer, který nabízí několik velmi zajímavých funkcí. Například více tiskových plátů v projektu, testy pro vyladění tiskárny, jeden perimetr pro spodní a horní vrstvu, průvodce kalibrací tiskárny a mnoho dalších funkcí.**![](https://3dtiskjeradost.cz/content/images/2025/04/image-2.png)## Hlavní přednosti OrcaSlicer- Pokročilé nastavení infillu, perimetrů, vrstev, flow a rychlostí- Více tiskových plátů v projektu- Možnost tisku více modelů najednou s různými nastaveními- **Jednoduché a intuitivní uživatelské rozhraní** s náhledem modelu a tiskového plánu- Integrace s cloudovou službou Bambu lab, která umožňuje zálohovat a synchronizovat tiskové profily- Automatické generování podpěr s možností manuální úpravy### Má ale také některé nevýhody- Omezená podpora pro více barevný tisk. Tady bych chtěl doplnit, že **skvěle zvládá barevný tisk pomocí AMS** od Bambu lab, ale podpora ERCF a jiných systému není aktuálně moc funkční.- Nemožnost importovat nebo exportovat nastavení z jiných slicerů.## Jak se OrcaSlicer používá?
+**OrcaSlicer je příjemně ovladatelný a řekl bych že oproti jiným programům i uživatelsky přívětivější slicer, který nabízí několik velmi zajímavých funkcí. Například více tiskových plátů v projektu, testy pro vyladění tiskárny, jeden perimetr pro spodní a horní vrstvu, průvodce kalibrací tiskárny a mnoho dalších funkcí.**
 
-Jedno z témat na mých streamech jsou i slicery. A tento software jsem nemohl vynechat, neboť je to můj hlavní slicer. Takže mrkněte na záznam živého streamu na YouTube.## Nejzajímavější funkce OrcaSliceru### Více tiskových plátů![Tiskové pláty v OrcaSlicer](https://3dtiskjeradost.cz/content/images/2025/04/image-4.png)*Několik tiskových plátů a možnost je pojmenovat.*
+![](https://3dtiskjeradost.cz/content/images/2025/04/image-2.png)## Hlavní přednosti OrcaSlicer- Pokročilé nastavení infillu, perimetrů, vrstev, flow a rychlostí- Více tiskových plátů v projektu- Možnost tisku více modelů najednou s různými nastaveními- **Jednoduché a intuitivní uživatelské rozhraní** s náhledem modelu a tiskového plánu- Integrace s cloudovou službou Bambu lab, která umožňuje zálohovat a synchronizovat tiskové profily- Automatické generování podpěr s možností manuální úpravy### Má ale také některé nevýhody- Omezená podpora pro více barevný tisk. Tady bych chtěl doplnit, že **skvěle zvládá barevný tisk pomocí AMS** od Bambu lab, ale podpora ERCF a jiných systému není aktuálně moc funkční.- Nemožnost importovat nebo exportovat nastavení z jiných slicerů.## Jak se OrcaSlicer používá?
+
+Jedno z témat na mých streamech jsou i slicery. A tento software jsem nemohl vynechat, neboť je to můj hlavní slicer. Takže mrkněte na záznam živého streamu na YouTube.## Nejzajímavější funkce OrcaSliceru### Více tiskových plátů
+
+![Tiskové pláty v OrcaSlicer](https://3dtiskjeradost.cz/content/images/2025/04/image-4.png)*Několik tiskových plátů a možnost je pojmenovat.*
 
 Tuhle funkci vyloženě miluju. Když tisknete nějaký větší projekt který má hromadu dílů, můžete si jednoduše vyskládat všechny díly na jednotlivé plochy (tiskové pláty), rozdělit jak potřebujete a třeba popřehazovat mezi pláty, aby byl tisk co nejoptimálnější.
 
-Jednotlivé tiskové pláty se dají pojmenovat, takže si můžete uložit poznámku třeba o barvě, materiálu, času tisku a tak podobně.### Jeden perimetr pro horní či spodní vrstvu![Náhled na jeden perimetr u horní vrstvy v programu OrcaSlicer](https://3dtiskjeradost.cz/content/images/2025/04/image-5.png)*Náhled na jeden perimetr u horní vrstvy v programu OrcaSlicer*
+Jednotlivé tiskové pláty se dají pojmenovat, takže si můžete uložit poznámku třeba o barvě, materiálu, času tisku a tak podobně.### Jeden perimetr pro horní či spodní vrstvu
+
+![Náhled na jeden perimetr u horní vrstvy v programu OrcaSlicer](https://3dtiskjeradost.cz/content/images/2025/04/image-5.png)*Náhled na jeden perimetr u horní vrstvy v programu OrcaSlicer*
 
 Nativně tuhle funkci umí tuším jen SuperSlicer a Bambu Studio. V jiných slicerech jste také schopni tohoto efektu docílit, ale už to není tak jednoduché.
 
@@ -23,7 +29,9 @@ Jeden perimetr na spodní a horní vrstvě vypadá prostě o kus lépe, ale zach
 
 Je to taková "blbost", ale potěší to. Pokud si vytvoříte Bambu účet, bude si slicer pamatovat nesystémové profily. Systémové profily si pamatovat nemusí, protože ty si tam kdykoliv můžete znovu doplnit.
 
-Pokud přecházíte mezi více počítači, ušetří tahle funkce neustálé udržování stejných profilů.### Kalibrace pro tvou tiskárnu![Kalibrace v programu OrcaSlicer](https://3dtiskjeradost.cz/content/images/2025/04/image-3.png)*Jednoduchá kalibrace různých parametrů tiskárny*
+Pokud přecházíte mezi více počítači, ušetří tahle funkce neustálé udržování stejných profilů.### Kalibrace pro tvou tiskárnu
+
+![Kalibrace v programu OrcaSlicer](https://3dtiskjeradost.cz/content/images/2025/04/image-3.png)*Jednoduchá kalibrace různých parametrů tiskárny*
 
 Kalibrovat tiskárnu byl vždycky opruz. Ale tady za nás slicer udělá hromadu práce, a tak nám ten opruz dost usnadní. Na nás je jen vygenerovat kalibrační modely, pustit tisk, a výsledky konzultovat s [tutoriálem](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration). A samozřejmě výsledky testů pak implementovat do našich profilů nebo do nastavení 3D tiskárny.## Alternativy pro OrcaSlicer?
 

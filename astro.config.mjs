@@ -8,6 +8,9 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
 	site: 'https://3dtiskjeradost.cz',
 	integrations: [mdx(), sitemap()],
+	image: {
+		domains: ['3dtiskjeradost.cz', 'commons.wikimedia.org'],
+	},
 	vite: {
 		server: {
 			allowedHosts: ['3dtisk.docore.cz', 'localhost'],

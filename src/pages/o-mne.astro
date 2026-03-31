@@ -2,6 +2,7 @@
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
+import Newsletter from '../components/Newsletter.astro';
 import { SITE_TITLE } from '../consts';
 ---
 
@@ -12,33 +13,57 @@ import { SITE_TITLE } from '../consts';
 	</head>
 	<body>
 		<Header />
-		<main class="container">
-			<div class="prose page-content">
-				<h1>O mně</h1>
-				<p>
-					Jmenuji se Pavel Tajduš a 3D tisk je moje vášeň. Na tomto webu sdílím svoje zkušenosti,
-					návody a novinky ze světa 3D tisku. Najdete tady články pro začátečníky i pokročilé.
-				</p>
-				<p>
-					Provozuji <a href="https://www.youtube.com/paveltajdus3d" target="_blank">YouTube kanál</a>,
-					kde streamuji stavby tiskáren, recenzuji hardware a sdílím tipy. Zároveň vedu e-shop
-					<a href="https://hotend.cz" target="_blank">hotend.cz</a> s filamenty a příslušenstvím pro 3D tisk.
-				</p>
-				<p>
-					Pokud mě chcete sledovat, najdete mě na <a href="https://x.com/PavelTajdus" target="_blank">X</a>
-					nebo na <a href="https://www.youtube.com/paveltajdus3d" target="_blank">YouTube</a>.
-				</p>
+		<main>
+			<div class="page-hero-wrap">
+				<div class="page-header">
+					<h1>O mně</h1>
+					<p>
+						Jmenuji se Pavel Tajduš. Na YouTube, blogu i ve streamech se dlouhodobě věnuju 3D tisku,
+						testování tiskáren a všemu kolem něj.
+					</p>
+				</div>
+			</div>
+			<div class="container">
+				<div class="page-content prose">
+					<p>
+						Baví mě hledat, co v 3D tisku opravdu funguje a co je jen marketing. Nezajímá mě jen papírová specifikace,
+						ale hlavně reálná zkušenost z používání. Proto stavím tiskárny, testuju hardware, řeším slicery,
+						streamuju a snažím se sdílet věci tak, aby pomohly ostatním.
+					</p>
+
+					<h2>Co dělám</h2>
+					<p>
+						Provozuji <a href="https://www.youtube.com/paveltajdus3d" target="_blank">YouTube kanál</a>,
+						kde pravidelně streamuji, rozebírám novinky, stavím a testuji tiskárny a sdílím zkušenosti z praxe.
+						Tenhle web je k tomu přirozené rozšíření — místo pro články, delší texty, návody a souhrny toho,
+						co se zrovna děje ve světě 3D tisku.
+					</p>
+					<p>
+						Zároveň stojím za e-shopem <a href="https://hotend.cz" target="_blank">Hotend.cz</a>,
+						který vznikl právě díky tomu, že jsem se kolem 3D tisku pohyboval čím dál víc do hloubky.
+						A stejně tak to funguje i opačně — díky Hotendu se dostanu ke spoustě zajímavých věcí,
+						které pak můžu testovat, ukazovat a dál posouvat do obsahu.
+					</p>
+					<p>
+						Velkou součástí toho všeho je také <a href="https://printerhive.com" target="_blank">Printerhive.com</a> —
+						software pro vzdálené řízení 3D tiskáren. I to je projekt, který vznikl z reálných potřeb kolem tisku,
+						správy tiskáren a každodenní práce s nimi.
+					</p>
+
+					<h2>Proč to dělám</h2>
+					<p>
+						Chci dělat obsah, který je užitečný a upřímný. Obsah, který pomůže začátečníkům zorientovat se,
+						pokročilejším ušetří čas a všem dohromady ukáže, že 3D tisk může být nejen technický obor,
+						ale i radost, hra a nástroj pro reálné projekty.
+					</p>
+					<p>
+						Pokud mě chceš sledovat, najdeš mě na <a href="https://www.youtube.com/paveltajdus3d" target="_blank">YouTube</a>,
+						na <a href="https://x.com/PavelTajdus" target="_blank">X</a>, nebo tady na blogu.
+					</p>
+				</div>
 			</div>
 		</main>
+		<Newsletter />
 		<Footer />
 	</body>
 </html>
-
-<style>
-	.page-content {
-		padding-top: 60px;
-	}
-	.page-content h1 {
-		margin-bottom: 24px;
-	}
-</style>
