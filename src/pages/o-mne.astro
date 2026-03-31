@@ -1,0 +1,59 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+---
+
+<!doctype html>
+<html lang="cs">
+	<head>
+		<BaseHead title="O mně — 3D tisk je radost!" description="Pavel Tajduš - nadšenec do 3D tisku, YouTuber a zakladatel e-shopu hotend.cz" />
+		<style>
+			main {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: 0 auto;
+				padding: 2em 1em;
+				color: rgb(var(--gray-dark));
+			}
+			h1 {
+				text-align: center;
+				margin-bottom: 1em;
+			}
+			p {
+				line-height: 1.7;
+				margin-bottom: 1em;
+			}
+			a {
+				color: rgb(var(--accent));
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>O mně</h1>
+			<p>
+				Ahoj! Jsem <strong>Pavel Tajduš</strong>, nadšenec do 3D tisku a autor projektu
+				<strong>3D tisk je radost!</strong>. Na svém
+				<a href="https://www.youtube.com/@3dtiskjeradost" target="_blank">YouTube kanálu</a>
+				sdílím recenze, návody a novinky ze světa 3D tisku.
+			</p>
+			<p>
+				Kromě tvorby obsahu jsem také zakladatelem e-shopu
+				<a href="https://hotend.cz" target="_blank">hotend.cz</a>, kde najdete vše potřebné
+				pro 3D tisk — od hotendů, trysek a náhradních dílů až po filamenty a příslušenství.
+			</p>
+			<p>
+				3D tisk mě fascinuje už řadu let a svou vášeň se snažím předávat dál. Ať už jste
+				začátečník nebo zkušený maker, na mém blogu a YouTube kanálu najdete spoustu
+				užitečných informací, tipů a inspirace.
+			</p>
+			<p>
+				Sledujte mě také na <a href="https://x.com/PavelTajdus" target="_blank">X/Twitter</a>
+				pro rychlé novinky a aktualizace.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>

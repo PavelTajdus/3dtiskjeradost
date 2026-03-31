@@ -1,0 +1,92 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+---
+
+<!doctype html>
+<html lang="cs">
+	<head>
+		<BaseHead title="Podpora — 3D tisk je radost!" description="Podpořte projekt 3D tisk je radost! přes Ko-fi, Streamlabs, YouTube členství nebo nákupem na hotend.cz" />
+		<style>
+			main {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: 0 auto;
+				padding: 2em 1em;
+				color: rgb(var(--gray-dark));
+			}
+			h1 {
+				text-align: center;
+				margin-bottom: 1em;
+			}
+			h2 {
+				margin-top: 2em;
+				margin-bottom: 0.5em;
+			}
+			p {
+				line-height: 1.7;
+				margin-bottom: 1em;
+			}
+			a {
+				color: rgb(var(--accent));
+			}
+			.support-options {
+				list-style: none;
+				padding: 0;
+			}
+			.support-options li {
+				padding: 1em;
+				margin-bottom: 1em;
+				background: linear-gradient(var(--gray-gradient)) no-repeat;
+				border-radius: 12px;
+			}
+			.support-options li strong {
+				display: block;
+				font-size: 1.1em;
+				margin-bottom: 0.3em;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Podpořte projekt</h1>
+			<p>
+				Pokud vás baví můj obsah a chcete mi pomoci v tvorbě dalších videí a článků o 3D tisku,
+				budu moc rád za jakoukoliv formu podpory. Každá pomoc se počítá! 🙏
+			</p>
+
+			<ul class="support-options">
+				<li>
+					<strong>☕ Ko-fi</strong>
+					Jednorázový příspěvek nebo pravidelná podpora na
+					<a href="https://ko-fi.com/paveltajdus" target="_blank">ko-fi.com/paveltajdus</a>.
+				</li>
+				<li>
+					<strong>🎬 Streamlabs</strong>
+					Podpořte mě přes
+					<a href="https://streamlabs.com/paveltajdu" target="_blank">Streamlabs</a>.
+				</li>
+				<li>
+					<strong>▶️ YouTube členství</strong>
+					Staňte se členem mého
+					<a href="https://www.youtube.com/@3dtiskjeradost" target="_blank">YouTube kanálu</a>
+					a získejte přístup k exkluzivnímu obsahu a dalším výhodám.
+				</li>
+				<li>
+					<strong>🛒 Nákup na hotend.cz</strong>
+					Nakupováním na e-shopu
+					<a href="https://hotend.cz" target="_blank">hotend.cz</a>
+					mě podporujete přímo — najdete zde hotendy, trysky, filamenty a další příslušenství pro 3D tisk.
+				</li>
+			</ul>
+
+			<p>
+				Děkuji za vaši podporu! Díky vám mohu pokračovat v tom, co mě baví, a přinášet
+				vám další kvalitní obsah ze světa 3D tisku.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
