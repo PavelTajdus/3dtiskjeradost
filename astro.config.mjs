@@ -6,6 +6,11 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://example.com',
+	site: 'https://3dtiskjeradost.cz',
 	integrations: [mdx(), sitemap()],
+	vite: {
+		server: {
+			allowedHosts: ['3dtisk.docore.cz', 'localhost'],
+		},
+	},
 });

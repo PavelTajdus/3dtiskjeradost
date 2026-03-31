@@ -7,6 +7,7 @@ import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
 const posts = (await getCollection('blog'))
+	.filter(p => !p.data.draft)
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
 	.slice(0, 6);
 ---
@@ -15,136 +16,73 @@ const posts = (await getCollection('blog'))
 <html lang="cs">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-		<style>
-			.hero {
-				text-align: center;
-				padding: 3rem 1rem;
-				background: linear-gradient(var(--gray-gradient)) no-repeat;
-				margin-bottom: 2rem;
-			}
-			.hero h1 {
-				font-size: 2.5rem;
-				margin: 0 0 0.5rem 0;
-			}
-			.hero p {
-				font-size: 1.2rem;
-				color: rgb(var(--gray));
-				margin: 0;
-			}
-			main {
-				width: 960px;
-				max-width: calc(100% - 2em);
-				margin: 0 auto;
-			}
-			.posts-grid {
-				display: flex;
-				flex-wrap: wrap;
-				gap: 2rem;
-				list-style-type: none;
-				margin: 0;
-				padding: 0;
-			}
-			.posts-grid li {
-				width: calc(50% - 1rem);
-			}
-			.posts-grid li * {
-				text-decoration: none;
-				transition: 0.2s ease;
-			}
-			.posts-grid li img {
-				width: 100%;
-				margin-bottom: 0.5rem;
-				border-radius: 12px;
-			}
-			.posts-grid li a {
-				display: block;
-			}
-			.title {
-				margin: 0;
-				color: rgb(var(--black));
-				line-height: 1.2;
-			}
-			.date {
-				margin: 0.25rem 0 0 0;
-				color: rgb(var(--gray));
-				font-size: 0.9rem;
-			}
-			.description {
-				margin: 0.5rem 0 0 0;
-				color: rgb(var(--gray-dark));
-				font-size: 0.9rem;
-				line-height: 1.4;
-			}
-			.posts-grid li a:hover h4,
-			.posts-grid li a:hover .date {
-				color: rgb(var(--accent));
-			}
-			.posts-grid li a:hover img {
-				box-shadow: var(--box-shadow);
-			}
-			.all-posts {
-				text-align: center;
-				margin: 3rem 0 2rem 0;
-			}
-			.all-posts a {
-				display: inline-block;
-				padding: 0.75rem 1.5rem;
-				background: rgb(var(--accent));
-				color: white;
-				text-decoration: none;
-				border-radius: 8px;
-				font-weight: bold;
-			}
-			.all-posts a:hover {
-				opacity: 0.9;
-			}
-			@media (max-width: 720px) {
-				.posts-grid {
-					gap: 0.5em;
-				}
-				.posts-grid li {
-					width: 100%;
-					text-align: center;
-				}
-				.hero h1 {
-					font-size: 1.8rem;
-				}
-			}
-		</style>
 	</head>
 	<body>
 		<Header />
-		<div class="hero">
-			<h1>3D tisk je radost!</h1>
-			<p>Tvůj zdroj zajímavostí a článků o 3D tisku</p>
-		</div>
 		<main>
-			<section>
-				<ul class="posts-grid">
-					{
-						posts.map((post) => (
-							<li>
-								<a href={`/blog/${post.id}/`}>
-									{post.data.heroImage && (
-										<img src={post.data.heroImage} alt={post.data.title} width="720" height="360" loading="lazy" />
-									)}
-									<h4 class="title">{post.data.title}</h4>
-									<p class="date">
-										<FormattedDate date={post.data.pubDate} />
-									</p>
-									{post.data.description && (
-										<p class="description">{post.data.description.substring(0, 150)}...</p>
-									)}
-								</a>
-							</li>
-						))
-					}
-				</ul>
+			<section class="hero container">
+				<h1>3D tisk je radost!</h1>
+				<p>Tvůj zdroj zajímavostí a článků o 3D tisku.</p>
 			</section>
-			<div class="all-posts">
-				<a href="/blog">Všechny články &rarr;</a>
-			</div>
+
+			<section class="container">
+				<div class="section-header">
+					<h2>Nejnovější články</h2>
+					<a href="/blog">Všechny články →</a>
+				</div>
+				<div class="post-grid">
+					{posts.map(post => (
+						<article class="post-card">
+							<a href={`/blog/${post.id}/`}>
+								{post.data.heroImage && (
+									<img class="card-image" src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+								)}
+								<div class="card-meta">
+									<FormattedDate date={post.data.pubDate} />
+									{post.data.tags?.[0] && <span> · {post.data.tags[0]}</span>}
+								</div>
+								<h3>{post.data.title}</h3>
+								{post.data.description && (
+									<p class="card-excerpt">{post.data.description.slice(0, 120)}…</p>
+								)}
+							</a>
+						</article>
+					))}
+				</div>
+			</section>
 		</main>
 		<Footer />
 	</body>
 </html>
+
+<style>
+	.hero {
+		text-align: center;
+		padding: 80px 24px 60px;
+	}
+	.hero h1 {
+		margin-bottom: 12px;
+	}
+	.hero p {
+		font-size: 1.1rem;
+		color: var(--text-muted);
+	}
+	.section-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: baseline;
+		margin-bottom: 32px;
+		border-bottom: 1px solid var(--border);
+		padding-bottom: 16px;
+	}
+	.section-header h2 {
+		font-size: 1.1rem;
+		font-family: var(--font-body);
+		font-weight: 500;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+	}
+	.section-header a {
+		font-size: 0.85rem;
+	}
+</style>
