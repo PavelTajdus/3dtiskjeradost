@@ -1,0 +1,118 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+import { getPostImage } from '../utils/getPostImage';
+import { Image } from 'astro:assets';
+
+const beginnerSlugs = [
+	'co-je-3d-tisk-kompletni-pruvodce-3d-tiskem',
+	'jak-vybrat-3d-tiskarnu',
+	'orcaslicer-alternativa-k-prusaslicer-ci-cura',
+];
+
+const allPosts = await getCollection('blog');
+const posts = beginnerSlugs
+	.map(slug => allPosts.find(p => p.id === slug))
+	.filter(Boolean);
+---
+
+<!doctype html>
+<html lang="cs">
+	<head>
+		<BaseHead
+			title={`Pro začátečníky | ${SITE_TITLE}`}
+			description="Začínáte s 3D tiskem? Tady najdete vše potřebné — od základů technologie přes výběr tiskárny až po nastavení sliceru."
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section class="container" style="padding-top: 3rem;">
+				<h1>Začínáte s 3D tiskem?</h1>
+				<p style="font-size: 1.15rem; color: var(--text-muted, #666); max-width: 640px; margin-bottom: 2.5rem;">
+					Tady najdete vše potřebné — od základů technologie přes výběr první tiskárny až po nastavení sliceru. Články průběžně aktualizuji.
+				</p>
+
+				<div class="beginner-grid">
+					{posts.map((post, idx) => {
+						const img = getPostImage(post);
+						const labels = ['1. Zjistěte, co je 3D tisk', '2. Vyberte si tiskárnu', '3. Nastavte si slicer'];
+						return (
+							<article class="beginner-card">
+								<a href={`/blog/${post.id}/`}>
+									{img && (
+										<div class="beginner-image-wrap">
+											<Image src={img} alt={post.data.title} width={560} height={315} format="webp" quality={75} />
+										</div>
+									)}
+									<div class="beginner-step">{labels[idx]}</div>
+									<h2>{post.data.title}</h2>
+									{post.data.description && (
+										<p>{post.data.description}</p>
+									)}
+								</a>
+							</article>
+						);
+					})}
+				</div>
+			</section>
+		</main>
+		<Footer />
+
+		<style>
+			.beginner-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+				gap: 2rem;
+				margin-bottom: 3rem;
+			}
+			.beginner-card {
+				border: 1px solid var(--border, #e5e7eb);
+				border-radius: 12px;
+				overflow: hidden;
+				transition: box-shadow 0.2s, transform 0.2s;
+			}
+			.beginner-card:hover {
+				box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+				transform: translateY(-2px);
+			}
+			.beginner-card a {
+				text-decoration: none;
+				color: inherit;
+				display: block;
+			}
+			.beginner-image-wrap {
+				aspect-ratio: 16/9;
+				overflow: hidden;
+			}
+			.beginner-image-wrap img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+			}
+			.beginner-step {
+				font-size: 0.8rem;
+				font-weight: 600;
+				text-transform: uppercase;
+				letter-spacing: 0.05em;
+				color: var(--accent, #e74c3c);
+				padding: 1.25rem 1.25rem 0;
+			}
+			.beginner-card h2 {
+				font-size: 1.2rem;
+				margin: 0.5rem 0;
+				padding: 0 1.25rem;
+				line-height: 1.3;
+			}
+			.beginner-card p {
+				font-size: 0.9rem;
+				color: var(--text-muted, #666);
+				padding: 0 1.25rem 1.25rem;
+				line-height: 1.5;
+			}
+		</style>
+	</body>
+</html>

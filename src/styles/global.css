@@ -1198,3 +1198,53 @@ p { margin-bottom: 1.25em; }
 		padding: 14px 16px 24px;
 	}
 }
+
+/* Beginners section on homepage */
+.beginners-section {
+	margin-bottom: 3rem;
+}
+.beginners-cards {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+	gap: 1rem;
+}
+.beginner-link {
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+	padding: 1.25rem;
+	border: 1px solid var(--border, #e5e7eb);
+	border-radius: 12px;
+	text-decoration: none;
+	color: inherit;
+	transition: box-shadow 0.2s, transform 0.2s;
+}
+.beginner-link:hover {
+	box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+	transform: translateY(-2px);
+}
+.bl-step {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-width: 44px;
+	height: 44px;
+	border-radius: 50%;
+	background: var(--accent, #e74c3c);
+	color: #fff;
+	font-weight: 700;
+	font-size: 1.1rem;
+	flex-shrink: 0;
+}
+.bl-text {
+	display: flex;
+	flex-direction: column;
+	gap: 0.2rem;
+}
+.bl-text strong {
+	font-size: 1.05rem;
+}
+.bl-text span {
+	font-size: 0.85rem;
+	color: var(--text-muted, #666);
+}
