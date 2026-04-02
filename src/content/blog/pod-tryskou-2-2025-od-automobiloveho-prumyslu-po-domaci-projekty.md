@@ -26,7 +26,9 @@ Mickus Projects představili nový lustr Hedron Pendant Chandelier vyrobený z b
 
 Lustr má geometrický tvar inspirovaný polyhedry a působí jako umělecký prvek v jakémkoli prostoru. Jeho výroba ukazuje, jak lze spojit moderní technologie s odpovědným přístupem k přírodním zdrojům. Pokud hledáte způsob, jak dodat svému interiéru jedinečný vzhled a zároveň podpořit udržitelnost, tento lustr by mohl být skvělou volbou.
 
-*Zdroj*: [dezeen.com](https://www.dezeen.com/2025/01/17/mickus-projects-bioplastic-hedron-pendant-chandelier/)
+*
+
+Zdroj*: [dezeen.com](https://www.dezeen.com/2025/01/17/mickus-projects-bioplastic-hedron-pendant-chandelier/)
 
 ## 3D tištěný přenosný notebook s Raspberry Pi 5 a výdrží až 3 hodiny
 
@@ -36,7 +38,9 @@ Máte doma Raspberry Pi 5 a přemýšlíte, jak ho využít na maximum? Tvůrce 
 
 Notebook je navržen v OnShape a vytištěn na tiskárně Bambu A1 z materiálů Sunlu PLA+ a Giantarm PLA Silk. Uvnitř najdete nejen Raspberry Pi 5 s aktivním chlazením, ale také UPS modul Geekworm, který umožňuje bezpečné vypnutí systému pomocí Python skriptů. A co je nejlepší? Tvůrce plánuje sdílet STL soubory pro tisk, takže si tento projekt můžete postavit sami.
 
-*Zdroj*: [hackster.io](https://www.hackster.io/news/this-fully-3d-printed-laptop-lets-you-take-your-raspberry-pi-5-wherever-you-go-6aae202b40c1)
+*
+
+Zdroj*: [hackster.io](https://www.hackster.io/news/this-fully-3d-printed-laptop-lets-you-take-your-raspberry-pi-5-wherever-you-go-6aae202b40c1)
 
 ## SPINC: Projekt 3D tištěné automatické nabíječky baterií s retro designem
 
@@ -46,7 +50,9 @@ Pokud hledáte praktické a stylové řešení pro nabíjení baterií, projekt 
 
 SPINC je navíc plně přizpůsobitelný – na GitHubu najdete všechny potřebné soubory, včetně STL modelů pro 3D tisk, PCB návrhů a kódu pro Raspberry Pi Pico. Můžete si tak vytvořit vlastní barevnou variantu nebo upravit software podle svých potřeb. Tento projekt je ideální nejen pro domácí použití, ale i jako originální dárek pro technologické nadšence.
 
-*Zdroj*: [xda-developers.com](https://www.xda-developers.com/elegant-retro-raspberry-pi-pico-clock-doubles-battery-charger/)
+*
+
+Zdroj*: [xda-developers.com](https://www.xda-developers.com/elegant-retro-raspberry-pi-pico-clock-doubles-battery-charger/)
 
 ## PaTS-Wheel: Transformovatelné 3D tištěné kolo překonávající 70 % překážky
 
@@ -54,7 +60,9 @@ PaTS-Wheel je nový typ kola pro mobilní roboty, který kombinuje výhody tradi
 
 Kolo je vyrobeno jako jediný díl pomocí 3D tisku, což usnadňuje jeho výrobu i přizpůsobení různým robotickým platformám. V testech PaTS-Wheel překonalo čistě kruhové kolo i wheg – dokázalo zdolat překážky až do výšky 70 % svého průměru, zatímco wheg zvládl 61 % a běžné kolo pouze 25 %. Navíc má podobnou spotřebu energie jako tradiční kola a generuje méně vibrací, což zlepšuje životnost robota i přesnost jeho senzorů. Tento design představuje efektivní řešení pro pohyb robotů v náročném terénu.
 
-*Zdroj*: [youtube.com](https://www.youtube.com/watch?v=oZbZZlDDEnc)
+*
+
+Zdroj*: [youtube.com](https://www.youtube.com/watch?v=oZbZZlDDEnc)
 
 ## Plně automatizovaný 3D tisk s Bambu Lab A1 Mini a Printerhive
 

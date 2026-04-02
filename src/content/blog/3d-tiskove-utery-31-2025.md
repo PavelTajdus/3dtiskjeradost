@@ -18,7 +18,7 @@ Bambu Lab na Form Nextu představilo H2C — svou nejpokročilejší tiskárnu s
 
 H2C je nová vlajková loď od Bambu Lab za 2 249 €. Hlavní novinka je **Vortek** — systém rychlé výměny celých hotendů místo klasického střihání a zavádění filamentu přes AMS.
 
-### Jak to funguje v praxi
+## Jak to funguje v praxi
 
 Zní to jako magie — výměna hotendu za 7-8 sekund. Ale realita je složitější:
 
@@ -44,15 +44,15 @@ Zajímavé: komunikace mezi tryskou a tiskárnou je **bezdrátová** — pravdě
 
 ## Pro koho to dává smysl?
 
-### Nedává smysl pro farmy
+## Nedává smysl pro farmy
 Kdo provozuje tiskovou farmu, ten jede na **P2S**. Je to nejmodernější tiskárna v řadě, stojí zlomek ceny H2C a pro masovou výrobu jednobarevných tisků (klíčenky, díly, zakázky) je ideální. Za cenu jedné H2C máte skoro tři P2S.
 
 Velké farmy (třeba Wiglitz s 1200 tiskárnami) jedou na X1C/P1S a nemají důvod přecházet na dražší stroje.
 
-### Dává smysl pro kreativce
+## Dává smysl pro kreativce
 Pokud tisknete hodně vícebarevných nebo vícemateriálových tisků (třeba flex + PLA, nebo potřebujete různé velikosti trysek v jednom tisku), pak je H2C zajímavá. Žádné hovínka z čistící věže (resp. výrazně méně) a rychlejší výměny.
 
-### Můj use case
+## Můj use case
 Pro moje klíčenky a běžné tisky mi Vortek nedává smysl. Na plném plátu klíčenek je těch pár hovínek a kousek plastu z čistící věže zanedbatelných. Kdybych kupoval novou tiskárnu, spíš bych zvažoval **H2D s laserem** — vypálit logo do klíčenky laserem je výrazně detailnější než tisk.
 
 ---

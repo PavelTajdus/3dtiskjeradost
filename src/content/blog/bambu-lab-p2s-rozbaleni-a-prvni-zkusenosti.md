@@ -45,19 +45,19 @@ Celé od krabice po první tisk trvalo asi 15 minut. Bez jakéhokoliv stresu.
 
 ## Co je nového oproti P1S
 
-### Ocelové tyče místo karbonu
+## Ocelové tyče místo karbonu
 Na ose X jsou teď ocelové tyče. Někdo bude mít radost, někdo ne — karbon mi na starších modelech nikdy nedělal problémy, ale ocel je prostě ocel.
 
-### Vylepšený hotend
+## Vylepšený hotend
 Nový high-flow hotend s delší nahřívací zónou. Výměna trysky je pořád bleskurychlá — nacvaknout, zamknout, hotovo.
 
-### AMS2 se sušením
+## AMS2 se sušením
 Aktivní vyhřívání přímo v AMS. Buffer je předinstalovaný, vývod je připravený na dvě AMS jednotky, plus možnost externí špulky.
 
-### Displej
+## Displej
 Krásný dotykový displej, citlivý a rychlý. Oproti Core One, kde se displej překresluje pomalu, je to nebe a dudy.
 
-### Ventilace a filtr
+## Ventilace a filtr
 Při tisku ABS se uzavře přívod venkovního vzduchu, teplý vzduch cirkuluje přes filtr. Chytré řešení — hladká vnitřní plocha bez hran, kde by se chytal bordel. Prostě setřete a je čisto.
 
 ---

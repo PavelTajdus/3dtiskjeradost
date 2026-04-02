@@ -52,16 +52,16 @@ Testoval jsem na obou ASA — Core One drží v komoře 55-56 °C bez aktivního
 
 ## Co mi na Core One vadí
 
-### Podložka
+## Podložka
 Výchozí hladký plát se samolepkou je fajn na PLA, ale po ASA zůstávají otisky a podložka se zvlní. Ve sliceru je ASA mezi podporovanými materiály, nikde varování. Objednal jsem PEI podložky z Alíku za pětistovku — problém vyřešen, ale neměl bych to řešit u tiskárny za 33 tisíc.
 
-### Displej
+## Displej
 Překresluje se pomalu. Vidíte, jak se přenačítá menu. Oproti dotykáči na P2S je to generační rozdíl.
 
-### Plastové díly
+## Plastové díly
 Na tiskárnu v této cenové kategorii je tam příliš mnoho tištěných plastových dílů. Pochopil bych to u stavebnice za 10 tisíc, ne za 33.
 
-### Dvířka
+## Dvířka
 Plastová, furt se mi odlepuje úchytka. Za ty peníze by to mělo být řešeno jinak.
 
 ---

@@ -8,16 +8,32 @@ import Header from '../../components/Header.astro';
 import Newsletter from '../../components/Newsletter.astro';
 import { SITE_TITLE } from '../../consts';
 import { getPostImage } from '../../utils/getPostImage';
+import { createMetaDescription } from '../../utils/seo';
 
 const posts = (await getCollection('blog'))
 	.filter(p => !p.data.draft)
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+// Collect all unique tags sorted by frequency (most used first)
+const tagCounts = new Map<string, number>();
+posts.forEach(p => p.data.tags?.forEach(t => tagCounts.set(t, (tagCounts.get(t) || 0) + 1)));
+const allTags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]).map(([tag]) => tag);
+
+// Prepare lightweight post data for client-side search/filter
+const postsData = posts.map(p => ({
+	id: p.id,
+	title: p.data.title,
+	description: p.data.description || '',
+	tags: p.data.tags || [],
+}));
+
+const PER_PAGE = 12;
 ---
 
 <!doctype html>
 <html lang="cs">
 	<head>
-		<BaseHead title={`Články — ${SITE_TITLE}`} description="Všechny články o 3D tisku." />
+		<BaseHead title={`Články — ${SITE_TITLE}`} description="Všechny články o 3D tisku: návody, recenze 3D tiskáren, zkušenosti ze streamů, novinky a praktické tipy." />
 	</head>
 	<body>
 		<Header />
@@ -28,34 +44,337 @@ const posts = (await getCollection('blog'))
 					<p>Všechny články, návody a novinky ze světa 3D tisku.</p>
 				</div>
 			</div>
+
 			<div class="container">
-			<div class="post-grid">
-				{posts.map(post => (
-					<article class="post-card">
-						<a href={`/blog/${post.id}/`}>
+				{/* Search & filter bar */}
+				<div class="blog-toolbar">
+					<div class="search-wrap">
+						<svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+						<input
+							type="search"
+							id="blog-search"
+							placeholder="Hledat články…"
+							autocomplete="off"
+						/>
+						<button type="button" id="search-clear" class="search-clear" aria-label="Vymazat hledání" hidden>
+							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+						</button>
+					</div>
+
+					<div class="tag-bar" id="tag-bar">
+						<button class="tag-chip active" data-tag="">Vše<span class="tag-count">{posts.length}</span></button>
+						{allTags.map(tag => (
+							<button class="tag-chip" data-tag={tag}>
+								{tag}<span class="tag-count">{tagCounts.get(tag)}</span>
+							</button>
+						))}
+					</div>
+				</div>
+
+				{/* Post grid — all cards rendered, visibility controlled by JS */}
+				<div class="post-grid" id="post-grid">
+					{posts.map(post => (
+						<article class="post-card" data-post-id={post.id}>
 							{(() => { const img = getPostImage(post); return img ? (
-								<div class="card-image-wrap">
-									<Image src={img} alt={post.data.title} width={560} height={315} format="webp" quality={75} loading="lazy" />
-								</div>
+								<a class="post-card-link" href={`/blog/${post.id}/`}>
+									<div class="card-image-wrap">
+										<Image src={img} alt={post.data.title} width={560} height={315} format="webp" quality={75} loading="lazy" />
+									</div>
+								</a>
 							) : null; })()}
 							<div class="meta">
 								{post.data.tags?.[0] && (
-									<span class="tag-label">{post.data.tags[0]}</span>
+									<a
+										class="tag-label tag-link"
+										href={`/blog?tag=${encodeURIComponent(post.data.tags[0])}`}
+										data-tag={post.data.tags[0]}
+									>
+										{post.data.tags[0]}
+									</a>
 								)}
 								{post.data.tags?.[0] && <span class="sep"></span>}
 								<FormattedDate date={post.data.pubDate} />
 							</div>
-							<h3>{post.data.title}</h3>
-							{post.data.description && (
-								<p class="card-excerpt">{post.data.description.slice(0, 140)}…</p>
-							)}
-						</a>
-					</article>
-				))}
-			</div>
+							<a class="post-card-link" href={`/blog/${post.id}/`}>
+								<h3 data-search-target="title">{post.data.title}</h3>
+								{post.data.description && (
+									<p class="card-excerpt" data-search-target="excerpt">{createMetaDescription(post.data.description, 145)}</p>
+								)}
+							</a>
+						</article>
+					))}
+				</div>
+
+				{/* Empty state */}
+				<div class="empty-state" id="empty-state" hidden>
+					<p class="empty-state-title">Nic jsme nenašli</p>
+					<p class="empty-state-text">Zkus jiný výraz, jiný tag nebo vše jedním klikem resetuj.</p>
+					<button class="button button-secondary" id="reset-filters" type="button">
+						Vymazat hledání a filtry
+					</button>
+				</div>
+
+				{/* Status bar + load more */}
+				<div class="blog-status-bar" id="status-bar">
+					<span id="post-count-label"></span>
+					<button class="button button-secondary load-more-btn" id="load-more" hidden>
+						Zobrazit další články
+					</button>
+				</div>
 			</div>
 		</main>
 		<Newsletter />
 		<Footer />
+
+		{/* Pass data to client */}
+		<script
+			id="posts-data"
+			type="application/json"
+			set:html={JSON.stringify(postsData)}
+		/>
+		<script
+			id="blog-config"
+			type="application/json"
+			set:html={JSON.stringify({ perPage: PER_PAGE })}
+		/>
+
+		<script>
+			import Fuse from 'fuse.js';
+
+			// ---------- Data ----------
+			interface PostData {
+				id: string;
+				title: string;
+				description: string;
+				tags: string[];
+			}
+
+			const postsData: PostData[] = JSON.parse(
+				document.getElementById('posts-data')!.textContent!,
+			);
+			const { perPage } = JSON.parse(
+				document.getElementById('blog-config')!.textContent!,
+			);
+
+			// ---------- Fuse.js ----------
+			const fuse = new Fuse(postsData, {
+				keys: [
+					{ name: 'title', weight: 0.5 },
+					{ name: 'description', weight: 0.3 },
+					{ name: 'tags', weight: 0.2 },
+				],
+				threshold: 0.35,
+				ignoreLocation: true,
+				minMatchCharLength: 2,
+			});
+
+			// ---------- DOM refs ----------
+			const grid = document.getElementById('post-grid')!;
+			const searchInput = document.getElementById('blog-search') as HTMLInputElement;
+			const searchClear = document.getElementById('search-clear') as HTMLButtonElement;
+			const tagBar = document.getElementById('tag-bar')!;
+			const loadMoreBtn = document.getElementById('load-more') as HTMLButtonElement;
+			const emptyState = document.getElementById('empty-state')!;
+			const resetFiltersBtn = document.getElementById('reset-filters') as HTMLButtonElement;
+			const countLabel = document.getElementById('post-count-label')!;
+			const allCards = [...grid.querySelectorAll<HTMLElement>('.post-card')];
+			const cardsById = new Map(allCards.map(card => [card.dataset.postId!, card]));
+			const highlightTargets = allCards.flatMap(card =>
+				[...card.querySelectorAll<HTMLElement>('[data-search-target]')],
+			);
+
+			highlightTargets.forEach(el => {
+				el.dataset.originalText = el.textContent || '';
+			});
+
+			// ---------- State ----------
+			let activeTag = '';
+			let query = '';
+			let visibleCount = perPage;
+
+			// ---------- URL params ----------
+			function readURL() {
+				const params = new URLSearchParams(window.location.search);
+				activeTag = params.get('tag') || '';
+				query = params.get('q') || '';
+				searchInput.value = query;
+				syncTagButtons();
+			}
+
+			function writeURL() {
+				const params = new URLSearchParams();
+				if (activeTag) params.set('tag', activeTag);
+				if (query) params.set('q', query);
+				const qs = params.toString();
+				const url = qs ? `${window.location.pathname}?${qs}` : window.location.pathname;
+				history.replaceState(null, '', url);
+			}
+
+			// ---------- Filter logic ----------
+			function getFilteredIds(): string[] {
+				let results: PostData[];
+
+				if (query.trim().length >= 2) {
+					results = fuse.search(query).map(r => r.item);
+				} else {
+					results = postsData;
+				}
+
+				if (activeTag) {
+					results = results.filter(p => p.tags.includes(activeTag));
+				}
+
+				return results.map(p => p.id);
+			}
+
+			function escapeHtml(text: string) {
+				return text
+					.replaceAll('&', '&amp;')
+					.replaceAll('<', '&lt;')
+					.replaceAll('>', '&gt;')
+					.replaceAll('"', '&quot;')
+					.replaceAll("'", '&#39;');
+			}
+
+			function escapeRegExp(text: string) {
+				return text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+			}
+
+			function getQueryTerms() {
+				return query
+					.trim()
+					.split(/\s+/)
+					.filter(term => term.length >= 2)
+					.sort((a, b) => b.length - a.length);
+			}
+
+			function highlightText(text: string, terms: string[]) {
+				let html = escapeHtml(text);
+				for (const term of terms) {
+					html = html.replace(new RegExp(`(${escapeRegExp(term)})`, 'gi'), '<mark>$1</mark>');
+				}
+				return html;
+			}
+
+			function updateHighlights() {
+				const terms = getQueryTerms();
+				for (const el of highlightTargets) {
+					const original = el.dataset.originalText || '';
+					el.innerHTML = terms.length ? highlightText(original, terms) : escapeHtml(original);
+				}
+			}
+
+			function render() {
+				const ids = getFilteredIds();
+				const visibleIds = ids.slice(0, visibleCount);
+				const hasActiveSearch = query.trim().length >= 2;
+				const hasActiveFilters = hasActiveSearch || Boolean(activeTag);
+
+				for (const card of allCards) {
+					card.style.display = 'none';
+				}
+
+				visibleIds.forEach((id, index) => {
+					const card = cardsById.get(id);
+					if (!card) return;
+					card.style.display = '';
+					card.style.order = String(index);
+				});
+
+				// Empty state
+				emptyState.hidden = ids.length > 0;
+				grid.style.display = ids.length > 0 ? '' : 'none';
+
+				// Load more
+				loadMoreBtn.hidden = visibleIds.length >= ids.length;
+
+				// Count label
+				if (hasActiveFilters) {
+					countLabel.textContent = `${ids.length} ${pluralize(ids.length)}`;
+				} else {
+					countLabel.textContent = '';
+				}
+
+				// Clear button
+				searchClear.hidden = !query;
+
+				updateHighlights();
+				writeURL();
+			}
+
+			function pluralize(n: number): string {
+				if (n === 1) return 'článek';
+				if (n >= 2 && n <= 4) return 'články';
+				return 'článků';
+			}
+
+			// ---------- Tag bar ----------
+			function syncTagButtons() {
+				tagBar.querySelectorAll<HTMLButtonElement>('.tag-chip').forEach(btn => {
+					btn.classList.toggle('active', btn.dataset.tag === activeTag);
+				});
+			}
+
+			tagBar.addEventListener('click', (e) => {
+				const btn = (e.target as HTMLElement).closest<HTMLButtonElement>('.tag-chip');
+				if (!btn) return;
+				activeTag = btn.dataset.tag || '';
+				visibleCount = perPage;
+				syncTagButtons();
+				render();
+			});
+
+			grid.addEventListener('click', (e) => {
+				const tagLink = (e.target as HTMLElement).closest<HTMLAnchorElement>('.tag-link');
+				if (!tagLink) return;
+				if (e instanceof MouseEvent && (e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey)) {
+					return;
+				}
+				e.preventDefault();
+				activeTag = tagLink.dataset.tag || '';
+				visibleCount = perPage;
+				syncTagButtons();
+				render();
+			});
+
+			// ---------- Search ----------
+			let debounceTimer: ReturnType<typeof setTimeout>;
+			searchInput.addEventListener('input', () => {
+				clearTimeout(debounceTimer);
+				debounceTimer = setTimeout(() => {
+					query = searchInput.value.trim();
+					visibleCount = perPage;
+					render();
+				}, 200);
+			});
+
+			searchClear.addEventListener('click', () => {
+				searchInput.value = '';
+				query = '';
+				visibleCount = perPage;
+				render();
+				searchInput.focus();
+			});
+
+			resetFiltersBtn.addEventListener('click', () => {
+				searchInput.value = '';
+				query = '';
+				activeTag = '';
+				visibleCount = perPage;
+				syncTagButtons();
+				render();
+				searchInput.focus();
+			});
+
+			// ---------- Load more ----------
+			loadMoreBtn.addEventListener('click', () => {
+				visibleCount += perPage;
+				render();
+			});
+
+			// ---------- Init ----------
+			readURL();
+			render();
+		</script>
 	</body>
 </html>

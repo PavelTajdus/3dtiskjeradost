@@ -18,14 +18,14 @@ První Pokec o 3D tisku v roce 2026 — nový název pro úterní members stream
 
 Ve Washingtonu DC a státě New York navrhli zákon, který by omezil používání 3D tiskáren. Vzniklo to po vraždě pomocí "ghost gun" (neregistrované zbraně) v roce 2024.
 
-### Co zákon navrhuje:
+## Co zákon navrhuje:
 - Výrobci tiskáren musí implementovat **detekci tisku zbraní** (ve firmware nebo sliceru)
 - **Digitální podpis** — nepodepsaný soubor ze sliceru tiskárna nevytiskne
 - Prokurátor vytvoří **databázi zakázaných 3D modelů** zbraní
 - Týká se nejen 3D tiskáren, ale i **CNC a laserů**
 - Porušení: **až 5 let vězení** a pokuta 15 000 dolarů
 
-### Proč je to absurdní:
+## Proč je to absurdní:
 - Jak firmware pozná vázu od hlavně? Nebo propisku od tlumiče?
 - Každý model by musel projít "schvalovacím procesem" — představte si to u desítek tisíc tisků denně
 - Vztahuje se i na CNC a lasery — zakážete vyřezat zbraň z překlížky?
@@ -39,7 +39,7 @@ Za mě je to návrh od lidí, kteří 3D tisku vůbec nerozumí a vezou se na vl
 
 Praktičtější téma — **FYSTEC omezil výrobu SB Combo V2** a další CAN desky pro Vorony. Důvod? Klesající zájem o Voron tiskárny, výrobci se přesouvají k Bambu a Prusa příslušenství.
 
-### Současná situace:
+## Současná situace:
 - FYSTEC — "bude za dva měsíce" (moc tomu nevěřím)
 - BigTreeTech — EBB desky existují, ale ne všechny s STM čipem a USB
 - LDO — Nighthawk, ale zbytečně komplexní a drahý

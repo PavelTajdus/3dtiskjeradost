@@ -56,7 +56,7 @@ Mezitím jsem pustil tisk na Core One — Sub-Zero figurku z modré Fiberlogy AS
 
 Na konci streamu jsme se ponořili do nastavení sliceru pro lepší povrch. Hlavní problém: tiskárna na převisech zpomaluje, což vytváří viditelné přechody (lesklé vs. matné plochy).
 
-### Řešení v PrusaSliceru:
+## Řešení v PrusaSliceru:
 
 1. **Automatická rychlost** — nastavíte maximální objemový průtok (třeba 15 mm³/s) a slicer si sám spočítá optimální rychlost pro každý úsek
 2. **Snížit rychlost vnějšího perimetru** — vnitřek může jet rychle, vnějšek zpomalte pro uniformní povrch

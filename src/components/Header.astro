@@ -13,17 +13,21 @@ const navItems = [
 <header class="site-header">
 	<div class="header-inner">
 		<a href="/" class="site-logo">{SITE_TITLE}</a>
-		<nav class="site-nav">
-			{navItems.map(item => (
-				<a
-					href={item.href}
-					class:list={['nav-link', { active: pathname === item.href || (item.href !== '/' && pathname.startsWith(item.href)) }]}
-				>
-					{item.label}
-				</a>
-			))}
+		<nav class="site-nav" aria-label="Hlavní navigace">
+			{navItems.map(item => {
+				const isActive = pathname === item.href || (item.href !== '/' && pathname.startsWith(item.href));
+				return (
+					<a
+						href={item.href}
+						class:list={['nav-link', { active: isActive }]}
+						aria-current={isActive ? 'page' : undefined}
+					>
+						{item.label}
+					</a>
+				);
+			})}
 		</nav>
-		<button class="menu-toggle" aria-label="Otevřít menu" id="menuOpen">
+		<button class="menu-toggle" aria-label="Otevřít menu" aria-expanded="false" aria-controls="mobileNav" id="menuOpen">
 			<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
 				<path stroke-linecap="round" stroke-linejoin="round" d="M3.75 9h16.5m-16.5 6.75h16.5" />
 			</svg>
@@ -31,15 +35,18 @@ const navItems = [
 	</div>
 </header>
 
-<div class="mobile-nav" id="mobileNav">
+<div class="mobile-nav" id="mobileNav" role="dialog" aria-modal="true" aria-label="Mobilní navigace">
 	<button class="mobile-close" aria-label="Zavřít menu" id="menuClose">
 		<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
 			<path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
 		</svg>
 	</button>
-	{navItems.map(item => (
-		<a href={item.href}>{item.label}</a>
-	))}
+	{navItems.map(item => {
+		const isActive = pathname === item.href || (item.href !== '/' && pathname.startsWith(item.href));
+		return (
+			<a href={item.href} aria-current={isActive ? 'page' : undefined}>{item.label}</a>
+		);
+	})}
 </div>
 
 <script>
@@ -47,20 +54,22 @@ const navItems = [
 	const closeBtn = document.getElementById('menuClose');
 	const mobileNav = document.getElementById('mobileNav');
 
-	openBtn?.addEventListener('click', () => {
-		mobileNav?.classList.add('open');
-		document.body.style.overflow = 'hidden';
-	});
+	function setMenuState(isOpen) {
+		mobileNav?.classList.toggle('open', isOpen);
+		document.body.style.overflow = isOpen ? 'hidden' : '';
+		openBtn?.setAttribute('aria-expanded', String(isOpen));
+	}
 
-	closeBtn?.addEventListener('click', () => {
-		mobileNav?.classList.remove('open');
-		document.body.style.overflow = '';
-	});
+	openBtn?.addEventListener('click', () => setMenuState(true));
+	closeBtn?.addEventListener('click', () => setMenuState(false));
 
 	mobileNav?.querySelectorAll('a').forEach(link => {
-		link.addEventListener('click', () => {
-			mobileNav?.classList.remove('open');
-			document.body.style.overflow = '';
-		});
+		link.addEventListener('click', () => setMenuState(false));
+	});
+
+	document.addEventListener('keydown', (event) => {
+		if (event.key === 'Escape') {
+			setMenuState(false);
+		}
 	});
 </script>

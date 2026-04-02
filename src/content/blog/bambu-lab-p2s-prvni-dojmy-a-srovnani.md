@@ -26,25 +26,25 @@ Nechci křivdit Průšovi — Core One je super tiskárna a stavěl jsem ji minu
 
 Prošel jsem si specifikace a recenzi od CNC Kitchen. Tady jsou hlavní novinky:
 
-### Dotykový displej
+## Dotykový displej
 Kdo zná displej z X1, ví, že je parádní. P2S má stejně kvalitní rozhraní — přehledné, rychlé, moderní.
 
-### AMS2 se sušením
+## AMS2 se sušením
 Dvojkové AMS s aktivním vyhříváním. Já AMS používám hlavně jako zásobník — dojde filament, natáhne se z dalšího. Funguje parádně a sušení je bonus navíc.
 
-### Vylepšený hotend
+## Vylepšený hotend
 High-flow hotend s delší nahřívací zónou než u A1. Nové výměnné trysky jsou zpětně kompatibilní s A1 (ale ne naopak — z A1 nedávat do P2S kvůli jiným výřezům na chlazení).
 
-### Automatická kalibrace průtoku
+## Automatická kalibrace průtoku
 Speciální servomotor na extruderu dokáže měřit 20 000× za vteřinu. Umí automaticky kalibrovat průtok filamentu, detekovat ucpání hotendu i prokousaný filament.
 
-### Full HD kamera
+## Full HD kamera
 Konečně pořádná kamera — ne jeden snímek za 5 vteřin jako dřív. S lepší kamerou přišla i AI detekce problémů (špagetifikace, blob). Citlivost jde nastavit.
 
-### Chytrá ventilace
+## Chytrá ventilace
 Při tisku ABS se uzavře přívod venkovního vzduchu a teplý vzduch cirkuluje přes filtr. Při PLA se naopak tahá studený vzduch zvenku. Komora se bez aktivního vyhřevu dostane na 55 °C.
 
-### Detaily, které potěší
+## Detaily, které potěší
 - **Hladká vnitřní plocha** — žádné hrany, kde se chytá bordel. Prostě setřete a je čisto
 - **Držáky** na přenášení, do kterých je integrovaná ventilace
 - **Bezpečnostní fólie** na předním skle

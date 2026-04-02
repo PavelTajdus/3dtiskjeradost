@@ -18,13 +18,13 @@ Na úterním members streamu jsme probrali několik zajímavých novinek — Pru
 
 Průša představila Open Print Tag— otevřený standard pro NFC tagy na filamentové špulky. Myšlenka je jednoduchá: nalepíte NFC tag na špulku, zapíšete do něj informace o materiálu (typ, teploty, barva, zbývající množství) a tiskárna si to přečte.
 
-### Co je fajn:
+## Co je fajn:
 - **Otevřený formát** — teoreticky ho může adoptovat jakýkoliv výrobce
 - **10 tagů za cca 11 Kč u Průši** — rozumná cena
 - Tiskárna dokáže zapisovat i **zbývající množství filamentu** po každém tisku
 - Dává smysl hlavně pro **refily** — přelepíte tag na novou špulku
 
-### Co mi vadí:
+## Co mi vadí:
 - Žádná tiskárna od Průši to zatím **neumí číst** — tag zapíšeš jen mobilem
 - Tagy jsou **samolepky** — při přelepování se můžou poškodit
 - Otázka, jestli to adoptuje někdo mimo Prusa ekosystém

@@ -29,7 +29,9 @@ Kompletní rozpočet:
 | Kit z AliExpressu (motory, ložiska, hřídele) | ~10 000 Kč |
 | STL soubory (tiskové data) | 1 282 Kč |
 | Proclení + DHL | 1 614 Kč |
-| **Celkem** | **12 772 Kč** |
+| **Celkem** | **
+
+12 772 Kč** |
 
 Překvapilo mě, že STL soubory se kupují zvlášť — čekal jsem, že budou součástí kitu. A clo bylo výrazně vyšší, než jsem čekal (1 130 Kč) — protože jsem DHL napsal, že je to "robotická ruka" místo "krokové motory". Poučení pro příště.
 

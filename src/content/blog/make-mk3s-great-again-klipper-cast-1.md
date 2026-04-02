@@ -45,13 +45,13 @@ Všechny plastové díly jsem nechal vytisknout z ABS od Fiberlogy:
 
 Stream začal klasicky — ležel jsem pod stolem a hledal kabely. Pak jsme se pustili do MK3S:
 
-### Kabeláž
+## Kabeláž
 Kabely vedly všude možně — některé natavené, jiné podivně otočené. Chyběly dutinky na koncích, takže to chce přepájet. Bohužel pájku jsem neměl po ruce, takže kabeláž dokončíme příště.
 
-### Hotend
+## Hotend
 Originální hotend v dost zuboženém stavu. V plánu je Dragon hotend — výkonnější a lépe se s ním pracuje.
 
-### Elektronika
+## Elektronika
 Stará Einsy deska — tu vyhodíme a nahradíme něčím modernějším pro Klipper. Raspberry Pi zajistí konektivitu a moderní rozhraní přes Fluidd nebo Mainsail.
 
 ---

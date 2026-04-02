@@ -30,16 +30,16 @@ Kdo to vyhrál, dostal v podstatě plně automatizovanou klíčenkovou (nebo jak
 
 Na streamu se registrovalo přes 200 lidí a rozdali jsme 15 cen od sponzorů:
 
-### 3D Sphynx
+## 3D Sphynx
 3× kilové špulky filamentu (ASA, PCTG) — díky Lukášovi za podporu.
 
-### Abaflex
+## Abaflex
 5× poukaz na 500 Kč na nákup filamentu — česká výroba, kvalitní flexibilní materiály.
 
-### Printerhive
+## Printerhive
 Beta přístup k novým funkcím (správce filamentů, automatická fronta) + plné členství.
 
-### Hotend.cz
+## Hotend.cz
 Kupóny na nákup za 1 000 Kč — losované průběžně za donejty (příspěvky na streamu).
 
 ---

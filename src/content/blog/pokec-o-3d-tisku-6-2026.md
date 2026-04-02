@@ -24,13 +24,13 @@ Můj nápad: tisknout klíčenky na 3D tiskárně a pak do nich **laserem vypál
 
 Dostal jsem menší i větší verzi. Obě překvapily výkonem — i ten malý prcek páli a řeže papír, překližku i tenčí materiály. Větší verze je samozřejmě schopnější.
 
-### Co je v balení:
+## Co je v balení:
 - Laserová jednotka s výkonným zdrojem
 - Ochranné brýle (fungují i přes dioptrické)
 - Magnetická podložka
 - Základní nářadí a USB kabel
 
-### První dojmy:
+## První dojmy:
 - **Řeže překvapivě dobře** — i na nižším výkonu
 - **Software** chce zvyknout — nastavení rychlosti a výkonu je klíčové
 - **Pozor na materiál** — různé profily pro různé tiskárny/lasery mění výsledek dramaticky

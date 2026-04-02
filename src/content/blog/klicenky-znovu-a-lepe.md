@@ -22,7 +22,7 @@ Na prvním klíčenkovém streamu jsme zvládli jednoduchou dvoubarevnou klíče
 
 ## Postup: od grafiky po hotovou klíčenku
 
-### 1. Návrh v Affinity Designeru
+## 1. Návrh v Affinity Designeru
 
 Začínám v grafickém programu, ne přímo v CADu. Proč?
 
@@ -32,7 +32,7 @@ Začínám v grafickém programu, ne přímo v CADu. Proč?
 
 Klíčenka má 70 × cca 15 mm. Text "htnd.cz" v černé, tečka červeně, pozadí bílé, základ černý. Čtyři barvy = čtyři výměny filamentu na vrstvu.
 
-### 2. Modelování v Onshape
+## 2. Modelování v Onshape
 
 Import DXF do sketche → extrude:
 
@@ -44,7 +44,7 @@ Klíčenka je oboustranná — ať ji otočíte jakkoliv, vždy je vidět logo. 
 
 Tip: **Transform** v Onshape funguje na rotate + translate. Nejdřív otočíte o 180°, pak posunete o tloušťku klíčenky.
 
-### 3. Export po vrstvách
+## 3. Export po vrstvách
 
 Každou barvu exportujete jako samostatné STL:
 - Tělo klíčenky (černá)
@@ -54,7 +54,7 @@ Každou barvu exportujete jako samostatné STL:
 
 Spodek a vrch zvlášť — celkem 8 STL souborů. V OrcaSliceru je nastavíte jako objekty s přiřazenými barvami.
 
-### 4. Tisk na A1 mini se swap modem
+## 4. Tisk na A1 mini se swap modem
 
 Tady se to teprve rozjede. A1 mini se swap modem umí:
 - Automaticky vyměnit tiskový plát po dokončení tisku

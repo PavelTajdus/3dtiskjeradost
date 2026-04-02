@@ -16,10 +16,10 @@ draft: false
 
 ## Co jsme stavěli
 
-### Planetové převody
+## Planetové převody
 Další sada ozubených kol a spojek. Každý převod má svou sadu dílů — velká kola, malá kola, hřídele. Vše se musí přesně poskládat a zajistit. Tight fity do ABS dílů občas vyžadují trochu síly.
 
-### Poslední segmenty ramena
+## Poslední segmenty ramena
 Ruka už má skoro kompletní mechaniku. Zbývají dva segmenty a pak zápěstí s gripperem. Celkový dosah bude 60 cm.
 
 ---

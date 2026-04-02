@@ -18,7 +18,7 @@ Druhý díl předělávky Prusa MK3S na Klipper. Minule jsme tiskárnu rozebrali
 
 Minule jsme skončili u kabeláže — chyběla pájka a kleště na dutinky. Dneska jsem si je donesl (skoro jsem je zapomněl na firmě, klasika) a pustil se do toho.
 
-### Co bylo potřeba:
+## Co bylo potřeba:
 - Zapojit napájení zdroje do desky
 - Očistit konce kabelů a nasadit dutinky
 - Připojit vyhřívaný bed

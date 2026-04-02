@@ -18,7 +18,7 @@ Dnešní stream měl jasný úkol od Kuby: vyzkoušet novou funkci [Printerhive]
 
 Nová funkce v Printerhive — **správa skladu filamentů**. Přidáváte si špulky, zadáváte gramáž, cenu, barvu a máte přehled o tom, co máte a kolik toho zbývá.
 
-### Jak to funguje:
+## Jak to funguje:
 1. **Přidat roli** — vyberte výrobce, materiál, barvu (nebo vytvořte vlastní)
 2. **Zadat gramáž** — kolik máte na špulce (zvažte a odečtěte váhu prázdné cívky)
 3. **Nastavit cenu** — za celou roli
@@ -35,18 +35,18 @@ Na streamu jsem přidával Devil Design ABS Plus, Fiberlogy ASA a 3D Sfinx PCTG 
 
 Creality chystá domácí výrobnu filamentu — drtič + extruder v jednom. Zatím je to na Kickstarteru, cena neznámá (sbírají zpětnou vazbu).
 
-### Moje pochybnosti:
+## Moje pochybnosti:
 - **Průměr filamentu** — nevěřím, že navíjecí systém s háčky udrží konstantní 1.75 ± 0.05 mm
 - **Rychlost** — uváděli 1 kg za hodinu, ale realita bude pravděpodobně jiná
 - **Kvalita z hovínek** — mix barev, kontaminace, degradovaný materiál = problematický filament
 - **Cena** — i kdyby to stálo 20K, dává to smysl jen při obrovské spotřebě
 
-### Kdy to dává smysl:
+## Kdy to dává smysl:
 - Máte vlastní **čistý granulát** a chcete experimentovat se směsmi
 - Jste **laboratoř/škola** a potřebujete specifické materiály
 - Tisknete **masivně jednobarevně** a máte tuny odpadu
 
-### Kdy to nedává smysl:
+## Kdy to nedává smysl:
 - Pro běžného tiskaře — těch hovínek nasbíráte pár stovek gramů za měsíc
 - Recyklovaný filament je **dražší a horší** než kupovaný z granulátu
 - Čistý granulát za pár korun + profesionální linka dá lepší výsledek

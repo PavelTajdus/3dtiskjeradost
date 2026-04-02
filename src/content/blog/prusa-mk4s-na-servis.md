@@ -45,13 +45,13 @@ Nakonec se ukázalo, že problém byl v špatně zasunutém konektoru filament s
 
 MK4S má oproti MK3S pár novinek v kalibraci:
 
-### Load cell
+## Load cell
 Snímač síly na hotendu — citlivý na dotek, funguje výborně. Stačí se lehce dotknout trysky a čísla skáčou. Slouží pro přesné měření Z-offsetu a automatické levelování.
 
-### Zarovnání převodovky
+## Zarovnání převodovky
 Nový krok v kalibraci — Nextruder má převodovku, která se musí správně zarovnat. Povolíte šrouby o 1,5 otáčky, necháte proběhnout automatickou kalibraci a zase dotáhnete. Není to složité, ale kdo to přeskočí, může mít problémy s extrudérem.
 
-### Self test
+## Self test
 Projel bez problémů — motory, ventilátory, vyhřívání, bed leveling. Tiskárna je mechanicky v pořádku.
 
 ---

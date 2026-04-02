@@ -16,10 +16,10 @@ Dnešní members stream jsem se pokusil stlačit do jedné hodiny — a povedlo 
 
 ## Black Friday v 3D tisku
 
-### Průša
+## Průša
 Slevy nejsou nijak závratné — u menších tiskáren prakticky nic, u pětihlavého XL je sleva citelnější. K některým balíčkům přihazují filament a kameru, ale ta kamera už je standardně v balení. Takové marketingové divadlo.
 
-### Bambu Lab a ostatní
+## Bambu Lab a ostatní
 Anycubic, Elegoo a další mají výrazně agresivnější slevy. Bambu standardně nemusí moc slevovat, protože ceny mají nastavené tak, že už jsou konkurenceschopné bez slev.
 
 ---

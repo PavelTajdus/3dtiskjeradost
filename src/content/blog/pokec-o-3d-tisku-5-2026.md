@@ -18,7 +18,7 @@ Dnešní Pokec byl mix novinek a filozofování. Pokochali jsme se Bambu Lab ret
 
 Bambu Lab otevřelo svůj první retail store — 244 m². Vystavené tiskárny, filamenty barevně seřazené podle odstínů, vytištěné modely a dokonce i kavárna s 3D tištěnými lžičkami.
 
-### Co mě zaujalo:
+## Co mě zaujalo:
 - **Herna** — přijdete, vytisknete si něco, děti si hrají
 - **Prodej vytištěných věcí** — kabelky, hračky, dekorace
 - **Cyberbreak stavebnice** — jejich vlastní produkt

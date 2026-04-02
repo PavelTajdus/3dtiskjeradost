@@ -1,5 +1,15 @@
 ---
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import {
+	AUTHOR_NAME,
+	AUTHOR_URL,
+	AUTHOR_X_HANDLE,
+	DEFAULT_OG_IMAGE,
+	SITE_DESCRIPTION,
+	SITE_TITLE,
+	SITE_URL,
+	SOCIAL_LINKS,
+} from '../consts';
+import { absoluteUrl, createMetaDescription } from '../utils/seo';
 import '../styles/global.css';
 
 interface Props {
@@ -9,94 +19,153 @@ interface Props {
 	type?: 'website' | 'article';
 	publishedDate?: Date;
 	modifiedDate?: Date;
+	tags?: string[];
+	structuredData?: Record<string, unknown> | Array<Record<string, unknown>>;
 }
 
-const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? SITE_URL);
 const {
 	title,
 	description = SITE_DESCRIPTION,
-	image = '/og-default.jpg',
+	image = DEFAULT_OG_IMAGE,
 	type = 'website',
 	publishedDate,
 	modifiedDate,
+	tags = [],
+	structuredData,
 } = Astro.props;
 
 const metaTitle = title.includes(SITE_TITLE) ? title : `${title} — ${SITE_TITLE}`;
-const ogImageURL = image.startsWith('http') ? image : new URL(image, Astro.site).toString();
+const metaDescription = createMetaDescription(description);
+const ogImageURL = absoluteUrl(image);
+const keywords = tags.length > 0 ? tags.join(', ') : undefined;
+const pageType = Astro.url.pathname === '/blog/' ? 'CollectionPage' : 'WebPage';
 
-const jsonLd = type === 'article'
+const organizationSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'Organization',
+	name: SITE_TITLE,
+	url: SITE_URL,
+	logo: absoluteUrl('/favicon.svg'),
+	sameAs: SOCIAL_LINKS,
+	founder: {
+		'@type': 'Person',
+		name: AUTHOR_NAME,
+		url: AUTHOR_URL,
+	},
+};
+
+const websiteSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'WebSite',
+	name: SITE_TITLE,
+	description: SITE_DESCRIPTION,
+	url: SITE_URL,
+	inLanguage: 'cs-CZ',
+	publisher: {
+		'@type': 'Organization',
+		name: SITE_TITLE,
+		url: SITE_URL,
+	},
+	potentialAction: {
+		'@type': 'SearchAction',
+		target: `${SITE_URL}/blog/?q={search_term_string}`,
+		'query-input': 'required name=search_term_string',
+	},
+};
+
+const pageSchema = type === 'article'
 	? {
 		'@context': 'https://schema.org',
 		'@type': 'Article',
 		headline: title,
-		description,
-		image: ogImageURL,
+		description: metaDescription,
+		image: [ogImageURL],
 		url: canonicalURL.toString(),
+		mainEntityOfPage: canonicalURL.toString(),
 		datePublished: publishedDate?.toISOString(),
 		dateModified: modifiedDate?.toISOString() || publishedDate?.toISOString(),
+		inLanguage: 'cs-CZ',
+		keywords,
+		articleSection: tags[0],
 		author: {
 			'@type': 'Person',
-			name: 'Pavel Tajduš',
-			url: 'https://3dtiskjeradost.cz/o-mne/',
+			name: AUTHOR_NAME,
+			url: AUTHOR_URL,
 		},
 		publisher: {
 			'@type': 'Organization',
 			name: SITE_TITLE,
-			url: 'https://3dtiskjeradost.cz',
+			url: SITE_URL,
+			logo: {
+				'@type': 'ImageObject',
+				url: absoluteUrl('/favicon.svg'),
+			},
 		},
 	}
 	: {
 		'@context': 'https://schema.org',
-		'@type': 'WebSite',
-		name: SITE_TITLE,
-		description,
-		url: 'https://3dtiskjeradost.cz',
-		author: {
-			'@type': 'Person',
-			name: 'Pavel Tajduš',
+		'@type': pageType,
+		name: metaTitle,
+		description: metaDescription,
+		url: canonicalURL.toString(),
+		inLanguage: 'cs-CZ',
+		isPartOf: {
+			'@type': 'WebSite',
+			name: SITE_TITLE,
+			url: SITE_URL,
 		},
 	};
+
+const extraStructuredData = Array.isArray(structuredData)
+	? structuredData
+	: structuredData
+		? [structuredData]
+		: [];
+
+const jsonLd = [organizationSchema, websiteSchema, pageSchema, ...extraStructuredData];
 ---
 
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="generator" content={Astro.generator} />
+<meta name="robots" content="index, follow, max-image-preview:large" />
+<meta name="theme-color" content="#215DEE" />
+<meta name="author" content={AUTHOR_NAME} />
+{keywords && <meta name="keywords" content={keywords} />}
+
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 <link rel="icon" href="/favicon.ico" />
 <link rel="sitemap" href="/sitemap-index.xml" />
-<link rel="alternate" type="application/rss+xml" title={metaTitle} href={new URL('rss.xml', Astro.site)} />
-<meta name="generator" content={Astro.generator} />
-<meta name="robots" content="index, follow" />
-<meta name="theme-color" content="#215DEE" />
-
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Inter:ital,opsz,wght@0,14..32,400..600;1,14..32,400..600&display=swap" rel="stylesheet" />
-
 <link rel="canonical" href={canonicalURL} />
+<link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href={new URL('rss.xml', Astro.site ?? SITE_URL)} />
+<link rel="preload" href="/fonts/atkinson-regular.woff" as="font" type="font/woff" crossorigin />
+<link rel="preload" href="/fonts/atkinson-bold.woff" as="font" type="font/woff" crossorigin />
 
 <title>{metaTitle}</title>
 <meta name="title" content={metaTitle} />
-<meta name="description" content={description} />
-<meta name="author" content="Pavel Tajduš" />
+<meta name="description" content={metaDescription} />
 
 <meta property="og:type" content={type === 'article' ? 'article' : 'website'} />
 <meta property="og:url" content={canonicalURL} />
 <meta property="og:title" content={metaTitle} />
-<meta property="og:description" content={description} />
+<meta property="og:description" content={metaDescription} />
 <meta property="og:image" content={ogImageURL} />
 <meta property="og:image:alt" content={title} />
 <meta property="og:site_name" content={SITE_TITLE} />
 <meta property="og:locale" content="cs_CZ" />
 {publishedDate && <meta property="article:published_time" content={publishedDate.toISOString()} />}
-{modifiedDate && <meta property="article:modified_time" content={modifiedDate.toISOString()} />}
+{(modifiedDate || publishedDate) && <meta property="article:modified_time" content={(modifiedDate ?? publishedDate)?.toISOString()} />}
+{tags[0] && <meta property="article:section" content={tags[0]} />}
+{tags.map((tag) => <meta property="article:tag" content={tag} />)}
 
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content={canonicalURL} />
-<meta property="twitter:title" content={metaTitle} />
-<meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={ogImageURL} />
-<meta property="twitter:image:alt" content={title} />
-<meta property="twitter:site" content="@PavelTajdus" />
-<meta property="twitter:creator" content="@PavelTajdus" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content={canonicalURL} />
+<meta name="twitter:title" content={metaTitle} />
+<meta name="twitter:description" content={metaDescription} />
+<meta name="twitter:image" content={ogImageURL} />
+<meta name="twitter:image:alt" content={title} />
+<meta name="twitter:site" content={AUTHOR_X_HANDLE} />
+<meta name="twitter:creator" content={AUTHOR_X_HANDLE} />
 
 <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />

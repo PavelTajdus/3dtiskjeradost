@@ -35,10 +35,10 @@ Výsledek? Mimozemská jahoda s neštovicemi. Ne úplně podle originálu, ale n
 
 ## Vortek v praxi: jak to vypadá
 
-### Před tiskem
+## Před tiskem
 Tiskárna si nejdřív **přečte všechny hotendy v racku** — potřebuje vědět, jaké trysky má k dispozici. LED na pozicích svítí, kamera v toolheadu skenuje. Trvá to pár desítek sekund.
 
-### Výměna hotendu
+## Výměna hotendu
 Při změně barvy/materiálu:
 1. Tiskárna odjede stranou
 2. Hotend vyjede nahoru, zaparkuje do racku
@@ -50,7 +50,7 @@ Při změně barvy/materiálu:
 
 V reálu to celé trvá kolem **47 sekund** od tisku po tisk. Není to okamžité, ale je to plynulé a spolehlivé. Na 2,5 hodinovém tisku jahody proběhly desítky výměn bez jediného problému.
 
-### Co se mi líbí
+## Co se mi líbí
 - **LED feedback** — pozice hotendů svítí, víte co je kde
 - **Automatická kontrola** — tiskárna ověřuje, jaké trysky máte
 - Tisk z **různých velikostí trysek** v jednom tisku (0.2 detaily + 0.6 infill) teprve plánují

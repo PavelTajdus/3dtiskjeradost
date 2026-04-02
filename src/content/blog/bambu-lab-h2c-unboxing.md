@@ -18,7 +18,7 @@ Nový rok, nová tiskárna. Na prvním members streamu roku 2026 jsem rozbalil B
 
 Krabice je **obří** — tahal jsem to sám, i když návod říká ve dvou. 32 kg se proneslo. Na přepravu se hodí UPS (do 70 kg), klasické služby to kvůli rozměrům neberou.
 
-### V balení:
+## V balení:
 - Tiskárna H2C
 - **5 hotendů** (0.2, 0.4×3, 0.6) — každý s vlastní deskou a magnetem
 - AMS s PTFE trubkami

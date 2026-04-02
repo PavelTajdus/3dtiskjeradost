@@ -16,30 +16,30 @@ Vyšlo Bambu Studio 2.5 a rovnou i hotfix. Na members streamu jsme si prošli hl
 
 ## Zajímavé novinky v Bambu Studio 2.5
 
-### Ironing na support interface
+## Ironing na support interface
 Pro mě nejzajímavější novinka. Slicer teď umí **vyžehlit povrch supportu** — tam, kde se podpěra dotýká tisku. Výsledek: hladší povrch po odstranění supportů. Přidává to čas, ale u viditelných ploch to dává smysl.
 
-### Nové infill patterny
+## Nové infill patterny
 - **2D Lattice** — mřížka připomínající kostičky. Zajímavé vizuálně, časově srovnatelné s gridem
 - **3D Honeycomb** — trojrozměrná voštinová struktura
 - Obojí se dá použít i jako viditelný infill (bez stěn) pro dekorativní efekty
 
-### Povrchové efekty na horní/dolní vrstvě
+## Povrchové efekty na horní/dolní vrstvě
 Nové vizuální styly pro povrchy — kruhy, vzory, efekty. Ne 100% infill, ale záměrně různé patterny. Trochu zpomalí tisk, ale výsledek může vypadat zajímavě. Hlavně kruhový pattern dává smysl na některých objektech.
 
-### Vzdálené sušení AMS
+## Vzdálené sušení AMS
 Konečně můžete spustit sušení AMS2 Pro přímo z Bambu Studia. V [Printerhive](https://printerhive.com/cs) tohle umíme už déle, ale je dobré, že to má i oficiální software.
 
-### Mesh Subdivision
+## Mesh Subdivision
 Možnost zvýšit detail importovaného modelu — slicer dopočítá a vyhladí povrch. Užitečné pro naskenované modely s hrubou geometrií.
 
-### Scale to Print
+## Scale to Print
 Automatické zvětšení dílu na maximální velikost tiskové plochy. Funkce, kterou využijete jednou za život, ale když ji potřebujete, je fajn ji mít.
 
-### Abort load/unload
+## Abort load/unload
 Konečně lze přerušit zavádění nebo vytahování filamentu přímo ze studia. Praktická drobnost.
 
-### 3MF Color Pairing
+## 3MF Color Pairing
 Import 3MF souborů i s barevnými informacemi — z Fusion 360, Mesh Mixeru nebo OpenSCADu.
 
 ---
