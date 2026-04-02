@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
+import Newsletter from '../components/Newsletter.astro';
 import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
 import { getPostImage } from '../utils/getPostImage';
@@ -58,6 +59,7 @@ const posts = beginnerSlugs
 				</div>
 			</section>
 		</main>
+		<Newsletter />
 		<Footer />
 
 		<style>
