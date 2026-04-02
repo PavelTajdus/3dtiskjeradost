@@ -3,7 +3,7 @@ title: "Co je 3D tisk: kompletní průvodce pro začátečníky (2026)"
 pubDate: "2023-08-28T07:10:44.000Z"
 updatedDate: "2026-04-01T12:00:00.000Z"
 description: "Kompletní průvodce 3D tiskem pro začátečníky. Technologie FDM a SLA, materiály (PLA, PETG, ABS), slicery, náklady a bezpečnost. Vše co potřebujete vědět, než začnete tisknout."
-heroImage: "https://3dtiskjeradost.cz/content/images/2025/04/Firefly-vygeneruj-mi-obra-zek-pro-c-la-nek--Kompletni--pru-vodce-3D-tiskem-pro-zac-a-tec-ni-ky_Obra-zek-by-me-l.jpg"
+heroImage: "/images/blog/pruvodce-3d-tiskem-mapa.jpg"
 tags: ["Základy 3D tisku"]
 ---
 
