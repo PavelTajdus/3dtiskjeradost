@@ -1,7 +1,7 @@
 ---
 title: "Artillery M1 Pro: unboxing"
 pubDate: "2025-09-04T15:38:38.000Z"
-updatedDate: "2025-09-04T15:39:29.000Z"
+updatedDate: "2026-04-01T12:00:00.000Z"
 description: "Tento článek není recenze. Je to shrnutí prvních dojmů z rozbalení, sestavení a oživení Artillery M1 Pro. Pokud chcete vědět, jak to vypadá, když tiskárna dorazí z obchodu až po první tisk, jste ta..."
 heroImage: "https://3dtiskjeradost.cz/content/images/2025/09/artillery_m1_pro_3dtiskjeradost--2-.png"
 tags: ["Artillery", "Youtube streamy"]
@@ -43,11 +43,15 @@ Tisk samotný vypadal dobře, ale kvůli silně ohnutému bowdenu to měl extrud
 
 Teď k realitě:
 
-**Musíte** používat **Artillery Studio** (převlečený OrcaSlicer). Teda pokud nechcete být otrokem SD karty. Posílání tisku po síti jde pouze přes něj.
+**Musíte** používat **
+
+Artillery Studio** (převlečený OrcaSlicer). Teda pokud nechcete být otrokem SD karty. Posílání tisku po síti jde pouze přes něj.
 
 Chcete mít víc možností a ovládat tiskárnu vzdáleně i spravovat více strojů?
 
-> Na [**Printerhive.com**](https://app.printerhive.com/) můžete připojit M1 Pro, odesílat tiskové úlohy online, mít monitoring a vzdálený přístup. Celý proces je jednodušší, hlavně když doma máte víc tiskáren, nebo když chcete řešit věci na dálku.
+> Na [**
+
+Printerhive**](https://printerhive.com/cs) můžete připojit M1 Pro, odesílat tiskové úlohy online, mít monitoring a vzdálený přístup. Celý proces je jednodušší, hlavně když doma máte víc tiskáren, nebo když chcete řešit věci na dálku.
 
 Pokud jedete na vlastním sliceru (Orca, PrusaSlicer), připravte se, že alespoň jednou rukou budete pořád obsluhovat SD kartu.
 
@@ -70,7 +74,7 @@ Přímo ve streamu padlo několik konkrétních tipů pro pokročilé. **Připoj
 - Sestavení rychlé, žádné zádrhele.
 - Tisk ABS a dalších náročnějších materiálů není problém – **aktivně** vyhřívaná komora je reálná výhoda.
 - Pokud chcete pohodlí přes síť, Artillery Studio je nutností.
-- Chcete víc? Použijte Printerhive.com – přehled, pohodlí, dálková správa.
+- Chcete víc? Použijte Printerhive – přehled, pohodlí, dálková správa.
 - Fluidd po restartu mizí, zatím bez stabilního workaroundu.
 - SSH pro zkušené zůstává možností.
 
@@ -97,3 +101,7 @@ V podstatě vše – úprava souborů, zálohy, konfigurace, obnova po update. N
 Na konci streamu jsem se to snažil trochu zhodnotit. Zkusím to i tady.
 
 Myslím že za ty peníze (mrkněte na cenu přímo na stránkách výrobce) to není špatná koupě. Má to svoje mouchy, ale ve věcech spíše mimo samotný tisk. Ten probíhal bez celkem bez problémů. Na nějaké větší hodnocení je ještě brzy. Uvidíme jak budu mít za sebou pár tisků.
+
+---
+
+> **Aktualizace 2026:** Artillery M1 Pro je hardwarově v pořádku, ale výrobce uzavřel ekosystém natolik, že bez jejich vlastního sliceru (Artillery Studio) prakticky nejde tisknout po síti. Poslední verze jejich sliceru mi navíc nefunguje, takže na tiskárně aktuálně netisknu. Hardware dobrý, software katastrofa.
