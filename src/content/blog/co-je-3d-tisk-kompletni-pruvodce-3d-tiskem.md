@@ -1,8 +1,8 @@
 ---
-title: "Kompletní Průvodce 3D tiskem pro začátečníky"
+title: "Co je 3D tisk: kompletní průvodce pro začátečníky (2026)"
 pubDate: "2023-08-28T07:10:44.000Z"
 updatedDate: "2026-04-01T12:00:00.000Z"
-description: "Často se setkáváte s pojmem 3D tisk, ale co to vlastně znamená pro běžného domácího uživatele? Víte, že díky 3D tisku můžete vytvořit vše od vlastních hraček, náhradních dílů až po umělecká díla? P..."
+description: "Kompletní průvodce 3D tiskem pro začátečníky. Technologie FDM a SLA, materiály (PLA, PETG, ABS), slicery, náklady a bezpečnost. Vše co potřebujete vědět, než začnete tisknout."
 heroImage: "https://3dtiskjeradost.cz/content/images/2025/04/Firefly-vygeneruj-mi-obra-zek-pro-c-la-nek--Kompletni--pru-vodce-3D-tiskem-pro-zac-a-tec-ni-ky_Obra-zek-by-me-l.jpg"
 tags: ["Základy 3D tisku"]
 ---
@@ -76,12 +76,12 @@ MSLA je varianta SLA technologie, která používá LED světla společně s LCD
 
 Není to jen o 3D tiskárně. Materiál, který zvolíte, je klíčovým faktorem úspěchu vašeho 3D tisku. Každý materiál má své vlastní unikátní vlastnosti, výhody a nevýhody, a je ideální pro různé typy projektů. Pojďme si představit několik základních materiálů pro 3D tisk.
 
-## Materiály pro FDM 3D tiskárny
+### Materiály pro FDM 3D tiskárny
 
-## PLA (Kyselina polymléčná)
+### PLA (Kyselina polymléčná)
 
 
-## Co je PLA?
+### Co je PLA?
 
 PLA je biodegradabilní materiál vytvořený z rostlinných surovin (vyráběný z kukuřičného nebo bramborového škrobu či z cukrové třtiny). Je jedním z nejběžnějších materiálů v 3D tisku.
 
@@ -105,10 +105,10 @@ Filament PLA stále zůstává jedničkou pro začátečníky. Snadno se tiskne 
 
 PLA je ideální pro tisk dekorativních předmětů (jako jsou květinové vázy), různé figurky nebo vybavení do domácnosti (věšáky, držáky atd.).
 
-## PET-G (polyethylentereftalát glykol)
+### PET-G (polyethylentereftalát glykol)
 
 
-## Co je PETG?
+### Co je PETG?
 
 PET-G je vylepšená varianta PET (znáte například z plastových PET lahví), která je odolnější a snadněji zpracovatelná a to díky přidání Glykolu (To je to písmeno G na konci).
 
@@ -129,10 +129,10 @@ PET-G je vylepšená varianta PET (znáte například z plastových PET lahví),
 
 PETG je skvělý pro tisk náhradních dílů nebo outdoorového vybavení. Například plastové díly tiskáren Průša jsou tištěné z PET-G.
 
-## ABS (Akrylonitril butadien styren)
+### ABS (Akrylonitril butadien styren)
 
 
-## Co je ABS?
+### Co je ABS?
 
 ABS je jedním z nejoblíbenějších a nejvíce používaných termoplastů na světě. Je známý svou vysokou odolností, pevností a schopností snášet vysoké teploty. Je to ideální materiál pro vytváření trvanlivých dílů a je také možné jej po tisku dále upravovat, například **broušením, vrtáním nebo lakováním**.
 
@@ -157,7 +157,7 @@ ABS je často používán pro tisk funkčních prototypů nebo konstrukčních d
 ## ASA (Akrylonitril-styren-akrylát)
 
 
-## Co je ASA?
+### Co je ASA?
 
 ASA je modifikovaná forma ABS, která je vysoce odolná vůči UV záření a povětrnostním podmínkám. Je to ideální materiál pro venkovní použití, kde je odolnost proti slunci a vodě klíčová. ASA je v poslední době velmi oblíbený materiál.
 
@@ -178,10 +178,10 @@ ASA je modifikovaná forma ABS, která je vysoce odolná vůči UV záření a p
 
 Materiál ASA je ideální pro tisk venkovních dílů nebo jakýchkoliv předmětů, které budou vystaveny slunci. Oblíbený materiál, ze kterého se tisknou díly pro stavebnice 3D tiskáren Voron.
 
-## TPU (Termoplastický polyuretan)
+### TPU (Termoplastický polyuretan)
 
 
-## Co je TPU?
+### Co je TPU?
 
 TPU je elastický materiál, který má schopnost vrátit se do své původní formy po deformaci. Na rozdíl od tvrdých plastů, jako jsou PLA nebo ABS, TPU je flexibilní a může se používat v široké škále aplikací, kde je flexibilita klíčová. Tento materiál se vyznačuje svou odolností proti opotřebení, olejům a tukům.
 
@@ -246,7 +246,7 @@ Jak jsem zmínil výše, SLA (Stereolitografie) je forma 3D tisku, která funguj
 
 Různé typy resinů nabízejí různé možnosti a omezení. Je tedy důležité pečlivě zvážit, který materiál nejlépe odpovídá potřebám vašeho projektu.
 
-## Software
+### Software
 
 3D tisk se neskládá pouze z materiálů a tiskáren. Dalším nepostradatelným prvkem je software, který slouží jako most mezi vaším digitálním designem a vytištěným fyzickým objektem. Podíváme se na základní software, bez kterého se neobejdete.
 
@@ -254,11 +254,11 @@ Nyní přeskočím software pro modelování ve 3D, protože **pro samotný tisk
 
 Software, bez kterého se ale neobejdete, je Slicer.
 
-## Slicer
+### Slicer
 
 Slicing software vezme váš 3D model a "rozřeže" ho na tenké vrstvy. Vezme v potaz specifika vaší tiskárny, doplní o různá nastavení tisku, jako je rychlost, výška vrstvy, počet perimetru a další a další parametry, a nakonec vám připraví soubor (gcode) kterému bude vaše 3D tiskárna rozumět a podle kterého bude tisknout.
 
-## Nejlepší slicing software pro 3D tisk
+### Nejlepší slicing software pro 3D tisk
 
 Představím vám několik slicing programů, které vám pomohou "nařezat" vaše modely pro tisk. Každý z nich má své silné a slabé stránky, takže si vyberete podle toho, co vám nejlépe sedí a vyhovuje. Samozřejmě slicovacích programů existuje celá řada, ale zde si představíme ty absolutně nejpoužívanější.
 
@@ -304,7 +304,7 @@ OrcaSlicer**](https://3dtiskjeradost.cz/orcaslicer-alternativa-k-prusaslicer-ci-
 - **Slic3r**: Opensource nástroj, který byl jedním z prvních ve svém oboru. Nyní už je trochu zastaralý, ale má stále silnou komunitní podporu a je vhodný pro ty, kteří si chtějí software upravit podle svých potřeb.
 - **MatterControl**: All-in-one 3D tiskový software, který kromě slicingu nabízí i možnost designu. Jeho uživatelské rozhraní je snadné na pochopení, a software je vhodný pro začátečníky i pokročilé. U nás není tolik známý, používá se hlavně v USA.
 
-## Slicery pro SLA tisk
+### Slicery pro SLA tisk
 
 - **ChiTuBox**: Jedná se o jednu z nejoblíbenějších možností pro SLA tisk. Umožňuje detailní nastavení a má user-friendly rozhraní.
 - **Lychee Slicer**: Lychee Slicer je zaměřen na jednoduchost a efektivitu. Je známý svou intuitivností a rychlým nastavením.
@@ -314,7 +314,7 @@ OrcaSlicer**](https://3dtiskjeradost.cz/orcaslicer-alternativa-k-prusaslicer-ci-
 - **PreForm**: Tento software je vyvinut firmou Formlabs a je optimalizován pro jejich tiskárny. Nabízí vysokou úroveň kontroly a precizní nastavení.
 - **Asura**: Asura je slicer vytvořený firmou Peopoly (a vychází z Ultimaker Cura). Je designován pro tiskárny této značky, ale je kompatibilní i s jinými.
 
-## Software pro modelování
+### Software pro modelování
 
 Pokud máte ambice si vytvářet vlastní modely pro 3D tisk, můžete využít některý z níže uvedených programů. Software pro modelování ve 3D existuje opravdu široká škála. Zde si představíme ty nejznámější.
 - **Autodesk Fusion 360**: Jedná se o komplexní nástroj pro 3D modelování, který je oblíbený jak mezi profesionály, tak hobbyisty. Umožňuje nejen modelování, ale také simulace a analýzy.
@@ -518,7 +518,7 @@ Výpočet pak bude vypadat nějak takto:
 
 0,12 x 730 x 6 = **525,6 Kč ročně**
 
-## Software
+### Software
 
 Slicovací software je ve většině případů zdarma, poplatky se tak objevují až u programů pro modelování.
 

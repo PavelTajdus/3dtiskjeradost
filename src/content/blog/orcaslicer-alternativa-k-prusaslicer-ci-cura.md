@@ -1,5 +1,5 @@
 ---
-title: "OrcaSlicer — můj hlavní slicer pro 3D tisk"
+title: "OrcaSlicer: nejlepší slicer pro 3D tisk v roce 2026"
 pubDate: "2023-09-06T11:36:24.000Z"
 updatedDate: "2026-04-01T12:00:00.000Z"
 description: "OrcaSlicer je open-source slicer pro FDM tiskárny, který denně používám. Více tiskových plátů, kalibrace tiskárny, vícebarevný tisk přes AMS a intuitivní rozhraní. Proč ho považuji za nejlepší volbu."
