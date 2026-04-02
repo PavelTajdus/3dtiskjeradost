@@ -37,9 +37,8 @@ const posts = beginnerSlugs
 				</p>
 
 				<div class="beginner-grid">
-					{posts.map((post, idx) => {
+					{posts.map((post) => {
 						const img = getPostImage(post);
-						const labels = ['1. Zjistěte, co je 3D tisk', '2. Vyberte si tiskárnu', '3. Nastavte si slicer'];
 						return (
 							<article class="beginner-card">
 								<a href={`/blog/${post.id}/`}>
@@ -48,7 +47,6 @@ const posts = beginnerSlugs
 											<Image src={img} alt={post.data.title} width={560} height={315} format="webp" quality={75} />
 										</div>
 									)}
-									<div class="beginner-step">{labels[idx]}</div>
 									<h2>{post.data.title}</h2>
 									{post.data.description && (
 										<p>{post.data.description}</p>
@@ -93,14 +91,7 @@ const posts = beginnerSlugs
 				height: 100%;
 				object-fit: cover;
 			}
-			.beginner-step {
-				font-size: 0.8rem;
-				font-weight: 600;
-				text-transform: uppercase;
-				letter-spacing: 0.05em;
-				color: var(--accent, #e74c3c);
-				padding: 1.25rem 1.25rem 0;
-			}
+
 			.beginner-card h2 {
 				font-size: 1.2rem;
 				margin: 0.5rem 0;
