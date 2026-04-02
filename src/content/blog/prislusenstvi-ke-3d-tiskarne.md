@@ -2,6 +2,7 @@
 title: "Příslušenství ke 3D tiskárně: co fakt potřebujete"
 pubDate: "2026-04-02T12:00:00.000Z"
 description: "Přehled příslušenství, které ke 3D tiskárně reálně používám každý den. Pinzety, kleště, čistič podložky, adhezní spreje a špachtle — co koupit hned a co počká."
+heroImage: "/images/blog/prislusenstvi-3d-tiskarna.jpg"
 tags: ["Základy 3D tisku"]
 draft: false
 ---
