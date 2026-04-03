@@ -21,8 +21,8 @@ export function createMetaDescription(text: string, maxLength = 160): string {
 		return normalized;
 	}
 
-	const sliced = normalized.slice(0, maxLength + 1);
-	const safeSlice = sliced.slice(0, Math.max(sliced.lastIndexOf(' '), maxLength - 24)).trim();
+	const sliced = normalized.slice(0, maxLength);
+	const safeSlice = sliced.slice(0, Math.max(sliced.lastIndexOf(' '), maxLength - 25)).trim();
 	return `${safeSlice}…`;
 }
 

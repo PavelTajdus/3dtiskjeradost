@@ -91,7 +91,7 @@ const breadcrumbSchema = {
 					<nav class="article-breadcrumbs" aria-label="Drobečková navigace">
 						<a href="/">Domů</a>
 						<span>/</span>
-						<a href="/blog">Blog</a>
+						<a href="/blog/">Blog</a>
 						<span>/</span>
 						<span aria-current="page">{title}</span>
 					</nav>
@@ -150,7 +150,7 @@ const breadcrumbSchema = {
 						<section class="related-posts" aria-labelledby="related-posts-title">
 							<div class="section-header related-posts-header">
 								<h2 id="related-posts-title">Související články</h2>
-								<a class="section-link" href="/blog">Všechny články →</a>
+								<a class="section-link" href="/blog/">Všechny články →</a>
 							</div>
 							<div class="related-posts-grid">
 								{relatedPosts.map((post) => {
@@ -178,7 +178,7 @@ const breadcrumbSchema = {
 					)}
 
 					<div class="back-link">
-						<a href="/blog">← Zpět na články</a>
+						<a href="/blog/">← Zpět na články</a>
 					</div>
 				</div>
 

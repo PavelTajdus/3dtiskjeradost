@@ -40,6 +40,7 @@ export async function getSitemapEntries(): Promise<SitemapEntry[]> {
 		{ loc: absoluteUrl('/blog/'), lastmod: latestPostDate },
 		{ loc: absoluteUrl('/o-mne/'), lastmod: latestPostDate },
 		{ loc: absoluteUrl('/podpora/'), lastmod: latestPostDate },
+		{ loc: absoluteUrl('/pro-zacatecniky/'), lastmod: latestPostDate },
 	];
 
 	const postEntries: SitemapEntry[] = posts.map((post) => ({

@@ -2,7 +2,7 @@
 title: "Pod tryskou 2/2025: Od automobilového průmyslu po domácí projekty"
 pubDate: "2025-02-05T15:33:00.000Z"
 updatedDate: "2025-04-20T14:48:33.000Z"
-description: "BMW implementuje 3D tištěnou středovou konzoli do vozidel 2027"
+description: "BMW plánuje v roce 2027 nasadit 3D tištěnou středovou konzoli — o 30 % lehčí díky aditivní výrobě. Novinky z automobilového průmyslu, domácí projekty a další zajímavosti ze světa 3D tisku."
 tags: ["Newsletter"]
 ---
 
@@ -10,7 +10,7 @@ tags: ["Newsletter"]
 
 BMW plánuje v roce 2027 zavést do výroby vozidlo s jednou z největších 3D tištěných polymerových součástí v automobilovém průmyslu – středovou konzolí. Tento díl, oceněný na SPE Central Europe Automotive Award 2024, je vyroben pomocí technologie velkoformátového aditivního tisku (LFAM) a nahrazuje sedm samostatných komponent jediným kusem. Výsledkem je snížení složitosti výroby, úspora materiálu a redukce uhlíkové stopy.
 
-![](/content/images/2025/04/image-18.png)
+![3D tištěná středová konzole BMW vyrobená technologií LFAM](/content/images/2025/04/image-18.png)
 
 Konzole váží přibližně 4 kg, což je o 30 % méně než u tradiční verze, díky použití recyklovaných a obnovitelných materiálů. BMW plánuje ročně vytisknout až 18 000 kusů pomocí robotických tiskáren od Hans Weber Maschinenfabrik. Tato inovace nejen zjednodušuje proces montáže, ale také přispívá k energetické efektivitě vozidel a udržitelnosti výroby.
 
@@ -22,7 +22,7 @@ PS: Na Formnext 2024 jsem viděl stánek Weber (fotky v článku jsou právě z 
 
 Mickus Projects představili nový lustr Hedron Pendant Chandelier vyrobený z bioplastu. Tento designový kousek je nejen esteticky působivý, ale také šetrný k životnímu prostředí díky použití udržitelných materiálů. Bioplast, ze kterého je lustr vyroben, je plně biologicky odbouratelný, což ho činí ideální volbou pro ty, kdo hledají ekologická řešení v interiérovém designu. (poznámka já: Jak krásně jde popsat PLA, že?)
 
-![](/content/images/2025/04/image-19.png)
+![Designový lustr Hedron Pendant Chandelier vyrobený 3D tiskem z PLA](/content/images/2025/04/image-19.png)
 
 Lustr má geometrický tvar inspirovaný polyhedry a působí jako umělecký prvek v jakémkoli prostoru. Jeho výroba ukazuje, jak lze spojit moderní technologie s odpovědným přístupem k přírodním zdrojům. Pokud hledáte způsob, jak dodat svému interiéru jedinečný vzhled a zároveň podpořit udržitelnost, tento lustr by mohl být skvělou volbou.
 
@@ -34,7 +34,7 @@ Zdroj*: [dezeen.com](https://www.dezeen.com/2025/01/17/mickus-projects-bioplasti
 
 Máte doma Raspberry Pi 5 a přemýšlíte, jak ho využít na maximum? Tvůrce "el_cuadillo" vytvořil plně funkční přenosný notebook s 3D tištěným pouzdrem, který si můžete snadno vzít kamkoliv s sebou. Tento "laptop" má 10,1" dotykový displej, úložiště pro bezdrátovou klávesnici, myš i herní ovladač a běží na baterii složené ze čtyř článků 18650, což mu zajišťuje výdrž 2–3 hodiny.
 
-![](/content/images/2025/04/image-20.png)
+![3D tištěný přenosný notebook s Raspberry Pi 5](/content/images/2025/04/image-20.png)
 
 Notebook je navržen v OnShape a vytištěn na tiskárně Bambu A1 z materiálů Sunlu PLA+ a Giantarm PLA Silk. Uvnitř najdete nejen Raspberry Pi 5 s aktivním chlazením, ale také UPS modul Geekworm, který umožňuje bezpečné vypnutí systému pomocí Python skriptů. A co je nejlepší? Tvůrce plánuje sdílet STL soubory pro tisk, takže si tento projekt můžete postavit sami.
 
@@ -46,7 +46,7 @@ Zdroj*: [hackster.io](https://www.hackster.io/news/this-fully-3d-printed-laptop-
 
 Pokud hledáte praktické a stylové řešení pro nabíjení baterií, projekt SPINC od Maximiliana Kerna může být přesně to, co potřebujete. Tento otevřený projekt kombinuje retro design stolních hodin s automatickou nabíječkou pro NiMH AA baterie. Stačí vložit baterii do horní části zařízení a SPINC se postará o zbytek – automaticky ji nabije, zkontroluje polaritu a po dokončení ji vysune do výstupního zásobníku. Díky optickému senzoru a mikroservu zvládne zařízení pojmout až sedm baterií najednou.
 
-![](/content/images/2025/04/image-21.png)
+![SPINC – 3D tištěná automatická nabíječka baterií s retro designem](/content/images/2025/04/image-21.png)
 
 SPINC je navíc plně přizpůsobitelný – na GitHubu najdete všechny potřebné soubory, včetně STL modelů pro 3D tisk, PCB návrhů a kódu pro Raspberry Pi Pico. Můžete si tak vytvořit vlastní barevnou variantu nebo upravit software podle svých potřeb. Tento projekt je ideální nejen pro domácí použití, ale i jako originální dárek pro technologické nadšence.
 

@@ -35,7 +35,8 @@ const {
 	structuredData,
 } = Astro.props;
 
-const metaTitle = title.includes(SITE_TITLE) ? title : `${title} — ${SITE_TITLE}`;
+const fullTitle = `${title} — ${SITE_TITLE}`;
+const metaTitle = title.includes(SITE_TITLE) ? title : fullTitle.length <= 60 ? fullTitle : title;
 const metaDescription = createMetaDescription(description);
 const ogImageURL = absoluteUrl(image);
 const keywords = tags.length > 0 ? tags.join(', ') : undefined;

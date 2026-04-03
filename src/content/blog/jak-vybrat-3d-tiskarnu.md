@@ -9,7 +9,7 @@ tags: ["Základy 3D tisku"]
 
 Po nedávném streamu s nečekaným názvem *Jak vybrat 3D tiskárnu*, kde jsem se pokusil rozlousknout, jaká tiskárna by byla pro koho nejvhodnější, jsem si uvědomil, že by to chtělo víc struktury. A tak vznikl tento článek.
 
-Věnujeme se primárně hobby tiskárnám s technologií FDM, protože těch je na trhu nejvíce a nabízejí skvělou kombinaci flexibility, ceny a kvality. Nebudu tu nudit nikoho detaily o fungování 3D tiskáren nebo rozdíly mezi různými technologiemi, tohle je návod určený k tomu, abyste si dokázali vybrat to nejlepší zařízení pro vaše projekty. Pro zvídavější z vás jsem napsal podrobný článek o tom [co je 3D tisk](https://3dtiskjeradost.cz/co-je-3d-tisk-kompletni-pruvodce-3d-tiskem/).
+Věnujeme se primárně hobby tiskárnám s technologií FDM, protože těch je na trhu nejvíce a nabízejí skvělou kombinaci flexibility, ceny a kvality. Nebudu tu nudit nikoho detaily o fungování 3D tiskáren nebo rozdíly mezi různými technologiemi, tohle je návod určený k tomu, abyste si dokázali vybrat to nejlepší zařízení pro vaše projekty. Pro zvídavější z vás jsem napsal podrobný článek o tom [co je 3D tisk](/blog/co-je-3d-tisk-kompletni-pruvodce-3d-tiskem/).
 
 V tomto článku bych se chtěl zaměřit na otázky, které vám usnadní rozhodování. Rozdělil jsem do 7 klíčových otázek, které byste si měli položit, než se rozhodnete investovat do 3D tiskárny. Tento postup vychází z mé vlastní zkušenosti, ale je založeni i na vaší zpětné vazbě.
 
@@ -201,11 +201,11 @@ Bohužel ve velikostech od 300x300mm do 500x500mm už jsme mimo běžné české
 
 [**Bambu Lab A1**](https://eu.store.bambulab.com/en-cz/products/a1) — tisková plocha 256×256 mm, otevřená konstrukce, cena okolo 12 000 Kč.
 
-![](/content/images/2025/04/image-9.png)
+![3D tiskárna Bambu Lab A1 s tiskovou plochou 256×256 mm](/content/images/2025/04/image-9.png)
 
 [**Prusa Core One L**](https://www.prusa3d.com/cs/kategorie/original-prusa-core-one/) — 300×300×330 mm, zakrytovaná, cena okolo 40 000 Kč.
 
-![](/content/images/2025/04/image-11.png)
+![3D tiskárna Prusa Core One L s tiskovou plochou 300×300 mm](/content/images/2025/04/image-11.png)
 
 Těch 3D tiskáren je samozřejmě hromada, a toto je opravdu jen pár tipů. Ale pojďme dále.
 
@@ -223,11 +223,11 @@ A tady bych znovu doporučil 3D tiskárny Průša, nebo Bambu Lab.
 
 [**Průša MK4**](https://www.prusa3d.com/cs/kategorie/original-prusa-mk4/) za cenu 21 000 - 28 000 Kč.
 
-![](/content/images/2025/04/image-12.png)
+![3D tiskárna Prusa MK4 pro malosériovou výrobu](/content/images/2025/04/image-12.png)
 
 [**Bambu Lab P2S nebo A1 mini**](https://eu.store.bambulab.com/en-cz/collections/3d-printer) s cenami od 10 000 Kč.
 
-![](/content/images/2025/04/image-13-edited.png)
+![3D tiskárny Bambu Lab P2S a A1 mini pro zakázkový tisk](/content/images/2025/04/image-13-edited.png)
 
 Ano, **můžete si postavit farmu z 3D tiskáren Ender 3**. Ale jestli budete tisknout, nebo spíše opravovat tiskárny, to je otázka. Ale rozhodně ušetříte finance při pořízení tiskáren. Pak jen zvažte, jestli vám následné náklady na opravy a třeba ušlý zisk při prostojích (nefunkční tiskárna čekající na opravu atd.) budou stát za to.
 
@@ -245,7 +245,7 @@ A pokud takového kutila už nebaví neustále ladit svého Endera, či jiný le
 
 **Voron 2.4** - [stavebnice 3D tiskárny Voron](https://www.hotend.cz/71-stavebnice) s cenami od 24 000 Kč.
 
-![](/content/images/2025/04/image-14.png)
+![Stavebnice 3D tiskárny Voron 2.4](/content/images/2025/04/image-14.png)
 
 ## A tohle už je úchylárna na druhou (myšleno v dobrém).
 

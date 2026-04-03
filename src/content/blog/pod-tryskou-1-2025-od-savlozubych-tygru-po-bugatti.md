@@ -24,7 +24,7 @@ Zdroj: *[https://theconversation.com/new-research-reveals-why-sabre-toothed-pred
 
 HyperX přišel s modulární herní myší, kterou si můžeš snadno přizpůsobit díky magnetickým dílům. Kryty, boční tlačítka nebo gripy – to všechno si můžeš měnit a vytvořit si tak myš přesně podle svých potřeb. Zajímavé je, že HyperX nabízí ke stažení 3D modely těchto dílů, takže pokud máš 3D tiskárnu, můžeš si je vytisknout doma nebo je upravit na míru.
 
-![](/content/images/2025/04/image-15.png)*
+![Modulární herní myš HyperX Saga s 3D tištěnými kryty](/content/images/2025/04/image-15.png)*
 
 HyperX Saga s 3D tištěnými kryty*
 
@@ -45,7 +45,7 @@ Zdroj: *[https://row.hyperx.com/collections/new-releases/products/hyperx-pulsefi
 
 Bugatti ukázalo, jak může 3D tisk posouvat hranice personalizace i v luxusním automobilovém průmyslu. Pro majitele modelu Chiron Super Sport vytvořili na míru 3D tištěný držák na nápoje, který řeší absenci tohoto praktického prvku v interiéru vozu. Držák je navržen tak, aby se jednoduše zacvakl do kapsy ve dveřích, a nabízí místo pro láhev i plechovku. Navíc obsahuje personalizaci – jméno majitele přímo v designu.
 
-![](/content/images/2025/04/image-17.png)*
+![Bugatti Chiron Super Sport s 3D tištěným držákem na nápoje](/content/images/2025/04/image-17.png)*
 
 Autor: Norbert Aepli, Switzerland, CC BY 4.0, [https://commons.wikimedia.org/w/index.php?curid=47283866](https://commons.wikimedia.org/w/index.php?curid=47283866)*
 
@@ -61,7 +61,7 @@ Zdroj: *[https://www.instagram.com/p/DDzr34-om1X/](https://www.instagram.com/p/D
 
 Představ si, že bys mohl vytvořit 3D model jen tím, že ho popíšeš textem nebo nahraješ fotku. Přesně to teď umožňuje nová AI platforma Backflip, za kterou stojí zakladatelé známé firmy Markforged (PS: na Formnext 2024 jsem byl u nich na stánku). Tato technologie dokáže zjednodušit a zrychlit proces návrhu – složité modely, které by normálně trvaly dny, zvládne během několika minut.
 
-![](/content/images/2025/04/image-16.png)
+![AI platforma Backflip pro generování 3D modelů z textu nebo fotky](/content/images/2025/04/image-16.png)
 
 Backflip je ideální pro rychlé prototypování nebo tvorbu náhradních dílů. Díky vysokému rozlišení a podpoře materiálů jako kov, plast nebo karbonová vlákna má obrovský potenciál pro designéry i inženýry. Pokud tě zajímá, jak by AI mohla posunout tvůj 3D tisk na další úroveň, určitě stojí za to tuhle platformu vyzkoušet! Nicméně zatím se můžeš přihlásit jen na čekačku. Tak uvidíme.
 
