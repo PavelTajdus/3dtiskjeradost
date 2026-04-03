@@ -28,6 +28,7 @@ const {
 				/>
 				<button type="submit">Odebírat</button>
 			</div>
+			<div class="cf-turnstile" data-sitekey="0x4AAAAAAAex71cQILTy0VWm" data-theme="dark" data-size="flexible" data-action="newsletter"></div>
 			<label class="newsletter-consent">
 				<input type="checkbox" name="consent" required />
 				<span>Souhlasím se zpracováním e-mailu pro zasílání newsletteru.</span>
@@ -142,12 +143,20 @@ const {
 		flex-shrink: 0;
 	}
 
+	.cf-turnstile {
+		margin-top: 12px;
+	}
+
 	/* Success / error states */
 	.newsletter-form.success .newsletter-field {
 		display: none;
 	}
 
 	.newsletter-form.success .newsletter-consent {
+		display: none;
+	}
+
+	.newsletter-form.success .cf-turnstile {
 		display: none;
 	}
 
@@ -180,10 +189,9 @@ const {
 	}
 </style>
 
-<script>
-	const LISTMONK_URL = 'https://newsletter.hotend.cz/api/public/subscription';
-	const LIST_UUID = 'a7353135-0117-4bcd-a34d-790e47b9b07c';
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 
+<script>
 	function showMessage(form: HTMLFormElement, text: string, isError = false) {
 		const existingMsg = form.querySelector('.newsletter-msg');
 		if (existingMsg) existingMsg.remove();
@@ -205,6 +213,15 @@ const {
 			const emailInput = currentForm.querySelector('input[name="email"]');
 			if (!(emailInput instanceof HTMLInputElement) || !emailInput.value) return;
 
+			// Get Turnstile token
+			const turnstileInput = currentForm.querySelector('input[name="cf-turnstile-response"]');
+			const turnstileToken = turnstileInput instanceof HTMLInputElement ? turnstileInput.value : '';
+
+			if (!turnstileToken) {
+				showMessage(currentForm, '⏳ Počkej na dokončení ověření proti botům.', true);
+				return;
+			}
+
 			const submitBtn = currentForm.querySelector('button[type="submit"]');
 			if (submitBtn instanceof HTMLButtonElement) {
 				submitBtn.disabled = true;
@@ -212,12 +229,12 @@ const {
 			}
 
 			try {
-				const response = await fetch(LISTMONK_URL, {
+				const response = await fetch('/api/subscribe', {
 					method: 'POST',
 					headers: { 'Content-Type': 'application/json' },
 					body: JSON.stringify({
 						email: emailInput.value,
-						list_uuids: [LIST_UUID],
+						turnstileToken,
 					}),
 				});
 
@@ -230,6 +247,11 @@ const {
 					} else {
 						showMessage(currentForm, '🎉 Díky za přihlášení! Od teď ti neunikne žádná novinka.');
 					}
+				} else if (response.status === 403) {
+					showMessage(currentForm, '🤖 Ověření selhalo. Zkus obnovit stránku.', true);
+					// Reset Turnstile widget
+					const widgetEl = currentForm.querySelector('.cf-turnstile');
+					if (widgetEl && window.turnstile) window.turnstile.reset(widgetEl);
 				} else {
 					const data = await response.json().catch(() => null);
 					const errorMsg = data?.message || '';
