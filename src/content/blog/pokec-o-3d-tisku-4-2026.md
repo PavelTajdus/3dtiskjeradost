@@ -3,7 +3,7 @@ title: "Pokec o 3D tisku: Printerhive sklad filamentů a Creality filament maker
 pubDate: "2026-02-17T12:00:00.000Z"
 updatedDate: "2026-02-17T12:00:00.000Z"
 description: "Na members streamu jsme zkoušeli novou funkci Printerhive — sklad filamentů. Plus jsme rozebrali chystaný Creality Filament Maker M1 a proč domácí výroba filamentu zatím nedává smysl."
-heroImage: "https://img.youtube.com/vi/wG_DRp692c4/maxresdefault.jpg"
+heroImage: "/content/images/youtube/wG_DRp692c4.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Pokec o 3D tisku: Bambu Vortek, INDX od Bondtechu a slicerové triky"
 pubDate: "2025-10-28T12:00:00.000Z"
 updatedDate: "2025-10-28T12:00:00.000Z"
 description: "Na members streamu jsme rozebrali novinku Bambu Lab Vortek (tool changer pro H2C), porovnali ji s INDX od Bondtechu a ponořili se do nastavení sliceru pro lepší povrch tisků."
-heroImage: "https://img.youtube.com/vi/uR6fyBG9BVc/maxresdefault.jpg"
+heroImage: "/content/images/youtube/uR6fyBG9BVc.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Bambu Lab"]
 draft: false
 ---

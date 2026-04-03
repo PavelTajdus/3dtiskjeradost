@@ -3,7 +3,7 @@ title: "Pokec o 3D tisku: DIY vzduchový filtr pro tiskárny"
 pubDate: "2025-11-25T12:00:00.000Z"
 updatedDate: "2025-11-25T12:00:00.000Z"
 description: "Představil jsem prototyp 3D tištěného vzduchového filtru pro místnost s tiskárnami. Komplet tištěný na Venture XL, šest ventilátorů, dvě filtrační vrstvy. Plus novinky z Form Nextu."
-heroImage: "https://img.youtube.com/vi/vUcsNblj3Bg/maxresdefault.jpg"
+heroImage: "/content/images/youtube/vUcsNblj3Bg.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku"]
 draft: false
 ---

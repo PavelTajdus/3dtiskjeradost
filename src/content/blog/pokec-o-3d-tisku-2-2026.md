@@ -3,7 +3,7 @@ title: "Pokec o 3D tisku: Bambu Studio 2.5 — co je nového"
 pubDate: "2026-02-03T12:00:00.000Z"
 updatedDate: "2026-02-03T12:00:00.000Z"
 description: "Na members streamu jsme prošli novinky v Bambu Studio 2.5 — nové infill patterny, ironing na supportech, vylepšená Prime Tower, povrchové efekty a retro vzpomínání na staré tiskárny."
-heroImage: "https://img.youtube.com/vi/WdoYgk9jTCw/maxresdefault.jpg"
+heroImage: "/content/images/youtube/WdoYgk9jTCw.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Bambu Lab"]
 draft: false
 ---

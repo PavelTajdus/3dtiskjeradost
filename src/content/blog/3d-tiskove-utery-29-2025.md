@@ -3,7 +3,7 @@ title: "Pokec o 3D tisku: Open Print tagy, Core One L a změny u Devil Designu"
 pubDate: "2025-11-04T12:00:00.000Z"
 updatedDate: "2025-11-04T12:00:00.000Z"
 description: "Na members streamu jsme rozebrali Prusa Open Print (NFC tagy na filamenty), oznámení Core One L, změny u Devil Designu s menšími špulkami a další novinky ze světa 3D tisku."
-heroImage: "https://img.youtube.com/vi/iAbTJwDjzog/maxresdefault.jpg"
+heroImage: "/content/images/youtube/iAbTJwDjzog.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Prusa"]
 draft: false
 ---

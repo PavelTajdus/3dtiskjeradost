@@ -3,7 +3,7 @@ title: "Bambu Lab P2S: první dojmy a proč je to game changer"
 pubDate: "2025-10-14T12:00:00.000Z"
 updatedDate: "2025-10-14T12:00:00.000Z"
 description: "Bambu Lab představilo P2S a já jsem neodolal. Za 18 tisíc dostanete zaboxovanou tiskárnu s AMS2, HD kamerou a automatickou kalibrací průtoku. Srovnal jsem to s Prusa Core One — a výsledek je jasný."
-heroImage: "https://img.youtube.com/vi/WtUevWYWlQY/maxresdefault.jpg"
+heroImage: "/content/images/youtube/WtUevWYWlQY.jpg"
 tags: ["Youtube streamy", "Bambu Lab", "Members only", "Pokec o 3D tisku"]
 draft: false
 ---

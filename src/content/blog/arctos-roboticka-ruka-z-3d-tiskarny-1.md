@@ -3,7 +3,7 @@ title: "ARCTOS: stavím robotickou ruku z 3D tiskárny (2. díl)"
 pubDate: "2026-02-27T12:00:00.000Z"
 updatedDate: "2026-02-27T12:00:00.000Z"
 description: "Druhý stavěcí stream robotické ruky ARCTOS. Montujeme první klouby, planetové převody a řešíme 3 kg vytištěných dílů z ABS."
-heroImage: "https://img.youtube.com/vi/l6Y6_NIzSNE/maxresdefault.jpg"
+heroImage: "/content/images/youtube/l6Y6_NIzSNE.jpg"
 tags: ["Youtube streamy", "ARCTOS"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Pokec o 3D tisku: Printables Awards a 3D tištěný svěrák"
 pubDate: "2026-03-24T12:00:00.000Z"
 updatedDate: "2026-03-24T12:00:00.000Z"
 description: "Na members streamu jsme probrali druhý ročník Printables Awards od Průši (hlavní cena 10 000 USD), koukali na zajímavé modely a řešili, co se dá na 3D tiskárně reálně vyrobit užitečného."
-heroImage: "https://img.youtube.com/vi/01PAyjvAn3o/maxresdefault.jpg"
+heroImage: "/content/images/youtube/01PAyjvAn3o.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Prusa"]
 draft: false
 ---

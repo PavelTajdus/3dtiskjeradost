@@ -3,7 +3,7 @@ title: "Pokec o 3D tisku: zákaz 3D tiskáren v USA a CAN problémy na Voronech"
 pubDate: "2026-01-20T12:00:00.000Z"
 updatedDate: "2026-01-20T12:00:00.000Z"
 description: "Na prvním members Pokec streamu roku 2026 jsme rozebrali kontroverzní návrh zákona o omezení 3D tiskáren ve Washingtonu, problémy s dostupností CAN desek pro Vorony a chystané 3D skenování."
-heroImage: "https://img.youtube.com/vi/CXq_QTO0gfQ/maxresdefault.jpg"
+heroImage: "/content/images/youtube/CXq_QTO0gfQ.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku"]
 draft: false
 ---

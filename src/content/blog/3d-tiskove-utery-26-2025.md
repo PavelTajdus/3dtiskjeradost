@@ -3,7 +3,7 @@ title: "Pokec o 3D tisku: Core One dojmy, Printerhive novinky a P2S hype"
 pubDate: "2025-09-30T12:00:00.000Z"
 updatedDate: "2025-09-30T12:00:00.000Z"
 description: "Na members streamu jsem sdílel první dojmy z Prusa Core One po pár tiscích, ukázal novinky v Printerhive (IP kamery, Shopify integrace) a probrali jsme nadcházející Bambu Lab P2S."
-heroImage: "https://img.youtube.com/vi/v3-E8g5FUiM/maxresdefault.jpg"
+heroImage: "/content/images/youtube/v3-E8g5FUiM.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Prusa", "Bambu Lab"]
 draft: false
 ---

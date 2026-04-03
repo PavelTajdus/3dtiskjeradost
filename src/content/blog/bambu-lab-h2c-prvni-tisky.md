@@ -3,7 +3,7 @@ title: "Bambu Lab H2C: první tisky a Vortek v akci"
 pubDate: "2026-01-08T12:00:00.000Z"
 updatedDate: "2026-01-08T12:00:00.000Z"
 description: "Konečně tisknem na H2C! Vyzkoušeli jsme Vortek systém s vícebarevnou jahodou z ASA, sledovali výměny hotendů v reálu a probrali upgrade z H2S/H2D na H2C."
-heroImage: "https://img.youtube.com/vi/Y9s4dMJB3co/maxresdefault.jpg"
+heroImage: "/content/images/youtube/Y9s4dMJB3co.jpg"
 tags: ["Youtube streamy", "Bambu Lab"]
 draft: false
 ---

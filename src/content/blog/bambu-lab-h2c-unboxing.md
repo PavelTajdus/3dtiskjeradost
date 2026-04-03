@@ -3,7 +3,7 @@ title: "Bambu Lab H2C: rozbalení a první dojmy"
 pubDate: "2026-01-06T12:00:00.000Z"
 updatedDate: "2026-01-06T12:00:00.000Z"
 description: "První stream roku 2026 a hned pecka — rozbalil jsem Bambu Lab H2C s Vortek systémem. 5 hotendů v balení, vyhřívaná komora na 65 °C a 32 kg živé váhy."
-heroImage: "https://img.youtube.com/vi/eFPUkSKbTVE/maxresdefault.jpg"
+heroImage: "/content/images/youtube/eFPUkSKbTVE.jpg"
 tags: ["Youtube streamy", "Bambu Lab", "Members only"]
 draft: false
 ---

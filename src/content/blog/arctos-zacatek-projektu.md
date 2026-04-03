@@ -3,7 +3,7 @@ title: "3D tisk + robotika: začínám stavět ARCTOS robotickou ruku!"
 pubDate: "2025-08-28T12:00:00.000Z"
 updatedDate: "2025-08-28T12:00:00.000Z"
 description: "Koupil jsem kit na robotickou ruku ARCTOS — open-source projekt z 3D tištěných dílů s krokovými motory. Na streamu jsem rozbalil kit, spočítal náklady a začal tisknout první díly."
-heroImage: "https://img.youtube.com/vi/dTjX6j1TDuo/maxresdefault.jpg"
+heroImage: "/content/images/youtube/dTjX6j1TDuo.jpg"
 tags: ["Youtube streamy", "ARCTOS"]
 draft: false
 ---

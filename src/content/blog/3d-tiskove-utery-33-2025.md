@@ -3,7 +3,7 @@ title: "Pokec o 3D tisku: Core One Plus upgrade a Ston 3D tiskárna"
 pubDate: "2025-12-09T12:00:00.000Z"
 updatedDate: "2025-12-09T12:00:00.000Z"
 description: "Na members streamu jsme rozebrali kontroverzní Core One Plus upgrade s anténkou za 3 tisíce, obdivovali ručně dělanou Stone 3D tiskárnu od Nata a ladili Klipper makra na MK3S."
-heroImage: "https://img.youtube.com/vi/iBEyNy-F9r8/maxresdefault.jpg"
+heroImage: "/content/images/youtube/iBEyNy-F9r8.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Prusa", "Klipper"]
 draft: false
 ---

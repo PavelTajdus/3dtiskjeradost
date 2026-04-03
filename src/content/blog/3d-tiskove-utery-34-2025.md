@@ -3,7 +3,7 @@ title: "Pokec o 3D tisku: Noctua barvy, Artillery update a Printerhive sklad fil
 pubDate: "2025-12-16T12:00:00.000Z"
 updatedDate: "2025-12-16T12:00:00.000Z"
 description: "Na posledním members streamu roku jsme probrali nové Noctua barvy v Prusamentu, obří update Artillery M1 Pro, HT hotend pro Core One L a chystaný sklad filamentů v Printerhive."
-heroImage: "https://img.youtube.com/vi/GxPWBqdnjM4/maxresdefault.jpg"
+heroImage: "/content/images/youtube/GxPWBqdnjM4.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Prusa", "Artillery"]
 draft: false
 ---

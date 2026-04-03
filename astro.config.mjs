@@ -10,7 +10,7 @@ export default defineConfig({
 	adapter: cloudflare(),
 	integrations: [mdx()],
 	image: {
-		domains: ['3dtiskjeradost.cz', 'commons.wikimedia.org', 'img.youtube.com', 'i.ytimg.com'],
+		domains: ['3dtiskjeradost.cz', 'commons.wikimedia.org'],
 	},
 	vite: {
 		server: {

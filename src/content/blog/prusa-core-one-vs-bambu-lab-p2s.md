@@ -3,7 +3,7 @@ title: "Prusa Core One vs. Bambu Lab P2S: upřímné srovnání"
 pubDate: "2025-10-23T12:00:00.000Z"
 updatedDate: "2025-10-23T12:00:00.000Z"
 description: "Mám doma obě tiskárny a porovnal jsem je — od ceny přes kvalitu tisku až po uživatelský komfort. Výsledek? Obě tisknou skvěle, ale jedna stojí skoro dvakrát tolik."
-heroImage: "https://img.youtube.com/vi/0cfOfASRMW8/maxresdefault.jpg"
+heroImage: "/content/images/youtube/0cfOfASRMW8.jpg"
 tags: ["Youtube streamy", "Prusa", "Bambu Lab"]
 draft: false
 ---

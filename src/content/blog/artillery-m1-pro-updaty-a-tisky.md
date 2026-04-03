@@ -3,7 +3,7 @@ title: "Artillery M1 Pro: updaty, ladění a pohled pod kapotu"
 pubDate: "2025-10-02T12:00:00.000Z"
 updatedDate: "2025-10-02T12:00:00.000Z"
 description: "Vrátil jsem se k Artillery M1 Pro po pár týdnech. Aktualizace firmware, boj s displejem, levelování podložky a první nahlédnutí do útrob tiskárny. Zkrátka klasický stream plný překvapení."
-heroImage: "https://img.youtube.com/vi/62K2OG5dyE4/maxresdefault.jpg"
+heroImage: "/content/images/youtube/62K2OG5dyE4.jpg"
 tags: ["Youtube streamy", "Artillery"]
 draft: false
 ---

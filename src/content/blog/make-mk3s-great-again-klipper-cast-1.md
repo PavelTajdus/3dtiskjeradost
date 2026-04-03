@@ -3,7 +3,7 @@ title: "Make MK3S Great Again: předělávám Průšu na Klipper (1. díl)"
 pubDate: "2025-11-13T12:00:00.000Z"
 updatedDate: "2025-11-13T12:00:00.000Z"
 description: "Dostal jsem starou Prusa MK3S v žalostném stavu. Plán? Nové ABS díly, Raspberry Pi, Klipper a návrat legendy. Na prvním streamu jsme rozebrali tiskárnu, vyčistili ji a začali s montáží."
-heroImage: "https://img.youtube.com/vi/PrY7tw83vxw/maxresdefault.jpg"
+heroImage: "/content/images/youtube/PrY7tw83vxw.jpg"
 tags: ["Youtube streamy", "Prusa", "Klipper"]
 draft: false
 ---

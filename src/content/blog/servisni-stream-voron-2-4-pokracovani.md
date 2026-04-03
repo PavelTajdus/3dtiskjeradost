@@ -3,7 +3,7 @@ title: "Servisní stream: Voron 2.4 zpátky v akci (pokračování)"
 pubDate: "2026-01-29T12:00:00.000Z"
 updatedDate: "2026-01-29T12:00:00.000Z"
 description: "Pokračování servisu Vorona 2.4 — výměna přidřeného ventilátoru, nové tištěné díly, PID tuning a přidání filament senzoru. Tiskárna zase běží."
-heroImage: "https://img.youtube.com/vi/qj7YX8Vgd3A/maxresdefault.jpg"
+heroImage: "/content/images/youtube/qj7YX8Vgd3A.jpg"
 tags: ["Youtube streamy", "Voron"]
 draft: false
 ---

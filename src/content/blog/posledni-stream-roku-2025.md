@@ -3,7 +3,7 @@ title: "Poslední stream roku 2025: soutěže, dárky a bilancování"
 pubDate: "2025-12-29T12:00:00.000Z"
 updatedDate: "2025-12-29T12:00:00.000Z"
 description: "Vánoční speciál se soutěžemi a losováním — hlavní cena Bambu Lab A1 mini combo se swap modem a Printerhive členstvím. Plus menší bilancování roku a poděkování komunitě."
-heroImage: "https://img.youtube.com/vi/A5nt3ERlLVk/maxresdefault.jpg"
+heroImage: "/content/images/youtube/A5nt3ERlLVk.jpg"
 tags: ["Youtube streamy"]
 draft: false
 ---

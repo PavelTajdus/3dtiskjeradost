@@ -3,7 +3,7 @@ title: "Pokec o 3D tisku: Labubu žaluje Bambu Lab a retro firmware"
 pubDate: "2026-03-17T12:00:00.000Z"
 updatedDate: "2026-03-17T12:00:00.000Z"
 description: "Na members streamu jsme probrali žalobu Pop Mart (Labubu) na Bambu Lab kvůli Maker Worldu, koukali na Elegoo Centauri Carbon 2 a zavzpomínali na retro firmware od RepRap po Marlin."
-heroImage: "https://img.youtube.com/vi/gT5v0DGrrC8/maxresdefault.jpg"
+heroImage: "/content/images/youtube/gT5v0DGrrC8.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Bambu Lab"]
 draft: false
 ---

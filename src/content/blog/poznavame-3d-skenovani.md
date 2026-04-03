@@ -3,7 +3,7 @@ title: "Poznáváme 3D skenování: Revopoint Miraco v praxi"
 pubDate: "2026-01-22T12:00:00.000Z"
 updatedDate: "2026-01-22T12:00:00.000Z"
 description: "Dostal jsem zapůjčený 3D skener Revopoint Miraco a poprvé v životě jsem skenoval živě na streamu. Naučil jsem se spoustu věcí — hlavně to, že je to složitější, než jsem čekal."
-heroImage: "https://img.youtube.com/vi/_usVrpDbUWs/maxresdefault.jpg"
+heroImage: "/content/images/youtube/_usVrpDbUWs.jpg"
 tags: ["Youtube streamy", "3D skenování"]
 draft: false
 ---

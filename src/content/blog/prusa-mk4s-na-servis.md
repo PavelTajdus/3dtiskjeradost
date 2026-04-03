@@ -3,7 +3,7 @@ title: "Průša MK4S na servis: oprava, kalibrace a první multimateriálový ti
 pubDate: "2025-12-11T12:00:00.000Z"
 updatedDate: "2025-12-11T12:00:00.000Z"
 description: "Přivezli mi nesestavenou MK4S s MMU3 a boxem na opravu. Na streamu jsme řešili nefunkční filament senzor, kalibraci Nextruderu a nechtěně jsem spustil svůj první multimateriálový tisk."
-heroImage: "https://img.youtube.com/vi/b12TW_WTpA8/maxresdefault.jpg"
+heroImage: "/content/images/youtube/b12TW_WTpA8.jpg"
 tags: ["Youtube streamy", "Prusa"]
 draft: false
 ---

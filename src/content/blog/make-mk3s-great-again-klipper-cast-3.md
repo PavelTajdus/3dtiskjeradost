@@ -3,7 +3,7 @@ title: "Make MK3S Great Again: Klipper žije a tiskne! (3. díl)"
 pubDate: "2025-11-27T12:00:00.000Z"
 updatedDate: "2025-11-27T12:00:00.000Z"
 description: "Třetí díl předělávky MK3S — nainstalovali jsme PrusaLink, připájeli piny pro Raspberry Pi, rozběhali Klipper s Mainsailem a vytiskli první testovací tisk na 250 mm/s."
-heroImage: "https://img.youtube.com/vi/TuXnwCROYfM/maxresdefault.jpg"
+heroImage: "/content/images/youtube/TuXnwCROYfM.jpg"
 tags: ["Youtube streamy", "Prusa", "Klipper"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Bambu Lab P2S: rozbalení a první zkušenosti"
 pubDate: "2025-10-21T12:00:00.000Z"
 updatedDate: "2025-10-21T12:00:00.000Z"
 description: "Objednal jsem P2S v den oznámení a tady je. Rozbalení, zprovoznění za 15 minut, první tisky a porovnání s tím, co znám. Plus ukázka Printerhive pro správu tiskáren."
-heroImage: "https://img.youtube.com/vi/1F4szRdtYVA/maxresdefault.jpg"
+heroImage: "/content/images/youtube/1F4szRdtYVA.jpg"
 tags: ["Youtube streamy", "Bambu Lab"]
 draft: false
 ---

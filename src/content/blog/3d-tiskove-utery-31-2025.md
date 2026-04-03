@@ -3,7 +3,7 @@ title: "Pokec o 3D tisku: Bambu Lab H2C a Vortek v praxi"
 pubDate: "2025-11-18T12:00:00.000Z"
 updatedDate: "2025-11-18T12:00:00.000Z"
 description: "Na members streamu jsme rozebrali čerstvě oznámenou Bambu Lab H2C s Vortek systémem. Jak rychle se mění trysky? Dává to smysl pro farmy? A proč je P2S pořád nejlepší volba pro většinu?"
-heroImage: "https://img.youtube.com/vi/3HcwCYUy_es/maxresdefault.jpg"
+heroImage: "/content/images/youtube/3HcwCYUy_es.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Bambu Lab"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Servisní stream: Voron 2.4 s ucpaným hotendem"
 pubDate: "2026-01-27T12:00:00.000Z"
 updatedDate: "2026-01-27T12:00:00.000Z"
 description: "Zákazníkův Voron 2.4 přestal tisknout a zajel hotendem do podložky. Na streamu jsme diagnostikovali problém — přidřený ventilátor, přehřátý heat break a zapečený hotend."
-heroImage: "https://img.youtube.com/vi/eGs62g1aZQU/maxresdefault.jpg"
+heroImage: "/content/images/youtube/eGs62g1aZQU.jpg"
 tags: ["Youtube streamy", "Members only", "Voron"]
 draft: false
 ---

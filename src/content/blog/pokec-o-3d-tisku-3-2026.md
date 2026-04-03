@@ -3,7 +3,7 @@ title: "Pokec o 3D tisku: non-planar tisk, recyklace filamentu a výroba strun"
 pubDate: "2026-02-10T12:00:00.000Z"
 updatedDate: "2026-02-10T12:00:00.000Z"
 description: "Na members streamu jsme rozebrali non-planar tisk z videa CNC Kitchen, diskutovali o recyklaci filamentů, podpoře projektu 3D Sfinx a koukali na výrobní linky na filamenty."
-heroImage: "https://img.youtube.com/vi/T3OlaS_UHls/maxresdefault.jpg"
+heroImage: "/content/images/youtube/T3OlaS_UHls.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "ARCTOS: planetové převody a finální segmenty (díl 4)"
 pubDate: "2026-03-19T12:00:00.000Z"
 updatedDate: "2026-03-19T12:00:00.000Z"
 description: "Čtvrtý stavěcí stream robotické ruky ARCTOS. Konečně jsem dotiskl všechny potřebné díly a montujeme planetové převody do posledních segmentů. Ruka je skoro hotová — mechanicky."
-heroImage: "https://img.youtube.com/vi/JHZ7x6JfZMY/maxresdefault.jpg"
+heroImage: "/content/images/youtube/JHZ7x6JfZMY.jpg"
 tags: ["Youtube streamy", "ARCTOS"]
 draft: false
 ---

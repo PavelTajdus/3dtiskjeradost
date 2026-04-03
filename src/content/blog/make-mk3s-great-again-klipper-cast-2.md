@@ -3,7 +3,7 @@ title: "Make MK3S Great Again: kabeláž a extruder (2. díl)"
 pubDate: "2025-11-20T12:00:00.000Z"
 updatedDate: "2025-11-20T12:00:00.000Z"
 description: "Pokračujeme v předělávce Prusa MK3S. Na programu: dokončení kabeláže se zdroje, výměna plastových dílů extruderu a montáž toolheadu. Postupujeme pomalu, ale jistě."
-heroImage: "https://img.youtube.com/vi/e9QGKoNPUUE/maxresdefault.jpg"
+heroImage: "/content/images/youtube/e9QGKoNPUUE.jpg"
 tags: ["Youtube streamy", "Prusa", "Klipper"]
 draft: false
 ---

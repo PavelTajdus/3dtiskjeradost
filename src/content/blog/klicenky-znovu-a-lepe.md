@@ -3,7 +3,7 @@ title: "Klíčenky znovu a lépe: čtyřbarevný tisk na A1 mini"
 pubDate: "2025-10-30T12:00:00.000Z"
 updatedDate: "2025-10-30T12:00:00.000Z"
 description: "Pokračování klíčenkového streamu — tentokrát s čtyřbarevným tiskem na A1 mini se swap modem. Návrh v Affinity Designeru, modelování v Onshape a automatická výroba."
-heroImage: "https://img.youtube.com/vi/6u44vHFKW6A/maxresdefault.jpg"
+heroImage: "/content/images/youtube/6u44vHFKW6A.jpg"
 tags: ["Youtube streamy"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Stavba Prusa Core One: 12hodinový maraton"
 pubDate: "2025-09-07T12:00:00.000Z"
 updatedDate: "2025-09-07T12:00:00.000Z"
 description: "Skládal jsem Prusa Core One ze stavebnice živě na streamu. Trvalo to skoro 12 hodin a neobešlo se to bez dramatu — zlomená matka, přetisk dílu a pár upřímných názorů na poměr cena/výkon."
-heroImage: "https://img.youtube.com/vi/wXthrk2F6TM/maxresdefault.jpg"
+heroImage: "/content/images/youtube/wXthrk2F6TM.jpg"
 tags: ["Youtube streamy", "Prusa"]
 draft: false
 ---

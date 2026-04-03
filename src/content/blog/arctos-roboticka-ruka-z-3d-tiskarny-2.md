@@ -3,7 +3,7 @@ title: "ARCTOS: robotická ruka roste (3. díl)"
 pubDate: "2026-03-05T12:00:00.000Z"
 updatedDate: "2026-03-05T12:00:00.000Z"
 description: "Třetí díl stavby robotické ruky ARCTOS. Montáž spojek, planetových převodů a dalších kloubů. Ruka začíná nabývat tvaru — a váhy."
-heroImage: "https://img.youtube.com/vi/zS9nTR0gfhY/maxresdefault.jpg"
+heroImage: "/content/images/youtube/zS9nTR0gfhY.jpg"
 tags: ["Youtube streamy", "ARCTOS"]
 draft: false
 ---

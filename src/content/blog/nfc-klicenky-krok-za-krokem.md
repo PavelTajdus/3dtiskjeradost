@@ -3,7 +3,7 @@ title: "NFC klíčenky: jak je navrhnout, vytisknout a naprogramovat"
 pubDate: "2025-10-16T12:00:00.000Z"
 updatedDate: "2025-10-16T12:00:00.000Z"
 description: "Krok za krokem jsem ukázal, jak vytvořit 3D tištěnou klíčenku s NFC čipem. Od návrhu v Onshape, přes slicování s výměnou barvy, až po naprogramování čipu přes mobil."
-heroImage: "https://img.youtube.com/vi/aIFI9HV6eHU/maxresdefault.jpg"
+heroImage: "/content/images/youtube/aIFI9HV6eHU.jpg"
 tags: ["Youtube streamy"]
 draft: false
 ---

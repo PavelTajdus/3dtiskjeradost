@@ -3,7 +3,7 @@ title: "Pokec o 3D tisku: mikroroboti, 3D tisk v nemocnicích a Voron umírá?"
 pubDate: "2026-03-31T12:00:00.000Z"
 updatedDate: "2026-03-31T12:00:00.000Z"
 description: "Na members streamu jsme probrali 3D tištěné mikroroboty bez mozku, úspory v nemocnicích díky 3D tisku, nové Adidas boty z tiskárny, LEGO tiskárnu a stav Voron komunity."
-heroImage: "https://img.youtube.com/vi/7Lxy5tEfs6w/maxresdefault.jpg"
+heroImage: "/content/images/youtube/7Lxy5tEfs6w.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Voron"]
 draft: false
 ---
