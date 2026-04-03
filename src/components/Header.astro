@@ -1,6 +1,4 @@
 ---
-import { Image } from 'astro:assets';
-import logo from '../assets/logo.svg';
 import { SITE_TITLE } from '../consts';
 
 const pathname = Astro.url.pathname;
@@ -16,7 +14,7 @@ const navItems = [
 <header class="site-header">
 	<div class="header-inner">
 		<a href="/" class="site-logo" aria-label={SITE_TITLE}>
-			<Image class="site-logo-image" src={logo} alt={SITE_TITLE} width={138} height={36} loading="eager" />
+			<img class="site-logo-image" src="/images/logo.svg" alt={SITE_TITLE} width="138" height="36" loading="eager" />
 		</a>
 		<nav class="site-nav" aria-label="Hlavní navigace">
 			{navItems.map(item => {

@@ -1,6 +1,4 @@
 ---
-import { Image } from 'astro:assets';
-import logoWhite from '../assets/logo-white.svg';
 import { SITE_TITLE } from '../consts';
 
 const year = new Date().getFullYear();
@@ -10,7 +8,7 @@ const year = new Date().getFullYear();
 	<div class="footer-inner">
 		<div class="footer-brand">
 			<a href="/" class="footer-logo" aria-label={SITE_TITLE}>
-				<Image class="footer-logo-image" src={logoWhite} alt={SITE_TITLE} width={153} height={40} loading="lazy" />
+				<img class="footer-logo-image" src="/images/logo-white.svg" alt={SITE_TITLE} width="153" height="40" loading="lazy" />
 			</a>
 			<p>
 				Blog, newsletter a praktické články ze světa 3D tisku.
