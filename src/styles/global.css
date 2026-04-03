@@ -164,18 +164,30 @@ p { margin-bottom: 1.25em; }
 }
 
 .site-logo {
-	font-family: var(--font-display);
-	font-size: 1.2rem;
-	font-weight: 800;
+	display: inline-flex;
+	align-items: center;
 	color: var(--text);
 	text-decoration: none;
 	white-space: nowrap;
-	letter-spacing: -0.02em;
+	flex-shrink: 0;
+}
+
+.site-logo-image {
+	height: 36px;
+	width: auto;
+	display: block;
 }
 
 .site-logo:hover {
 	color: var(--text);
 	text-decoration: none;
+}
+
+@media (max-width: 768px) {
+	.site-logo-image {
+		height: 30px;
+		width: auto;
+	}
 }
 
 .site-nav {
@@ -1045,16 +1057,20 @@ p { margin-bottom: 1.25em; }
 }
 
 .footer-brand {
-	max-width: 320px;
+	max-width: 380px;
 }
 
 .footer-logo {
-	display: inline-block;
-	font-family: var(--font-display);
-	font-size: 1.6rem;
-	font-weight: 800;
+	display: inline-flex;
+	align-items: center;
 	color: #fff;
 	margin-bottom: 16px;
+}
+
+.footer-logo-image {
+	height: 40px;
+	width: auto;
+	display: block;
 }
 
 .footer-logo:hover {
