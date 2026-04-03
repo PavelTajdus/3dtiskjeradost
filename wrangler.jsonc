@@ -2,6 +2,9 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "3dtiskjeradost",
   "compatibility_date": "2026-04-02",
+  "vars": {
+    "TURNSTILE_SECRET_KEY": "0x4AAAAAAAex76G0H867C5WLZeiZgOHMiXI"
+  },
   "assets": {
     "directory": "./dist/client",
     "html_handling": "auto-trailing-slash",
