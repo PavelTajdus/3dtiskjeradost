@@ -1,5 +1,5 @@
 ---
-title: "Pokec o 3D tisku: Bambu Lab retail store, Benchy pod minutu a proč vlastně tiskneme"
+title: "Pokec o 3D tisku: Bambu Lab store, Benchy pod minutu"
 pubDate: "2026-03-03T12:00:00.000Z"
 updatedDate: "2026-03-03T12:00:00.000Z"
 description: "Na members streamu jsme se prokochali Bambu Lab retailovým obchodem, koukali na Benchy pod jednu minutu, probírali statistiky Maker Worldu a filozofovali nad tím, proč vlastně tiskneme."

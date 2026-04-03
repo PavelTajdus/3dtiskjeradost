@@ -8,6 +8,7 @@ import Header from '../../components/Header.astro';
 import Newsletter from '../../components/Newsletter.astro';
 import { SITE_TITLE } from '../../consts';
 import { getPostImage } from '../../utils/getPostImage';
+import { getTagHref } from '../../utils/tags';
 import { createMetaDescription } from '../../utils/seo';
 
 const posts = (await getCollection('blog'))
@@ -86,7 +87,7 @@ const PER_PAGE = 12;
 								{post.data.tags?.[0] && (
 									<a
 										class="tag-label tag-link"
-										href={`/blog?tag=${encodeURIComponent(post.data.tags[0])}`}
+										href={getTagHref(post.data.tags[0])}
 										data-tag={post.data.tags[0]}
 									>
 										{post.data.tags[0]}

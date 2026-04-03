@@ -1,5 +1,5 @@
 ---
-title: "Jak vybrat 3D tiskárnu v roce 2026: průvodce pro začátečníky i pokročilé"
+title: "Jak vybrat 3D tiskárnu v roce 2026: velký průvodce"
 pubDate: "2023-09-11T20:52:57.000Z"
 updatedDate: "2026-04-01T12:00:00.000Z"
 description: "Jak vybrat 3D tiskárnu v roce 2026? 7 klíčových otázek + konkrétní doporučení pro začátečníky i pokročilé. Bambu Lab A1 mini, P2S, Prusa MK4S, Core One a Voron."
