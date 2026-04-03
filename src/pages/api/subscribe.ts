@@ -1,3 +1,4 @@
+// Server-side API endpoint pro newsletter s Turnstile ověřením
 export const prerender = false;
 
 import type { APIRoute } from 'astro';
