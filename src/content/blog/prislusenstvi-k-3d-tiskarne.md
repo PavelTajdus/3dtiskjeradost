@@ -2,7 +2,7 @@
 title: "Příslušenství k 3D tiskárně: co používám a doporučuji"
 pubDate: "2026-04-02T12:00:00.000Z"
 description: "Přehled příslušenství, které k 3D tiskárně reálně používám každý den. Pinzety, kleště, adheziva, špachtle a čistič podložky — co koupit hned a co počká."
-heroImage: "/images/blog/stipaci-kleste-flush-cutters.jpg"
+heroImage: "/images/blog/stipaci-kleste-flush-cutters.webp"
 tags: ["Základy 3D tisku"]
 draft: false
 ---
@@ -33,7 +33,7 @@ Nemusíte kupovat japonské za tisícovku. I levnější do 300 Kč odvádějí 
 
 ## Adheziva
 
-![Adheziva pro 3D tisk — 3DLAC, Dimafix a Devil Design](/images/blog/adheziva-3d-tisk.jpg)
+![Adheziva pro 3D tisk — 3DLAC, Dimafix a Devil Design](/images/blog/adheziva-3d-tisk.webp)
 
 PEI podložky samy o sobě výtisk drží, ale když chcete mít jistotu, adheziva jsou jasná volba. Doporučuji je mít hned od začátku.
 
@@ -47,7 +47,7 @@ Kromě sprejů existují i adheziva v lahvičkách s aplikátory — nanášení
 
 ## Špachtle
 
-![Špachtle se zkosenou hranou](/images/blog/spachtle-3d-tisk.jpg)
+![Špachtle se zkosenou hranou](/images/blog/spachtle-3d-tisk.webp)
 
 Dobrá špachtle se hodí i na flexi PEI podložce. Jo, spousta výtisků po vychladnutí praskne od povrchu sama. Ale často je výtisk přichycený silněji, základna od podpěr zůstává na podložce, a špachtlí to jde sundat líp. Když se třeba ASA přichytí moc, občas musím sáhnout i po lámacím noži.
 

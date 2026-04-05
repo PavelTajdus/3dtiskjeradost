@@ -49,9 +49,10 @@ const PER_PAGE = 12;
 			<div class="container">
 				{/* Search & filter bar */}
 				<div class="blog-toolbar">
-					<div class="search-wrap">
-						<svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-						<input
+				<div class="search-wrap" role="search">
+					<svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+					<label for="blog-search" class="sr-only">Hledat články</label>
+					<input
 							type="search"
 							id="blog-search"
 							placeholder="Hledat články…"
@@ -62,7 +63,7 @@ const PER_PAGE = 12;
 						</button>
 					</div>
 
-					<div class="tag-bar" id="tag-bar">
+					<div class="tag-bar" id="tag-bar" role="group" aria-label="Filtrovat podle štítku">
 						<button class="tag-chip active" data-tag="">Vše<span class="tag-count">{posts.length}</span></button>
 						{allTags.map(tag => (
 							<button class="tag-chip" data-tag={tag}>
@@ -96,9 +97,9 @@ const PER_PAGE = 12;
 								{post.data.tags?.[0] && <span class="sep"></span>}
 								<FormattedDate date={post.data.pubDate} />
 							</div>
-							<a class="post-card-link" href={`/blog/${post.id}/`}>
-								<h3 data-search-target="title">{post.data.title}</h3>
-								{post.data.description && (
+					<a class="post-card-link" href={`/blog/${post.id}/`}>
+						<h2 data-search-target="title">{post.data.title}</h2>
+						{post.data.description && (
 									<p class="card-excerpt" data-search-target="excerpt">{createMetaDescription(post.data.description, 145)}</p>
 								)}
 							</a>

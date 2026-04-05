@@ -3,7 +3,7 @@ title: "Artillery M1 Pro: unboxing"
 pubDate: "2025-09-04T15:38:38.000Z"
 updatedDate: "2026-04-01T12:00:00.000Z"
 description: "Tento článek není recenze. Je to shrnutí prvních dojmů z rozbalení, sestavení a oživení Artillery M1 Pro. Pokud chcete vědět, jak to vypadá, když tiskárna dorazí z obchodu až po první tisk, jste ta..."
-heroImage: "/content/images/2025/09/artillery_m1_pro_3dtiskjeradost--2-.png"
+heroImage: "/content/images/2025/09/artillery_m1_pro_3dtiskjeradost--2-.webp"
 tags: ["Artillery", "Youtube streamy"]
 ---
 

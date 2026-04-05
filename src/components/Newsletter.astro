@@ -10,18 +10,20 @@ const {
 } = Astro.props;
 ---
 
-<section class="newsletter" id="newsletter">
+<section class="newsletter" id="newsletter" aria-label="Newsletter">
 	<div class="newsletter-inner container">
 		<div class="newsletter-card">
 		<div class="newsletter-text">
-			<h3>{heading}</h3>
+			<h2>{heading}</h2>
 			<p>{text}</p>
 		</div>
 		<form class="newsletter-form" data-newsletter-form>
 			<div class="newsletter-field">
+				<label for="newsletter-email" class="sr-only">E-mailová adresa</label>
 				<input
 					type="email"
 					name="email"
+					id="newsletter-email"
 					placeholder="Tvůj e-mail"
 					required
 					autocomplete="email"
@@ -61,7 +63,7 @@ const {
 		max-width: 440px;
 	}
 
-	.newsletter-text h3 {
+	.newsletter-text h2 {
 		font-family: var(--font-display);
 		font-size: 2rem;
 		font-weight: 800;
@@ -183,7 +185,7 @@ const {
 		.newsletter-form {
 			max-width: 100%;
 		}
-		.newsletter-text h3 {
+		.newsletter-text h2 {
 			font-size: 1.5rem;
 		}
 	}
