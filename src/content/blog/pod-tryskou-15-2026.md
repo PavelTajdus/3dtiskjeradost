@@ -1,12 +1,12 @@
 ---
 title: "Pod tryskou 15/2026: Malé roboty, velké inovace"
 pubDate: "2026-04-06T07:13:35.000Z"
-description: "Tento týden se toho dělo víc než dost, od mikrorobotů, kteří se pohybují bez jediného řádku kódu, přes nový hardware od Prusy až po nepříjemné přiznání Bambu Lab. Pojďme na to."
+description: "Tento týden se toho dělo víc než dost, od mikrorobotů, kteří se pohybují bez jediného řádku kódu, přes nový hardware od Průši až po nepříjemné přiznání Bambu Lab. Pojďme na to."
 tags: ["Newsletter"]
 draft: true
 ---
 
-Tento týden se toho dělo víc než dost, od mikrorobotů, kteří se pohybují bez jediného řádku kódu, přes nový hardware od Prusy až po nepříjemné přiznání Bambu Lab. Pojďme na to.
+Tento týden se toho dělo víc než dost, od mikrorobotů, kteří se pohybují bez jediného řádku kódu, přes nový hardware od Průši až po nepříjemné přiznání Bambu Lab. Pojďme na to.
 
 ## Malí roboti bez mozku
 
@@ -16,9 +16,9 @@ Jako hobby tiskař tohle čtu s otevřenou pusou. Nejde o žádnou sci-fi, je to
 
 [Více informací](https://www.universiteitleiden.nl/en/news/2026/03/alive-or-not-tiny-3d-printed-robots-without-a-brain-that-swim-and-navigate-just-like-animals)
 
-## Ráčnový šroubovák tisknutý na místě
+## Ráčnový šroubovák typu print-in-place
 
-Jeden redditor se pustil do projektu, který by většinu z nás odradil hned na začátku: šroubovák s ráčnovým mechanismem, kompletně tisknutý na místě bez montáže. Výsledek přišel až po více než třiceti iteracích a spoustě selhání.
+Jeden redditor se pustil do projektu, který by většinu z nás odradil hned na začátku: šroubovák s ráčnovým mechanismem, kompletně print-in-place a bez montáže. Výsledek přišel až po více než třiceti iteracích a spoustě selhání.
 
 Tohle mám rád. Žádná zkratka, žádný hotový model ke stažení, jen systematické ladění a odmítnutí vzdát se. Pokud vás projekt taky táhne do podobně bláznivých vod, tohle je dobrá připomínka, že vytrvalost se vyplácí.
 
@@ -40,19 +40,19 @@ Tohle je přesně ten typ projektu, který ukazuje, jak daleko se dá zajít s p
 
 [Více informací](https://www.reddit.com/r/BambuLab/comments/1s7xzez/i_made_a_tiny_garden_kit_card_that_comes_with/)
 
-## Vodou chlazený Nextruder od Prusy
+## Vodou chlazený Nextruder od Průši
 
-V Pruse oznámili, že chystají vodou chlazený Nextruder. Zatím jde o potvrzení, že na tom pracují, konkrétní parametry ani datum vydání zveřejněné nejsou.
+U Průši oznámili, že chystají vodou chlazený Nextruder. Zatím jde o potvrzení, že na tom pracují, konkrétní parametry ani datum vydání zveřejněné nejsou.
 
-Vodní chlazení hotendu má smysl hlavně při vysokých rychlostech tisku a náročných materiálech, kde vzduchové chlazení nestačí udržet přesnou teplotní hranici mezi taveninou a pevným filamentem. Jestli to Prusa dotáhne do praxe tak, jak to funguje v průmyslovém tisku, bylo by to zajímavé. Zatím ale počkám na konkrétní data.
+Vodní chlazení hotendu má smysl hlavně při vysokých rychlostech tisku a náročných materiálech, kde vzduchové chlazení nestačí udržet přesnou teplotní hranici mezi taveninou a pevným filamentem. Jestli to Průša dotáhne do praxe tak, jak to funguje v průmyslovém tisku, bylo by to zajímavé. Zatím ale počkám na konkrétní data.
 
 [Více informací](https://www.reddit.com/r/prusa3d/comments/1s8i6m3/water_cooled_nextruder_coming_soon/)
 
-## Lasery ve firmwaru Prusy
+## Lasery ve firmwaru od Průši
 
-Jeden uživatel prohrabal firmware Prusy a našel příkazy pro ovládání laserového modulu. Nic oficiálního, žádné oznámení, jen kód, který tam je.
+Jeden uživatel prohrabal firmware od Průši a našel příkazy pro ovládání laserového modulu. Nic oficiálního, žádné oznámení, jen kód, který tam je.
 
-Může to znamenat cokoli: připravovaný produkt, experimentální větev, nebo pozůstatek z testování. Spekulovat o tom, co Prusa chystá, je lákavé, ale prozatím to beru jako kuriozitu. Budu sledovat.
+Může to znamenat cokoli: připravovaný produkt, experimentální větev, nebo pozůstatek z testování. Spekulovat o tom, co Průša chystá, je lákavé, ale prozatím to beru jako kuriozitu. Budu sledovat.
 
 [Více informací](https://www.reddit.com/r/prusa3d/comments/1s7v6wx/there_is_code_for_fing_lasers_in_the_prusa/)
 
