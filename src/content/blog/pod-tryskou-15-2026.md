@@ -4,7 +4,6 @@ pubDate: "2026-04-06T07:13:35.000Z"
 description: "Tento týden se toho dělo víc než dost, od mikrorobotů, kteří se pohybují bez jediného řádku kódu, přes nový hardware od Průši až po nepříjemné přiznání Bambu Lab. Pojďme na to."
 heroImage: "/content/images/2026/04/mikroroboti-leiden.png"
 tags: ["Newsletter"]
-draft: true
 ---
 
 Tento týden se toho dělo víc než dost, od mikrorobotů, kteří se pohybují bez jediného řádku kódu, přes nový hardware od Průši až po nepříjemné přiznání Bambu Lab. Pojďme na to.
