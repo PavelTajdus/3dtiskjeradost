@@ -1,0 +1,106 @@
+name: IndexNow ping
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'src/content/blog/**'
+      - 'src/pages/**'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'all = celý sitemap, changed = jen změněné soubory'
+        required: false
+        default: 'changed'
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Wait for Cloudflare Pages deploy
+        run: sleep 90
+
+      - name: Collect URLs and ping IndexNow
+        env:
+          INDEXNOW_KEY: 343dd592262b4348b7d5bc13f8f74621
+          SITE: https://3dtiskjeradost.cz
+          MODE: ${{ github.event.inputs.mode || 'changed' }}
+        run: |
+          python3 <<'PY'
+          import json, os, re, subprocess, urllib.request, urllib.parse, sys
+
+          KEY = os.environ["INDEXNOW_KEY"]
+          SITE = os.environ["SITE"].rstrip("/")
+          MODE = os.environ.get("MODE", "changed")
+          HOST = urllib.parse.urlparse(SITE).netloc
+          ENDPOINT = "https://api.indexnow.org/indexnow"
+
+          def slug_for(path: str) -> str | None:
+              # src/content/blog/foo.md -> /blog/foo/
+              m = re.match(r"src/content/blog/(.+)\.(md|mdx)$", path)
+              if m:
+                  return f"{SITE}/blog/{m.group(1)}/"
+              # src/pages/foo.astro -> /foo/  (index.astro -> /)
+              m = re.match(r"src/pages/(.+)\.(astro|md|mdx)$", path)
+              if m:
+                  slug = m.group(1)
+                  if slug == "index":
+                      return f"{SITE}/"
+                  return f"{SITE}/{slug}/"
+              return None
+
+          urls: list[str] = []
+
+          if MODE == "all":
+              # Fetch sitemap
+              req = urllib.request.Request(f"{SITE}/sitemap.xml", headers={"User-Agent":"indexnow-action"})
+              with urllib.request.urlopen(req, timeout=30) as r:
+                  xml = r.read().decode()
+              urls = re.findall(r"<loc>([^<]+)</loc>", xml)
+          else:
+              # Diff against previous commit
+              try:
+                  diff = subprocess.check_output(
+                      ["git", "diff", "--name-status", "HEAD~1", "HEAD"], text=True
+                  )
+              except subprocess.CalledProcessError:
+                  diff = ""
+              for line in diff.splitlines():
+                  parts = line.split("\t")
+                  if len(parts) < 2:
+                      continue
+                  status, path = parts[0], parts[-1]
+                  if status.startswith("D"):
+                      continue
+                  url = slug_for(path)
+                  if url and url not in urls:
+                      urls.append(url)
+
+          if not urls:
+              print("No URLs to submit.")
+              sys.exit(0)
+
+          print(f"Submitting {len(urls)} URLs:")
+          for u in urls:
+              print(f"  {u}")
+
+          payload = json.dumps({
+              "host": HOST, "key": KEY, "urlList": urls
+          }).encode()
+          req = urllib.request.Request(
+              ENDPOINT, data=payload,
+              headers={"Content-Type": "application/json; charset=utf-8"},
+              method="POST",
+          )
+          try:
+              with urllib.request.urlopen(req, timeout=30) as r:
+                  print(f"Status: {r.status}")
+          except urllib.error.HTTPError as e:
+              print(f"HTTP {e.code}: {e.read().decode()[:300]}")
+              sys.exit(1 if e.code >= 500 else 0)
+          PY
