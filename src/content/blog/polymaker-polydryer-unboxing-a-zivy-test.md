@@ -134,3 +134,11 @@ Upřímně, často nemusíš. Pokud máš doma sucho a PLA nenecháváš měsíc
 - **Tisk přímo z boxu je praktická výhoda**, ne jen marketingová nálepka
 
 Za mě povedený kus hardwaru. Ne proto, že by uměl zázraky, ale protože řeší reálný problém rozumným způsobem.
+
+---
+
+## Více technických informací
+
+Pokud tě zajímá detailnější technická recenze, mrkni i na moji větší recenzi na blogu Hotendu:
+
+[Polymaker Polydryer: recenze](https://blog.hotend.cz/polymaker-polydryer-recenze/)
