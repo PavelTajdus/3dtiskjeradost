@@ -127,5 +127,3 @@ A jestli doma ještě nějaké staré Benchy máš, nevyhazuj je. Je to taková 
 - Příběh vzniku a historie: [#3DBenchy – A Small Giant in the World of 3D Printing](https://www.3dbenchy.com/3dbenchy-a-small-giant-in-the-world-of-3d-printing/1000/)
 - Oznámení o uvolnění do public domain: [3DBenchy sets sail into the public domain](https://www.3dbenchy.com/3dbenchy-sets-sail-into-the-public-domain/)
 - Hull line a proč vzniká: [Prusa Knowledge Base](https://help.prusa3d.com/article/the-benchy-hull-line_124745)
-
-Úvodní foto: Megan Lee / Unsplash
