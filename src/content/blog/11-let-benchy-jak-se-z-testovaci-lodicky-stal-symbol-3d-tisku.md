@@ -1,8 +1,9 @@
 ---
 title: "11 let Benchy: jak se z testovací lodičky stal symbol 3D tisku"
 pubDate: "2026-04-09T12:00:00.000Z"
-updatedDate: "2026-04-09T12:00:00.000Z"
+updatedDate: "2026-04-10T11:02:00.000Z"
 description: "Benchy má 11 let. Jak vznikla, proč ji tiskl skoro každý a proč je pořád užitečná, i když už na ladění tiskárny sama o sobě nestačí."
+heroImage: "/content/images/2026/04/benchy-unsplash.jpg"
 tags: ["3DBenchy", "Kalibrační modely", "Historie 3D tisku"]
 draft: false
 ---
@@ -126,3 +127,5 @@ A jestli doma ještě nějaké staré Benchy máš, nevyhazuj je. Je to taková 
 - Příběh vzniku a historie: [#3DBenchy – A Small Giant in the World of 3D Printing](https://www.3dbenchy.com/3dbenchy-a-small-giant-in-the-world-of-3d-printing/1000/)
 - Oznámení o uvolnění do public domain: [3DBenchy sets sail into the public domain](https://www.3dbenchy.com/3dbenchy-sets-sail-into-the-public-domain/)
 - Hull line a proč vzniká: [Prusa Knowledge Base](https://help.prusa3d.com/article/the-benchy-hull-line_124745)
+
+Úvodní foto: Megan Lee / Unsplash
