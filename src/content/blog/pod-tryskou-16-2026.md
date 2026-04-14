@@ -18,7 +18,7 @@ Jenže jeden kutilský projekt ukazuje, že to jde i levně. Autor si postavil v
 
 ## Sovol ukazuje velký multi-color tisk
 
-Sovol zveřejnil teaser, ze kterého vyplývá, že chystají velkoformátový multi-color systém. Zatím je to jen záběr a spekulace, žádné specifikace, žádná cena. Bral bych to jako signál, že Sovol sleduje, co dělá Bambu Lab a Prusa, a nechce zůstat pozadu. Jestli z toho bude skutečný produkt, ukáže čas.
+Sovol zveřejnil teaser, ze kterého vyplývá, že chystají velkoformátový multi-color systém. Zatím je to jen záběr a spekulace, žádné specifikace, žádná cena. Bral bych to jako signál, že Sovol sleduje, co dělá Bambu Lab a Prusa Research, a nechce zůstat pozadu. Jestli z toho bude skutečný produkt, ukáže čas.
 
 [Více informací](https://www.fabbaloo.com/news/sovol-3d-printer-teaser-suggests-large-format-multi-color-printing-system)
 
@@ -42,9 +42,9 @@ Bambu Lab a Pop Mart se dohodli mimosoudně ve sporu o autorská práva, šlo o 
 
 [Více informací](https://3dprintingindustry.com/news/bambu-lab-and-pop-mart-lawsuit-settled-out-of-court-250455/?utm_source=rss&utm_medium=rss&utm_campaign=bambu-lab-and-pop-mart-lawsuit-settled-out-of-court)
 
-## Rychlejší výměna filamentu u Prusy
+## Rychlejší výměna filamentu u MMU3 od Prusa Research
 
-Prusa vydala firmware, který urychluje výměnu filamentu u MMU3. Konkrétní čísla si ověřte v odkazovaném článku, ale pokud máte MMU3 a vícebarevné tisky vás brzdí, aktualizace stojí za to. Tohle je praktická věc, která se projeví hned.
+Prusa Research vydala firmware, který urychluje výměnu filamentu u MMU3. Konkrétní čísla si ověřte v odkazovaném článku, ale pokud máte MMU3 a vícebarevné tisky vás brzdí, aktualizace stojí za to. Tohle je praktická věc, která se projeví hned.
 
 [Více informací](https://www.fabbaloo.com/news/prusa-firmware-update-speeds-mmu3-filament-swaps)
 
