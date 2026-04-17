@@ -1,18 +1,18 @@
 ---
 title: "Pod tryskou 16/2026: Co nového v 3D tisku"
 pubDate: "2026-04-14T13:59:11.000Z"
-description: "Tenhle týden se v 3D tisku urodilo docela dost novinek, od kutilského výměníku nástrojů za pár korun až po chemické stopy ve filamentu u 3D tisknutých zbraní. Tady je přehled toho, co stojí za pozorno"
+description: "Tenhle týden se v 3D tisku urodilo docela dost novinek, od kutilského Toolchangeru za pár korun až po chemické stopy ve filamentu u 3D tisknutých zbraní. Tady je přehled toho, co stojí za pozornost"
 tags: ["Newsletter"]
 heroImage: "https://hackaday.com/wp-content/uploads/2026/04/tool.png"
 ---
 
-Tenhle týden se v 3D tisku urodilo docela dost novinek, od kutilského výměníku nástrojů za pár korun až po chemické stopy ve filamentu u 3D tisknutých zbraní. Tady je přehled toho, co stojí za pozornost.
+Tenhle týden se v 3D tisku urodilo docela dost novinek, od kutilského Toolchangeru za pár korun až po chemické stopy ve filamentu u 3D tisknutých zbraní. Tady je přehled toho, co stojí za pozornost.
 
-## Levný výměník nástrojů
+## Levný Toolchanger
 
 Toolchanger, tedy zařízení, které při tisku vymění celý nástroj (trysku, extruder, nebo třeba pero), ne jen filament, je zatím záležitost dražších strojů. Kdo chce víc materiálů nebo nástrojů, platí za to.
 
-Jenže jeden kutilský projekt ukazuje, že to jde i levně. Autor si postavil vlastní výměník, cestu k funkčnímu výsledku popsal jako plnou slepých uliček, a to je vlastně ta nejlepší část příběhu. Výsledek je otevřený a přizpůsobitelný. Pokud máte tiskárnu, do které se dá šťourat, je to projekt, který se vyplatí prostudovat.
+Jenže jeden kutilský projekt ukazuje, že to jde i levně. Autor si postavil vlastní Toolchanger, cestu k funkčnímu výsledku popsal jako plnou slepých uliček, a to je vlastně ta nejlepší část příběhu. Výsledek je otevřený a přizpůsobitelný. Pokud máte tiskárnu, do které se dá šťourat, je to projekt, který se vyplatí prostudovat.
 
 [Více informací](https://hackaday.com/2026/04/13/your-own-tool-changer/)
 
