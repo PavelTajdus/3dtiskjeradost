@@ -7,6 +7,7 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import Newsletter from '../../components/Newsletter.astro';
 import { SITE_TITLE } from '../../consts';
+import { normalizeSearchText } from '../../utils/czech-typography.mjs';
 import { getPostImage } from '../../utils/getPostImage';
 import { getTagHref } from '../../utils/tags';
 import { createMetaDescription } from '../../utils/seo';
@@ -23,8 +24,8 @@ const allTags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]).map(([tag])
 // Prepare lightweight post data for client-side search/filter
 const postsData = posts.map(p => ({
 	id: p.id,
-	title: p.data.title,
-	description: p.data.description || '',
+	searchTitle: normalizeSearchText(p.data.title),
+	searchDescription: normalizeSearchText(p.data.description || ''),
 	tags: p.data.tags || [],
 }));
 
@@ -146,9 +147,13 @@ const PER_PAGE = 12;
 			// ---------- Data ----------
 			interface PostData {
 				id: string;
-				title: string;
-				description: string;
+				searchTitle: string;
+				searchDescription: string;
 				tags: string[];
+			}
+
+			function normalizeSearchText(text: string) {
+				return text.replaceAll('\u00A0', ' ').replace(/\s+/g, ' ').trim();
 			}
 
 			const postsData: PostData[] = JSON.parse(
@@ -161,8 +166,8 @@ const PER_PAGE = 12;
 			// ---------- Fuse.js ----------
 			const fuse = new Fuse(postsData, {
 				keys: [
-					{ name: 'title', weight: 0.5 },
-					{ name: 'description', weight: 0.3 },
+					{ name: 'searchTitle', weight: 0.5 },
+					{ name: 'searchDescription', weight: 0.3 },
 					{ name: 'tags', weight: 0.2 },
 				],
 				threshold: 0.35,
@@ -215,9 +220,10 @@ const PER_PAGE = 12;
 			// ---------- Filter logic ----------
 			function getFilteredIds(): string[] {
 				let results: PostData[];
+				const normalizedQuery = normalizeSearchText(query);
 
-				if (query.trim().length >= 2) {
-					results = fuse.search(query).map(r => r.item);
+				if (normalizedQuery.length >= 2) {
+					results = fuse.search(normalizedQuery).map(r => r.item);
 				} else {
 					results = postsData;
 				}
@@ -243,8 +249,7 @@ const PER_PAGE = 12;
 			}
 
 			function getQueryTerms() {
-				return query
-					.trim()
+				return normalizeSearchText(query)
 					.split(/\s+/)
 					.filter(term => term.length >= 2)
 					.sort((a, b) => b.length - a.length);
@@ -269,7 +274,7 @@ const PER_PAGE = 12;
 			function render() {
 				const ids = getFilteredIds();
 				const visibleIds = ids.slice(0, visibleCount);
-				const hasActiveSearch = query.trim().length >= 2;
+				const hasActiveSearch = normalizeSearchText(query).length >= 2;
 				const hasActiveFilters = hasActiveSearch || Boolean(activeTag);
 
 				for (const card of allCards) {
