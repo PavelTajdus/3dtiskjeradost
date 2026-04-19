@@ -1011,6 +1011,8 @@ p { margin-bottom: 1.25em; }
 	text-decoration-color: var(--accent);
 	text-underline-offset: 3px;
 	text-decoration-thickness: 1px;
+	overflow-wrap: anywhere;
+	word-break: break-word;
 }
 
 .prose a:hover {
@@ -1026,6 +1028,84 @@ p { margin-bottom: 1.25em; }
 .prose strong {
 	color: var(--text);
 	font-weight: 600;
+}
+
+.prose table {
+	width: 100%;
+	margin: 2em 0;
+	border-collapse: separate;
+	border-spacing: 0;
+	table-layout: fixed;
+	font-size: 0.96rem;
+	line-height: 1.6;
+	background: #fff;
+	border: 1px solid var(--border);
+	border-radius: 16px;
+	overflow: hidden;
+	box-shadow: 0 10px 24px rgba(15, 23, 42, 0.04);
+}
+
+.prose th,
+.prose td {
+	padding: 0.9rem 1rem;
+	text-align: left;
+	vertical-align: top;
+	border-right: 1px solid var(--border);
+	border-bottom: 1px solid var(--border);
+	overflow-wrap: anywhere;
+}
+
+.prose th:last-child,
+.prose td:last-child {
+	border-right: none;
+}
+
+.prose thead th {
+	background: var(--bg-soft);
+	color: var(--text);
+	font-weight: 700;
+}
+
+.prose tbody td:first-child,
+.prose thead th:first-child {
+	width: 22%;
+	font-weight: 700;
+	color: var(--text);
+}
+
+.prose tbody tr:nth-child(even) td {
+	background: #fbfcfe;
+}
+
+.prose tbody tr:last-child td {
+	border-bottom: none;
+}
+
+.prose thead th:first-child {
+	border-top-left-radius: 16px;
+}
+
+.prose thead th:last-child {
+	border-top-right-radius: 16px;
+}
+
+.prose tbody tr:last-child td:first-child {
+	border-bottom-left-radius: 16px;
+}
+
+.prose tbody tr:last-child td:last-child {
+	border-bottom-right-radius: 16px;
+}
+
+@media (max-width: 768px) {
+	.prose table {
+		font-size: 0.9rem;
+	}
+
+	.prose th,
+	.prose td {
+		padding: 0.75rem 0.8rem;
+	}
 }
 
 /* ========================================
