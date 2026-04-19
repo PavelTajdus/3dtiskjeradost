@@ -5,7 +5,6 @@ updatedDate: "2026-01-22T12:00:00.000Z"
 description: "Dostal jsem zapůjčený 3D skener Revopoint Miraco a poprvé v životě jsem skenoval živě na streamu. Naučil jsem se spoustu věcí — hlavně to, že je to složitější, než jsem čekal."
 heroImage: "/content/images/youtube/_usVrpDbUWs.jpg"
 tags: ["Youtube streamy", "3D skenování"]
-draft: false
 ---
 
 Dostal jsem na tři týdny zapůjčený 3D skener Revopoint Miraco a pustil se do toho živě na streamu. Spoiler: 3D skenování není tak jednoduché, jak jsem si myslel.

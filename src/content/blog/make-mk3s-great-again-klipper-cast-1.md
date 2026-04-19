@@ -5,7 +5,6 @@ updatedDate: "2025-11-13T12:00:00.000Z"
 description: "Dostal jsem starou Prusa MK3S v žalostném stavu. Plán? Nové ABS díly, Raspberry Pi, Klipper a návrat legendy. Na prvním streamu jsme rozebrali tiskárnu, vyčistili ji a začali s montáží."
 heroImage: "/content/images/youtube/PrY7tw83vxw.jpg"
 tags: ["Youtube streamy", "Prusa", "Klipper"]
-draft: false
 ---
 
 Dostal jsem starou Prusa MK3S — plně funkční, ale v žalostném stavu. Pavučiny, opotřebené díly, žádná konektivita. Plán? Kompletní předělávka s novými ABS díly, Raspberry Pi a Klipperem. Tohle bude vícedílný projekt.

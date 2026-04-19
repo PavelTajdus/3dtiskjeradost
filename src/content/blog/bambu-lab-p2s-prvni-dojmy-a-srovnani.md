@@ -5,7 +5,6 @@ updatedDate: "2025-10-14T12:00:00.000Z"
 description: "Bambu Lab představilo P2S a já jsem neodolal. Za 18 tisíc dostanete zaboxovanou tiskárnu s AMS2, HD kamerou a automatickou kalibrací průtoku. Srovnal jsem to s Prusa Core One — a výsledek je jasný."
 heroImage: "/content/images/youtube/WtUevWYWlQY.jpg"
 tags: ["Youtube streamy", "Bambu Lab", "Members only", "Pokec o 3D tisku"]
-draft: false
 ---
 
 Bambu Lab představilo P2S a já jsem neodolal — objednal jsem ji ještě před streamem. Za 18 tisíc korun dostanete zaboxovanou tiskárnu s AMS2 se sušením, HD kamerou a spoustou vychytávek. Pojďme se podívat, co všechno nabízí.

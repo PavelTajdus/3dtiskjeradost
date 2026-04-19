@@ -5,7 +5,6 @@ updatedDate: "2026-03-19T12:00:00.000Z"
 description: "Čtvrtý stavěcí stream robotické ruky ARCTOS. Konečně jsem dotiskl všechny potřebné díly a montujeme planetové převody do posledních segmentů. Ruka je skoro hotová — mechanicky."
 heroImage: "/content/images/youtube/JHZ7x6JfZMY.jpg"
 tags: ["Youtube streamy", "ARCTOS"]
-draft: false
 ---
 
 Čtvrtý díl stavby robotické ruky ARCTOS. Tentokrát jsem "jako zázrakem" dotiskl všechny potřebné díly a pustili jsme se do planetových převodů pro poslední segmenty ramena.

@@ -5,7 +5,6 @@ updatedDate: "2025-10-23T12:00:00.000Z"
 description: "Mám doma obě tiskárny a porovnal jsem je — od ceny přes kvalitu tisku až po uživatelský komfort. Výsledek? Obě tisknou skvěle, ale jedna stojí skoro dvakrát tolik."
 heroImage: "/content/images/youtube/0cfOfASRMW8.jpg"
 tags: ["Youtube streamy", "Prusa", "Bambu Lab"]
-draft: false
 ---
 
 Mám doma obě tiskárny — Prusa Core One i Bambu Lab P2S. Obě jsem si koupil za svoje peníze, žádný sponzoring. Pojďme se podívat, jak si stojí vedle sebe.

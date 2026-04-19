@@ -5,7 +5,6 @@ updatedDate: "2025-10-21T12:00:00.000Z"
 description: "Objednal jsem P2S v den oznámení a tady je. Rozbalení, zprovoznění za 15 minut, první tisky a porovnání s tím, co znám. Plus ukázka Printerhive pro správu tiskáren."
 heroImage: "/content/images/youtube/1F4szRdtYVA.jpg"
 tags: ["Youtube streamy", "Bambu Lab"]
-draft: false
 ---
 
 Objednal jsem Bambu Lab P2S combo (s AMS2) v den, kdy ji představili. Přišla za pár dní a na streamu jsme ji společně rozbalili, zprovoznili a pustili první tisky. Po 12hodinovém maratonu se stavebnicí Prusa Core One to byl docela kontrast.

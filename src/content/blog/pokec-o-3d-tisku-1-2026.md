@@ -5,7 +5,6 @@ updatedDate: "2026-01-20T12:00:00.000Z"
 description: "Na prvním members Pokec streamu roku 2026 jsme rozebrali kontroverzní návrh zákona o omezení 3D tiskáren ve Washingtonu, problémy s dostupností CAN desek pro Vorony a chystané 3D skenování."
 heroImage: "/content/images/youtube/CXq_QTO0gfQ.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku"]
-draft: false
 ---
 
 První Pokec o 3D tisku v roce 2026 — nový název pro úterní members streamy, protože "3D tiskové úterý" nikomu nic neřekne. Na programu: šílený návrh zákona z USA, mizející CAN desky pro Vorony a plány na 3D skenování.

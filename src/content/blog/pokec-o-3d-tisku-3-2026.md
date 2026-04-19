@@ -5,7 +5,6 @@ updatedDate: "2026-02-10T12:00:00.000Z"
 description: "Na members streamu jsme rozebrali non-planar tisk z videa CNC Kitchen, diskutovali o recyklaci filamentů, podpoře projektu 3D Sfinx a koukali na výrobní linky na filamenty."
 heroImage: "/content/images/youtube/T3OlaS_UHls.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku"]
-draft: false
 ---
 
 Dnešní Pokec byl bohatý — od non-planar tisku přes recyklaci filamentů až po čínské výrobní linky na struny. A samozřejmě tradiční komunální povídání.

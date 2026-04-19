@@ -5,7 +5,6 @@ updatedDate: "2025-12-29T12:00:00.000Z"
 description: "Vánoční speciál se soutěžemi a losováním — hlavní cena Bambu Lab A1 mini combo se swap modem a Printerhive členstvím. Plus menší bilancování roku a poděkování komunitě."
 heroImage: "/content/images/youtube/A5nt3ERlLVk.jpg"
 tags: ["Youtube streamy"]
-draft: false
 ---
 
 Poslední stream roku 2025 — speciální vánoční vydání s Kubou z Printerhive. Rozdávali jsme ceny, losovali přes kolo štěstí a trochu bilancovali.

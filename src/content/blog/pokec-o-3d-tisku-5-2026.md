@@ -5,7 +5,6 @@ updatedDate: "2026-03-03T12:00:00.000Z"
 description: "Na members streamu jsme se prokochali Bambu Lab retailovým obchodem, koukali na Benchy pod jednu minutu, probírali statistiky Maker Worldu a filozofovali nad tím, proč vlastně tiskneme."
 heroImage: "/content/images/youtube/FFJRJiu3trQ.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Bambu Lab"]
-draft: false
 ---
 
 Dnešní Pokec byl mix novinek a filozofování. Pokochali jsme se Bambu Lab retailovým obchodem, koukali na šílené Benchy a zamysleli se nad tím, proč vlastně tiskneme.

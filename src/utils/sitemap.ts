@@ -22,7 +22,6 @@ function absoluteUrl(pathname: string): string {
 
 export async function getSitemapEntries(): Promise<SitemapEntry[]> {
 	const posts = (await getCollection('blog'))
-		.filter((post) => !post.data.draft)
 		.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 	const latestPostDate = posts.reduce(

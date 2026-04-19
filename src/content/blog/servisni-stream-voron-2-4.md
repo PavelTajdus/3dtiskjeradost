@@ -5,7 +5,6 @@ updatedDate: "2026-01-27T12:00:00.000Z"
 description: "Zákazníkův Voron 2.4 přestal tisknout a zajel hotendem do podložky. Na streamu jsme diagnostikovali problém — přidřený ventilátor, přehřátý heat break a zapečený hotend."
 heroImage: "/content/images/youtube/eGs62g1aZQU.jpg"
 tags: ["Youtube streamy", "Members only", "Voron"]
-draft: false
 ---
 
 Přivezli mi Vorona 2.4, kterého jsem sám stavěl. Tiskl, tiskl a najednou se rozhodl zajet hotendem 4 mm do podložky. Na streamu jsme to rozebrali a zjistili, co se stalo.

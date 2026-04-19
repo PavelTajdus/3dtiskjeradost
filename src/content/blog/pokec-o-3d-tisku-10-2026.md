@@ -5,7 +5,6 @@ updatedDate: "2026-04-07T12:00:00.000Z"
 description: "Na members streamu jsem ukázal nový web 3dtiskjeradost.cz, řešil konec Bambu Lab X1, krach Zmorphu a zkoušel texturování modelů od CNC Kitchen."
 heroImage: "/content/images/youtube/6IsdZw-fwnI.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Bambu Lab"]
-draft: false
 ---
 
 Na posledním members streamu jsem ukázal nový web 3dtiskjeradost.cz, řešil konec Bambu Lab X1, krach Zmorphu a zkoušel texturování modelů od CNC Kitchen. Došlo i na pár kuriozit včetně obřích modelů z Titan 3D a drahého nástroje na čištění hotendu.

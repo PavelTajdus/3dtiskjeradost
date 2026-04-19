@@ -5,7 +5,6 @@ updatedDate: "2025-09-30T12:00:00.000Z"
 description: "Na members streamu jsem sdílel první dojmy z Prusa Core One po pár tiscích, ukázal novinky v Printerhive (IP kamery, Shopify integrace) a probrali jsme nadcházející Bambu Lab P2S."
 heroImage: "/content/images/youtube/v3-E8g5FUiM.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Prusa", "Bambu Lab"]
-draft: false
 ---
 
 Vracíme se po třítýdenní pauze a toho se nahromadilo hodně. Na programu: první dojmy z Prusa Core One po reálném tisku, novinky v Printerhive a velké téma — Bambu Lab právě oznámilo P2S.

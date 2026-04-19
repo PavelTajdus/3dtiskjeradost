@@ -5,7 +5,6 @@ updatedDate: "2026-03-24T12:00:00.000Z"
 description: "Na members streamu jsme probrali druhý ročník Printables Awards od Průši (hlavní cena 10 000 USD), koukali na zajímavé modely a řešili, co se dá na 3D tiskárně reálně vyrobit užitečného."
 heroImage: "/content/images/youtube/01PAyjvAn3o.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Prusa"]
-draft: false
 ---
 
 Na posledním members streamu jsme probrali Printables Awards — 3D tiskové Oscary od Průši — a podívali se na zajímavé modely, které vyhrály.

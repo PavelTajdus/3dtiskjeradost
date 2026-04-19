@@ -13,7 +13,6 @@ import { getTagHref } from '../../utils/tags';
 import { createMetaDescription } from '../../utils/seo';
 
 const posts = (await getCollection('blog'))
-	.filter(p => !p.data.draft)
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 // Collect all unique tags sorted by frequency (most used first)

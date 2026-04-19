@@ -5,7 +5,6 @@ updatedDate: "2026-03-10T12:00:00.000Z"
 description: "Na members streamu jsem rozbalil laserovou řezačku Two Trees a rovnou zkoušel pálit a řezat. Překvapivě výkonná mašinka, ale software chce zvyknout."
 heroImage: "/content/images/youtube/xbucMpiLPEM.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku"]
-draft: false
 ---
 
 Přišly mi nové hračky — laserová řezačka Two Trees. Na members streamu jsme ji rozbalili a rovnou zkoušeli pálit a řezat. Mám k tomu jeden konkrétní nápad, který spojí laser s 3D tiskem.

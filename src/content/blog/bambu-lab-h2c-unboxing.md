@@ -5,7 +5,6 @@ updatedDate: "2026-01-06T12:00:00.000Z"
 description: "První stream roku 2026 a hned pecka — rozbalil jsem Bambu Lab H2C s Vortek systémem. 5 hotendů v balení, vyhřívaná komora na 65 °C a 32 kg živé váhy."
 heroImage: "/content/images/youtube/eFPUkSKbTVE.jpg"
 tags: ["Youtube streamy", "Bambu Lab", "Members only"]
-draft: false
 ---
 
 Nový rok, nová tiskárna. Na prvním members streamu roku 2026 jsem rozbalil Bambu Lab H2C — nejpokročilejší tiskárnu od Bambu s Vortek systémem výměnných hotendů.

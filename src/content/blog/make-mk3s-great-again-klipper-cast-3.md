@@ -5,7 +5,6 @@ updatedDate: "2025-11-27T12:00:00.000Z"
 description: "Třetí díl předělávky MK3S — nainstalovali jsme PrusaLink, připájeli piny pro Raspberry Pi, rozběhali Klipper s Mainsailem a vytiskli první testovací tisk na 250 mm/s."
 heroImage: "/content/images/youtube/TuXnwCROYfM.jpg"
 tags: ["Youtube streamy", "Prusa", "Klipper"]
-draft: false
 ---
 
 Třetí díl a velký milník — MK3S s Klipperem tiskne! Od firmware update přes pájení pinů až po první tisk na 250 mm/s. Bylo to minimálně řečeno dobrodružné.

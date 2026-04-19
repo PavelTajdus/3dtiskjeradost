@@ -5,7 +5,6 @@ updatedDate: "2025-12-11T12:00:00.000Z"
 description: "Přivezli mi nesestavenou MK4S s MMU3 a boxem na opravu. Na streamu jsme řešili nefunkční filament senzor, kalibraci Nextruderu a nechtěně jsem spustil svůj první multimateriálový tisk."
 heroImage: "/content/images/youtube/b12TW_WTpA8.jpg"
 tags: ["Youtube streamy", "Prusa"]
-draft: false
 ---
 
 Zavolala mi paní, že potřebuje dát do kupy Průšu. Junior se pokoušel sestavit MK4S s MMU3 a boxem, ale nějak se to zaseklo. Přivezla mi celý ten moloch na prodejnu — a já se do toho pustil živě na streamu.

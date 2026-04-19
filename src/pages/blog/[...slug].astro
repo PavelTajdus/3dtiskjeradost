@@ -5,7 +5,7 @@ import { getPostImage } from '../../utils/getPostImage';
 import { getReadingTime } from '../../utils/seo';
 
 export async function getStaticPaths() {
-	const posts = (await getCollection('blog')).filter(post => !post.data.draft);
+	const posts = await getCollection('blog');
 	return posts.map((post) => ({
 		params: { slug: post.id },
 		props: post,
@@ -17,7 +17,6 @@ type Props = CollectionEntry<'blog'>;
 const post = Astro.props;
 const ogImage = getPostImage(post);
 const allPosts = (await getCollection('blog'))
-	.filter((entry) => !entry.data.draft)
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const currentIndex = allPosts.findIndex((entry) => entry.id === post.id);

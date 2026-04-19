@@ -5,7 +5,6 @@ updatedDate: "2026-03-17T12:00:00.000Z"
 description: "Na members streamu jsme probrali žalobu Pop Mart (Labubu) na Bambu Lab kvůli Maker Worldu, koukali na Elegoo Centauri Carbon 2 a zavzpomínali na retro firmware od RepRap po Marlin."
 heroImage: "/content/images/youtube/gT5v0DGrrC8.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Bambu Lab"]
-draft: false
 ---
 
 Novinek ze světa 3D tisku bylo tentokrát pomálu — Perplexity mi tři týdny házel pořád to samé. Ale přece jen se něco dělo: Labubu žaluje Bambu Lab a my jsme se ponořili do retro firmware.

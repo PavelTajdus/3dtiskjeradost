@@ -5,7 +5,6 @@ updatedDate: "2025-11-11T12:00:00.000Z"
 description: "Hodinový members stream plný novinek — Black Friday nabídky od Průši i Bambu, úspěšný launch Core One L, ocenění H2D od Time Magazine, probíjení Artillery M1 Pro a ukázka cenové kalkulačky v Printerhive."
 heroImage: "/content/images/youtube/jGkwMS3K3wE.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Prusa", "Bambu Lab", "Artillery"]
-draft: false
 ---
 
 Dnešní members stream jsem se pokusil stlačit do jedné hodiny — a povedlo se! Probrali jsme Black Friday nabídky, úspěšný launch Core One L, bezpečnostní problém s Artillery a ukázku cenové kalkulačky v [Printerhive](https://printerhive.com/cs).
