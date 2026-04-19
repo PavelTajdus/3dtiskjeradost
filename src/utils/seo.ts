@@ -1,21 +1,29 @@
 import { SITE_URL } from '../consts';
+import { NBSP } from './czech-typography.mjs';
+
+const NBSP_TOKEN = '__NBSP__';
+
+function collapseWhitespacePreservingNbsp(text: string): string {
+	return text
+		.replaceAll(NBSP, NBSP_TOKEN)
+		.replace(/\s+/g, ' ')
+		.replaceAll(NBSP_TOKEN, NBSP)
+		.trim();
+}
 
 export function stripMarkdown(markdown: string): string {
-	return markdown
+	return collapseWhitespacePreservingNbsp(markdown
 		.replace(/```[\s\S]*?```/g, ' ')
 		.replace(/`([^`]+)`/g, '$1')
 		.replace(/!\[([^\]]*)\]\([^)]*\)/g, '$1')
 		.replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
-		.replace(/[*_~>#-]/g, ' ')
-		.replace(/\s+/g, ' ')
-		.trim();
+		.replace(/[*_~>#-]/g, ' '));
 }
 
 export function createMetaDescription(text: string, maxLength = 160): string {
-	const normalized = stripMarkdown(text)
-		.replace(/\.{3,}$/g, '')
-		.replace(/\s+/g, ' ')
-		.trim();
+	const normalized = collapseWhitespacePreservingNbsp(
+		stripMarkdown(text).replace(/\.{3,}$/g, ''),
+	);
 
 	if (normalized.length <= maxLength) {
 		return normalized;

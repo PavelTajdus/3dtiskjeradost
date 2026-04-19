@@ -1,18 +1,30 @@
-import { visit } from 'unist-util-visit';
+import { applyCzechTypography } from '../src/utils/czech-typography.mjs';
 
-const NBSP = '\u00A0';
+function visitTextNodes(node, visitor) {
+	if (!node || typeof node !== 'object') {
+		return;
+	}
 
-// Jednopísmenné předložky (k, s, v, z, o, u) a spojky (a, i) dle ÚJČ.
-// Oba velikosti písmen.
-const PATTERN = /(?<=^|[\s(„""'\-–—])([ksvzouaiKSVZOUAI]) /g;
+	if (node.type === 'text') {
+		visitor(node);
+	}
+
+	if (!Array.isArray(node.children)) {
+		return;
+	}
+
+	for (const child of node.children) {
+		visitTextNodes(child, visitor);
+	}
+}
 
 export default function remarkCzechPrepositions() {
 	return (tree) => {
-		visit(tree, 'text', (node) => {
+		visitTextNodes(tree, (node) => {
 			if (typeof node.value !== 'string' || node.value.length === 0) {
 				return;
 			}
-			node.value = node.value.replace(PATTERN, `$1${NBSP}`);
+			node.value = applyCzechTypography(node.value);
 		});
 	};
 }
