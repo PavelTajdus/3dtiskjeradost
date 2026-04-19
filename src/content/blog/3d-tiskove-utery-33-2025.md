@@ -5,7 +5,6 @@ updatedDate: "2025-12-09T12:00:00.000Z"
 description: "Na members streamu jsme rozebrali kontroverzní Core One Plus upgrade s anténkou za 3 tisíce, obdivovali ručně dělanou Stone 3D tiskárnu od Nata a ladili Klipper makra na MK3S."
 heroImage: "/content/images/youtube/iBEyNy-F9r8.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Prusa", "Klipper"]
-draft: false
 ---
 
 Dneska novinek ze světa 3D tisku moc nebylo — o to víc času jsme věnovali Core One Plus upgradu (který mě dost překvapil), krásné Ston 3D tiskárně a ladění Klipper maker na MK3S.

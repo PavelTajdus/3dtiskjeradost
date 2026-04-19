@@ -5,7 +5,6 @@ updatedDate: "2026-02-03T12:00:00.000Z"
 description: "Na members streamu jsme prošli novinky v Bambu Studio 2.5 — nové infill patterny, ironing na supportech, vylepšená Prime Tower, povrchové efekty a retro vzpomínání na staré tiskárny."
 heroImage: "/content/images/youtube/WdoYgk9jTCw.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Bambu Lab"]
-draft: false
 ---
 
 Vyšlo Bambu Studio 2.5 a rovnou i hotfix. Na members streamu jsme si prošli hlavní novinky — od nových infill patternů přes ironing na supportech až po povrchové efekty.

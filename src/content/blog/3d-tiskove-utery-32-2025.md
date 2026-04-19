@@ -5,7 +5,6 @@ updatedDate: "2025-11-25T12:00:00.000Z"
 description: "Představil jsem prototyp 3D tištěného vzduchového filtru pro místnost s tiskárnami. Komplet tištěný na Venture XL, šest ventilátorů, dvě filtrační vrstvy. Plus novinky z Form Nextu."
 heroImage: "/content/images/youtube/vUcsNblj3Bg.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku"]
-draft: false
 ---
 
 Rok a půl jsem měl v hlavě projekt vzduchového filtru pro místnost plnou 3D tiskáren. Nakonec se toho ujal Marek a dneska jsem na streamu ukázal první funkční prototyp — kompletně 3D tištěný.

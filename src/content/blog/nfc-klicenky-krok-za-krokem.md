@@ -5,7 +5,6 @@ updatedDate: "2025-10-16T12:00:00.000Z"
 description: "Krok za krokem jsem ukázal, jak vytvořit 3D tištěnou klíčenku s NFC čipem. Od návrhu v Onshape, přes slicování s výměnou barvy, až po naprogramování čipu přes mobil."
 heroImage: "/content/images/youtube/aIFI9HV6eHU.jpg"
 tags: ["Youtube streamy"]
-draft: false
 ---
 
 Přišly mi NFC čipy z AliExpressu a z Láska Kitu, tak jsem si řekl — uděláme z toho klíčenky. Na streamu jsem ukázal celý postup od návrhu přes tisk až po naprogramování čipu.

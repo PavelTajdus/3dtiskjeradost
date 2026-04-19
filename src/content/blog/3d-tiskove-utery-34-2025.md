@@ -5,7 +5,6 @@ updatedDate: "2025-12-16T12:00:00.000Z"
 description: "Na posledním members streamu roku jsme probrali nové Noctua barvy v Prusamentu, obří update Artillery M1 Pro, HT hotend pro Core One L a chystaný sklad filamentů v Printerhive."
 heroImage: "/content/images/youtube/GxPWBqdnjM4.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Prusa", "Artillery"]
-draft: false
 ---
 
 Blíží se konec roku a novinek ze světa 3D tisku ubývá. Přesto jsme na members streamu probrali pár zajímavých věcí — od nové spolupráce Průši s Noctua až po chystaný sklad filamentů v [Printerhive](https://printerhive.com/cs).

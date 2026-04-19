@@ -5,7 +5,6 @@ updatedDate: "2026-02-27T12:00:00.000Z"
 description: "Druhý stavěcí stream robotické ruky ARCTOS. Montujeme první klouby, planetové převody a řešíme 3 kg vytištěných dílů z ABS."
 heroImage: "/content/images/youtube/l6Y6_NIzSNE.jpg"
 tags: ["Youtube streamy", "ARCTOS"]
-draft: false
 ---
 
 Druhý stavěcí stream robotické ruky ARCTOS. Konečně jsem dotiskl potřebné díly a pokračujeme v montáži prvních kloubů a planetových převodů.

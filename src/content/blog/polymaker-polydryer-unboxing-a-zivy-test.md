@@ -5,7 +5,6 @@ updatedDate: "2026-04-10T12:00:00.000Z"
 description: "Na streamu jsem rozbalil a rovnou vyzkoušel Polymaker Polydryer. Zajímala mě hlavně hlučnost, konstrukce, reálný pokles vlhkosti a jestli dává smysl systém oddělené topné jednotky a boxů."
 heroImage: "/content/images/youtube/I9R3AuI5Lbs.jpg"
 tags: ["Youtube streamy", "Polymaker"]
-draft: false
 ---
 
 Na čtvrtečním streamu jsem rozbalil Polymaker Polydryer a pustil ho rovnou do ostrého testu. Nešlo mi o laboratorní recenzi. Chtěl jsem si ujasnit jednu praktickou věc: je to jen dražší krabice na filament, nebo systém, který dává reálný smysl?

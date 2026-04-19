@@ -5,7 +5,6 @@ updatedDate: "2025-11-18T12:00:00.000Z"
 description: "Na members streamu jsme rozebrali čerstvě oznámenou Bambu Lab H2C s Vortek systémem. Jak rychle se mění trysky? Dává to smysl pro farmy? A proč je P2S pořád nejlepší volba pro většinu?"
 heroImage: "/content/images/youtube/3HcwCYUy_es.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Bambu Lab"]
-draft: false
 ---
 
 Bambu Lab na Form Nextu představilo H2C — svou nejpokročilejší tiskárnu s Vortek systémem výměnných hotendů. Na streamu jsme rozebrali, jak to funguje v praxi a pro koho to dává smysl.

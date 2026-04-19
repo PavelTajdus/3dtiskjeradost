@@ -5,7 +5,6 @@ updatedDate: "2026-03-05T12:00:00.000Z"
 description: "Třetí díl stavby robotické ruky ARCTOS. Montáž spojek, planetových převodů a dalších kloubů. Ruka začíná nabývat tvaru — a váhy."
 heroImage: "/content/images/youtube/zS9nTR0gfhY.jpg"
 tags: ["Youtube streamy", "ARCTOS"]
-draft: false
 ---
 
 Třetí stavěcí stream robotické ruky ARCTOS. Konečně jsem dotiskl potřebné díly (bohužel ne všechny) a pokračujeme v montáži. Ruka začíná vypadat jako ruka.

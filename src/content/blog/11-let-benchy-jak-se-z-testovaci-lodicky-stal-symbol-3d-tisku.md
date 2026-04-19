@@ -5,7 +5,6 @@ updatedDate: "2026-04-10T11:02:00.000Z"
 description: "Benchy má 11 let. Jak vznikla, proč ji tiskl skoro každý a proč je pořád užitečná, i když už na ladění tiskárny sama o sobě nestačí."
 heroImage: "/content/images/2026/04/benchy-unsplash.jpg"
 tags: ["3DBenchy", "Kalibrační modely", "Historie 3D tisku"]
-draft: false
 ---
 
 Jestli tiskneš déle než týden, je skoro jisté, že jsi někdy vytiskl Benchy. Tu malou lodičku, kterou lidi dávají do recenzí, staví na polici a občas podle ní soudí celou tiskárnu.

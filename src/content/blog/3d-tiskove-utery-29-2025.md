@@ -5,7 +5,6 @@ updatedDate: "2025-11-04T12:00:00.000Z"
 description: "Na members streamu jsme rozebrali Prusa Open Print (NFC tagy na filamenty), oznámení Core One L, změny u Devil Designu s menšími špulkami a další novinky ze světa 3D tisku."
 heroImage: "/content/images/youtube/iAbTJwDjzog.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Prusa"]
-draft: false
 ---
 
 Na úterním members streamu jsme probrali několik zajímavých novinek — Prusa Open Print tagy, oznámení Core One L, změny špulek u Devil Designu a pár dalších věcí ze světa 3D tisku.

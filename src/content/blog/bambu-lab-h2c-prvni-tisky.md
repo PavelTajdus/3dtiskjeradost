@@ -5,7 +5,6 @@ updatedDate: "2026-01-08T12:00:00.000Z"
 description: "Konečně tisknem na H2C! Vyzkoušeli jsme Vortek systém s vícebarevnou jahodou z ASA, sledovali výměny hotendů v reálu a probrali upgrade z H2S/H2D na H2C."
 heroImage: "/content/images/youtube/Y9s4dMJB3co.jpg"
 tags: ["Youtube streamy", "Bambu Lab"]
-draft: false
 ---
 
 Po úterním unboxingu je čas na tisky. Na H2C jsme pustili vícebarevnou jahodu z ASA a sledovali, jak Vortek systém funguje v praxi. Spoiler: funguje parádně.

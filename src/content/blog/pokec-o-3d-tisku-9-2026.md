@@ -5,7 +5,6 @@ updatedDate: "2026-03-31T12:00:00.000Z"
 description: "Na members streamu jsme probrali 3D tištěné mikroroboty bez mozku, úspory v nemocnicích díky 3D tisku, nové Adidas boty z tiskárny, LEGO tiskárnu a stav Voron komunity."
 heroImage: "/content/images/youtube/7Lxy5tEfs6w.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Voron"]
-draft: false
 ---
 
 Poslední Pokec v březnu — vrtám se v přípravě newsletteru a našel jsem pár zajímavostí, které stojí za probírku. Od mikrorobotů po umírající Voron komunitu.

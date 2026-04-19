@@ -5,7 +5,6 @@ updatedDate: "2025-11-20T12:00:00.000Z"
 description: "Pokračujeme v předělávce Prusa MK3S. Na programu: dokončení kabeláže se zdroje, výměna plastových dílů extruderu a montáž toolheadu. Postupujeme pomalu, ale jistě."
 heroImage: "/content/images/youtube/e9QGKoNPUUE.jpg"
 tags: ["Youtube streamy", "Prusa", "Klipper"]
-draft: false
 ---
 
 Druhý díl předělávky Prusa MK3S na Klipper. Minule jsme tiskárnu rozebrali a vyčistili, dnes pokračujeme s kabeláží a extruderem. Tři a půl hodiny streamu, spousta drobné práce a pár překvapení.

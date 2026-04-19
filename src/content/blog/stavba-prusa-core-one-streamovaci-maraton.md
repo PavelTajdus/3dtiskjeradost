@@ -5,7 +5,6 @@ updatedDate: "2025-09-07T12:00:00.000Z"
 description: "Skládal jsem Prusa Core One ze stavebnice živě na streamu. Trvalo to skoro 12 hodin a neobešlo se to bez dramatu — zlomená matka, přetisk dílu a pár upřímných názorů na poměr cena/výkon."
 heroImage: "/content/images/youtube/wXthrk2F6TM.jpg"
 tags: ["Youtube streamy", "Prusa"]
-draft: false
 ---
 
 Skládal jsem Prusa Core One ze stavebnice živě na streamu. Co mělo být odpolední záležitost se protáhlo na skoro 12 hodin. Bylo to dobrodružství plné překvapení — ne vždy příjemných.

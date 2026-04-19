@@ -5,7 +5,6 @@ updatedDate: "2025-10-30T12:00:00.000Z"
 description: "Pokračování klíčenkového streamu — tentokrát s čtyřbarevným tiskem na A1 mini se swap modem. Návrh v Affinity Designeru, modelování v Onshape a automatická výroba."
 heroImage: "/content/images/youtube/6u44vHFKW6A.jpg"
 tags: ["Youtube streamy"]
-draft: false
 ---
 
 Minulý klíčenkový stream nebyl úplně ono — tentokrát jsem to vzal pořádně. Čtyři barvy, oboustranná klíčenka se zapuštěným textem a automatický tisk na A1 mini se swap modem.

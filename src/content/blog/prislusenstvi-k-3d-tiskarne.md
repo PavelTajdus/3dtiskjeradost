@@ -4,7 +4,6 @@ pubDate: "2026-04-02T12:00:00.000Z"
 description: "Přehled příslušenství, které k 3D tiskárně reálně používám každý den. Pinzety, kleště, adheziva, špachtle a čistič podložky — co koupit hned a co počká."
 heroImage: "/images/blog/stipaci-kleste-flush-cutters.webp"
 tags: ["Základy 3D tisku"]
-draft: false
 ---
 
 Když si koupíte 3D tiskárnu, spousta lidí řeší filamenty, upgrady, firmware... ale zapomene na základní příslušenství, bez kterého je tisk zbytečný opruz. Tady je to, co reálně používám a bez čeho bych tisknout nechtěl.

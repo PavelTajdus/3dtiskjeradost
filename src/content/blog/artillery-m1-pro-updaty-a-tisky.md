@@ -5,7 +5,6 @@ updatedDate: "2025-10-02T12:00:00.000Z"
 description: "Vrátil jsem se k Artillery M1 Pro po pár týdnech. Aktualizace firmware, boj s displejem, levelování podložky a první nahlédnutí do útrob tiskárny. Zkrátka klasický stream plný překvapení."
 heroImage: "/content/images/youtube/62K2OG5dyE4.jpg"
 tags: ["Youtube streamy", "Artillery"]
-draft: false
 ---
 
 Vrátil jsem se k Artillery M1 Pro po pár týdnech odmlky. Na programu bylo: aktualizace firmware, pokusy o rozumný tisk a trochu detektivní práce s podložkou. Spoiler — bylo to dobrodružství.

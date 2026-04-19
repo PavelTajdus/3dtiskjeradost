@@ -5,7 +5,6 @@ updatedDate: "2026-02-17T12:00:00.000Z"
 description: "Na members streamu jsme zkoušeli novou funkci Printerhive — sklad filamentů. Plus jsme rozebrali chystaný Creality Filament Maker M1 a proč domácí výroba filamentu zatím nedává smysl."
 heroImage: "/content/images/youtube/wG_DRp692c4.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku"]
-draft: false
 ---
 
 Dnešní stream měl jasný úkol od Kuby: vyzkoušet novou funkci [Printerhive](https://printerhive.com/cs) — sklad filamentů. Poprvé jsem to viděl a rovnou jsem to na streamu plnil. Plus jsme rozebrali chystaný Creality Filament Maker.

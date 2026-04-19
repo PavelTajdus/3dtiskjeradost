@@ -5,7 +5,6 @@ updatedDate: "2025-10-28T12:00:00.000Z"
 description: "Na members streamu jsme rozebrali novinku Bambu Lab Vortek (tool changer pro H2C), porovnali ji s INDX od Bondtechu a ponořili se do nastavení sliceru pro lepší povrch tisků."
 heroImage: "/content/images/youtube/uR6fyBG9BVc.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Bambu Lab"]
-draft: false
 ---
 
 Na dnešním members streamu jsme se podívali na horkou novinku — Bambu Lab Vortek (systém výměnných trysek pro chystanou H2C), srovnali to s INDX řešením od Bondtechu a na závěr se ponořili do nastavení sliceru pro hezčí povrch tisků.
