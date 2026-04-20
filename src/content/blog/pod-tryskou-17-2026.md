@@ -1,12 +1,12 @@
 ---
 title: "Pod tryskou 17/2026: Novinky z mikrovlnných tiskáren a barevných gradientů"
 pubDate: "2026-04-20T05:08:44.000Z"
-description: "Tento týden toho přišlo víc, než jsem čekal. Výzkum mikrovlnného ohřevu filamentu, dva různé Bambu updaty (a ne, nejsou to totéž), domácí tool changer, nová tiskárna X2D a decentralizované sítě tiskař"
+description: "Tento týden toho přišlo víc, než jsem čekal. Výzkum mikrovlnného ohřevu filamentu, dva různé Bambu updaty, databáze pro správu filamentů, nová tiskárna X2D a decentralizované sítě tiskařů zásobující Ukrajinu"
 tags: ["Newsletter"]
 heroImage: "https://cdn.mos.cms.futurecdn.net/pibVVPjtw8ieTUSJy95vJS-540-80.webp"
 ---
 
-Tento týden toho přišlo víc, než jsem čekal. Výzkum mikrovlnného ohřevu filamentu, dva různé Bambu updaty (a ne, nejsou to totéž), domácí tool changer, nová tiskárna X2D a decentralizované sítě tiskařů zásobující Ukrajinu. Pojďme na to.
+Tento týden toho přišlo víc, než jsem čekal. Výzkum mikrovlnného ohřevu filamentu, dva různé Bambu updaty (a ne, nejsou to totéž), databáze pro správu filamentů, nová tiskárna X2D a decentralizované sítě tiskařů zásobující Ukrajinu. Pojďme na to.
 
 ## Mikrovlnný ohřev filamentu
 
@@ -32,13 +32,13 @@ Jsou to dvě různé věci, i když spolu úzce souvisí. Pokud vás barevné ti
 
 [Více informací](https://www.fabbaloo.com/news/bambustudio-update-adds-color-mixing)
 
-## Domácí tool changer
+## Databáze filamentů, která dává smysl
 
-Na Hackaday se objevil projekt Ultimate Tool Changer, DIY systém výměny nástrojů pro 3D tiskárny, navržený s důrazem na jednoduchost a nízkou cenu. Pro ty, kdo si tiskárnu stavěli sami nebo mají starší stroj, který by šlo rozšířit, je to zajímavý projekt k prozkoumání.
+Na Fabbaloo narazili na projekt 3D Filament Profiles, což je v podstatě obří katalog filamentů od stovek výrobců. Ne jako další mrtvý seznam, ale jako místo, kde si můžeš vést vlastní zásobu cívek, porovnávat materiály a dohledat, co jsi vlastně koupil před pár měsíci.
 
-Osobně mám pro podobné projekty slabost. Komerční tool changery jsou drahé a většinou vázané na konkrétní platformu. Levné DIY řešení, které funguje, je přesně to, co komunita potřebuje.
+Praktická je hlavně standardizace. Projekt umí generovat jednotné štítky na cívky a pomáhá hledat podobné materiály třeba i podle barvy. Pro domácí dílnu je to příjemné, pro malou farmu nebo makerspace ještě víc. Zatím tomu chybí sdílené tiskové profily pro konkrétní kombinace materiálu a tiskárny, ale i tak je to jeden z těch projektů, které dávají smysl hned.
 
-[Více informací](https://hackaday.com/2026/04/13/your-own-tool-changer/)
+[Více informací](https://www.fabbaloo.com/news/a-long-needed-database-for-filament-management)
 
 ## Bambu X2D: Dvě trysky a ohřevná komora
 
