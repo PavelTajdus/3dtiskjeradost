@@ -22,7 +22,7 @@ Bambu Lab vydal update firmwaru, který přidává podporu plynulých barevných
 
 Tohle je praktická novinka pro dnešek, pokud máte kompatibilní tiskárnu Bambu a AMS, funkce je dostupná po aktualizaci. Výsledky, které jsem viděl na fórech, vypadají přesvědčivě. Konečně něco jiného než tvrdé přechody mezi barvami.
 
-[Více informací](https://www.tomshardware.com/3d-printing/bambu-updates-its-3d-printers-to-print-unique-hues-or-gradients-using-two-or-three-filament)
+[Více informací](https://www.tomshardware.com/3d-printing/bambu-updates-its-3d-printers-to-print-unique-hues-or-gradients-using-two-or-three-filaments-company-acknowledges-orcaslicer-fullspectrum-fork-as-the-basis-for-the-color-prediction-part-of-the-new-feature)
 
 ## Míchání barev v BambuStudio, update sliceru
 
@@ -45,6 +45,8 @@ Praktická je hlavně standardizace. Projekt umí generovat jednotné štítky n
 Bambu Lab oznámil novou desktopovou tiskárnu X2D s dvěma tryskami a ohřevnou komorou. Zatím nemám v ruce konkrétní cenu ani kompletní specifikace, odkaz na Fabbaloo má víc detailů. Ohřevná komora je pro tisk technických materiálů jako ABS nebo ASA zásadní věc, takže pokud to Bambu dotáhne dobře a cena bude odpovídající, může to být zajímavá volba v segmentu, kde zatím dominuje Bambu vlastními staršími modely a Prusa XL.
 
 X2D jsme mimochodem nedávno rozebrali i v samostatném článku, protože to není jen další rychlá Bambu. Zajímavější je na ní hlavně dual-nozzle workflow, menší odpad a čistší podpěry.
+
+[Náš rozbor X2D](https://blog.hotend.cz/bambu-lab-x2d-komu-dava-smysl-komu-ne-proti-p2s-a-h2d/)
 
 Zatím to beru jako oznámení, ne jako recenzi.
 
