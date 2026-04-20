@@ -44,13 +44,10 @@ To je zároveň i slabina toho Fabbaloo projektu. Název slibuje nejen evidenci,
 
 ## Bambu X2D: už ji máme na e-shopu
 
-Bambu Lab X2D už máme na Hotendu za 17 990 Kč, combo s AMS 2 Pro za 23 990 Kč. Za mě na ní není nejzajímavější samotná rychlost, ale to, že bere část filozofie H řady a dává ji do menšího a dostupnějšího stroje. Dvě trysky tu nejsou jen do tabulky. Největší smysl dávají pro čistší podpory, menší spotřebu materiálu a rozumnější vícebarevný nebo vícemateriálový tisk.
+[Bambu Lab X2D už máme na Hotendu](https://www.hotend.cz/p/bambu-lab-x2d) za 17 990 Kč, [combo s AMS 2 Pro](https://www.hotend.cz/p/bambu-lab-x2d-combo-s-ams-2-pro) za 23 990 Kč. Za mě na ní není nejzajímavější samotná rychlost, ale to, že bere část filozofie H řady a dává ji do menšího a dostupnějšího stroje. Dvě trysky tu nejsou jen do tabulky. Největší smysl dávají pro čistší podpory, menší spotřebu materiálu a rozumnější vícebarevný nebo vícemateriálový tisk.
 
-Druhá podstatná věc je komora vyhřívaná na 65 °C a tryska do 300 °C. Právě to z ní dělá zajímavější mašinu i pro ABS, ASA nebo další techničtější materiály. Není to malá H2D a není to tiskárna pro každého. Pokud chceš hlavně co nejjednodušší PLA a PETG workflow, P2S pořád může dávat větší smysl. Pokud ale řešíš podpory, spotřebu materiálu a technické materiály, X2D už je mnohem zajímavější.
+Druhá podstatná věc je komora vyhřívaná na 65 °C a tryska do 300 °C. Právě to z ní dělá zajímavější mašinu i pro ABS, ASA nebo další techničtější materiály. Není to malá H2D a není to tiskárna pro každého. Pokud chceš hlavně co nejjednodušší PLA a PETG workflow, P2S pořád může dávat větší smysl. Pokud ale řešíš podpory, spotřebu materiálu a technické materiály, X2D už je mnohem zajímavější, a detailněji jsem to rozepsal i v [našem rozboru X2D](https://blog.hotend.cz/bambu-lab-x2d-komu-dava-smysl-komu-ne-proti-p2s-a-h2d/).
 
-[Náš rozbor X2D](https://blog.hotend.cz/bambu-lab-x2d-komu-dava-smysl-komu-ne-proti-p2s-a-h2d/)
-[X2D na Hotend.cz](https://www.hotend.cz/p/bambu-lab-x2d)
-[X2D Combo s AMS 2 Pro na Hotend.cz](https://www.hotend.cz/p/bambu-lab-x2d-combo-s-ams-2-pro)
 [Více informací](https://www.fabbaloo.com/news/bambu-lab-launches-x2d-3d-printer-with-dual-nozzles-and-heated-chamber)
 
 ## Jednodušší zpracování purge odpadu
