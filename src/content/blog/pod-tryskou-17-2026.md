@@ -1,61 +1,69 @@
 ---
-title: "Pod tryskou 17/2026: Co nového v 3D tisku"
-pubDate: "2026-04-20T05:04:23.000Z"
-description: "Tento týden toho bylo víc než dost, mikrovlny v tiskárnách, Bambu na všech frontách, vojenské drony z domácích tiskáren. Pojďme na to."
+title: "Pod tryskou 17/2026: Novinky z mikrovlnných tiskáren a barevných gradientů"
+pubDate: "2026-04-20T05:08:44.000Z"
+description: "Tento týden toho přišlo víc, než jsem čekal. Výzkum mikrovlnného ohřevu filamentu, dva různé Bambu updaty (a ne, nejsou to totéž), domácí tool changer, nová tiskárna X2D a decentralizované sítě tiskař"
 tags: ["Newsletter"]
 heroImage: "https://cdn.mos.cms.futurecdn.net/pibVVPjtw8ieTUSJy95vJS-540-80.webp"
 ---
 
-Tento týden toho bylo víc než dost, mikrovlny v tiskárnách, Bambu na všech frontách, vojenské drony z domácích tiskáren. Pojďme na to.
+Tento týden toho přišlo víc, než jsem čekal. Výzkum mikrovlnného ohřevu filamentu, dva různé Bambu updaty (a ne, nejsou to totéž), domácí tool changer, nová tiskárna X2D a decentralizované sítě tiskařů zásobující Ukrajinu. Pojďme na to.
 
 ## Mikrovlnný ohřev filamentu
 
-Výzkumníci přišli na způsob, jak ohřívat filament pomocí mikrovln, a to lokálně, v oblasti tenké jako lidský vlas. Zmiňují možnost vkládat vodivé cesty přímo do tištěného objektu během tisku, což by otevřelo cestu k integraci elektroniky bez dodatečné montáže.
+Výzkumníci přišli na způsob, jak při FFF tisku ohřívat filament mikrovlnami s přesností na úrovni šířky lidského vlasu. To by teoreticky umožnilo tisknout vodivé dráhy přímo uvnitř objektu, bez nutnosti přerušovat tisk a vkládat komponenty ručně.
 
-Budu upřímný: tohle je zatím čistý výzkum, ne funkce, kterou uvidíme v příštím OrcaSliceru. Pro domácí tiskaře je to spíš vzdálená perspektiva než cokoliv aktuálně použitelného. Přesto stojí za sledování, podobné nápady mají občas překvapivě krátkou cestu od laboratoře k praxi.
+Zatím je to laboratorní výsledek, ne produkt. „Brzy budeme tisknout drony doma" je přehnaný závěr. Realističtější výhled je, že tato metoda může za několik let ovlivnit průmyslový tisk elektroniky. Pro hobby tiskaře je to spíš zajímavá zpráva do zásoby, sledovat, jak se to vyvíjí.
 
 [Více informací](https://www.tomshardware.com/3d-printing/researchers-find-a-way-to-heat-3d-printer-filament-using-microwaves-enabling-fusing-circuits-inside-printed-objects-tech-supports-precise-heating-down-to-the-width-of-a-human-hair)
 
-## Bambu přidává barevné přechody
+## Barevné přechody od Bambu Lab, firmware tiskáren
 
-Bambu aktualizoval firmware svých tiskáren tak, aby zvládaly tisknout plynulé barevné přechody nebo smíchané odstíny ze dvou či tří filamentů. Firma zároveň otevřeně říká, že základ pro výpočet barev pochází z forku OrcaSlicer-FullSpectrum, což je příjemné přiznání závislosti na open-source komunitě.
+Bambu Lab vydal update firmwaru, který přidává podporu plynulých barevných přechodů při tisku ze dvou nebo tří filamentů. Firma přiznává, že základ funkce tvoří fork projektu OrcaSlicer-FullSpectrum.
 
-Prakticky zajímavé hlavně pro uživatele AMS. Bez multimaterialového systému z toho moc nevytěžíte.
+Tohle je praktická novinka pro dnešek, pokud máte kompatibilní tiskárnu Bambu a AMS, funkce je dostupná po aktualizaci. Výsledky, které jsem viděl na fórech, vypadají přesvědčivě. Konečně něco jiného než tvrdé přechody mezi barvami.
 
 [Více informací](https://www.tomshardware.com/3d-printing/bambu-updates-its-3d-printers-to-print-unique-hues-or-gradients-using-two-or-three-filament)
 
-## Vlastní výměník nástrojů
+## Míchání barev v BambuStudio, update sliceru
 
-Na Hackaday vyšel článek o DIY výměníku nástrojů, autor popisuje svůj pokus postavit funkční a levný systém od nuly. Výsledek není dokonalý, ale celý přístup je zajímavý pro každého, kdo přemýšlí o tool-changeru jako o projektu, ne jako o hotovém produktu.
+Odděleně od firmwaru přišel i update samotného BambuStudia, který přidává rozhraní pro míchání barev přímo ve sliceru. Zatímco firmware řeší, jak tiskárna fyzicky přechází mezi filamenty, BambuStudio teď umožňuje toto chování nastavovat a vizualizovat přímo při přípravě tisku.
 
-Pokud vás tool-changing zajímá, ale nechcete platit za komerční řešení, tohle je dobrý výchozí bod na pochopení, co všechno takový systém obnáší.
-
-[Více informací](https://hackaday.com/2026/04/13/your-own-tool-changer/)
-
-## BambuStudio přidává míchání barev
-
-Bambu Lab přidal do BambuStudia funkci míchání barev přímo ve sliceru. Spolu s aktualizací firmwaru výše to vypadá jako koordinovaný krok, software a hardware jdou ruku v ruce.
+Jsou to dvě různé věci, i když spolu úzce souvisí. Pokud vás barevné tisky zajímají, stojí za to přečíst oba články.
 
 [Více informací](https://www.fabbaloo.com/news/bambustudio-update-adds-color-mixing)
 
-## Bambu X2D, dvě trysky a ohřevná komora
+## Domácí tool changer
 
-Bambu Lab uvedl novou tiskárnu X2D se dvěma tryskami a ohřevnou komorou. Víc detailů zatím nemám k dispozici, cenu ani srovnání s konkurencí jsem neověřoval, takže se zdržím hodnocení. Odkaz níže mluví za sebe.
+Na Hackaday se objevil projekt Ultimate Tool Changer, DIY systém výměny nástrojů pro 3D tiskárny, navržený s důrazem na jednoduchost a nízkou cenu. Pro ty, kdo si tiskárnu stavěli sami nebo mají starší stroj, který by šlo rozšířit, je to zajímavý projekt k prozkoumání.
+
+Osobně mám pro podobné projekty slabost. Komerční tool changery jsou drahé a většinou vázané na konkrétní platformu. Levné DIY řešení, které funguje, je přesně to, co komunita potřebuje.
+
+[Více informací](https://hackaday.com/2026/04/13/your-own-tool-changer/)
+
+## Bambu X2D: Dvě trysky a ohřevná komora
+
+Bambu Lab oznámil novou desktopovou tiskárnu X2D s dvěma tryskami a ohřevnou komorou. Zatím nemám v ruce konkrétní cenu ani kompletní specifikace, odkaz na Fabbaloo má víc detailů. Ohřevná komora je pro tisk technických materiálů jako ABS nebo ASA zásadní věc, takže pokud to Bambu dotáhne dobře a cena bude odpovídající, může to být zajímavá volba v segmentu, kde zatím dominuje Bambu vlastními staršími modely a Prusa XL.
+
+Zatím to beru jako oznámení, ne jako recenzi.
 
 [Více informací](https://www.fabbaloo.com/news/bambu-lab-launches-x2d-3d-printer-with-dual-nozzles-and-heated-chamber)
 
-## Jiný přístup k prime line
+## Jednodušší zpracování purge odpadu
 
-Uživatel Prusi přišel s úpravou, která mění způsob, jak FFF tiskárny nakládají s odpadním materiálem při purge sekvenci. Není to žádná velká věc, ale je to přesně ten typ malého, praktického nápadu, který si pak říkáte: proč to nikdo nevymyslel dřív?
+Prusa uživatelé upozornili na úpravu, která mění způsob, jak tiskárny řady Core One nakládají s odpadem při čištění trysky mezi barvami. Místo klasické purge věže nebo wipe do bloku jde o jiný přístup ke zpracování tohoto odpadu, detaily jsou v článku na Fabbaloo.
+
+Není to převratná věc, ale pokud tisknete vícebarevně a purge odpad vás otravuje, může stát za přečtení.
 
 [Více informací](https://www.fabbaloo.com/news/prusa-users-spotlight-a-simple-core-one-feature-that-could-quietly-change-how-fff-printers-handle-purge-waste)
 
-## Decentralizované sítě tiskáren zásobují Ukrajinu díly pro drony
+## 3D tisk pro Ukrajinu
 
-Tajné sítě desktopových 3D tiskáren dodávají ve velkém díly pro drony na Ukrajinu. Je to eticky i prakticky složité téma, ale z pohledu 3D tisku jde o přímý důkaz, že distribuovaná výroba z domácích strojů dokáže fungovat v reálném měřítku a pod tlakem. To je jiná liga než tisk organizerů do zásuvky.
+Fabbaloo popsalo decentralizované sítě tiskařů, kteří tisknou součásti pro drony a dodávají je na Ukrajinu. Jde o koordinované skupiny fungující mimo centrální struktury, proto „tajné" v názvu článku.
+
+Je to připomínka, že 3D tisk má reálný dopad i mimo hobby projekty. A taky dobrý důvod, proč komunita kolem open-source tisku a sdílení souborů není jen zábava.
 
 [Více informací](https://www.fabbaloo.com/news/secret-decentralized-3d-printing-networks-supply-drone-parts-to-ukraine-at-scale)
 
 ---
 
-Tohle byl týden hodně ve znamení Bambu, což samo o sobě říká něco o tom, kde se teď odvětví pohybuje. Příště snad víc rozmanitosti. Tiskněte!
+Týden plný Bambu novinek, ale tentokrát aspoň ne všechny stejné. Mikrovlnný výzkum si nechám v záložkách a počkám, co z toho za pár let vyroste. Příští týden zas.
