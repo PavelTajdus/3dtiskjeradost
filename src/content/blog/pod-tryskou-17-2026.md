@@ -44,6 +44,8 @@ Praktická je hlavně standardizace. Projekt umí generovat jednotné štítky n
 
 Bambu Lab oznámil novou desktopovou tiskárnu X2D s dvěma tryskami a ohřevnou komorou. Zatím nemám v ruce konkrétní cenu ani kompletní specifikace, odkaz na Fabbaloo má víc detailů. Ohřevná komora je pro tisk technických materiálů jako ABS nebo ASA zásadní věc, takže pokud to Bambu dotáhne dobře a cena bude odpovídající, může to být zajímavá volba v segmentu, kde zatím dominuje Bambu vlastními staršími modely a Prusa XL.
 
+X2D jsme mimochodem nedávno rozebrali i v samostatném článku, protože to není jen další rychlá Bambu. Zajímavější je na ní hlavně dual-nozzle workflow, menší odpad a čistší podpěry.
+
 Zatím to beru jako oznámení, ne jako recenzi.
 
 [Více informací](https://www.fabbaloo.com/news/bambu-lab-launches-x2d-3d-printer-with-dual-nozzles-and-heated-chamber)
