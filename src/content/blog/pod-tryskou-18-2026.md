@@ -1,12 +1,12 @@
 ---
 title: "Pod tryskou 18/2026: Co je nového v 3D tisku"
 pubDate: "2026-04-27T05:02:40.000Z"
-description: "Tento týden bylo v 3D tisku rušno, od nastavení sliceru pro odolné PLA díly přes Prusa INDX až po knihovnu presetů od Polymakeru. Tady je přehled toho, co stojí za pozornost."
+description: "Tento týden bylo v 3D tisku rušno, od nastavení sliceru pro odolné PLA díly přes INDX od Prusa Research až po knihovnu presetů od Polymakeru. Tady je přehled toho, co stojí za pozornost."
 tags: ["Newsletter"]
 heroImage: "https://hackaday.com/wp-content/uploads/2026/04/maker-muse-strong-pla.jpg"
 ---
 
-Tento týden bylo v 3D tisku rušno, od nastavení sliceru pro odolné PLA díly přes Prusa INDX až po knihovnu presetů od Polymakeru. Tady je přehled toho, co stojí za pozornost.
+Tento týden bylo v 3D tisku rušno, od nastavení sliceru pro odolné PLA díly přes INDX od Prusa Research až po knihovnu presetů od Polymakeru. Tady je přehled toho, co stojí za pozornost.
 
 ## Extrémně odolné díly z PLA
 
@@ -20,7 +20,7 @@ Bambu Lab si nechalo patentovat nový způsob podávání flexibilních filament
 
 [Více informací](https://www.fabbaloo.com/news/bambu-lab-patent-points-to-new-filament-handling-system-for-flexible-tpu-materials)
 
-## Prusa otevřela objednávky na INDX
+## Prusa Research otevřela objednávky na INDX
 
 Prusa Research otevřela objednávky na upgrade INDX, který slibuje výrazně méně odpadu při vícebarevném a multimateriálovém tisku. Přesněji řečeno, ne nulový odpad, ale citelné omezení oproti klasickému systému s purgováním. Pro ty, kdo tisknou vícebarevně a sledují spotřebu filamentu, to vypadá zajímavě.
 
