@@ -5,9 +5,16 @@ import cloudflare from '@astrojs/cloudflare';
 import { defineConfig } from 'astro/config';
 import remarkCzechPrepositions from './scripts/remark-czech-prepositions.mjs';
 
-// https://astro.build/config
 export default defineConfig({
+
 	site: 'https://3dtiskjeradost.cz',
+	// The site does not use Astro sessions. Keep a null driver so the Cloudflare
+	// adapter does not auto-provision a SESSION KV namespace on deploy.
+	session: {
+		driver: {
+			entrypoint: 'unstorage/drivers/null',
+		},
+	},
 	adapter: cloudflare(),
 	integrations: [mdx()],
 	markdown: {
