@@ -20,12 +20,6 @@ Výzkumníci z Dalianské univerzity si nechali patentovat filamenty s vlastním
 
 [Více informací](https://www.fabbaloo.com/news/self-heating-composite-filaments-could-simplify-am)
 
-## PrintDry PRO4, modulární sušička s vyššími teplotami
-
-PrintDry přidalo do nabídky sušičku PRO4 s modulárním designem a podporou sušení při vyšších teplotách. Pro ty, kdo pravidelně tisknou z nylonu, PC nebo TPU, je vlhkost filamentu věčné téma. Modulární systém by měl umožnit sušit různé typy materiálů najednou, jak přesně to funguje v praxi, ukáže až testování.
-
-[Více informací](https://www.fabbaloo.com/news/printdry-launches-pro4-filament-dryer-with-modular-design-and-high-temperature-capability)
-
 ## Bambu Lab vs. komunita: OrcaSlicer-BambuLab projekt skončil
 
 Vývojář znovu zpřístupnil funkce, které Bambu Lab ve svých tiskárnách zablokoval. Reakce firmy přišla rychle, právní výhrůžky a projekt OrcaSlicer-BambuLab byl stažen. Tohle je citlivé téma a nebylo by fér ho zjednodušovat na „respektujte licence". Bambu Lab tiskárny jsou oblíbené, ale uzavřený ekosystém má svou cenu, a tato kauza to ukazuje docela plasticky. Jak to dopadne dlouhodobě, zatím nikdo neví.
@@ -54,7 +48,7 @@ V Kalifornii se projednává zákon, který by omezil prodej 3D tiskáren, podle
 
 Noctua, výrobce, jehož ventilátory najdete v půlce domácích tiskáren, zveřejnila CAD modely svých komponent. Pro každého, kdo navrhuje vlastní tiskárnu nebo upgrade, je to praktická pomoc: přesné rozměry a geometrie přímo od výrobce, žádné odměřování a dohady.
 
-[Více informací](https://www.fabbaloo.com/news/noctua-releases-cad-models-to-support-hardware-integration-in-custom-designs)
+[Více informací](https://www.noctua.at/en/3d-cad-models)
 
 ---
 
