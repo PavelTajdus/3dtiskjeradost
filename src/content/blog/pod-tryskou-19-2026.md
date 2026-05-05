@@ -3,7 +3,7 @@ title: "Pod tryskou 19/2026: Co je nového ve světě 3D tisku"
 pubDate: "2026-05-04T05:02:59.000Z"
 description: "Tento týden přinesl pořádný mix, patentové bitvy, komunitní vzpoury i pár zajímavých hardwarových novinek. Pojďme na to."
 tags: ["Newsletter"]
-heroImage: "https://cdn.mos.cms.futurecdn.net/Dgv5BUGXYxx5sRAyzJv97-1600-80.png"
+heroImage: "/content/images/2026/05/pod-tryskou-19-2026-hero.webp"
 ---
 
 Tento týden přinesl pořádný mix, patentové bitvy, komunitní vzpoury i pár zajímavých hardwarových novinek. Pojďme na to.
