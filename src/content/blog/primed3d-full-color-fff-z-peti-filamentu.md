@@ -1,5 +1,5 @@
 ---
-title: "Full-color FFF z pěti filamentů? Primed3D je chytrý trik, ne kouzlo"
+title: "Plnobarevný 3D tisk z pěti filamentů? Primed3D je chytrý trik, ne kouzlo"
 pubDate: "2026-05-06T11:57:32.000Z"
 description: "Primed3D umí z běžného modelu udělat barevný 3MF pro vícemateriálový FFF tisk. Na první pohled to vypadá jako domácí full-color 3D tisk. Ve skutečnosti jde o dithering, optický trik z tenkých čar a vrstev různých filamentů."
 heroImage: "/content/images/2026/05/primed3d-full-color-fff-hero.webp"
