@@ -9,7 +9,7 @@ tags: ["Artillery", "Youtube streamy"]
 
 Tento článek není recenze. Je to shrnutí prvních dojmů z rozbalení, sestavení a oživení Artillery M1 Pro. Pokud chcete vědět, jak to vypadá, když tiskárna dorazí z obchodu až po první tisk, jste tady správně.
 
-> Celý čtyřhodinový stream najdete v členské sekci na YouTube (členství od 45 Kč)
+> Celý čtyřhodinový stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=dwDNN-Bhd2w).
 
 ---
 
