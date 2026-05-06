@@ -11,6 +11,7 @@ import { getPostImage } from '../utils/getPostImage';
 import { createMetaDescription } from '../utils/seo';
 
 const allPosts = (await getCollection('blog'))
+	.filter(p => !p.data.draft)
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const featured = allPosts[0];
