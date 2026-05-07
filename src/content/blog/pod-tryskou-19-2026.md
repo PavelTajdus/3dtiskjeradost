@@ -32,11 +32,11 @@ Elegoo si nechalo patentovat systém, který by průběžně dorovnával podlož
 
 [Více informací](https://www.fabbaloo.com/news/elegoo-patents-dynamic-build-platform-leveling)
 
-## Prime3D a plnobarevný FFF tisk
+## Primed3D a plnobarevný FFF tisk
 
-Prime3D představilo přístup k plnobarevnému tisku z filamentu metodou FFF. Nejde o tiskárnu s pěti extrudery, technologie pracuje jinak, i když detaily jsou zatím skromné. Barevný tisk z filamentu byl dlouho výsadou dražších nebo složitějších systémů, takže pokud Prime3D skutečně přichází s něčím použitelným, bude zajímavé sledovat, jak to obstojí v praxi.
+Primed3D ukazuje přístup k plnobarevnému tisku z filamentu metodou FFF. Nejde o tiskárnu s pěti extrudery ani o skutečné míchání barev v trysce. Je to chytrý softwarový trik založený na ditheringu, tedy na střídání barevných plastových čar tak, aby se z odstupu opticky slily. Technologicky zajímavé, prakticky zatím dost náročné hlavně kvůli času a odpadu u AMS/MMU.
 
-[Více informací](https://www.fabbaloo.com/news/prime3d-enables-full-color-images-in-fff-3d-printing)
+[Více informací v našem článku](https://3dtiskjeradost.cz/blog/primed3d-full-color-fff-z-peti-filamentu/)
 
 ## Komunita kolem 3D tisku se bouří proti kalifornskému návrhu zákona
 
