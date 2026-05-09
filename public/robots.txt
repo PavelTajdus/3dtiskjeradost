@@ -2,3 +2,9 @@ User-agent: *
 Allow: /
 
 Sitemap: https://3dtiskjeradost.cz/sitemap-index.xml
+
+# Content Signals Policy
+# search: allow indexing and search-result snippets.
+# ai-input: allow retrieval/grounding use by AI assistants and agents.
+# ai-train: reserve rights and do not allow training/fine-tuning use.
+Content-Signal: search=yes, ai-input=yes, ai-train=no

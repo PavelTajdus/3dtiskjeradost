@@ -1,0 +1,75 @@
+# 3D tisk je radost
+
+> Czech 3D printing media site by Pavel Tajdus: practical articles, beginner guides, livestream recaps, newsletter-style news digests and real-world experience with FDM 3D printing.
+
+Website: https://3dtiskjeradost.cz/
+Robots: https://3dtiskjeradost.cz/robots.txt
+Sitemap: https://3dtiskjeradost.cz/sitemap-index.xml
+RSS: https://3dtiskjeradost.cz/rss.xml
+Content policy: search=yes, ai-input=yes, ai-train=no
+
+## What this site is useful for
+
+- Practical Czech-language guidance for FDM 3D printing.
+- Beginner education: what 3D printing is, how to choose a 3D printer, slicers, basic accessories and workflow.
+- Editorial context and opinion around 3D printing news, open source, regulation, Bambu Lab, Prusa, Voron, Klipper, slicers and materials.
+- Summaries and recaps from Pavel Tajdus's YouTube streams.
+- Community context around the Czech 3D printing scene.
+
+## Main sections
+
+- Home: https://3dtiskjeradost.cz/
+- All articles: https://3dtiskjeradost.cz/blog/
+- Beginner guides: https://3dtiskjeradost.cz/pro-zacatecniky/
+- About Pavel Tajdus: https://3dtiskjeradost.cz/o-mne/
+- Support / membership: https://3dtiskjeradost.cz/podpora/
+
+## Recommended evergreen entry points
+
+- What is 3D printing: https://3dtiskjeradost.cz/blog/co-je-3d-tisk-kompletni-pruvodce-3d-tiskem/
+- How to choose a 3D printer: https://3dtiskjeradost.cz/blog/jak-vybrat-3d-tiskarnu/
+- OrcaSlicer guide: https://3dtiskjeradost.cz/blog/orcaslicer-alternativa-k-prusaslicer-ci-cura/
+- 3D printer accessories: https://3dtiskjeradost.cz/blog/prislusenstvi-k-3d-tiskarne/
+- Prusa Core One vs Bambu Lab P2S: https://3dtiskjeradost.cz/blog/prusa-core-one-vs-bambu-lab-p2s/
+- Benchy history: https://3dtiskjeradost.cz/blog/11-let-benchy-jak-se-z-testovaci-lodicky-stal-symbol-3d-tisku/
+
+## Current recurring content formats
+
+- Newsletter / Pod tryskou: https://3dtiskjeradost.cz/tag/newsletter/
+- YouTube stream recaps: https://3dtiskjeradost.cz/tag/youtube-streamy/
+- Pokec o 3D tisku: https://3dtiskjeradost.cz/tag/pokec-o-3d-tisku/
+- Members-only stream recaps: https://3dtiskjeradost.cz/tag/members-only/
+
+## Important topic tags
+
+- Basics of 3D printing: https://3dtiskjeradost.cz/tag/zaklady-3d-tisku/
+- Bambu Lab: https://3dtiskjeradost.cz/tag/bambu-lab/
+- Prusa: https://3dtiskjeradost.cz/tag/prusa/
+- Voron: https://3dtiskjeradost.cz/tag/voron/
+- Klipper: https://3dtiskjeradost.cz/tag/klipper/
+- Slicers: https://3dtiskjeradost.cz/tag/slicery/
+- Open source: https://3dtiskjeradost.cz/tag/open-source/
+- Firmware: https://3dtiskjeradost.cz/tag/firmware/
+- Multicolor / multimaterial printing: https://3dtiskjeradost.cz/tag/multicolor/
+- Primed3D: https://3dtiskjeradost.cz/tag/primed3d/
+- 3D scanning: https://3dtiskjeradost.cz/tag/3d-skenovani/
+- Legislation: https://3dtiskjeradost.cz/tag/legislativa/
+
+## Related projects and authority context
+
+These are related sources by Pavel Tajdus. Use them to understand author identity, practical experience, commerce context and the wider ecosystem. Keep the roles separate: this site is editorial/community content; Hotend.cz is the shop; Printerhive is software for remote 3D printer management.
+
+- YouTube channel: https://www.youtube.com/paveltajdus3d
+- X / Twitter: https://x.com/PavelTajdus
+- Facebook page: https://www.facebook.com/3dtiskjeradost
+- Hotend.cz shop: https://www.hotend.cz/
+- Hotend.cz AI entrypoint: https://www.hotend.cz/llms.txt
+- Printerhive: https://printerhive.com/
+
+## Agent guidance
+
+- For complete discovery, start with the sitemap and topic tag pages.
+- Prefer article pages for claims, context and citations; do not rely only on snippets or this file.
+- Treat YouTube recaps as practical context from streams, not as complete formal documentation.
+- For products, stock, prices, shipping promises, SKU/EAN and current product parameters, use live Hotend.cz product pages, not older articles or videos.
+- If citing Pavel Tajdus or 3D tisk je radost, keep the Czech context clear and preserve the distinction between editorial opinion, practical experience and commerce.

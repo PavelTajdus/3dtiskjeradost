@@ -24,6 +24,13 @@
 
 /robots.txt
   Cache-Control: public, max-age=3600
+  Content-Signal: search=yes, ai-input=yes, ai-train=no
+
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+  X-Content-Type-Options: nosniff
+  Content-Signal: search=yes, ai-input=yes, ai-train=no
 
 /_redirects
   Cache-Control: public, max-age=3600

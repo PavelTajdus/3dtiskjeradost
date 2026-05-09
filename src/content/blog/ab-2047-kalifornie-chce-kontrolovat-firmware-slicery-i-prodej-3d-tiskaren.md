@@ -1,7 +1,7 @@
 ---
 title: "Kalifornie chce kvůli ghost guns kontrolovat firmware, slicery i prodej 3D tiskáren"
 pubDate: "2026-04-19T15:30:00.000Z"
-updatedDate: "2026-04-19T15:30:00.000Z"
+updatedDate: "2026-05-09T09:23:15.000Z"
 description: "AB 2047 není zákaz 3D tisku, ale tvrdý návrh, který by v Kalifornii omezil prodej tiskáren bez blokovací technologie. Spor se vede o ghost guns, ale dopady míří i na firmware, slicery a otevřený 3D tisk."
 heroImage: "/content/images/2026/04/ab-2047-3d-printer-unsplash.jpg"
 tags: ["Legislativa", "Ghost guns", "Open source", "Slicery", "Firmware"]
@@ -9,6 +9,8 @@ draft: false
 ---
 
 *Aktualizováno: duben 2026 · Článek vychází z verze návrhu a legislativního statusu dostupného k 22. dubnu 2026.*
+
+*Obrázek u článku: [Snapmaker](https://www.snapmaker.com/).*
 
 Kalifornský návrh AB 2047 není zákaz 3D tisku. To by byl až moc jednoduchý popis. Ve skutečnosti jde o jeden z nejtvrdších pokusů dostat vymáhání zákona přímo do firmwaru, slicerů a prodeje 3D tiskáren. A právě proto to řeší nejen právníci a aktivisti, ale i lidé kolem open-source projektů, výrobců tiskáren a celé maker komunity.
 
