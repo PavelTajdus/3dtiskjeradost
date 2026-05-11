@@ -1,12 +1,12 @@
 ---
 title: "Pod tryskou 20/2026: Co se děje ve světě 3D tisku"
 pubDate: "2026-05-11T05:03:03.000Z"
-description: "Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes souboj Elegoo a Bambu Lab až po recyklaci, která možná není tak zelená, jak vypadá. Tady je můj výběr toho, co stojí za pozornost."
+description: "Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes souboj Elegoo a Bambu Lab až po recyklaci, kde se vedle sběru odpadu řeší i limity materiálu a řízení procesu pomocí AI."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/05/pod-tryskou-20-2026-woolyfil-hero.webp"
 ---
 
-Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes souboj Elegoo a Bambu Lab až po recyklaci, která možná není tak zelená, jak vypadá. Tady je můj výběr toho, co stojí za pozornost.
+Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes souboj Elegoo a Bambu Lab až po recyklaci, kde se vedle sběru odpadu řeší i limity materiálu a řízení procesu pomocí AI.
 
 ## Barvy z ovčí vlny: WoolyFil zkouší přírodní barviva pro PLA
 
@@ -40,6 +40,14 @@ Tyhle dva pohledy číst vedle sebe je dobrý cvičení v kritickém myšlení. 
 
 [Rozbor: Filamentive](https://www.filamentive.com/recycling-failed-and-waste-3d-prints-into-filament-challenges/), [studie k degradaci PLA](https://pmc.ncbi.nlm.nih.gov/articles/PMC9781530/)
 
+## Fraunhofer zkouší AI řízení pro tisk z recyklovaných plastů
+
+Po předchozích dvou zprávách to hezky doplňuje třetí úhel pohledu. Nestačí jen sesbírat odpad a znovu ho protlačit extruderem. Pokud má recyklovaný plast fungovat v průmyslovém měřítku, je potřeba řešit kolísání materiálu, opotřebení stroje a kvalitu tisku v reálném čase.
+
+Fraunhofer IAPT proto spouští projekt, ve kterém chce tiskárny vybavit senzory, computer vision a digitálními dvojčaty. Systém má sledovat například výšku vrstvy, šířku extruze, vibrace nebo chování materiálu a podle dat za běhu upravovat teplotu, rychlost nebo průtok. Jinými slovy: recyklace tu není prezentovaná jako jednoduchý zelený příběh, ale jako procesní problém, který možná půjde zkrotit až uzavřenou smyčkou řízení.
+
+[Zdroj: Fraunhofer IAPT](https://www.iapt.fraunhofer.de/en/press-media/Press_releases/how-does-recycling-work-in-industrial-3d-printing-.html)
+
 ## Valve zveřejnil CAD soubory pro Steam Controller a Puck
 
 Valve uvolnil CAD soubory pro Steam Controller a Steam Deck Puck pod licencí Creative Commons. Oficiálně a s požehnáním, navrhuj si příslušenství, úpravy, držáky, cokoliv.
@@ -50,4 +58,4 @@ Pro tiskárny s přesností, která to zvládne, je tohle pěkná výzva. Přesn
 
 ---
 
-Z tohoto týdne mě nejvíc zaujal ten souboj dvou článků o recyklaci, hezky ilustruje, jak rychle se z dobré myšlenky stane marketingový příběh. A CAD soubory od Valve jsou prostě fajn zpráva bez háčku.
+Z tohoto týdne mě nejvíc zaujal ten recyklační blok. Hezky ukazuje, jak rychle se z dobré myšlenky stane marketingový příběh, ale taky že cesta ven možná není v jednoduchém sběru odpadu, nýbrž v lepším řízení celého procesu. A CAD soubory od Valve jsou prostě fajn zpráva bez háčku.
