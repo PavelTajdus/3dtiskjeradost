@@ -3,7 +3,7 @@ title: "Pod tryskou 20/2026: Co se děje ve světě 3D tisku"
 pubDate: "2026-05-11T05:03:03.000Z"
 description: "Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes patenty Bambu Lab až po recyklaci, která možná není tak zelená, jak vypadá. Tady je můj výběr toho, co stojí za pozornost."
 tags: ["Newsletter"]
-heroImage: "https://3dprintingindustry.com/wp-content/uploads/2026/04/ELEGOO_spotlights_3D_printing_ecosystem_RAPID___TCT_2026.jpg"
+heroImage: "/content/images/2026/05/pod-tryskou-20-2026-woolyfil-hero.webp"
 ---
 
 Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes patenty Bambu Lab až po recyklaci, která možná není tak zelená, jak vypadá. Tady je můj výběr toho, co stojí za pozornost.
