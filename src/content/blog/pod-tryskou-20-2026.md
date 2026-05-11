@@ -1,12 +1,12 @@
 ---
 title: "Pod tryskou 20/2026: Co se děje ve světě 3D tisku"
 pubDate: "2026-05-11T05:03:03.000Z"
-description: "Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes správu filamentů až po recyklaci, která možná není tak zelená, jak vypadá. Tady je můj výběr toho, co stojí za pozornost."
+description: "Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes patenty Bambu Lab až po recyklaci, která možná není tak zelená, jak vypadá. Tady je můj výběr toho, co stojí za pozornost."
 tags: ["Newsletter"]
 heroImage: "https://3dprintingindustry.com/wp-content/uploads/2026/04/ELEGOO_spotlights_3D_printing_ecosystem_RAPID___TCT_2026.jpg"
 ---
 
-Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes správu filamentů až po recyklaci, která možná není tak zelená, jak vypadá. Tady je můj výběr toho, co stojí za pozornost.
+Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes patenty Bambu Lab až po recyklaci, která možná není tak zelená, jak vypadá. Tady je můj výběr toho, co stojí za pozornost.
 
 ## Barvy z ovčí vlny: WoolyFil zkouší přírodní barviva pro PLA
 
@@ -15,14 +15,6 @@ WoolyFil začal barvit PLA filamenty pomocí pigmentů získaných z vlny. Myšl
 Jedna věc ale zaslouží upřesnění: přírodní barvivo samo o sobě neznamená, že je celý filament ekologicky v pořádku. PLA je PLA, výroba má svoji zátěž a vlněný pigment to zásadně nemění. Spíš jde o zajímavý estetický směr než o ekologický průlom. Ale jako experiment to určitě sleduju.
 
 [Více informací](https://www.fabbaloo.com/news/woolyfil-uses-natural-wool-pigments-to-color-pla-filament)
-
-## Správa filamentů: 3D Print Manager pro malé tiskové farmy
-
-Pokud spravuješ víc tiskáren a ztrácíš přehled o zásobách, 3D Print Manager by mohl pomoct. Nástroj se zaměřuje na inventarizaci filamentů pro malé tiskové farmy, hlídá, co máš na skladě a co ti brzy dojde.
-
-Pro běžného hobby tiskaře s jednou nebo dvěma tiskárnami to asi není nic převratného. Ale jakmile začneš tisknout ve větším objemu, tohle je přesně ten typ nástroje, jehož absence bolí.
-
-[Více informací](https://www.fabbaloo.com/news/3d-print-manager-streamlines-filament-inventory-for-small-print-farms)
 
 ## Bambu Lab patentoval nové držadlo pro box s materiálem
 
