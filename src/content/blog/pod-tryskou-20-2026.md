@@ -1,12 +1,12 @@
 ---
 title: "Pod tryskou 20/2026: Co se děje ve světě 3D tisku"
 pubDate: "2026-05-11T05:03:03.000Z"
-description: "Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes patenty Bambu Lab až po recyklaci, která možná není tak zelená, jak vypadá. Tady je můj výběr toho, co stojí za pozornost."
+description: "Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes souboj Elegoo a Bambu Lab až po recyklaci, která možná není tak zelená, jak vypadá. Tady je můj výběr toho, co stojí za pozornost."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/05/pod-tryskou-20-2026-woolyfil-hero.webp"
 ---
 
-Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes patenty Bambu Lab až po recyklaci, která možná není tak zelená, jak vypadá. Tady je můj výběr toho, co stojí za pozornost.
+Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes souboj Elegoo a Bambu Lab až po recyklaci, která možná není tak zelená, jak vypadá. Tady je můj výběr toho, co stojí za pozornost.
 
 ## Barvy z ovčí vlny: WoolyFil zkouší přírodní barviva pro PLA
 
@@ -15,14 +15,6 @@ WoolyFil začal barvit PLA filamenty pomocí pigmentů získaných z vlny. Myšl
 Jedna věc ale zaslouží upřesnění: přírodní barvivo samo o sobě neznamená, že je celý filament ekologicky v pořádku. PLA je PLA, výroba má svoji zátěž a vlněný pigment to zásadně nemění. Spíš jde o zajímavý estetický směr než o ekologický průlom. Ale jako experiment to určitě sleduju.
 
 [Zdroj: Wool Source](https://woolsource.co.nz/articles/world-first-commercial-woolly-3d-printing-filament/)
-
-## Bambu Lab patentoval nové držadlo pro box s materiálem
-
-Bambu Lab si nechal patentovat redesign držadla na materiálový box. Podle popisu jde o jednodušší uchopení při výměně materiálu, méně pohybů, méně možností, jak to pokazit.
-
-Upřímně, tohle je přesně ten typ drobnosti, která se těžko hodnotí z popisu patentu. Může to být opravdové zlepšení, nebo jen právní ochrana designu, který nikdo neplánoval kopírovat. Uvidíme, až se to dostane do praxe.
-
-[Zdroj: patent CN224170491U](https://patents.google.com/?q=%22CN224170491U%22)
 
 ## Elegoo vs. Bambu: stovky milionů jüanů do boje
 
@@ -55,14 +47,6 @@ Valve uvolnil CAD soubory pro Steam Controller a Steam Deck Puck pod licencí Cr
 Pro tiskárny s přesností, která to zvládne, je tohle pěkná výzva. Přesné modely přímo od výrobce jsou výrazně lepší výchozí bod než cokoliv přeměřeného na oko.
 
 [Zdroj: Steam](https://store.steampowered.com/news/group/45479024/view/702141174212723352)
-
-## Klipper a CNC touch probe bez maker
-
-Někdo implementoval logiku CNC touch probe přímo do Klipperu, bez externích maker, přímo ve firmware. Touch probe pak slouží k přesnému centrování obrobku nebo tiskové plochy.
-
-Tohle ocení hlavně ti, kdo Klipper používají pro víceosé nebo CNC aplikace. Pro standardní FDM tisk je to spíš kuriozita, ale ukazuje, jak daleko se Klipper jako platforma posunul od svých začátků.
-
-[Zdroj: GitHub PR v Klipperu](https://github.com/Klipper3d/klipper/pull/6931)
 
 ---
 
