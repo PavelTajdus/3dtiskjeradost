@@ -4,6 +4,7 @@ import mdx from '@astrojs/mdx';
 import cloudflare from '@astrojs/cloudflare';
 import { defineConfig } from 'astro/config';
 import remarkCzechPrepositions from './scripts/remark-czech-prepositions.mjs';
+import remarkExternalLinks from './scripts/remark-external-links.mjs';
 
 export default defineConfig({
 
@@ -18,7 +19,7 @@ export default defineConfig({
 	adapter: cloudflare(),
 	integrations: [mdx()],
 	markdown: {
-		remarkPlugins: [remarkCzechPrepositions],
+		remarkPlugins: [remarkCzechPrepositions, remarkExternalLinks],
 	},
 	image: {
 		domains: ['3dtiskjeradost.cz', 'commons.wikimedia.org'],
