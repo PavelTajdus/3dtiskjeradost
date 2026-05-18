@@ -1,7 +1,7 @@
 ---
 title: "Pod tryskou 21/2026: Novinky, které stojí za pozornost"
 pubDate: "2026-05-18T05:03:19.000Z"
-description: "Tento týden se sešlo hned několik věcí najednou, od šíleného hacku s Nintendo Switch přes firmware drama kolem Bambu Lab až po výzkum nových materiálů. Uvařte si kávu (nebo čaj, neodsuzuji) a pojďte s"
+description: "Tento týden se sešlo hned několik věcí najednou, od šíleného hacku s Nintendo Switch přes firmware drama kolem Bambu Lab až po výzkum nových materiálů. Uvařte si kávu a pojďte se podívat, co se dělo."
 tags: ["Newsletter"]
 heroImage: "https://cdn.mos.cms.futurecdn.net/BYmhEMH8GdGhQPPMjTiznj-1999-80.png"
 ---
@@ -66,15 +66,15 @@ Podle příspěvku na Redditu se zdá, že Bambu Lab chystá funkci Filament Swi
 
 ---
 
-## 12 designérů, kteří tisknou věci, o kterých byste nepřemýšleli
+## 12 tvůrců praktických modelů pro domov i dílnu
 
-Na YouTube vyšlo video, kde 12 designérů ukazuje opravdu neobvyklé, ale funkční výtisky. Dobrá inspirace na víkend, když chcete tiskárnu využít naplno a ne jen opakovat modely z Thingiversu.
+The Next Layer prošel 12 profilů tvůrců 3D modelů a vybral z nich praktické výtisky, které i dobře vypadají: nástěnné organizéry, lampy, květináče, doplňky pro domácí mazlíčky, dárkové vázy, pěnové blastery i 3D tištěný drtič odpadního filamentu. Není to převratná zpráva, spíš dobrý zdroj inspirace, když chcete tisknout něco užitečnějšího než další dekoraci do šuplíku.
 
-[Více informací](https://www.youtube.com/watch?v=sf-DtdpDxrY)
+[Zdroj: The Next Layer](https://www.youtube.com/watch?v=sf-DtdpDxrY)
 
 ---
 
-## Rýžová plevy a PLA: nečekaná kombinace
+## Rýžové plevy a PLA: nečekaná kombinace
 
 Výzkumníci zjistili, že biochar z rýžových plev přimíchaný do PLA může snížit tření a zpomalit opotřebení výtisků. Zatím jde o laboratorní výsledky, ne o filament, který si koupíte v e-shopu. Ale pokud tiskujete mechanické součástky a kluzné vlastnosti PLA vás trápí, je to směr, který stojí za sledování.
 
