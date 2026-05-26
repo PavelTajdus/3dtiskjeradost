@@ -3,7 +3,7 @@ title: "Pod tryskou 22/2026: Novinky z 3D tisku"
 pubDate: "2026-05-25T05:02:43.000Z"
 description: "Tenhle týden přinesl pár pěkných novinek. Patent od Prusy, soudní přestřelka kolem Bambu Labu, nový materiál pro potravinářský tisk a trochu varování ohledně zdraví. Je toho dost, jdeme na to."
 tags: ["Newsletter"]
-heroImage: "https://cdn.mos.cms.futurecdn.net/BysNUB87XVLrZGvBUSP2p3-1999-80.jpg"
+heroImage: "/content/images/2026/05/pod-tryskou-22-2026-hero.svg"
 ---
 
 Tenhle týden přinesl pár pěkných novinek. Patent od Prusy, soudní přestřelka kolem Bambu Labu, nový materiál pro potravinářský tisk a trochu varování ohledně zdraví. Je toho dost, jdeme na to.
