@@ -1,6 +1,6 @@
 ---
 title: "Pokec o 3D tisku: Nintendo Switch s Klipperem, PreForm a rýžové PLA"
-pubDate: "2026-05-26T14:10:31.000Z"
+pubDate: "2026-05-19T17:09:24.000Z"
 description: "Recap streamu: Nintendo Switch jako Klipper počítač, slicer PreForm, kauza Orca Sliceru, 3D tisk ze skla a rýžové PLA."
 heroImage: "/content/images/youtube/eSXriUD57SM.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku"]

@@ -1,6 +1,6 @@
 ---
 title: "Enderwire na RepRapFirmware: Wi-Fi modul a ostré nasazení"
-pubDate: "2026-05-26T14:10:35.000Z"
+pubDate: "2026-05-21T17:01:00.000Z"
 description: "Wi-Fi modul dorazil, takže jsem zkusil Enderwire opravdu přepnout na RepRapFirmware. Flash, config, homing i první pasti."
 heroImage: "/content/images/youtube/W7RyScuLdKc.jpg"
 tags: ["Youtube streamy", "Enderwire", "RepRapFirmware", "Klipper"]
