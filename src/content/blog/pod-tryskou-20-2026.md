@@ -3,7 +3,7 @@ title: "Pod tryskou 20/2026: Co se děje ve světě 3D tisku"
 pubDate: "2026-05-12T20:00:00.000Z"
 description: "Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes souboj Elegoo a Bambu Lab až po recyklaci, kde se vedle sběru odpadu řeší i limity materiálu a řízení procesu pomocí AI."
 tags: ["Newsletter"]
-heroImage: "/content/images/2026/05/pod-tryskou-20-2026-woolyfil-hero.webp"
+heroImage: "/content/images/2026/05/pod-tryskou-20-2026-hero.webp"
 ---
 
 Tento týden se toho nashromáždilo víc než dost, od přírodních barviv přes souboj Elegoo a Bambu Lab až po recyklaci, kde se vedle sběru odpadu řeší i limity materiálu a řízení procesu pomocí AI.
