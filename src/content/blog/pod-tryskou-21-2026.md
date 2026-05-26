@@ -3,7 +3,7 @@ title: "Pod tryskou 21/2026: Novinky, které stojí za pozornost"
 pubDate: "2026-05-18T05:03:19.000Z"
 description: "Tento týden se sešlo hned několik věcí najednou, od šíleného hacku s Nintendo Switch přes firmware drama kolem Bambu Lab až po výzkum nových materiálů. Uvařte si kávu a pojďte se podívat, co se dělo."
 tags: ["Newsletter"]
-heroImage: "https://cdn.mos.cms.futurecdn.net/BYmhEMH8GdGhQPPMjTiznj-1999-80.png"
+heroImage: "/content/images/2026/05/pod-tryskou-21-2026-hero.svg"
 ---
 
 Tento týden se sešlo hned několik věcí najednou, od šíleného hacku s Nintendo Switch přes firmware drama kolem Bambu Lab až po výzkum nových materiálů. Uvařte si kávu (nebo čaj, neodsuzuji) a pojďte se podívat, co se dělo.
