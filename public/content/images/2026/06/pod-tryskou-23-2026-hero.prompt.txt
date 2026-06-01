@@ -1,0 +1,27 @@
+Create a clean flat vector-style hero illustration for a Czech 3D-printing newsletter.
+
+Canvas:
+- 16:9 landscape.
+- Background must be one perfectly flat solid color: #215DEE.
+- No gradients, no texture, no vignette, no lighting, no paper grain.
+
+Line drawing:
+- Use exactly one visible drawing color: pure white #FFFFFF.
+- One continuous monoline stroke, medium thickness, smooth rounded ends and corners.
+- The line must visibly ENTER from the left edge of the canvas and EXIT at the right edge of the canvas, as if the whole picture was drawn in one left-to-right motion.
+- The drawn object(s) must be part of that same unbroken left-to-right line.
+- No separate disconnected objects, no filled shapes, no shading, no gray, no black, no shadows.
+
+Subject:
+A single simple motif based on the strongest visual story from these newsletter headings: Prusa představila ColorMix: Víc barev z pár filamentů; Bambu Lab chystá A2L: Velký bed slinger za přijatelnou cenu?; Kalifornie zpřísňuje regulaci 3D tištěných zbraní; AI z ORNL koriguje chyby tisku za chodu; Bosch patentuje vyhřívaný kroužek kolem trysky.
+
+Composition:
+- Draw only one simple motif, or at most two connected simple objects.
+- Pick the strongest visual idea from the newsletter, not all topics.
+- Keep it delicate, sparse, readable, and uncomplicated.
+- The motif should sit calmly in the middle area with lots of empty blue space around it.
+- Similar complexity to a simple line drawing of a 3D printer + filament spool + fan, not a collage.
+- No text, no logo, no labels, no UI screenshots, no blueprint boxes, no photorealism, no 3D render, no cartoon character.
+
+Hard negative prompt:
+wrong background color, teal, cyan, pale blue, gradients, texture, shadows, gray lines, black outlines, multiple disconnected drawings, filled silhouettes, realistic device, deformed objects, pseudo-text, logos, sketch shading, blueprint annotations, too many topics, cluttered composition, collage.
