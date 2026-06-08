@@ -3,6 +3,7 @@ title: "Pod tryskou 24/2026: Prusa jde do barev, Bambu zase do svýho"
 pubDate: "2026-06-08T05:03:24.000Z"
 description: "Tento týden se 3D tisk rozdělil na dvě fronty. Jedna chystá věci, které by nám mohly usnadnit práci. Druhá připravuje zákony, které ji zkomplikují. A Bambu Lab si to celé sleduje s obvyklým načasování"
 tags: ["Newsletter"]
+heroImage: "/content/images/2026/06/pod-tryskou-24-2026-hero.webp"
 ---
 
 Tento týden se 3D tisk rozdělil na dvě fronty. Jedna chystá věci, které by nám mohly usnadnit práci. Druhá připravuje zákony, které ji zkomplikují. A Bambu Lab si to celé sleduje s obvyklým načasováním – těsně před tím, než někdo jiný vytáhne novou tiskárnu. Pojďte se podívat, co se dělo.

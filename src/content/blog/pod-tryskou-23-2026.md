@@ -3,6 +3,7 @@ title: "Pod tryskou 23/2026: Barvy, bed slingery a AI, která hlídá tisk"
 pubDate: "2026-06-01T05:03:11.000Z"
 description: "Tento týden přišlo víc zajímavých zpráv najednou. Prusa otevřela systém pro střídání barev, Bambu Lab naznačil další tiskárnu, vědci z ORNL ukázali AI, co koriguje tisk za chodu. A k tomu patentové ta"
 tags: ["Newsletter"]
+heroImage: "/content/images/2026/06/pod-tryskou-23-2026-hero.webp"
 ---
 
 Tento týden přišlo víc zajímavých zpráv najednou. Prusa otevřela systém pro střídání barev, Bambu Lab naznačil další tiskárnu, vědci z ORNL ukázali AI, co koriguje tisk za chodu. A k tomu patentové tahanice, varování před výpary a pár spekulací o tom, co nás čeká.
