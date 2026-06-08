@@ -1,108 +1,85 @@
 ---
-title: "Pod tryskou 23/2026: Barvy, bed slingery a AI, která hlídá tisk"
+title: "Pod tryskou 23/2026: Barvy z pár špulek, regulace a tiskárny, které hlídají samy sebe"
 pubDate: "2026-06-01T05:03:11.000Z"
-description: "Tento týden přišlo víc zajímavých zpráv najednou. Prusa otevřela systém pro střídání barev, Bambu Lab naznačil další tiskárnu, vědci z ORNL ukázali AI, co koriguje tisk za chodu. A k tomu patentové ta"
+description: "Prusa otevřela ColorMix, Bambu Lab láká na další bed slinger, Kalifornie řeší 3D tištěné zbraně a výzkumníci ukazují, kam se může posunout automatická kontrola tisku."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/06/pod-tryskou-23-2026-hero.webp"
 ---
 
-Tento týden přišlo víc zajímavých zpráv najednou. Prusa otevřela systém pro střídání barev, Bambu Lab naznačil další tiskárnu, vědci z ORNL ukázali AI, co koriguje tisk za chodu. A k tomu patentové tahanice, varování před výpary a pár spekulací o tom, co nás čeká.
+Tenhle týden je pěkná směs. Na jedné straně barvy, slicery a tiskárny, které se snaží člověku ubrat práci. Na druhé straně zákony a patenty, které nám zase připomínají, že 3D tisk už dávno není malý hobby rybníček někde v garáži.
 
 ---
 
-## Prusa představila ColorMix: Víc barev z pár filamentů
+## Prusa Research otevřela ColorMix
 
-Prusa vydala **ColorMix** – otevřený systém pro vícebarevný tisk, který je teď součástí PrusaSliceru i EasyPrintu. Princip je prostý: slicer střídá tenké vrstvy různých filamentů, takže oko výsledek vnímá jako smíšený odstín. Fyzicky se materiály nemíchají – jde o optický efekt skládání barev.
+Prusa Research vydala **ColorMix**, otevřený model pro PrusaSlicer a EasyPrint. Princip je jednoduchý: slicer nestřídá barvy proto, aby vytvořil čistě oddělené plochy, ale skládá tenké vrstvy různých filamentů tak, aby oko vidělo nový odstín.
 
-Podobné experimenty tu byly dřív – třeba Ratdoux se svým *OrcaSlicer-FullSpectrum*. Teď je to ale přístupné každému bez dalšího bastlení.
+Fyzicky se materiály nemíchají. Je to optický trik. Něco jako když se z dálky díváš na jemný rastr, zblízka vidíš jednotlivé vrstvy, z dálky jinou barvu.
 
-Pár věcí, které bych zmínil rovnou: výsledné spektrum závisí na konkrétních filamentech, geometrii modelu i profilu tisku. A čím víc barev chceš, tím déle tiskneš. Pro hobby použití je to přesto zajímavý posun – místo tuctu rolí si vystačíš s pár základními a zbytek odvedou algoritmy.
+Za mě je na tom zajímavé hlavně to, že to není uzavřená hračka pro jeden stroj. Když se to chytne, může z toho být docela praktický způsob, jak z pár základních špulek dostat víc barev bez toho, abys doma skladoval půlku Pantone katalogu.
 
-Zatím to není dokonalé, ale jde o rozumný krok správným směrem.
-
-[Více informací](https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/)
+[Zdroj: Prusa Research](https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/)
 
 ---
 
-## Bambu Lab chystá A2L: Velký bed slinger za přijatelnou cenu?
+## Bambu Lab láká na A2L
 
-Bambu Lab na sociálních sítích ukázal náhled tiskárny **A2L** s potvrzeným představením 1. června. Víc zatím není potvrzeno – zbytek jsou dohady z teaser obrázků.
+Bambu Lab ukázalo teaser na **A2L** a podle dostupných indicií má jít o větší bed slinger. Tedy tiskárnu, kde se při tisku hýbe podložka. Je to jednodušší konstrukce než CoreXY, ale u větších modelů a vyšších rychlostí se u ní rychleji ukáže fyzika.
 
-Podle dostupných indicií by mělo jít o **bed slinger s větší tiskovou plochou**. Bed slinger je typ tiskárny, kde se pohybuje tisková podložka (na rozdíl od CoreXY konstrukcí, kde se pohybuje tisková hlava). Výhoda je jednodušší mechanika, nevýhoda je třepotání při vyšších rychlostech a nižší přesnost u větších modelů.
+To neznamená, že je to špatně. Bed slinger pořád dává smysl, když chceš levnější a jednodušší mašinu. Jen se od toho nesmí čekat magie.
 
-Bambu Lab dosud uměl kombinovat slušný hardware s rozumnou cenou. Jestli se to povede i tady a jestli se podaří vyřešit typické slabiny tohoto typu konstrukce – to ukáže až červen.
+Bambu Lab je v tomhle nepříjemné hlavně pro konkurenci. Umí vzít obyčejnou kategorii tiskáren, dobře ji zabalit, přidat pár chytrých funkcí a najednou se všichni ptají, proč ostatní stroje stojí tolik.
 
-Víc konkurence na trhu každopádně prospívá všem.
-
-[Více informací](https://www.tomshardware.com/3d-printing/bambu-lab-teases-new-a2l-3d-printer-june-1-launch-confirmed)
+[Zdroj: Tom's Hardware](https://www.tomshardware.com/3d-printing/bambu-lab-teases-new-a2l-3d-printer-june-1-launch-confirmed)
 
 ---
 
-## Kalifornie zpřísňuje regulaci 3D tištěných zbraní
+## Kalifornie tlačí na regulaci 3D tištěných zbraní
 
-Kalifornský zákonodárný sbor schválil **Assembly Bill 2047**, který rozšiřuje stávající omezení. Nově by se zákaz měl vztahovat nejen na hotové modely, ale i na soubory a návody určené k jejich tisku.
+Kalifornský návrh **AB 2047** řeší 3D tištěné zbraně a související digitální podklady. Nejde o běžný hobby tisk, ale o další dílek v debatě, kde se stát snaží regulovat fyzický problém přes soubory, návody a software.
 
-Zákon čeká na podpis guvernéra. Nadpis „zakazuje zbraně" by byl přesný jen částečně – jde spíš o zpřísnění regulace toho, co se smí sdílet a vyrábět. Pro ty, kdo tisknou figurky, náhradní díly nebo cokoliv jiného legálního, to nic nemění. Ale stojí za to sledovat, jak podobná legislativa postupně kreslí hranice celého oboru.
+A tady začíná být zajímavé, kde se nakreslí hranice. Jasně, nelegální zbraně nikdo nechce. Jenže 3D tisk je obecná technologie. Stejná tiskárna může udělat držák na kameru, náhradní díl do auta i věc, kterou zákonodárce nechce vidět.
 
-[Více informací](https://3dprintingindustry.com/news/california-bill-targeting-3d-printed-firearms-passes-assembly-251887/)
+Pro běžného tiskaře se teď nic nemění. Ale stojí za to to sledovat, protože podobné návrhy bývají první vlaštovka. Ne kvůli panice, spíš kvůli tomu, aby nás pak nepřekvapilo, že někdo začne řešit i slicery, firmware nebo distribuci modelů.
 
----
-
-## AI z ORNL koriguje chyby tisku za chodu
-
-Výzkumníci z **Oak Ridge National Laboratory** vyvinuli systém, který pomocí kamer a umělé inteligence detekuje odchylky od očekávaného průběhu tisku a průběžně koriguje parametry procesu. Zatím jde o průmyslové nasazení – ne o funkci, kterou by sis zítra zapnul v Marlinu.
-
-Přesto je to zajímavý směr. Místo toho, abys po pěti hodinách zjistil, že se model rozjel, systém reaguje průběžně. Ušetřilo by to filament, čas i nervy. Jestli se podobný přístup dostane i do hobby segmentu – a kdy – to teď nikdo neví. Ale princip dává smysl.
-
-[Více informací](https://3dprintingindustry.com/news/ornls-ai-powered-system-fixes-3d-printing-errors-in-real-time-251908/)
+[Zdroj: California Legislative Information](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2047)
 
 ---
 
-## Bosch patentuje vyhřívaný kroužek kolem trysky
+## ORNL ukazuje tisk, který se umí opravovat za chodu
 
-Bosch si nechal patentovat **trysku s vyhřívaným prstencem kolem výstupu filamentu**. Cílem je přesnější kontrola teploty a menší riziko ucpání – zejména u vysokoteplotních materiálů jako PEEK nebo nylon.
+Výzkumníci z **Oak Ridge National Laboratory** pracují na systému, který sleduje tisk kamerou a průběžně upravuje parametry. Cíl je jasný: nenechat chybu růst pět hodin, ale zasáhnout hned, když se tisk začne chovat jinak, než má.
 
-Kdo někdy strávil odpoledne čištěním ucpané trysky, pochopí, proč je každá změna v téhle oblasti vítaná. Bosch ale není výrobce 3D tiskáren, takže pokud se to dostane do praxe, půjde nejspíš cestou licencování jiným firmám. Kdy a jestli vůbec – to patent neříká.
+Tohle zatím není funkce pro domácí tiskárnu za dvacet tisíc. Je to průmyslový výzkum. Ale směr je správný. Běžný tiskař dneska pořád tráví dost času tím, že ladí flow, teplotu, retrakce a pak doufá, že se model nerozjede po třetí hodině.
 
-[Více informací](https://www.fabbaloo.com/news/bosch-patent-targets-hotter-fff-nozzle-control)
+Kdyby tiskárna uměla část těchhle věcí hlídat sama, ušetří to filament, čas i nervy. Nevyřeší to všechno, ale přesně takhle podle mě bude vypadat další rozumný posun automatizace.
 
----
-
-## 3000 hodin tisku ABS: co zůstane v odtahu
-
-Uživatel na Redditu sdílel fotku výfukového systému tiskárny po 3000 hodinách tisku ABS. Vypadalo to jako komín po tuhé zimě. Dobrá připomínka, že ABS není materiál, u kterého by se dalo větrání odbýt otevřeným oknem.
-
-Pár upřesnění: u emisí z 3D tisku nejde jen o pevné částice, na které HEPA filtr stačí. ABS a podobné materiály uvolňují i těkavé organické sloučeniny (VOC), které HEPA nezachytí – na ty potřebuješ aktivní uhlí nebo kombinovaný filtr. ABS, PETG a nylon se v tomto ohledu chovají různě, ale žádný z nich bych netisknul v uzavřené místnosti bez odtahu.
-
-Plíce máš jen jedny.
-
-[Více informací](https://www.fabbaloo.com/news/that-abs-printer-exhaust-photo-is-a-blunt-reminder-that-fumes-are-part-of-the-print-job)
+[Zdroj: 3D Printing Industry](https://3dprintingindustry.com/news/ornls-ai-powered-system-fixes-3d-printing-errors-in-real-time-251908/)
 
 ---
 
-## Trinckle patentuje systém, který chrání začátečníky před sebou samými
+## Bosch řeší teplotu přímo kolem trysky
 
-Trinckle si nechal patentovat konfigurátor, který **automaticky omezuje nastavení vedoucí k nefunkčnímu tisku** – příliš tenké stěny, špatná orientace modelu a podobně. Software uživatele navede dřív, než stiskne Start.
+Bosch má patent okolo přesnější kontroly teploty u výstupu filamentu. Zjednodušeně: nejde jen o to topit celý hotend, ale lépe řídit, co se děje přímo u trysky a kolem vytékajícího materiálu.
 
-Myšlenka je dobrá. Snížit bariéru vstupu pro lidi, kteří 3D tisk teprve zkouší, dává smysl. Problém je jinde: patentování takto obecného konceptu může ostatním firmám zkomplikovat vývoj podobných funkcí, i když by je implementovaly úplně jinak. A to už je jiná kapitola.
+U běžného PLA ti to možná zní jako akademická hračka. U technických materiálů už ne. Jakmile tiskneš nylon, PC, PEEK nebo cokoliv citlivějšího na teplotu, malý rozdíl v reálném chování materiálu umí udělat velký bordel.
 
-[Více informací](https://www.fabbaloo.com/news/trinckle-patents-user-guided-3d-printing-configuration)
+Patent samozřejmě neznamená produkt. Může zůstat v šuplíku, může se licencovat, může se objevit v úplně jiné podobě. Ale ukazuje, že i tak obyčejná věc jako tryska pořád není vyřešená jednou provždy.
 
----
-
-## Deset věcí, které by mohly 3D tisk zásadně posunout
-
-Fabbaloo sestavil seznam deseti možných změn, které by mohly obor v příštích letech výrazně přeformovat. Pár z nich:
-
-- **AI generované modely** – funguje to už teď, ale výsledky jsou zatím hodně nekonzistentní
-- **Amazon jako výrobce tiskáren** – masové distribuční kanály by mohly trh otočit naruby
-- **Biologický tisk domácích uživatelů** – to je zatím opravdu vzdálená budoucnost
-- **Recyklace filamentu přímo v tiskárně** – tohle by byl skutečný posun pro každého, kdo má plný šuplík špatných výtisků
-
-Část z toho se pravděpodobně prosadí, část zůstane na papíře. Ale přemýšlet o tom, co přijde, má smysl – obor se pohybuje rychle.
-
-[Více informací](https://www.fabbaloo.com/news/ten-potential-disruptions-that-could-reshape-the-3d-printing-industry)
+[Zdroj: Google Patents](https://patents.google.com/?q=Bosch+heated+ring+FFF+nozzle)
 
 ---
 
-Nabitý týden. Barevné experimenty, AI korekce tisku, patentové tahanice i připomínka, že větrání není volitelná výbava. Co z toho vás zaujalo nejvíc? Napište do komentářů – k zajímavým tématům se rád vrátím podrobněji. 🚀
+## Trinckle patentuje hlídání špatných nastavení
+
+Trinckle si nechal patentovat systém, který má uživatele navést dřív, než si sám připraví model k nefunkčnímu tisku. Typicky tenké stěny, špatná orientace, nevhodné rozměry nebo nastavení, které na první pohled vypadá nevinně a pak skončí špagetami na podložce.
+
+Myšlenka je dobrá. Každý, kdo někdy pomáhal začátečníkovi, ví, že největší problém není vždycky tiskárna. Často je to špatně připravený model nebo očekávání, že slicer nějak zázračně pochopí fyziku.
+
+Trochu mě ale zvedá ze židle patentování obecného konceptu typu „software poradí uživateli, aby si nerozbil tisk“. Takové věci by měly být normální součást nástrojů, ne minové pole pro ostatní vývojáře.
+
+[Zdroj: Google Patents](https://patents.google.com/?q=Trinckle+user-guided+3D+printing+configuration)
+
+---
+
+Za mě solidní týden. ColorMix je praktická novinka, automatická kontrola tisku ukazuje směr a regulace připomíná, že 3D tisk už je dost velký na to, aby si ho všímali i právníci. Co si budem vykládat, trochu radši bych řešil ty barvy než zákony.

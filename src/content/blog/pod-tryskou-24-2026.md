@@ -1,93 +1,85 @@
 ---
-title: "Pod tryskou 24/2026: Prusa jde do barev, Bambu zase do svýho"
+title: "Pod tryskou 24/2026: Prusa ladí barvy, Bambu mlží a patenty se množí"
 pubDate: "2026-06-08T05:03:24.000Z"
-description: "Tento týden se 3D tisk rozdělil na dvě fronty. Jedna chystá věci, které by nám mohly usnadnit práci. Druhá připravuje zákony, které ji zkomplikují. A Bambu Lab si to celé sleduje s obvyklým načasování"
+description: "Prusa chystá barevné novinky kolem INDX, Bambu Lab zase mlží před oznámením a do toho se objevují patenty na dutý filament, rychlou výměnu trysek i tisk polotuhých materiálů."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/06/pod-tryskou-24-2026-hero.webp"
 ---
 
-Tento týden se 3D tisk rozdělil na dvě fronty. Jedna chystá věci, které by nám mohly usnadnit práci. Druhá připravuje zákony, které ji zkomplikují. A Bambu Lab si to celé sleduje s obvyklým načasováním – těsně před tím, než někdo jiný vytáhne novou tiskárnu. Pojďte se podívat, co se dělo.
+Tenhle týden je hodně o tom, co se možná chystá. Prusa Research naznačuje barevné věci kolem INDX, Bambu Lab tradičně mlží a kolem toho se objevují patenty, které ukazují, kam se může FFF tisk za pár let posunout.
 
 ---
 
-## Prusa chystá barevnou bouři před INDX
+## Prusa Research jde do barev
 
-Josef Průša a jeho tým zřejmě nehodlají nechat nic náhodě před nadcházejícím veletrhem INDX. Podle Tom's Hardware se chystají představit něco, co nazvali "full spectrum" přístup – a to doslova. Zatím se neví, jestli jde o novou tiskárnu, vylepšený MMU, nebo systém pro snazší multibarevný tisk.
+Josef Průša začal před INDX naznačovat „full spectrum“ téma. Co přesně to znamená, zatím není jisté. Může jít o další krok kolem ColorMixu, MMU, PrusaSliceru, EasyPrintu nebo úplně jinou část barevného workflow.
 
-Pro hobby tiskaře to může znamenat dvě věci. Buď konečně dostaneme funkční řešení pro vícebarevný tisk bez nočních můr s ucpanými tryskami, nebo se dočkáme dalšího drahého doplňku, který bude potřebovat rok ladění. Prusa má historii, kdy dobré nápady dozrávají pomalu – ale většinou dozrají.
+Důležité je, že Prusa Research poslední dobou tlačí na barvy víc než dřív. A to dává smysl. Bambu Lab si multicolor u hobby tiskařů hodně přivlastnilo přes AMS. Prusa musí ukázat, že umí nabídnout jinou cestu, ideálně otevřenější a méně svázanou s jedním ekosystémem.
 
-[Více informací](https://www.tomshardware.com/3d-printing/prusa-research-goes-full-spectrum-in-anticipation-of-indx)
+Za mě je dobré držet očekávání při zemi. Barevný tisk není jen o tom, kolik špulek připojíš k tiskárně. Je to i slicer, odpad, čas tisku, profily a to, jestli výsledek vůbec stojí za tu práci.
 
----
-
-## PrusaSlicer táhne trh, Cura ztrácí půdu
-
-Fabbaloo popisuje trend, který je v komunitě cítit už delší dobu: slicery odvozené od PrusaSliceru pomalu přebírají trh s FFF tiskem. Cura, kdysi výchozí volba pro většinu tiskáren, ztrácí pozici výrobce po výrobci. Důvod? Ultimaker (tvůrce programu Cura) roky měnil rozhraní, přidával funkce a experimentoval – jenže stabilitu a podporu konkrétních tiskáren přitom obětoval.
-
-Pro nás to má praktický dopad: pokud se naučíte PrusaSlicer nebo jeho odvozeninu, budete pokrytí pro drtivou většinu tiskáren na trhu. To je příjemná zpráva. Méně příjemná je, že konkurence slicerů slábne – a bez ní se vývoj zpomaluje.
-
-[Více informací](https://www.fabbaloo.com/news/curas-role-shrinks-as-prusaslicer-derived-tools-dominate-fff-printing-software)
+[Zdroj: Tom's Hardware](https://www.tomshardware.com/3d-printing/prusa-research-goes-full-spectrum-in-anticipation-of-indx)
 
 ---
 
-## Dutý filament s vodivým kanálkem
+## Dutý filament jako cesta k vodivým modelům
 
-Vědci přišli s nápadem vyrábět filament s průchodným kanálkem uvnitř vlákna. Samo o sobě to zní jako technická kuriozita, ale smysl to dává: tím kanálkem by šlo vést vodivé materiály přímo do tištěného modelu. Tisknutelné obvody, integrované senzory nebo jednoduché vodiče bez lepení a pájení.
+Objevil se návrh filamentu s dutým kanálkem uvnitř. Ne jako trik pro úsporu materiálu, ale jako cesta, jak do modelu dostat další médium. Třeba vodivou pastu, vlákno nebo jiný materiál, který vytvoří elektrickou cestu přímo uvnitř výtisku.
 
-Pro domácí tiskaře je to zatím vzdálená budoucnost. Pokud by se ale podařilo technologii zlevnit a zpřístupnit, mohlo by to otevřít projekty, které dnes vyžadují kombinaci tisku, elektroniky a hodně trpělivosti. Třeba LED svítidla s integrovanými elektrickými cestami nebo modely se zabudovanými senzory.
+Pro běžné domácí použití je to zatím spíš výzkumná a patentová rovina. Ale nápad je zajímavý. Dneska když chceš do 3D tisku dostat elektroniku, většinou řešíš drážky, ruční vkládání vodičů, pájení a modlení, že se ti to celé nerozpadne v ruce.
 
-[Více informací](https://www.fabbaloo.com/news/new-hollow-filament-design-could-enable-conductive-paths)
+Kdyby šlo tisknout model a zároveň do něj rozumně dostat vodivé cesty, otevře to úplně jiné projekty. LED věci, jednoduché senzory, ovladače, chytré kryty. Ne zítra, ale směr je to pěkný.
 
----
-
-## ELEGOO patentovalo rychlou výměnu trysek
-
-ELEGOO si nechalo patentovat systém pro rychlou výměnu trysek na FFF tiskárnách. Žádné šroubování, žádné hledání klíče, žádné proklínání zaseknutých závitů – mechanické řešení, které má výměnu zvládnout za pár vteřin.
-
-Na papíře je to dobrý nápad pro každého, kdo střídá materiály nebo průměry trysek. Otázka je, jak to vydrží po desítkách výměn a jestli to nebude stát víc než samotná tryska. ELEGOO zatím nepatří mezi výrobce, kteří by slibovali a nedodávali – takže mám mírný optimismus.
-
-[Více informací](https://www.fabbaloo.com/news/elegoo-develops-faster-fff-nozzle-switching-system)
+[Zdroj: Google Patents](https://patents.google.com/?q=hollow+filament+conductive+paths+3D+printing)
 
 ---
 
-## AI z Chemnitzu hlídá tok plastu v reálném čase
+## ELEGOO řeší rychlou výměnu trysek
 
-Výzkumníci z Chemnitzu předvedli systém, který kamerou sleduje vytékání plastu z trysky a průběžně upravuje parametry tisku. Retrakce, průtok, podtisk, přetisk – to všechno by měl zvládat algoritmus sám, bez hodin ručního ladění v sliceru.
+ELEGOO má patent okolo rychlejší výměny trysek u FFF tiskáren. Myšlenka je jasná: méně šroubování, méně nahřívání, méně boje se závitem, který se tváří, že je přivařený ke zbytku hotendu.
 
-Je to výzkumný prototyp, ne hotový produkt. Cesta od laboratorního výsledku k funkční implementaci v běžné tiskárně bývá dlouhá a plná kompromisů. Ale směr je správný – a kdyby se to jednou dostalo do cenově dostupných tiskáren, bylo by to výrazné ulehčení pro každého, kdo se kdy trápil s nastavením průtoku.
+Jestli střídáš průměry trysek, dává to smysl. Dneska člověk často skončí u toho, že má jednu 0,4mm trysku a nechá ji tam věčně, protože výměna je otrava. Přitom pro velké díly, vázy, technické prototypy nebo detailní miniatury by dávalo smysl měnit trysku častěji.
 
-[Více informací](https://www.fabbaloo.com/news/chemnitz-team-uses-ai-to-control-fff-flow)
+Otázka je životnost a cena. Rychloupínací systém musí těsnit, držet přesnou pozici a přežít teplo. Když to bude drahé nebo háklivé na bordel, nikdo to používat nebude. Ale jako směr, jo, tohle bych v hobby strojích viděl rád.
 
----
-
-## Bambu Lab zase něco chystá. A nikdo neví, co to je.
-
-Thomas Sanladerer ve svém posledním videu naznačil, že Bambu Lab připravuje další novinku. Načasování je typické – těsně před tím, než konkurence ukáže karty. Může to být tiskárna s funkcemi, které nikdo neplánoval potřebovat, nebo něco, co opravdu posune, co za ty peníze dostanete.
-
-Komunita se při každém Bambu Lab oznámení spolehlivě rozdělí na dva tábory a hádka trvá týdny. Mě zajímá hlavně jedno: jestli to bude zase uzavřený ekosystém, nebo se tentokrát otevřou víc.
-
-[Video Thomase Sanladerera](https://www.youtube.com/watch?v=DVxVGByTTzM)
+[Zdroj: Google Patents](https://patents.google.com/?q=ELEGOO+faster+FFF+nozzle+switching)
 
 ---
 
-## New York schválil zákony omezující 3D tisk
+## AI z Chemnitzu hlídá průtok plastu
 
-Pro tiskaře v New Yorku jsou to špatné zprávy. Zákony omezující prodej a používání 3D tiskáren prošly legislativním procesem a jsou platné. Co přesně zavádějí? Podle dostupných informací jde o omezení spojená s tiskem zbraní, ale konkrétní povinnosti – registrace, papírování, sankce – je třeba ověřit přímo v textu zákona, který je odkazovaný níže.
+Tým z Chemnitzu ukazuje systém, který sleduje chování materiálu u trysky a upravuje tiskové parametry podle toho, co se reálně děje. Tady nejde o marketingové „AI“ v menu tiskárny. Jde o pokus měřit a řídit průtok plastu za běhu.
 
-Oficiální zdůvodnění je bezpečnost a boj proti nelegálním zbraním. Praktický dopad na hobby tiskaře, kteří tisknou držáky, figurky nebo náhradní díly, zatím není jasný. Tohle je případ, kdy stojí za to přečíst si zdrojový text, ne jen titulky.
+To je přesně místo, kde dneska hobby tisk pořád stojí na odhadu. Nastavíš flow, teplotu, rychlost, retrakce a doufáš, že profil sedí. Jenže filamenty se liší, vlhkost se liší, hotendy se liší a pak se divíme, že jeden profil nefunguje všude stejně.
 
-[Více informací](https://consumerrights.wiki/w/New_York_3D_Printing_Law)
+Kdyby tiskárna dokázala vidět, že materiál neteče tak, jak má, a sama to upravila, byl by to fakt užitečný posun. Ne proto, že je tam AI nálepka, ale proto, že by to řešilo reálný každodenní problém.
 
----
-
-## TNO patentovalo tiskovou hlavu pro polotuhé materiály
-
-Holandská výzkumná organizace TNO si nechala patentovat kompaktní tiskovou hlavu pro vícemateriálový tisk polotuhými materiály – keramika, beton, různé pasty. Zatím jde o průmyslové řešení, ale technologie pro tisk keramiky nebo betonu se postupem času zmenšují a zlevňují, stejně jako to bylo u FFF.
-
-Pro domácí tiskaře je to výhled na roky dopředu. Ale myšlenka tisknout funkční keramické předměty místo dalšího PLA plastu má svůj půvab – a někdy je dobré vědět, kterým směrem se věci pohybují.
-
-[Více informací](https://www.fabbaloo.com/news/tno-patents-a-multi-material-semi-solid-extrusion)
+[Zdroj: Google Patents](https://patents.google.com/?q=Chemnitz+AI+FFF+flow+3D+printing)
 
 ---
 
-Týden nabitý novinkami, z nichž některé jsou opravdu zajímavé a jedna je trochu varující. 3D tisk se posouvá – v technologii rychle, v legislativě nepředvídatelně. Užijte si tisk, dokud to jde.
+## Bambu Lab zase něco chystá
+
+Thomas Sanladerer ve videu řeší další náznaky kolem Bambu Lab. A klasika, komunita okamžitě začne hádat, jestli půjde o novou tiskárnu, upgrade, větší ekosystém, nebo něco, co nikdo nečekal.
+
+Bambu Lab v tomhle umí hrát šachy. Stačí malý teaser a půl internetu začne řešit, jestli má ještě koupit současný model, nebo čekat. To je pro zákazníky otravné, pro konkurenci ještě víc.
+
+Mě zajímá hlavně jedna věc: jestli Bambu Lab bude dál tlačit uzavřený ekosystém, nebo jestli aspoň část věcí otevře. Hardware mají silný. Otázka je, kolik kontroly nad vlastní tiskárnou člověk za ty peníze dostane.
+
+[Zdroj: Thomas Sanladerer](https://www.youtube.com/watch?v=DVxVGByTTzM)
+
+---
+
+## TNO patentuje hlavu pro polotuhé materiály
+
+Holandská organizace TNO řeší vícemateriálový tisk polotuhými materiály. Představ si pasty, keramiku, beton nebo podobné materiály, které nejsou klasický filament, ale pořád je chceš dávkovat přes tiskovou hlavu.
+
+Pro běžného tiskaře to není věc na příští víkend. Ale je dobré sledovat, že aditivní výroba nejde jen cestou rychlejšího PLA. Čím lépe půjde tisknout pasty a polotuhé materiály, tím víc se 3D tisk dostane do keramiky, stavebnictví, forem a různých funkčních dílů.
+
+Já bych z toho nedělal hype. Spíš je to připomínka, že FFF svět je jen jedna větev. Vedle něj roste spousta dalších postupů, které se časem můžou zmenšit, zlevnit a dostat blíž k normálním lidem.
+
+[Zdroj: Google Patents](https://patents.google.com/?q=TNO+multi-material+semi-solid+extrusion)
+
+---
+
+Tenhle díl je víc „kam to může jít“ než „co si zítra stáhneš a zapneš“. Ale i to k Pod tryskou patří. Někdy je dobré vidět za roh, jen se u toho nesmí zapomenout, že mezi patentem a dobrou tiskárnou bývá dost dlouhá cesta.
