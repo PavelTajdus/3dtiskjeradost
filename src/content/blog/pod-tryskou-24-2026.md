@@ -1,12 +1,12 @@
 ---
-title: "Pod tryskou 24/2026: Prusa ladí barvy, Bambu mlží a patenty se množí"
+title: "Pod tryskou 24/2026: Prusa ladí barvy a velký tisk se hlídá za běhu"
 pubDate: "2026-06-08T05:03:24.000Z"
-description: "Prusa chystá barevné novinky kolem INDX, Bambu Lab zase mlží před oznámením a do toho se objevují patenty na dutý filament, rychlou výměnu trysek i tisk polotuhých materiálů."
+description: "Prusa chystá barevné novinky kolem INDX, ORNL ukazuje řízení velkoformátového tisku za běhu a do toho se objevují patenty na dutý filament, rychlou výměnu trysek i tisk polotuhých materiálů."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/06/pod-tryskou-24-2026-hero.webp"
 ---
 
-Tenhle týden je hodně o tom, co se možná chystá. Prusa Research naznačuje barevné věci kolem INDX, Bambu Lab tradičně mlží a kolem toho se objevují patenty, které ukazují, kam se může FFF tisk za pár let posunout.
+Tenhle týden je hodně o tom, co se možná chystá a co se z laboratoří může časem dostat do normálnějšího použití. Prusa Research naznačuje barevné věci kolem INDX, ORNL ukazuje řízení velkoformátového tisku za běhu a kolem toho se objevují patenty, které ukazují, kam se může FFF tisk za pár let posunout.
 
 ---
 
@@ -58,15 +58,15 @@ Kdyby tiskárna dokázala vidět, že materiál neteče tak, jak má, a sama to 
 
 ---
 
-## Bambu Lab zase něco chystá
+## ORNL hlídá velký tisk za běhu
 
-Thomas Sanladerer ve videu řeší další náznaky kolem Bambu Lab. A klasika, komunita okamžitě začne hádat, jestli půjde o novou tiskárnu, upgrade, větší ekosystém, nebo něco, co nikdo nečekal.
+Tady je potřeba být přesný. Nejde o to, že domácí tiskárna sama opraví rozbitou Benchy. Oak Ridge National Laboratory řeší velkoformátový plast-kompozitní tisk, tedy velké díly typu nábytek, panely nebo formy, kde se tiskne z pořádných housenek materiálu a chyba stojí hodiny i kila plastu.
 
-Bambu Lab v tomhle umí hrát šachy. Stačí malý teaser a půl internetu začne řešit, jestli má ještě koupit současný model, nebo čekat. To je pro zákazníky otravné, pro konkurenci ještě víc.
+Systém sleduje horký materiál termokamerou a počítačovým viděním. Když chlazení ujíždí mimo cílové hodnoty, upraví rychlost tisku, aby vrstvy lépe držely. To je za mě zajímavější než titulek o „samoopravném“ tisku, protože to řeší reálný problém velkých výtisků z recyklovaných nebo plněných materiálů: proces není dokonale stabilní a u takhle velkých věcí se to nedá jen ignorovat.
 
-Mě zajímá hlavně jedna věc: jestli Bambu Lab bude dál tlačit uzavřený ekosystém, nebo jestli aspoň část věcí otevře. Hardware mají silný. Otázka je, kolik kontroly nad vlastní tiskárnou člověk za ty peníze dostane.
+Pro hobby tiskárny to není novinka na zítřek. Ale směr je jasný. Čím víc budou tiskárny měřit, co se při tisku fakt děje, tím méně budeme slepě doufat, že profil ze sliceru sedí na každý materiál a každou situaci.
 
-[Zdroj: Thomas Sanladerer](https://www.youtube.com/watch?v=DVxVGByTTzM)
+[Zdroj: No knownX](https://www.youtube.com/watch?v=vuuH9_MuojY)
 
 ---
 
@@ -82,4 +82,4 @@ Já bych z toho nedělal hype. Spíš je to připomínka, že FFF svět je jen j
 
 ---
 
-Tenhle díl je víc „kam to může jít“ než „co si zítra stáhneš a zapneš“. Ale i to k Pod tryskou patří. Někdy je dobré vidět za roh, jen se u toho nesmí zapomenout, že mezi patentem a dobrou tiskárnou bývá dost dlouhá cesta.
+Tenhle díl je víc „kam to může jít“ než „co si zítra stáhneš a zapneš“. Nejzajímavější je za mě ORNL, protože tam nejde o další hezký patent v šuplíku, ale o řízení tisku podle toho, co se při tisku opravdu děje. Jen se u toho nesmí zapomenout, že mezi laboratorním velkoformátovým systémem a běžnou tiskárnou na stole bývá dost dlouhá cesta.
