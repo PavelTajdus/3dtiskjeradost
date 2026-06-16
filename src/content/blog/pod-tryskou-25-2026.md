@@ -90,7 +90,7 @@ Hackaday vytáhl projekt robotického psa inspirovaného Goddardem z Jimmyho Neu
 
 Tiskárna tady není cíl, ale nástroj. Vytiskneš tělo, držáky, klouby, kryty a pak do toho nacpeš elektroniku. Přesně ten typ projektu, kde člověk jednou řeší toleranci otvoru, pak kabeláž, pak servo, pak zase prasklou nohu. Sranda musí být.
 
-Abych řekl pravdu, tyhle věci mám v digestu radši než další tiskovou „revoluci“ z tiskové zprávy. Nejsou dokonalé, ale voní dílnou. A to je u 3D tisku pořád dost podstatná část radosti.
+Abych řekl pravdu, tyhle věci mám v newsletteru radši než další tiskovou „revoluci“ z tiskové zprávy. Nejsou dokonalé, ale voní dílnou. A to je u 3D tisku pořád dost podstatná část radosti.
 
 [Zdroj: Hackaday](https://hackaday.com/2026/06/08/goddard-the-robot-dog-brought-to-life/)
 
