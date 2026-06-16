@@ -1,24 +1,14 @@
 ---
-title: "Pod tryskou 24/2026: Prusa ladí barvy a velký tisk se hlídá za běhu"
+title: "Pod tryskou 24/2026: Dutý filament, DLP triky a peletový obr"
 pubDate: "2026-06-08T05:03:24.000Z"
-description: "Prusa chystá barevné novinky kolem INDX, ORNL ukazuje řízení velkoformátového tisku za běhu a do toho se objevují patenty na dutý filament, rychlou výměnu trysek i tisk polotuhých materiálů."
+description: "Tenhle díl je víc o materiálech a průmyslovějších postupech: dutý filament pro vodivé cesty, multi-directional DLP, polotuhé materiály, přesnější printheady a Peopoly Giga 800 na pelety."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/06/pod-tryskou-24-2026-hero.webp"
 ---
 
-Tenhle týden je hodně o tom, co se možná chystá a co se z laboratoří může časem dostat do normálnějšího použití. Prusa Research naznačuje barevné věci kolem INDX, ORNL ukazuje řízení velkoformátového tisku za běhu a kolem toho se objevují patenty, které ukazují, kam se může FFF tisk za pár let posunout.
+Minule jsme měli barvy, open source a tisk, který se hlídá za běhu. Tentokrát to beru jinudy. Žádné opakování stejné linky, spíš materiály, hlavy, DLP a jeden velký peletový krám, který se tváří skoro dostupně.
 
----
-
-## Prusa Research jde do barev
-
-Josef Průša začal před INDX naznačovat „full spectrum“ téma. Co přesně to znamená, zatím není jisté. Může jít o další krok kolem ColorMixu, MMU, PrusaSliceru, EasyPrintu nebo úplně jinou část barevného workflow.
-
-Důležité je, že Prusa Research poslední dobou tlačí na barvy víc než dřív. A to dává smysl. Bambu Lab si multicolor u hobby tiskařů hodně přivlastnilo přes AMS. Prusa musí ukázat, že umí nabídnout jinou cestu, ideálně otevřenější a méně svázanou s jedním ekosystémem.
-
-Za mě je dobré držet očekávání při zemi. Barevný tisk není jen o tom, kolik špulek připojíš k tiskárně. Je to i slicer, odpad, čas tisku, profily a to, jestli výsledek vůbec stojí za tu práci.
-
-[Zdroj: Tom's Hardware](https://www.tomshardware.com/3d-printing/prusa-research-goes-full-spectrum-in-anticipation-of-indx)
+Tenhle díl je víc „kam se může výroba posouvat“, ne „co si zítra hodíš na stůl vedle Prusy“. Ale i tak jsou tam nápady, které dávají smysl sledovat.
 
 ---
 
@@ -34,39 +24,27 @@ Kdyby šlo tisknout model a zároveň do něj rozumně dostat vodivé cesty, ote
 
 ---
 
-## ELEGOO řeší rychlou výměnu trysek
+## HKUST řeší DLP tisk z více směrů
 
-ELEGOO má patent okolo rychlejší výměny trysek u FFF tiskáren. Myšlenka je jasná: méně šroubování, méně nahřívání, méně boje se závitem, který se tváří, že je přivařený ke zbytku hotendu.
+Hong Kong University of Science and Technology má patent na DLP tiskárnu, která pracuje s nanášením nebo rozprostřením vrstvy z více směrů. DLP je resinový tisk, kde se celá vrstva vytvrzuje světlem přes projektor nebo podobný optický systém.
 
-Jestli střídáš průměry trysek, dává to smysl. Dneska člověk často skončí u toho, že má jednu 0,4mm trysku a nechá ji tam věčně, protože výměna je otrava. Přitom pro velké díly, vázy, technické prototypy nebo detailní miniatury by dávalo smysl měnit trysku častěji.
+Proč je to zajímavé? U náročnějších fotopolymerů není problém jen samotné svícení. Materiál se musí rozumně dostat tam, kde má být, musí se chovat předvídatelně a nesmí dělat bordel při každém cyklu. Jakmile se začne tisknout z hustších nebo speciálních pryskyřic, mechanika kolem vrstvy je najednou důležitější, než se zdá.
 
-Otázka je životnost a cena. Rychloupínací systém musí těsnit, držet přesnou pozici a přežít teplo. Když to bude drahé nebo háklivé na bordel, nikdo to používat nebude. Ale jako směr, jo, tohle bych v hobby strojích viděl rád.
+Tohle není sexy téma na titulku. Ale přesně takové detaily rozhodují, jestli resinová tiskárna zvládne jen hezké figurky, nebo i materiály, které mají smysl v reálné výrobě.
 
-[Zdroj: Google Patents](https://patents.google.com/?q=ELEGOO+faster+FFF+nozzle+switching)
-
----
-
-## AI z Chemnitzu hlídá průtok plastu
-
-Tým z Chemnitzu ukazuje systém, který sleduje chování materiálu u trysky a upravuje tiskové parametry podle toho, co se reálně děje. Tady nejde o marketingové „AI“ v menu tiskárny. Jde o pokus měřit a řídit průtok plastu za běhu.
-
-To je přesně místo, kde dneska hobby tisk pořád stojí na odhadu. Nastavíš flow, teplotu, rychlost, retrakce a doufáš, že profil sedí. Jenže filamenty se liší, vlhkost se liší, hotendy se liší a pak se divíme, že jeden profil nefunguje všude stejně.
-
-Kdyby tiskárna dokázala vidět, že materiál neteče tak, jak má, a sama to upravila, byl by to fakt užitečný posun. Ne proto, že je tam AI nálepka, ale proto, že by to řešilo reálný každodenní problém.
-
-[Zdroj: Google Patents](https://patents.google.com/?q=Chemnitz+AI+FFF+flow+3D+printing)
+[Zdroj: Google Patents](https://patents.google.com/?q=HKUST+multi+directional+DLP+coating+3D+printing)
 
 ---
 
-## ORNL hlídá velký tisk za běhu
+## 3D Systems patentuje přesnější usazení printheadů
 
-Tady je potřeba být přesný. Nejde o to, že domácí tiskárna sama opraví rozbitou Benchy. Oak Ridge National Laboratory řeší velkoformátový plast-kompozitní tisk, tedy velké díly typu nábytek, panely nebo formy, kde se tiskne z pořádných housenek materiálu a chyba stojí hodiny i kila plastu.
+3D Systems řeší patent okolo uchycení a zarovnání tiskových hlav. Zní to nudně, ale u vícetiskových systémů je přesné usazení hlavy úplný základ. Když máš víc hlav a každá je o kousek jinde, výsledkem není pokročilá výroba, ale drahý chaos.
 
-Systém sleduje horký materiál termokamerou a počítačovým viděním. Když chlazení ujíždí mimo cílové hodnoty, upraví rychlost tisku, aby vrstvy lépe držely. To je za mě zajímavější než titulek o „samoopravném“ tisku, protože to řeší reálný problém velkých výtisků z recyklovaných nebo plněných materiálů: proces není dokonale stabilní a u takhle velkých věcí se to nedá jen ignorovat.
+U domácího FFF se to dá představit jednoduše: i malý posun trysky umí rozhodit první vrstvu nebo přechod mezi materiály. U průmyslových strojů s více hlavami se stejný problém násobí cenou, materiálem a časem.
 
-Pro hobby tiskárny to není novinka na zítřek. Ale směr je jasný. Čím víc budou tiskárny měřit, co se při tisku fakt děje, tím méně budeme slepě doufat, že profil ze sliceru sedí na každý materiál a každou situaci.
+Za mě je to dobrá připomínka, že vícemateriálový tisk není jen „přidej další hlavu“. Musíš ji přesně chytit, opakovaně najít její pozici a udržet to v provozu. Jinak je to jen víc věcí, které se můžou pokazit.
 
-[Zdroj: No knownX](https://www.youtube.com/watch?v=vuuH9_MuojY)
+[Zdroj: Google Patents](https://patents.google.com/?q=3D+Systems+printhead+alignment+3D+printing)
 
 ---
 
@@ -82,4 +60,36 @@ Já bych z toho nedělal hype. Spíš je to připomínka, že FFF svět je jen j
 
 ---
 
-Tenhle díl je víc „kam to může jít“ než „co si zítra stáhneš a zapneš“. Nejzajímavější je za mě ORNL, protože tam nejde o další hezký patent v šuplíku, ale o řízení tisku podle toho, co se při tisku opravdu děje. Jen se u toho nesmí zapomenout, že mezi laboratorním velkoformátovým systémem a běžnou tiskárnou na stole bývá dost dlouhá cesta.
+## Peopoly Giga 800 tlačí pelety níž cenou
+
+Peopoly představilo **Giga 800**, velkoformátovou FGF tiskárnu na pelety. FGF je tisk z granulátu, tedy z plastových pelet místo klasického filamentu. Peopoly uvádí pracovní objem 800 × 800 × 800 mm, průtok až 3 kg materiálu za hodinu a cenu od 15 000 dolarů.
+
+To pořád není domácí tiskárna. Je to 320kilový stroj na 220 V, kde řešíš dopravu, pelety, smršťování materiálu a reálné průmyslové použití. Ale proti velkým peletovým systémům za šesticiferné částky je to zajímavý pokus dostat FGF blíž menším firmám a farmám.
+
+Největší otázka za mě není, jestli to zní dobře na papíře. Otázka je podpora, profily materiálů a jestli to Peopoly zvládne v praxi stejně dobře jako v marketingu. Velký tisk z pelet umí být levný na materiálu, ale drahý na nervy.
+
+[Zdroj: Peopoly](https://peopoly.net/products/peopoly-giga-800)
+
+---
+
+## Lynxter ukazuje potravinářský tisknutelný silikon
+
+Lynxter má materiál **SIL-004**, tedy 3D tisknutelný silikon pro použití v kontaktu s potravinami. Nejde o filament pro běžnou FFF tiskárnu, ale o průmyslový tisk tekutého silikonu na strojích Lynxter.
+
+Tohle je dobrý příklad toho, kde aditivní výroba dává smysl mimo naši klasickou PLA bublinu. V potravinářství můžeš potřebovat vlastní těsnění, škrabky, měkké díly nebo formy v malých sériích. U klasické výroby bys řešil nástroj, čekání a minimální množství. Tisk ti dovolí udělat kus přesně na konkrétní stroj.
+
+Zní to jako nuda, ale není. Tohle jsou přesně ty aplikace, kde 3D tisk není hračka, ale normální výrobní metoda. Jen je potřeba říct férově: materiál, certifikace i tiskárna jsou úplně jiná liga než domácí Ender.
+
+[Zdroj: Lynxter](https://lynxter.com/en/materials/elastomers/sil-004)
+
+---
+
+Tenhle díl je víc technický a méně líbivý. Ale dává dohromady hezkou věc: 3D tisk se netočí jen kolem další barevné krabičky na stůl. Řeší se i vodivé cesty uvnitř výtisku, přesné hlavy, pasty, pelety a materiály, které začínají být blíž opravdové výrobě.
+
+**Shrnutí:**
+
+- **Dutý filament** může jednou pomoct s elektronikou uvnitř výtisků.
+- **DLP a printhead patenty** řeší nudné, ale důležité provozní detaily.
+- **TNO** ukazuje směr pro pasty a polotuhé materiály.
+- **Peopoly Giga 800** je zajímavý pokus zlevnit velký peletový tisk.
+- **Lynxter SIL-004** je dobrý příklad tisknutelného materiálu pro reálné průmyslové použití.

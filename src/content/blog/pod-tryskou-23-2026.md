@@ -1,12 +1,14 @@
 ---
-title: "Pod tryskou 23/2026: Barvy z pár špulek, regulace a tiskárny, které hlídají samy sebe"
+title: "Pod tryskou 23/2026: Barvy, otevřený software a tisk, který se hlídá za běhu"
 pubDate: "2026-06-01T05:03:11.000Z"
-description: "Prusa otevřela ColorMix, Bambu Lab láká na další bed slinger, Kalifornie řeší 3D tištěné zbraně a výzkumníci ukazují, kam se může posunout automatická kontrola tisku."
+description: "Prusa Research otevřela ColorMix, kolem Bambu Lab se zvedla další vlna kvůli AGPL, EPFL posunula volumetrický tisk světlem a ORNL ukazuje řízení velkoformátového tisku za běhu."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/06/pod-tryskou-23-2026-hero.webp"
 ---
 
-Tenhle týden je pěkná směs. Na jedné straně barvy, slicery a tiskárny, které se snaží člověku ubrat práci. Na druhé straně zákony a patenty, které nám zase připomínají, že 3D tisk už dávno není malý hobby rybníček někde v garáži.
+Tenhle týden je dobrá směs softwaru, světla a automatizace. Žádná další kopie stejné novinky, ale pár různých směrů, které ukazují, kam se 3D tisk posouvá.
+
+Na jedné straně ColorMix a otevřený software. Na druhé straně výzkum, kde se netiskne obyčejně po vrstvách, nebo se velký plastový tisk hlídá podle toho, co se při tisku fakt děje.
 
 ---
 
@@ -22,39 +24,39 @@ Za mě je na tom zajímavé hlavně to, že to není uzavřená hračka pro jede
 
 ---
 
-## Bambu Lab láká na A2L
+## Bambu Lab má další problém kolem otevřeného softwaru
 
-Bambu Lab ukázalo teaser na **A2L** a podle dostupných indicií má jít o větší bed slinger. Tedy tiskárnu, kde se při tisku hýbe podložka. Je to jednodušší konstrukce než CoreXY, ale u větších modelů a vyšších rychlostí se u ní rychleji ukáže fyzika.
+Software Freedom Conservancy se pustila do Bambu Lab kvůli údajnému porušování licence AGPLv3. Nejde jen o běžné internetové remcání. SFC tvrdí, že Bambu Studio neposkytuje kompletní zdrojáky k částem odvozeným od PrusaSliceru a že Bambu Lab zároveň tlačilo na vývojáře forku OrcaSliceru.
 
-To neznamená, že je to špatně. Bed slinger pořád dává smysl, když chceš levnější a jednodušší mašinu. Jen se od toho nesmí čekat magie.
+Pro běžného tiskaře to může znít jako právnická nuda. Jenže slicer a komunikace s tiskárnou jsou dneska skoro stejně důležité jako hardware. Když výrobce staví na open-source ekosystému a zároveň se ho snaží zavírat, dřív nebo později to bouchne.
 
-Bambu Lab je v tomhle nepříjemné hlavně pro konkurenci. Umí vzít obyčejnou kategorii tiskáren, dobře ji zabalit, přidat pár chytrých funkcí a najednou se všichni ptají, proč ostatní stroje stojí tolik.
+Já bych z toho nedělal jednoduché „Bambu špatně, ostatní svatí“. Ale je fér říct, že když firma těží z otevřeného softwaru, musí hrát podle pravidel. Jinak si pod sebou řeže větev, na které sedí půlka desktopového 3D tisku.
 
-[Zdroj: Tom's Hardware](https://www.tomshardware.com/3d-printing/bambu-lab-teases-new-a2l-3d-printer-june-1-launch-confirmed)
-
----
-
-## Kalifornie tlačí na regulaci 3D tištěných zbraní
-
-Kalifornský návrh **AB 2047** řeší 3D tištěné zbraně a související digitální podklady. Nejde o běžný hobby tisk, ale o další dílek v debatě, kde se stát snaží regulovat fyzický problém přes soubory, návody a software.
-
-A tady začíná být zajímavé, kde se nakreslí hranice. Jasně, nelegální zbraně nikdo nechce. Jenže 3D tisk je obecná technologie. Stejná tiskárna může udělat držák na kameru, náhradní díl do auta i věc, kterou zákonodárce nechce vidět.
-
-Pro běžného tiskaře se teď nic nemění. Ale stojí za to to sledovat, protože podobné návrhy bývají první vlaštovka. Ne kvůli panice, spíš kvůli tomu, aby nás pak nepřekvapilo, že někdo začne řešit i slicery, firmware nebo distribuci modelů.
-
-[Zdroj: California Legislative Information](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2047)
+[Zdroj: Software Freedom Conservancy](https://sfconservancy.org/news/2026/may/18/bambu-studio-3d-printer-agpl-violation-response/)
 
 ---
 
-## ORNL ukazuje tisk, který se umí opravovat za chodu
+## EPFL tiskne světlem celé struktury najednou
 
-Výzkumníci z **Oak Ridge National Laboratory** pracují na systému, který sleduje tisk kamerou a průběžně upravuje parametry. Cíl je jasný: nenechat chybu růst pět hodin, ale zasáhnout hned, když se tisk začne chovat jinak, než má.
+EPFL ukazuje posun u volumetrického 3D tisku. To je tisk, kde se objekt netvoří klasicky vrstvu po vrstvě, ale tvrdne přímo uvnitř objemu pryskyřice pomocí světla. Tady konkrétně pomocí hologramů a řízení fáze světelného paprsku.
 
-Tohle zatím není funkce pro domácí tiskárnu za dvacet tisíc. Je to průmyslový výzkum. Ale směr je správný. Běžný tiskař dneska pořád tráví dost času tím, že ladí flow, teplotu, retrakce a pak doufá, že se model nerozjede po třetí hodině.
+Výzkumníci tvrdí, že jejich nový přístup je **70× účinnější** než předchozí holografické metody. V praxi tiskli milimetrové objekty během sekund a centimetrové během minut. Zajímavé je hlavně to, že metoda zvládá i materiál s živými buňkami, kde se světlo rozptyluje a normálně to dělá bordel.
 
-Kdyby tiskárna uměla část těchhle věcí hlídat sama, ušetří to filament, čas i nervy. Nevyřeší to všechno, ale přesně takhle podle mě bude vypadat další rozumný posun automatizace.
+Tohle není technologie pro domácí tiskárnu. Ale je to pěkná připomínka, že 3D tisk není jen FFF a resin. V biotisku a medicíně může být důležité právě to, že se něco vytiskne rychle, jemně a bez dlouhého mordování po vrstvách.
 
-[Zdroj: 3D Printing Industry](https://3dprintingindustry.com/news/ornls-ai-powered-system-fixes-3d-printing-errors-in-real-time-251908/)
+[Zdroj: EPFL](https://actu.epfl.ch/news/3d-printing-tissue-like-structures-with-light-3/)
+
+---
+
+## ORNL hlídá velkoformátový tisk za běhu
+
+Oak Ridge National Laboratory pracuje na systému, který sleduje velkoformátový plastový tisk termokamerami a podle toho upravuje rychlost tisku. Nejde o domácí tiskárnu, která sama zachrání rozjetou Benchy. Jde o velké kompozitní díly, kde se tiskne z pořádných housenek materiálu a chyba stojí hodiny i kila plastu.
+
+Princip je dobrý. Systém sleduje teplotu čerstvě položeného materiálu. Když vidí, že další vrstva přichází na moc studený plast, upraví rychlost tak, aby vrstvy lépe držely. V testu ORNL záměrně začali s nevhodnou rychlostí a systém si to sám dorovnal.
+
+Za mě je tohle zajímavější než marketingové řeči o „AI tiskárně“. Tady AI nebo počítačové vidění řeší konkrétní problém: velký výtisk nechceš hlídat očima celý den a zjistit po šesti hodinách, že se ti vrstvy nespojily.
+
+[Zdroj: ORNL](https://www.ornl.gov/news/error-correction-tech-boosts-3d-printing-big-composite-parts)
 
 ---
 
@@ -82,4 +84,12 @@ Trochu mě ale zvedá ze židle patentování obecného konceptu typu „softwar
 
 ---
 
-Za mě solidní týden. ColorMix je praktická novinka, automatická kontrola tisku ukazuje směr a regulace připomíná, že 3D tisk už je dost velký na to, aby si ho všímali i právníci. Co si budem vykládat, trochu radši bych řešil ty barvy než zákony.
+Za mě solidní týden. ColorMix je praktická novinka, kauza Bambu připomíná, že open source není jen marketingová nálepka, a ORNL s EPFL ukazují dva úplně jiné směry automatizace. Jeden hlídá velké plastové díly, druhý tiskne světlem v objemu. Obojí je daleko od běžné domácí tiskárny, ale přesně takové věci časem posouvají celý obor.
+
+**Shrnutí:**
+
+- **ColorMix** je zajímavý otevřený krok k praktičtějšímu barevnému tisku.
+- **Bambu Lab** má další tlak kolem AGPL a otevřeného softwaru.
+- **EPFL** ukazuje rychlejší volumetrický tisk světlem.
+- **ORNL** řeší reálnou kontrolu velkoformátového plastového tisku.
+- **Patenty kolem trysek a nastavení** ukazují, že i malé problémy pořád nejsou vyřešené.

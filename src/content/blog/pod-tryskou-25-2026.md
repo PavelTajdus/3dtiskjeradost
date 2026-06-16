@@ -1,14 +1,14 @@
 ---
 title: "Pod tryskou 25/2026: nastavitelná tryska, chytré vyhazování výtisků a praktické krabičky"
 pubDate: "2026-06-15T05:04:26.000Z"
-description: "Tenhle týden vybírám hlavně praktické věci: tištěný ovladač světel od Prusa Research, patenty na nastavitelnou trysku, čištění větráku a vyhazování hotových dílů, k tomu dřevo v PLA, Primed3D a jeden robotický pes."
+description: "Tenhle týden vybírám hlavně praktické věci: tištěný ovladač světel od Prusa Research, patenty na nastavitelnou trysku, čištění větráku a vyhazování hotových dílů, k tomu dřevo v PLA, Spectrum a jeden robotický pes."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/06/pod-tryskou-25-2026-hero.webp"
 ---
 
-Tenhle týden je hezky praktický. Žádné velké kecy o revoluci, spíš nápady, které řeší běžnou otravu kolem tiskáren a výtisků.
+Tenhle týden je hezky praktický. Žádné velké kecy o revoluci, spíš nápady, které řeší běžnou otravu kolem tiskáren, materiálů a výtisků.
 
-Prusa Research ukázala levný tištěný ovladač světel, v patentech se zase objevila nastavitelná tryska, samočistící větrák a jednoduché vyhazování hotových dílů. Do toho se vrací téma barevného FFF tisku přes Primed3D a máme i trochu materiálové nerdoviny.
+Prusa Research ukázala levný tištěný ovladač světel, v patentech se objevila nastavitelná tryska, samočistící větrák a jednoduché vyhazování hotových dílů. Do toho máme materiálové drobnosti, investici do Spectrum Filaments a jednoho robotického psa, protože sranda musí být.
 
 ---
 
@@ -72,15 +72,15 @@ Za mě je fajn, že se tyhle materiály zkoumají trochu poctivěji. V e-shopu v
 
 ---
 
-## Primed3D vrací barevný FFF tisk na stůl
+## Spectrum Filaments dostává peníze na větší výrobu
 
-Kolem desktopového full-color FFF tisku je zase živo. Za mě je potřeba hned říct jednu věc: není to PolyJet a není to kouzelná tiskárna na fotky. U Primed3D jde hlavně o dithering, tedy optický trik, kdy se drobné čáry a vrstvy různých barev míchají až v oku diváka.
+Polský výrobce Spectrum Filaments získal investici od Blue Gravity Capital. Podle dostupných informací jde o většinový vstup investora a peníze mají jít hlavně do rozšíření výroby, automatizace a rychlejšího vývoje materiálů.
 
-Primed3D umí malovat modely a exportovat 3MF pro více materiálů. 3MF je formát, který na rozdíl od obyčejného STL umí nést i informace o barvách a materiálech. Pro Bambu Studio, OrcaSlicer nebo PrusaSlicer je tohle mnohem praktičtější než posílat samotné STL a pak ručně čarovat.
+Proč to řešit v hobby newsletteru? Protože filament je nudná věc jen do chvíle, než oblíbená špulka není skladem. Spectrum tvrdí, že několik let jede pod tlakem poptávky a chce kapacitu v dalších měsících zdvojnásobit. Pokud to klapne, může to znamenat lepší dostupnost evropských materiálů a kratší dodací lhůty.
 
-Realita je ale pořád tvrdá. Na AMS nebo MMU bude častá výměna barev pomalá a bude dělat hodně odpadu. Největší smysl to dává u toolchangerů nebo systémů, kde se barva mění rychleji a levněji. Jako experiment je to výborné. Jako normální produkční workflow zatím opatrně.
+Za mě je to taky signál, že filamentový trh dospívá. Už to není jen „někdo někde motá PLA na špulky“. Dobré materiály, stabilní výroba a distribuce začínají být normální průmysl. A to je pro nás tiskaře dobrá zpráva.
 
-[Zdroj: Primed3D](https://primed3d.3drevolution.net/)
+[Zdroj: 3D Printing Industry](https://3dprintingindustry.com/news/spectrum-filaments-receives-multi-million-blue-gravity-capital-investment-252340/)
 
 ---
 
@@ -108,12 +108,12 @@ Důležité je nepřenášet to automaticky na běžné tiskárny. Plněné mate
 
 ---
 
-Za mě je nejsilnější téma týdne jednoduché: méně otravné tiskárny. Nastavitelná tryska, automatické sundávání dílů, čistší větrák, lepší práce s barvou. Nic z toho není hotový zázrak, ale všechno míří na reálné bolesti, které zná každý, kdo tiskne déle než dva týdny.
+Za mě je nejsilnější téma týdne jednoduché: méně otravné tiskárny a normálnější materiálový trh. Nastavitelná tryska, automatické sundávání dílů, čistší větrák, lepší dostupnost filamentů. Nic z toho není hotový zázrak, ale všechno míří na reálné bolesti, které zná každý, kdo tiskne déle než dva týdny.
 
 **Shrnutí:**
 
 - **Prusa Research** ukázala praktický tištěný ovladač světel.
 - **Nastavitelná tryska** zní skvěle, ale zatím je to patent, ne produkt.
 - **Automatické vyhazování výtisků** může být zajímavé hlavně pro malé farmy.
-- **Primed3D** je chytrý barevný trik, ne kouzelný full-color FDM.
+- **Spectrum Filaments** chce po investici rozšířit výrobu a dostupnost materiálů.
 - **Dřevěné PLA** není jen designová špulka, materiálové příměsi fakt mění chování při tisku.
