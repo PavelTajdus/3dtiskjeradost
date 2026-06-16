@@ -8,7 +8,7 @@ heroImage: "/content/images/2026/06/pod-tryskou-24-2026-hero.webp"
 
 Minule jsme měli barvy, open source a tisk, který se hlídá za běhu. Tentokrát to beru jinudy. Žádné opakování stejné linky, spíš materiály, hlavy, DLP a jeden velký peletový krám, který se tváří skoro dostupně.
 
-Tenhle díl je víc „kam se může výroba posouvat“, ne „co si zítra hodíš na stůl vedle Prusy“. Ale i tak jsou tam nápady, které dávají smysl sledovat.
+Tenhle díl je víc „kam se může výroba posouvat“, ne „co si zítra hodíš na stůl vedle Průši“. Ale i tak jsou tam nápady, které dávají smysl sledovat.
 
 ---
 
@@ -38,7 +38,7 @@ Tohle není sexy téma na titulku. Ale přesně takové detaily rozhodují, jest
 
 ## 3D Systems patentuje přesnější usazení printheadů
 
-3D Systems řeší patent okolo uchycení a zarovnání tiskových hlav. Zní to nudně, ale u vícetiskových systémů je přesné usazení hlavy úplný základ. Když máš víc hlav a každá je o kousek jinde, výsledkem není pokročilá výroba, ale drahý chaos.
+3D Systems řeší patent okolo uchycení a zarovnání tiskových hlav. Zní to nudně, ale u multi tool systémů je přesné usazení hlavy úplný základ. Když máš víc hlav a každá je o kousek jinde, výsledkem není pokročilá výroba, ale drahý chaos.
 
 U domácího FFF se to dá představit jednoduše: i malý posun trysky umí rozhodit první vrstvu nebo přechod mezi materiály. U průmyslových strojů s více hlavami se stejný problém násobí cenou, materiálem a časem.
 
