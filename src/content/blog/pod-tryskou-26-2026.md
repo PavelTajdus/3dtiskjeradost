@@ -72,7 +72,7 @@ Pro 3D tisk je levnější skener zajímavý hlavně u reálných dílů. Krytka
 
 ---
 
-## Pedálový drtič plastu řeší odpad z tiskárny po dílensku
+## Pedálový drtič plastu řeší odpad šlapáním
 
 Na Hackaday se objevil projekt pedálového drtiče na odpad z 3D tisku. Brogan M. Pratt se studenty řešil hromadu zbytků z tiskáren a postavili drtič poháněný kolem.
 
