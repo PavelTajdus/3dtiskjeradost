@@ -96,7 +96,7 @@ Za mě je u A2L nejzajímavější otázka jednoduchá: jestli dává větší p
 
 Anycubic tentokrát neberu přes cizí recenzi, ale přes vlastní stream. Ve čtvrtek jsem rozbalil a složil **Anycubic Kobra X**, prošel aplikaci, slicer, kalibraci a pustil první barevný tisk.
 
-Čekal jsem klasickou čínskou loterii. Křivou podložku, divný software, zásek u sestavení nebo něco podobného. A ono ne. Tiskárna se složila bez většího dramatu, aplikace fungovala, kamera měla slušný obraz a první dvoubarevná kapibara vyšla na první pokus.
+Čekal jsem klasickou čínskou loterii. Křivou podložku, divný software, zásek u sestavení nebo něco podobného. A ono ne. Tiskárna se složila bez většího dramatu, aplikace fungovala a kamera měla slušný obraz. První dvoubarevná Kapybara se sice odlepila od podložky, ale po očištění podložky už další tisk vyšel dobře.
 
 Neříkám, že je to tiskárna bez otazníků. Pořád bych chtěl zkusit kombinaci TPU a PLA, delší provoz a dostupnost dílů. Ale první kontakt byl lepší, než jsem čekal. Za cenu kolem 7 500 Kč na Alze to pro začátečníka nebo člověka, který chce levný vstup do barevného tisku, vůbec nevypadá marně.
 
