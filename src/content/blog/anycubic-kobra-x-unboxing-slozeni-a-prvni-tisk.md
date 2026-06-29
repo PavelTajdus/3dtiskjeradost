@@ -8,7 +8,7 @@ tags: ["Youtube streamy", "Pokec o 3D tisku", "Anycubic", "Recenze 3D tiskárny"
 draft: false
 ---
 
-Moje první 3D tiskárna byla Anycubic i3 Prusa. Později jsem měl v ruce i i3 Mega z plexiskla, které praskalo, a s Anycubicy jsem zažil spoustu bezesných nocí. Teď, po letech, mi spolužák ze základní školy napsal, že pracuje v Diskus Distribution, a jestli nechci tiskárnu na stream. Řekl jsem proč ne. Přišla Kobra X a já o ní nevěděl vůbec nic.
+Moje první 3D tiskárna byla Anycubic i3 Prusa z plexiskla, které praskalo, a zažil jsem s ní spoustu bezesných nocí. Teď, po letech, mi spolužák ze základní školy napsal, že pracuje v Diskus Distribution, a jestli nechci tiskárnu na stream. Řekl jsem proč ne. Přišla Kobra X a já o ní nevěděl vůbec nic.
 
 > Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=I-Ec5CXkkQo).
 
