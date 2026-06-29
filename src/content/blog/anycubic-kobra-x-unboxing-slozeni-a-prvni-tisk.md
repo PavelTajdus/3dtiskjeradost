@@ -24,7 +24,7 @@ Balení je solidní, tiskárna přišla nerozbalená a v pořádku. Hned na zač
 
 Jinak obsah krabice standardní: nářadíčko, štěteček, vzorek filamentu. Kilo filamentu k tiskárně? Ty časy jsou dávno pryč.
 
-## Montáž: překvapivě bez průseru
+## Montáž
 
 Stavba zabrala zhruba 50 minut čistého času. Osy Z jsou propojené řemenem, takže se nemůže stát, že by vám každá jela zvlášť. Konektory jsou barevně i velikostně odlišené, takže je prakticky nemůžete zapojit špatně. Manuál je přehledný a postupuje krok po kroku.
 
