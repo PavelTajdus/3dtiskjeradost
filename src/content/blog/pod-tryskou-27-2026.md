@@ -1,16 +1,34 @@
 ---
-title: "Pod tryskou 27/2026: ozubená kolečka, rychlé PLA a licence kolem Průši"
+title: "Pod tryskou 27/2026: římská deskovka, rychlé PLA a Kobra X"
 pubDate: "2026-06-29T05:00:00.000Z"
-description: "Tenhle týden vybírám praktické novinky kolem Bambu extruderů, rychlého Prusamentu, licence OCL, PrusaSliceru, prvních recenzí nových mašin a jednoho pěkného tištěného deskovkového projektu."
+description: "Tenhle týden vede 3D tištěná replika římské deskové hry, k tomu rychlé PLA, licence kolem Průši, Bastion kolečka pro Bambu a moje první dojmy z Anycubic Kobra X."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/06/pod-tryskou-27-2026-hero.webp"
 ---
 
-# Pod tryskou 27/2026: ozubená kolečka, rychlé PLA a licence kolem Průši
+# Pod tryskou 27/2026: římská deskovka, rychlé PLA a Kobra X
 
-Tenhle týden je méně o velkých slibech a víc o věcech, které se reálně dotýkají tiskárny na stole. Extruderová kolečka, rychlé PLA, slicer, licence kolem modifikací a první recenze nových krabic.
+Tenhle týden mě nejvíc baví římská deskovka z Vindolandy. Není to další nová tiskárna ani špulka s lepším marketingem, ale pěkný příklad toho, proč 3D tisk dává smysl i mimo dílnu.
 
-Vyhodil jsem z výběru opakované věci z minulého týdne a průmyslový balast. PLA Pure už jsme řešili, 3D tisk betonu nechám stavebníkům a regulace zbraní tady taky nebudu tahat po stopadesáté.
+Zbytek výběru je praktičtější: kolečka do extruderu, rychlé PLA, slicer, licence kolem komunitních úprav a moje čerstvé dojmy z Anycubic Kobra X.
+
+---
+
+## 3D tisk oživil římskou deskovku
+
+![Římská herní deska z Vindolandy, podle které vznikla 3D tištěná replika](/content/images/2026/06/roman-board-game-vindolanda-board.webp)
+
+*Foto: Newcastle University / Vindolanda Trust*
+
+Newcastle University ukázala projekt, kde pomocí 3D skenování a 3D tisku vznikla replika římské deskové hry **Ludus Latrunculorum**. Deska se našla ve Vindolandě, což je archeologické naleziště u Hadriánova valu v severní Anglii.
+
+Tohle mě baví víc než další produktový teaser. Originál zůstane bezpečně v muzeu, ale repliku můžeš vzít do ruky, ukázat děckám, zkusit si pravidla a pochopit, jak ta věc fungovala na stole. Najednou to není obrázek v učebnici, ale normální fyzický předmět.
+
+Technicky je na tom hezký celý řetězec: původní kamennou desku naskenovali ručním 3D skenerem Artec Spider, z dat udělali digitální model a pak vytiskli repliku z PLA. Vedle toho vznikl i interaktivní 3D model, který se dá otáčet a zkoumat bez sahání na originál.
+
+Pro hobby tiskaře je to dobrá připomínka, že tisk nemusí být jen držák kabelu nebo další Benchy. Občas stačí zajímavý historický objekt a z tiskárny je najednou pomůcka pro školu, muzeum nebo domácí hraní. Sranda musí být.
+
+[Zdroj: Newcastle University](https://from.ncl.ac.uk/how-3d-printing-revived-roman-britains-most-popular-board-game)
 
 ---
 
@@ -74,36 +92,12 @@ Za mě je u A2L nejzajímavější otázka jednoduchá: jestli dává větší p
 
 ---
 
-## Anycubic Kobra 4 Combo působí jako evoluce, ne zázrak
+## Anycubic Kobra X jsem rozbalil na streamu
 
-Druhá recenze od Tom's Hardware řeší Anycubic Kobra 4 Combo. Už titulek říká docela férově „evolution, not revolution“. A to je za mě u levnějších barevných tiskáren zdravější rámování než další křik o revoluci.
+Anycubic tentokrát neberu přes cizí recenzi, ale přes vlastní stream. Ve čtvrtek jsem rozbalil a složil **Anycubic Kobra X**, prošel aplikaci, slicer, kalibraci a pustil první barevný tisk.
 
-Combo znamená, že kolem tiskárny řešíš víc barev nebo materiálů. U domácího tisku to zní skvěle, dokud nenarazíš na odpad, přepínání materiálů, profily a to, že čtyřbarevný potisk není automaticky hezčí model. Často je to jen delší tisk a hromada hovínek vedle tiskárny.
+Čekal jsem klasickou čínskou loterii. Křivou podložku, divný software, zásek u sestavení nebo něco podobného. A ono ne. Tiskárna se složila bez většího dramatu, aplikace fungovala, kamera měla slušný obraz a první dvoubarevná kapibara vyšla na první pokus.
 
-Kobra 4 Combo může být zajímavá pro někoho, kdo chce levnější vstup do barevného tisku. Jen bych si před nákupem pohlídal reálné recenze, dostupnost dílů a to, jak dobře funguje software. Levná barevná tiskárna je pecka jen tehdy, když tě pak nežere každý druhý tisk.
+Neříkám, že je to tiskárna bez otazníků. Pořád bych chtěl zkusit kombinaci TPU a PLA, delší provoz a dostupnost dílů. Ale první kontakt byl lepší, než jsem čekal. Za cenu kolem 7 500 Kč na Alze to pro začátečníka nebo člověka, který chce levný vstup do barevného tisku, vůbec nevypadá marně.
 
-[Zdroj: Tom's Hardware](https://www.tomshardware.com/3d-printing/anycubic-kobra-4-combo-3d-printer-review)
-
----
-
-## 3D tisk oživil římskou deskovku
-
-Newcastle University ukázala projekt, kde pomocí 3D tisku vznikla replika jedné z oblíbených deskových her z římské Británie. Tohle není nová tiskárna ani materiál, ale líbí se mi na tom něco jiného: 3D tisk jako normální nástroj pro vzdělávání a hraní.
-
-U historických předmětů je 3D tisk hodně užitečný. Originál necháš v muzeu, ale kopii si můžeš vzít do ruky, dát studentům, zkoušet pravidla a pochopit velikost nebo ergonomii. Najednou to není obrázek v učebnici, ale věc na stole.
-
-Pro hobby tiskaře je to dobrá připomínka, že tisk nemusí být jen držák kabelu nebo další Benchy. Občas stačí vzít zajímavý model, vytisknout ho a použít ho jako záminku něco si zahrát nebo vysvětlit děckám. Sranda musí být.
-
-[Zdroj: Newcastle University](https://from.ncl.ac.uk/how-3d-printing-revived-roman-britains-most-popular-board-game)
-
----
-
-Za mě je tenhle týden nejsilnější v praktických drobnostech. Kolečka v extruderu, rychlejší PLA, slicer a jasnější pravidla pro komunitní úpravy nejsou sexy titulky, ale přesně z takových věcí se skládá pohodlnější tisk.
-
-**Shrnutí:**
-
-- **E3D Bastion** dává smysl hlavně pro Bambu tiskárny, které často jedou abrazivní materiály.
-- **Prusament PLA High Speed** míří na rychlé prototypy, ne na magické zrychlení každé tiskárny.
-- **Open Community License 1.1** zpřesňuje pravidla pro komunitní úpravy kolem Prusa CAD dat.
-- **PrusaSlicer 2.9.6** je menší, ale důležitý stabilizační release.
-- **A2L a Kobra 4 Combo** beru jako recenze hotových mašin, ne jako produktové teasery.
+[Zdroj: můj stream na YouTube](https://www.youtube.com/watch?v=I-Ec5CXkkQo) a [recap Anycubic Kobra X](/blog/anycubic-kobra-x-unboxing-slozeni-a-prvni-tisk/)
