@@ -28,7 +28,7 @@ Jinak obsah krabice standardní: nářadíčko, štěteček, vzorek filamentu. K
 
 Stavba zabrala zhruba 50 minut čistého času. Osy Z jsou propojené řemenem, takže se nemůže stát, že by vám každá jela zvlášť. Konektory jsou barevně i velikostně odlišené, takže je prakticky nemůžete zapojit špatně. Manuál je přehledný a postupuje krok po kroku.
 
-Jeden detail, který mě potěšil: magnetická podložka na šroubky. Taková hloupost, ale když šroubujete a šroubky vám nelítají po celém stole, tak si to člověk užije.
+Jeden detail, který mě potěšil: v balení u nářadí byl magnet, který držel nářadí i šroubky pohromadě. Je to drobnost, ale při montáži je fajn, když se šroubky nikam nerozkutálejí.
 
 Jedinou chvilku jsem se zasekl u plastové krytky, kterou jsem měl nasazenou obráceně. Jinak nic, co by stálo za zmínku.
 
