@@ -1,16 +1,16 @@
 ---
-title: "Pod tryskou 27/2026: římská deskovka, rychlé PLA a Kobra X"
+title: "Pod tryskou 27/2026: Bambu Lab A2L, římská deskovka a Kobra X"
 pubDate: "2026-06-29T05:00:00.000Z"
-description: "Tenhle týden vede 3D tištěná replika římské deskové hry, k tomu rychlé PLA, licence kolem Průši, Bastion kolečka pro Bambu a moje první dojmy z Anycubic Kobra X."
+description: "Bambu Lab A2L už je venku, k tomu 3D tištěná replika římské deskovky, odolnější extruderová kolečka pro Bambu, rychlé PLA a moje první dojmy z Anycubic Kobra X."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/06/pod-tryskou-27-2026-hero.webp"
 ---
 
-# Pod tryskou 27/2026: římská deskovka, rychlé PLA a Kobra X
+# Pod tryskou 27/2026: Bambu Lab A2L, římská deskovka a Kobra X
 
-Tenhle týden mě nejvíc baví římská deskovka z Vindolandy. Není to další nová tiskárna ani špulka s lepším marketingem, ale pěkný příklad toho, proč 3D tisk dává smysl i mimo dílnu.
+Bambu Lab A2L už není teaser, ale normálně prodávaná mašina. Má velkou tiskovou plochu, zůstává otevřeným bedslingerem a vedle tisku umí s volitelným příslušenstvím i řezání a kreslení.
 
-Zbytek výběru je praktičtější: kolečka do extruderu, rychlé PLA, slicer, licence kolem komunitních úprav a moje čerstvé dojmy z Anycubic Kobra X.
+Vedle ní tu mám římskou deskovku vytaženou z muzea do ruky, odolnější kolečka do Bambu extruderu, rychlé PLA a moje první dojmy z Anycubic Kobra X.
 
 ---
 
@@ -56,39 +56,15 @@ Důležité je nebrat to jako kouzelnou špulku. Pořád potřebuješ rozumný p
 
 ---
 
-## Prusa posouvá Open Community License na verzi 1.1
+## Bambu Lab A2L: velký bedslinger, ne oznámení do budoucna
 
-Prusa Research vydala Open Community License 1.1 a k tomu vysvětlení plugin systému, příkladů a častých dotazů. OCL se týká hlavně sdílení a úprav kolem otevřených CAD dat, typicky u CORE One a navazujících komunitních projektů.
+A2L už je v prodeji. Má tiskový prostor 330 × 320 × 325 mm, tedy velikost pro helmy, větší prototypy a kusy, které na A1 prostě nedáš. Pořád je to otevřená tiskárna s pohyblivou podložkou, takže dává největší smysl pro PLA, PETG a TPU, ne jako univerzální krabice na všechno.
 
-Licence je nudné slovo, ale u 3D tiskáren je to důležité. Když výrobce pustí CAD ven, komunita začne vyrábět úpravy, držáky, kryty, moduly a někdy i dost zásadní přestavby. Dobrá licence má říct, co s tím smíš dělat, jak máš uvádět původ a kde už začíná problém.
+Bambu k ní nabízí AMS Lite a také doplněk pro řezání fólií a kreslení. To je za mě fajn hlavně pro lidi, kteří chtějí jednu mašinu na modely, štítky, samolepky nebo věci pro děti. Ne proto, že by tiskárna měla dělat úplně všechno.
 
-Nepletl bych si to s úplně volným „dělej si cokoliv“. OCL je pořád konkrétní licenční rámec od Prusa Research. Ale je dobře, že se to nehází jen někam do zipu bez pravidel. Pro lidi, kteří chtějí stavět modifikace a zveřejňovat je, je jasnější terén lepší než hádání z komentářů.
+Má ale jednu praktickou slabinu: velký bedslinger při rychlém tisku dokáže rozhýbat levný stůl. Pokud ji chceš hnát naplno, potřebuje pevné místo. Jinak je A2L prostě větší A1 pro člověka, který nechce CoreXY, ale narazil na limit malé podložky.
 
-[Zdroj: Prusa Research](https://blog.prusa3d.com/open-community-license-v1-1-the-new-plugin-system-more-examples-and-your-questions-answered_137202/)
-
----
-
-## PrusaSlicer 2.9.6 je venku ve finální verzi
-
-PrusaSlicer 2.9.6 vyšel jako finální release. Podle poznámek řeší hlavně ColorMix a několik úprav kolem INDX. Není to vydání, kvůli kterému si sedneš na zadek, ale přesně takové verze často rozhodují o tom, jestli se nová funkce používá normálně, nebo jen na ukázku.
-
-ColorMix znamená práci s mícháním barev nebo přechody v rámci tiskové přípravy. INDX je zase Prusa směr pro výměnné nástroje a více materiálů. U takových věcí není důležitý jen velký nápad, ale drobnosti v profilech, nastavení a chování sliceru.
-
-Pokud jedeš stabilní tisk a nechce se ti experimentovat, nemusíš aktualizovat vteřinu po vydání. Pokud ale řešíš nové Prusa profily, INDX nebo vícemateriálové věci, poznámky k release bych si prošel.
-
-[Zdroj: GitHub release PrusaSlicer](https://github.com/prusa3d/PrusaSlicer/releases/tag/version_2.9.6)
-
----
-
-## Bambu Lab A2L už beru jako hotovou mašinu, ne teaser
-
-Tom's Hardware vydal recenzi Bambu Lab A2L s titulkem, že A1 prostě vyrostla. To je dobré brát přesně takhle: ne jako „něco se chystá“, ale jako první praktický pohled na hotovou tiskárnu, která už je venku a řeší větší pracovní plochu u bedslingeru.
-
-Bedslinger je tiskárna, kde se podložka hýbe dopředu a dozadu. Je to jednoduché, levnější a pořád hodně použitelné řešení, ale u větší plochy začneš víc řešit vibrace, prostor na stole a stabilitu při rychlém tisku.
-
-Za mě je u A2L nejzajímavější otázka jednoduchá: jestli dává větší plocha větší smysl než skočit rovnou do CoreXY krabice. Recenzi bych nebral jako nákupní rozkaz, spíš jako první filtr pro lidi, kteří chtějí větší Bambu, ale nechtějí hned zavřenou mašinu.
-
-[Zdroj: Tom's Hardware](https://www.tomshardware.com/3d-printing/bambu-lab-a2l-3d-printer-review)
+[Zdroj: Bambu Lab A2L](https://eu.store.bambulab.com/en/products/a2l) a [nezávislý test Tom's Hardware](https://www.tomshardware.com/3d-printing/bambu-lab-a2l-3d-printer-review)
 
 ---
 
