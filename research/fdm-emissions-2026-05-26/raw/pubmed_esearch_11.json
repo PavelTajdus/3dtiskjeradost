@@ -1,0 +1,42 @@
+{
+  "query": "fused deposition modeling FDM ultrafine particles VOC emissions",
+  "data": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "3",
+      "retmax": "3",
+      "retstart": "0",
+      "idlist": [
+        "34139957",
+        "31540002",
+        "26550911"
+      ],
+      "translationset": [
+        {
+          "from": "fused",
+          "to": "\"fused\"[All Fields] OR \"fuses\"[All Fields] OR \"fusing\"[All Fields]"
+        },
+        {
+          "from": "deposition",
+          "to": "\"deposit\"[All Fields] OR \"deposit's\"[All Fields] OR \"deposited\"[All Fields] OR \"deposites\"[All Fields] OR \"depositing\"[All Fields] OR \"deposition\"[All Fields] OR \"depositional\"[All Fields] OR \"depositioning\"[All Fields] OR \"depositions\"[All Fields] OR \"deposits\"[All Fields]"
+        },
+        {
+          "from": "modeling",
+          "to": "\"model\"[All Fields] OR \"model's\"[All Fields] OR \"modeled\"[All Fields] OR \"modeler\"[All Fields] OR \"modeler's\"[All Fields] OR \"modelers\"[All Fields] OR \"modeling\"[All Fields] OR \"modelings\"[All Fields] OR \"modelization\"[All Fields] OR \"modelizations\"[All Fields] OR \"modelize\"[All Fields] OR \"modelized\"[All Fields] OR \"modelled\"[All Fields] OR \"modeller\"[All Fields] OR \"modellers\"[All Fields] OR \"modelling\"[All Fields] OR \"modellings\"[All Fields] OR \"models\"[All Fields]"
+        },
+        {
+          "from": "ultrafine particles",
+          "to": "\"particulate matter\"[Supplementary Concept] OR \"particulate matter\"[All Fields] OR \"ultrafine particles\"[All Fields] OR \"particulate matter\"[MeSH Terms] OR (\"particulate\"[All Fields] AND \"matter\"[All Fields]) OR (\"ultrafine\"[All Fields] AND \"particles\"[All Fields])"
+        },
+        {
+          "from": "emissions",
+          "to": "\"emission\"[All Fields] OR \"emission's\"[All Fields] OR \"emissions\"[All Fields] OR \"emissive\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"fused\"[All Fields] OR \"fuses\"[All Fields] OR \"fusing\"[All Fields]) AND (\"deposit\"[All Fields] OR \"deposit s\"[All Fields] OR \"deposited\"[All Fields] OR \"deposites\"[All Fields] OR \"depositing\"[All Fields] OR \"deposition\"[All Fields] OR \"depositional\"[All Fields] OR \"depositioning\"[All Fields] OR \"depositions\"[All Fields] OR \"deposits\"[All Fields]) AND (\"model\"[All Fields] OR \"model s\"[All Fields] OR \"modeled\"[All Fields] OR \"modeler\"[All Fields] OR \"modeler s\"[All Fields] OR \"modelers\"[All Fields] OR \"modeling\"[All Fields] OR \"modelings\"[All Fields] OR \"modelization\"[All Fields] OR \"modelizations\"[All Fields] OR \"modelize\"[All Fields] OR \"modelized\"[All Fields] OR \"modelled\"[All Fields] OR \"modeller\"[All Fields] OR \"modellers\"[All Fields] OR \"modelling\"[All Fields] OR \"modellings\"[All Fields] OR \"models\"[All Fields]) AND \"FDM\"[All Fields] AND (\"particulate matter\"[Supplementary Concept] OR \"particulate matter\"[All Fields] OR \"ultrafine particles\"[All Fields] OR \"particulate matter\"[MeSH Terms] OR (\"particulate\"[All Fields] AND \"matter\"[All Fields]) OR (\"ultrafine\"[All Fields] AND \"particles\"[All Fields])) AND \"VOC\"[All Fields] AND (\"emission\"[All Fields] OR \"emission s\"[All Fields] OR \"emissions\"[All Fields] OR \"emissive\"[All Fields])"
+    }
+  }
+}

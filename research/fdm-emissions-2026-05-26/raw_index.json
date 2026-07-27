@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-05-26T18:08:01.196359+00:00",
+  "queries": [
+    "desktop 3D printer ultrafine particles volatile organic compounds emissions",
+    "fused deposition modeling FDM ultrafine particles VOC emissions",
+    "fused filament fabrication FFF particle emissions volatile organic compounds",
+    "material extrusion 3D printing emissions styrene formaldehyde caprolactam",
+    "3D printing emissions PLA ABS PETG TPU nylon polycarbonate",
+    "3D printer emissions health risk indoor air filtration ventilation HEPA activated carbon",
+    "3D printer ultrafine particles cytotoxicity A549 cells",
+    "consumer 3D printer emissions exposure assessment indoor air",
+    "additive manufacturing material extrusion occupational exposure VOC UFP",
+    "3D printer nanoparticles emissions ABS PLA styrene lactide"
+  ],
+  "sources": {
+    "pubmed_id_count": 30
+  }
+}

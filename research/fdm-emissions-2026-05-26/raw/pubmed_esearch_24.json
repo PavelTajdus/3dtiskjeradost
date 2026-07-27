@@ -1,0 +1,48 @@
+{
+  "query": "consumer 3D printer emissions exposure assessment indoor air",
+  "data": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "5",
+      "retmax": "5",
+      "retstart": "0",
+      "idlist": [
+        "37950573",
+        "34963600",
+        "34067219",
+        "33076715",
+        "31513393"
+      ],
+      "translationset": [
+        {
+          "from": "consumer",
+          "to": "\"consumable\"[All Fields] OR \"consumables\"[All Fields] OR \"consume\"[All Fields] OR \"consumed\"[All Fields] OR \"consumer\"[All Fields] OR \"consumer's\"[All Fields] OR \"consumers\"[All Fields] OR \"consumes\"[All Fields] OR \"consuming\"[All Fields]"
+        },
+        {
+          "from": "printer",
+          "to": "\"printer\"[All Fields] OR \"printers\"[All Fields]"
+        },
+        {
+          "from": "emissions",
+          "to": "\"emission\"[All Fields] OR \"emission's\"[All Fields] OR \"emissions\"[All Fields] OR \"emissive\"[All Fields]"
+        },
+        {
+          "from": "exposure",
+          "to": "\"exposure\"[All Fields] OR \"exposure's\"[All Fields] OR \"exposured\"[All Fields] OR \"exposures\"[All Fields] OR \"exposuring\"[All Fields]"
+        },
+        {
+          "from": "assessment",
+          "to": "\"assess\"[All Fields] OR \"assessed\"[All Fields] OR \"assessement\"[All Fields] OR \"assesses\"[All Fields] OR \"assessing\"[All Fields] OR \"assessment\"[All Fields] OR \"assessment's\"[All Fields] OR \"assessments\"[All Fields]"
+        },
+        {
+          "from": "indoor air",
+          "to": "\"Indoor Air\"[Journal:__jid9423515] OR \"Indoor Air Int Conf Indoor Air Qual Clim\"[Journal:__jid101704329] OR (\"indoor\"[All Fields] AND \"air\"[All Fields]) OR \"indoor air\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"consumable\"[All Fields] OR \"consumables\"[All Fields] OR \"consume\"[All Fields] OR \"consumed\"[All Fields] OR \"consumer\"[All Fields] OR \"consumer s\"[All Fields] OR \"consumers\"[All Fields] OR \"consumes\"[All Fields] OR \"consuming\"[All Fields]) AND \"3D\"[All Fields] AND (\"printer\"[All Fields] OR \"printers\"[All Fields]) AND (\"emission\"[All Fields] OR \"emission s\"[All Fields] OR \"emissions\"[All Fields] OR \"emissive\"[All Fields]) AND (\"exposure\"[All Fields] OR \"exposure s\"[All Fields] OR \"exposured\"[All Fields] OR \"exposures\"[All Fields] OR \"exposuring\"[All Fields]) AND (\"assess\"[All Fields] OR \"assessed\"[All Fields] OR \"assessement\"[All Fields] OR \"assesses\"[All Fields] OR \"assessing\"[All Fields] OR \"assessment\"[All Fields] OR \"assessment s\"[All Fields] OR \"assessments\"[All Fields]) AND (\"indoor air\"[Journal] OR \"indoor air int conf indoor air qual clim\"[Journal] OR (\"indoor\"[All Fields] AND \"air\"[All Fields]) OR \"indoor air\"[All Fields])"
+    }
+  }
+}

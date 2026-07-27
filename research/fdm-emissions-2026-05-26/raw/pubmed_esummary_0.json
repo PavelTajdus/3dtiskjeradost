@@ -1,0 +1,3981 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "35979329",
+      "30622073",
+      "35979087",
+      "34963600",
+      "31540002",
+      "34139957",
+      "37950573",
+      "35399295",
+      "42124301",
+      "31798757",
+      "33076715",
+      "39719678",
+      "41969752",
+      "38710394",
+      "33641630",
+      "38314584",
+      "35758103",
+      "34067219",
+      "33901889",
+      "35685978",
+      "26550911",
+      "26741485",
+      "32502783",
+      "28440728",
+      "29500848",
+      "39903438",
+      "33104072",
+      "31513393",
+      "37755731",
+      "28165927"
+    ],
+    "35979329": {
+      "uid": "35979329",
+      "pubdate": "2021 Mar 25",
+      "epubdate": "",
+      "source": "J Chem Health Saf",
+      "authors": [
+        {
+          "name": "Stefaniak AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bowers LN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Martin SB Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hammond DR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ham JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wells JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fortner AR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Knepp AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "du Preez S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pretty JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roberts JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "du Plessis JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schmidt A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Duling MG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bader A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Virji MA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Virji MA",
+      "title": "Large-Format Additive Manufacturing and Machining Using High-Melt-Temperature Polymers. Part I: Real-Time Particulate and Gas-Phase Emissions.",
+      "sorttitle": "large format additive manufacturing and machining using high melt temperature polymers part i real time particulate and gas phase emissions",
+      "volume": "28",
+      "issue": "3",
+      "pages": "190-200",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101729363",
+      "issn": "1871-5532",
+      "essn": "1878-0504",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35979329"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1717819"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9380575"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9380575;manuscript-id: NIHMS1717819;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acs.chas.0c00128"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2022/08/18 02:16"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2021/03/25 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2021/03/25 00:01"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2022/08/16 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 43,
+      "fulljournalname": "Journal of chemical health & safety",
+      "elocationid": "doi: 10.1021/acs.chas.0c00128",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2021/03/25 00:00",
+      "sortfirstauthor": "Stefaniak AB",
+      "vernaculartitle": ""
+    },
+    "30622073": {
+      "uid": "30622073",
+      "pubdate": "2019 Feb",
+      "epubdate": "2019 Jan 5",
+      "source": "Environ Int",
+      "authors": [
+        {
+          "name": "Gu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wensing M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Uhde E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Salthammer T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Salthammer T",
+      "title": "Characterization of particulate and gaseous pollutants emitted during operation of a desktop 3D printer.",
+      "sorttitle": "characterization of particulate and gaseous pollutants emitted during operation of a desktop 3d printer",
+      "volume": "123",
+      "issue": "",
+      "pages": "476-485",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7807270",
+      "issn": "0160-4120",
+      "essn": "1873-6750",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30622073"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.envint.2018.12.014"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0160-4120(18)32366-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2018/10/15 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2018/11/30 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2018/12/05 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2019/01/10 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/06/14 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2019/01/10 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Environment international",
+      "elocationid": "doi: 10.1016/j.envint.2018.12.014",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2019/02/01 00:00",
+      "sortfirstauthor": "Gu J",
+      "vernaculartitle": ""
+    },
+    "35979087": {
+      "uid": "35979087",
+      "pubdate": "2021 Aug 31",
+      "epubdate": "",
+      "source": "J Chem Health Saf",
+      "authors": [
+        {
+          "name": "Stefaniak AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bowers LN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cottrell G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Erdem E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Knepp AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Martin S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pretty J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Duling MG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arnold ED",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wilson Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krider B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "LeBouf RF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Virji MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sirinterlikci A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sirinterlikci A",
+      "title": "Use of 3-Dimensional Printers in Educational Settings: The Need for Awareness of the Effects of Printer Temperature and Filament Type on Contaminant Releases.",
+      "sorttitle": "use of 3 dimensional printers in educational settings the need for awareness of the effects of printer temperature and filament type on contaminant releases",
+      "volume": "28",
+      "issue": "6",
+      "pages": "444-456",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101729363",
+      "issn": "1871-5532",
+      "essn": "1878-0504",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35979087"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1827042"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9377640"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9377640;manuscript-id: NIHMS1827042;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acs.chas.1c00041"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2022/08/18 02:12"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2022/08/19 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2022/08/19 06:01"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2022/08/31 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 61,
+      "fulljournalname": "Journal of chemical health & safety",
+      "elocationid": "doi: 10.1021/acs.chas.1c00041",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2021/08/31 00:00",
+      "sortfirstauthor": "Stefaniak AB",
+      "vernaculartitle": ""
+    },
+    "34963600": {
+      "uid": "34963600",
+      "pubdate": "2022 Mar 25",
+      "epubdate": "2021 Dec 25",
+      "source": "Sci Total Environ",
+      "authors": [
+        {
+          "name": "Tedla G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jarabek AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Byrley P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boyes W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rogers K",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rogers K",
+      "title": "Human exposure to metals in consumer-focused fused filament fabrication (FFF)/ 3D printing processes.",
+      "sorttitle": "human exposure to metals in consumer focused fused filament fabrication fff 3d printing processes",
+      "volume": "814",
+      "issue": "",
+      "pages": "152622",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0330500",
+      "issn": "0048-9697",
+      "essn": "1879-1026",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34963600"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1783999"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8961686"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8961686;manuscript-id: NIHMS1783999;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.scitotenv.2021.152622"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0048-9697(21)07700-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2021/09/29 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2021/12/16 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2021/12/19 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2021/12/30 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2022/02/17 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2021/12/29 05:29"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/03/25 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 146,
+      "fulljournalname": "The Science of the total environment",
+      "elocationid": "doi: 10.1016/j.scitotenv.2021.152622",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2022/03/25 00:00",
+      "sortfirstauthor": "Tedla G",
+      "vernaculartitle": ""
+    },
+    "31540002": {
+      "uid": "31540002",
+      "pubdate": "2019 Nov 20",
+      "epubdate": "2019 Jul 17",
+      "source": "Sci Total Environ",
+      "authors": [
+        {
+          "name": "Ding S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ng BF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wan MP",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wan MP",
+      "title": "The characteristics and formation mechanisms of emissions from thermal decomposition of 3D printer polymer filaments.",
+      "sorttitle": "characteristics and formation mechanisms of emissions from thermal decomposition of 3d printer polymer filaments",
+      "volume": "692",
+      "issue": "",
+      "pages": "984-994",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0330500",
+      "issn": "0048-9697",
+      "essn": "1879-1026",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31540002"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.scitotenv.2019.07.257"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0048-9697(19)33370-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2019/05/04 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2019/06/29 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2019/07/16 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2019/09/22 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2019/09/22 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/09/22 06:01"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Science of the total environment",
+      "elocationid": "doi: 10.1016/j.scitotenv.2019.07.257",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2019/11/20 00:00",
+      "sortfirstauthor": "Ding S",
+      "vernaculartitle": ""
+    },
+    "34139957": {
+      "uid": "34139957",
+      "pubdate": "2021 Jul 4",
+      "epubdate": "2021 Jun 17",
+      "source": "J Toxicol Environ Health B Crit Rev",
+      "authors": [
+        {
+          "name": "Stefaniak AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Du Preez S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Du Plessis JL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Du Plessis JL",
+      "title": "Additive Manufacturing for Occupational Hygiene: A Comprehensive Review of Processes, Emissions, & Exposures.",
+      "sorttitle": "additive manufacturing for occupational hygiene a comprehensive review of processes emissions exposures",
+      "volume": "24",
+      "issue": "5",
+      "pages": "173-222",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9802627",
+      "issn": "1093-7404",
+      "essn": "1521-6950",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34139957"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1717812"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8678392"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8678392;manuscript-id: NIHMS1717812;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/10937404.2021.1936319"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2021/06/19 06:01"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2021/06/19 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2021/06/18 05:32"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2022/12/17 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 89,
+      "fulljournalname": "Journal of toxicology and environmental health. Part B, Critical reviews",
+      "elocationid": "doi: 10.1080/10937404.2021.1936319",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2021/07/04 00:00",
+      "sortfirstauthor": "Stefaniak AB",
+      "vernaculartitle": ""
+    },
+    "37950573": {
+      "uid": "37950573",
+      "pubdate": "2024 Apr",
+      "epubdate": "2023 Nov 11",
+      "source": "J Appl Toxicol",
+      "authors": [
+        {
+          "name": "Korchevskiy AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hill WC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hull M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Korchevskiy A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Korchevskiy A",
+      "title": "Using particle dimensionality-based modeling to estimate lung carcinogenicity of 3D printer emissions.",
+      "sorttitle": "using particle dimensionality based modeling to estimate lung carcinogenicity of 3d printer emissions",
+      "volume": "44",
+      "issue": "4",
+      "pages": "564-581",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8109495",
+      "issn": "0260-437X",
+      "essn": "1099-1263",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37950573"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS2043044"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11791719"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11791719;manuscript-id: NIHMS2043044;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jat.4561"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2023/10/18 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2023/09/01 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/10/19 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/03/19 06:44"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/11/11 11:48"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/11/11 04:14"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/02/04 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 102,
+      "fulljournalname": "Journal of applied toxicology : JAT",
+      "elocationid": "doi: 10.1002/jat.4561",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/04/01 00:00",
+      "sortfirstauthor": "Korchevskiy AA",
+      "vernaculartitle": ""
+    },
+    "35399295": {
+      "uid": "35399295",
+      "pubdate": "2022",
+      "epubdate": "2022 Mar 25",
+      "source": "Front Toxicol",
+      "authors": [
+        {
+          "name": "Kim B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shin JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim HP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jo MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim HS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee HK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kwon HC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han SG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kang N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gulumian M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bello D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu IJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yu IJ",
+      "title": "On-Site Deployment of an Air-Liquid-Interphase Device to Assess Health Hazard Potency of Airborne Workplace Contaminants: The Case of 3-D Printers.",
+      "sorttitle": "on site deployment of an air liquid interphase device to assess health hazard potency of airborne workplace contaminants the case of 3 d printers",
+      "volume": "4",
+      "issue": "",
+      "pages": "818942",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101777990",
+      "issn": "",
+      "essn": "2673-3080",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35399295"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8990836"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8990836;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/ftox.2022.818942"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "818942"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2021/11/20 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2022/01/25 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2022/04/11 05:12"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2022/04/12 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2022/04/12 06:01"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2022/03/25 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 31,
+      "fulljournalname": "Frontiers in toxicology",
+      "elocationid": "doi: 10.3389/ftox.2022.818942",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2022/03/25 00:00",
+      "sortfirstauthor": "Kim B",
+      "vernaculartitle": ""
+    },
+    "42124301": {
+      "uid": "42124301",
+      "pubdate": "2026 May 4",
+      "epubdate": "2026 May 4",
+      "source": "Materials (Basel)",
+      "authors": [
+        {
+          "name": "Dobrzyńska E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jankowski T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Borucka M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Borucka M",
+      "title": "Particle and Chemical Emissions During Fused Filament Fabrication (FFF) Using Commercial ABS- and PET-G-Based Filaments.",
+      "sorttitle": "particle and chemical emissions during fused filament fabrication fff using commercial abs and pet g based filaments",
+      "volume": "19",
+      "issue": "9",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101555929",
+      "issn": "1996-1944",
+      "essn": "1996-1944",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42124301"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13164954"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13164954;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ma19091895"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ma19091895"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/02/23 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/04/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/04/25 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/13 06:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/05/13 06:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/05/13 01:14"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/05/04 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 31,
+      "fulljournalname": "Materials (Basel, Switzerland)",
+      "elocationid": "doi: 10.3390/ma19091895",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/04 00:00",
+      "sortfirstauthor": "Dobrzyńska E",
+      "vernaculartitle": ""
+    },
+    "31798757": {
+      "uid": "31798757",
+      "pubdate": "2019 Mar",
+      "epubdate": "",
+      "source": "J Chem Health Saf",
+      "authors": [
+        {
+          "name": "Stefaniak AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johnson AR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "du Preez S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hammond DR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wells JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ham JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "LeBouf RF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Menchaca KW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Martin SB Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Duling MG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bowers LN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Knepp AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Su FC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Beer DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "du Plessis JL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "du Plessis JL",
+      "title": "Evaluation of emissions and exposures at workplaces using desktop 3-dimensional printer.",
+      "sorttitle": "evaluation of emissions and exposures at workplaces using desktop 3 dimensional printer",
+      "volume": "26",
+      "issue": "2",
+      "pages": "19-30",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101729363",
+      "issn": "1871-5532",
+      "essn": "1878-0504",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31798757"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1039826"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6889885"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6889885;manuscript-id: NIHMS1039826;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jchas.2018.11.001"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2019/12/05 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2019/12/05 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/12/05 06:01"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2019/12/03 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 40,
+      "fulljournalname": "Journal of chemical health & safety",
+      "elocationid": "doi: 10.1016/j.jchas.2018.11.001",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2019/03/01 00:00",
+      "sortfirstauthor": "Stefaniak AB",
+      "vernaculartitle": ""
+    },
+    "33076715": {
+      "uid": "33076715",
+      "pubdate": "2020 Sep-Oct",
+      "epubdate": "2020 Oct 20",
+      "source": "Inhal Toxicol",
+      "authors": [
+        {
+          "name": "Farcas MT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McKinney W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qi C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mandler KW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Battelli L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Friend SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stefaniak AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jackson M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Orandle M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Winn A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kashon M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "LeBouf RF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Russ KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hammond DR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Burns D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ranpara A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thomas TA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Matheson J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qian Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Qian Y",
+      "title": "Pulmonary and systemic toxicity in rats following inhalation exposure of 3-D printer emissions from acrylonitrile butadiene styrene (ABS) filament.",
+      "sorttitle": "pulmonary and systemic toxicity in rats following inhalation exposure of 3 d printer emissions from acrylonitrile butadiene styrene abs filament",
+      "volume": "32",
+      "issue": "11-12",
+      "pages": "403-418",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8910739",
+      "issn": "0895-8378",
+      "essn": "1091-7691",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33076715"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1640446"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7673646"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7673646;manuscript-id: NIHMS1640446;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/08958378.2020.1834034"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2020/10/21 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2021/03/30 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2020/10/20 05:38"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2020/11/18 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 58,
+      "fulljournalname": "Inhalation toxicology",
+      "elocationid": "doi: 10.1080/08958378.2020.1834034",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2020/09/01 00:00",
+      "sortfirstauthor": "Farcas MT",
+      "vernaculartitle": ""
+    },
+    "39719678": {
+      "uid": "39719678",
+      "pubdate": "2025 Mar 15",
+      "epubdate": "",
+      "source": "Ann Work Expo Health",
+      "authors": [
+        {
+          "name": "Hall S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sumner J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hunwin G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Martell S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pengelly I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brown V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Staff J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Forder J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bard D",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bard D",
+      "title": "Desktop 3D printers in the workplace: use, emissions, controls, and health.",
+      "sorttitle": "desktop 3d printers in the workplace use emissions controls and health",
+      "volume": "69",
+      "issue": "3",
+      "pages": "284-296",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101698454",
+      "issn": "2398-7308",
+      "essn": "2398-7316",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39719678"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/annweh/wxae101"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "7932357"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/08/19 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/12/04 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/03/17 15:19"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/12/25 06:19"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/12/25 00:32"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of work exposures and health",
+      "elocationid": "doi: 10.1093/annweh/wxae101",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/03/15 00:00",
+      "sortfirstauthor": "Hall S",
+      "vernaculartitle": ""
+    },
+    "41969752": {
+      "uid": "41969752",
+      "pubdate": "2017",
+      "epubdate": "2017 Apr 6",
+      "source": "J Ind Ecol",
+      "authors": [
+        {
+          "name": "Azimi P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fazli T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stephens B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Stephens B",
+      "title": "Predicting Concentrations of Ultrafine Particles and Volatile Organic Compounds Resulting from Desktop 3D Printer Operation and the Impact of Potential Control Strategies.",
+      "sorttitle": "predicting concentrations of ultrafine particles and volatile organic compounds resulting from desktop 3d printer operation and the impact of potential control strategies",
+      "volume": "21",
+      "issue": "Suppl 1",
+      "pages": "S107-S119",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101604289",
+      "issn": "1088-1980",
+      "essn": "1530-9290",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41969752"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13061758"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13061758;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/jiec.12578"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2101011"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2017/01/01 00:01"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/01/01 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/04/13 06:28"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2017/04/06 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 46,
+      "fulljournalname": "Journal of industrial ecology",
+      "elocationid": "doi: 10.1111/jiec.12578",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/01/01 00:00",
+      "sortfirstauthor": "Azimi P",
+      "vernaculartitle": ""
+    },
+    "38710394": {
+      "uid": "38710394",
+      "pubdate": "2024 Jun 25",
+      "epubdate": "2024 May 6",
+      "source": "Sci Total Environ",
+      "authors": [
+        {
+          "name": "Do G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tsai PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yoon C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yoon C",
+      "title": "Evaluation of particle and volatile organic compound emissions during the use of 3D pens.",
+      "sorttitle": "evaluation of particle and volatile organic compound emissions during the use of 3d pens",
+      "volume": "931",
+      "issue": "",
+      "pages": "173003",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0330500",
+      "issn": "0048-9697",
+      "essn": "1879-1026",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38710394"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.scitotenv.2024.173003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0048-9697(24)03150-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/02/06 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2024/04/21 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/05/03 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/05/21 06:43"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/05/07 00:50"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/05/06 19:25"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Science of the total environment",
+      "elocationid": "doi: 10.1016/j.scitotenv.2024.173003",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/06/25 00:00",
+      "sortfirstauthor": "Do G",
+      "vernaculartitle": ""
+    },
+    "33641630": {
+      "uid": "33641630",
+      "pubdate": "2021 Jun 3",
+      "epubdate": "2021 Feb 28",
+      "source": "J Toxicol Environ Health A",
+      "authors": [
+        {
+          "name": "MacCuspie RI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hill WC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hall DR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Korchevskiy A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Strode CD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kennedy AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ballentine ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rycroft T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hull MS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hull MS",
+      "title": "Prevention through design: insights from computational fluid dynamics modeling to predict exposure to ultrafine particles from 3D printing.",
+      "sorttitle": "prevention through design insights from computational fluid dynamics modeling to predict exposure to ultrafine particles from 3d printing",
+      "volume": "84",
+      "issue": "11",
+      "pages": "458-474",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100960995",
+      "issn": "1528-7394",
+      "essn": "2381-3504",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33641630"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1675544"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8044021"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8044021;manuscript-id: NIHMS1675544;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/15287394.2021.1886210"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2021/03/02 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2021/09/18 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2021/03/01 05:25"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2022/06/03 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 63,
+      "fulljournalname": "Journal of toxicology and environmental health. Part A",
+      "elocationid": "doi: 10.1080/15287394.2021.1886210",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2021/06/03 00:00",
+      "sortfirstauthor": "MacCuspie RI",
+      "vernaculartitle": ""
+    },
+    "38314584": {
+      "uid": "38314584",
+      "pubdate": "2024 Apr 17",
+      "epubdate": "2024 Feb 6",
+      "source": "J Toxicol Environ Health A",
+      "authors": [
+        {
+          "name": "Farcas MT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McKinney W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mandler WK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Knepp AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Battelli L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Friend SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stefaniak AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Service S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kashon M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "LeBouf RF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thomas TA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Matheson J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qian Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Qian Y",
+      "title": "Pulmonary evaluation of whole-body inhalation exposure of polycarbonate (PC) filament 3D printer emissions in rats.",
+      "sorttitle": "pulmonary evaluation of whole body inhalation exposure of polycarbonate pc filament 3d printer emissions in rats",
+      "volume": "87",
+      "issue": "8",
+      "pages": "325-341",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100960995",
+      "issn": "1528-7394",
+      "essn": "2381-3504",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38314584"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1991534"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11208878"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11208878;manuscript-id: NIHMS1991534;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/15287394.2024.2311170"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2024/02/08 06:42"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/02/05 06:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/02/05 05:31"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2024/06/27 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 47,
+      "fulljournalname": "Journal of toxicology and environmental health. Part A",
+      "elocationid": "doi: 10.1080/15287394.2024.2311170",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/04/17 00:00",
+      "sortfirstauthor": "Farcas MT",
+      "vernaculartitle": ""
+    },
+    "35758103": {
+      "uid": "35758103",
+      "pubdate": "2022 Jul 4",
+      "epubdate": "2022 Jun 26",
+      "source": "J Toxicol Environ Health B Crit Rev",
+      "authors": [
+        {
+          "name": "Plessis JD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Preez SD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stefaniak AB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Stefaniak AB",
+      "title": "Identification of effective control technologies for additive manufacturing.",
+      "sorttitle": "identification of effective control technologies for additive manufacturing",
+      "volume": "25",
+      "issue": "5",
+      "pages": "211-249",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9802627",
+      "issn": "1093-7404",
+      "essn": "1521-6950",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35758103"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1827034"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9420827"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9420827;manuscript-id: NIHMS1827034;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/10937404.2022.2092569"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2022/06/28 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2022/08/30 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2022/06/27 05:23"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/07/04 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 81,
+      "fulljournalname": "Journal of toxicology and environmental health. Part B, Critical reviews",
+      "elocationid": "doi: 10.1080/10937404.2022.2092569",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2022/07/04 00:00",
+      "sortfirstauthor": "Plessis JD",
+      "vernaculartitle": ""
+    },
+    "34067219": {
+      "uid": "34067219",
+      "pubdate": "2021 May 7",
+      "epubdate": "2021 May 7",
+      "source": "Sensors (Basel)",
+      "authors": [
+        {
+          "name": "Khaki S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Duffy E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smeaton AF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morrin A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Morrin A",
+      "title": "Monitoring of Particulate Matter Emissions from 3D Printing Activity in the Home Setting.",
+      "sorttitle": "monitoring of particulate matter emissions from 3d printing activity in the home setting",
+      "volume": "21",
+      "issue": "9",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101204366",
+      "issn": "",
+      "essn": "1424-8220",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34067219"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8125858"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8125858;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/s21093247"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "s21093247"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2021/03/31 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2021/05/01 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2021/05/03 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2021/06/02 01:18"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2021/06/03 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2021/06/03 06:01"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2021/05/07 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 34,
+      "fulljournalname": "Sensors (Basel, Switzerland)",
+      "elocationid": "doi: 10.3390/s21093247",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2021/05/07 00:00",
+      "sortfirstauthor": "Khaki S",
+      "vernaculartitle": ""
+    },
+    "33901889": {
+      "uid": "33901889",
+      "pubdate": "2021 Sep",
+      "epubdate": "2021 Apr 15",
+      "source": "Chemosphere",
+      "authors": [
+        {
+          "name": "Potter PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al-Abed SR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hasan F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lomnicki SM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lomnicki SM",
+      "title": "Influence of polymer additives on gas-phase emissions from 3D printer filaments.",
+      "sorttitle": "influence of polymer additives on gas phase emissions from 3d printer filaments",
+      "volume": "279",
+      "issue": "",
+      "pages": "130543",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0320657",
+      "issn": "0045-6535",
+      "essn": "1879-1298",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33901889"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1744228"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8521456"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8521456;manuscript-id: NIHMS1744228;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.chemosphere.2021.130543"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0045-6535(21)01014-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2020/12/29 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2021/04/02 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2021/04/06 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2021/04/27 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2021/06/17 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2021/04/26 20:23"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2022/09/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 26,
+      "fulljournalname": "Chemosphere",
+      "elocationid": "doi: 10.1016/j.chemosphere.2021.130543",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2021/09/01 00:00",
+      "sortfirstauthor": "Potter PM",
+      "vernaculartitle": ""
+    },
+    "35685978": {
+      "uid": "35685978",
+      "pubdate": "2022 Jun",
+      "epubdate": "2022 May 13",
+      "source": "Clin Orthop Surg",
+      "authors": [
+        {
+          "name": "Joo MW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee YS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chung YG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee HK",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lee HK",
+      "title": "Sarcomas in Teachers Using Three-Dimensional Printers: A Report of Three Patients and Literature Review.",
+      "sorttitle": "sarcomas in teachers using three dimensional printers a report of three patients and literature review",
+      "volume": "14",
+      "issue": "2",
+      "pages": "310-317",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101505087",
+      "issn": "2005-291X",
+      "essn": "2005-4408",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35685978"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9152899"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9152899;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4055/cios21181"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2021/11/02 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2022/03/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2022/03/12 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2022/06/10 02:39"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2022/06/11 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2022/06/14 06:00"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2022/06/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 17,
+      "fulljournalname": "Clinics in orthopedic surgery",
+      "elocationid": "doi: 10.4055/cios21181",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2022/06/01 00:00",
+      "sortfirstauthor": "Joo MW",
+      "vernaculartitle": ""
+    },
+    "26550911": {
+      "uid": "26550911",
+      "pubdate": "2016",
+      "epubdate": "",
+      "source": "J Occup Environ Hyg",
+      "authors": [
+        {
+          "name": "Steinle P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Steinle P",
+      "title": "Characterization of emissions from a desktop 3D printer and indoor air measurements in office settings.",
+      "sorttitle": "characterization of emissions from a desktop 3d printer and indoor air measurements in office settings",
+      "volume": "13",
+      "issue": "2",
+      "pages": "121-32",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101189458",
+      "issn": "1545-9624",
+      "essn": "1545-9632",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26550911"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/15459624.2015.1091957"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2015/11/10 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2015/11/10 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/10/16 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of occupational and environmental hygiene",
+      "elocationid": "doi: 10.1080/15459624.2015.1091957",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/01/01 00:00",
+      "sortfirstauthor": "Steinle P",
+      "vernaculartitle": ""
+    },
+    "26741485": {
+      "uid": "26741485",
+      "pubdate": "2016 Feb 2",
+      "epubdate": "2016 Jan 15",
+      "source": "Environ Sci Technol",
+      "authors": [
+        {
+          "name": "Azimi P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pouzet C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Crain NE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stephens B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Stephens B",
+      "title": "Emissions of Ultrafine Particles and Volatile Organic Compounds from Commercially Available Desktop Three-Dimensional Printers with Multiple Filaments.",
+      "sorttitle": "emissions of ultrafine particles and volatile organic compounds from commercially available desktop three dimensional printers with multiple filaments",
+      "volume": "50",
+      "issue": "3",
+      "pages": "1260-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0213155",
+      "issn": "0013-936X",
+      "essn": "1520-5851",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26741485"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acs.est.5b04983"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2016/01/08 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/01/08 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2016/10/08 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Environmental science & technology",
+      "elocationid": "doi: 10.1021/acs.est.5b04983",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/02/02 00:00",
+      "sortfirstauthor": "Azimi P",
+      "vernaculartitle": ""
+    },
+    "32502783": {
+      "uid": "32502783",
+      "pubdate": "2020 Sep 20",
+      "epubdate": "2020 May 22",
+      "source": "Sci Total Environ",
+      "authors": [
+        {
+          "name": "Byrley P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Geer Wallace MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boyes WK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rogers K",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rogers K",
+      "title": "Particle and volatile organic compound emissions from a 3D printer filament extruder.",
+      "sorttitle": "particle and volatile organic compound emissions from a 3d printer filament extruder",
+      "volume": "736",
+      "issue": "",
+      "pages": "139604",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0330500",
+      "issn": "0048-9697",
+      "essn": "1879-1026",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32502783"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1603512"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8202132"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8202132;manuscript-id: NIHMS1603512;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.scitotenv.2020.139604"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0048-9697(20)33124-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2020/03/23 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2020/05/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2020/05/19 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2020/06/06 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2020/06/06 06:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2020/06/06 06:00"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2021/09/20 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 42,
+      "fulljournalname": "The Science of the total environment",
+      "elocationid": "doi: 10.1016/j.scitotenv.2020.139604",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2020/09/20 00:00",
+      "sortfirstauthor": "Byrley P",
+      "vernaculartitle": ""
+    },
+    "28440728": {
+      "uid": "28440728",
+      "pubdate": "2017 Jul",
+      "epubdate": "",
+      "source": "J Occup Environ Hyg",
+      "authors": [
+        {
+          "name": "Stefaniak AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "LeBouf RF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yi J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ham J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nurkewicz T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schwegler-Berry DE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen BT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wells JR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Duling MG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lawrence RB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Martin SB Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johnson AR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Virji MA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Virji MA",
+      "title": "Characterization of chemical contaminants generated by a desktop fused deposition modeling 3-dimensional Printer.",
+      "sorttitle": "characterization of chemical contaminants generated by a desktop fused deposition modeling 3 dimensional printer",
+      "volume": "14",
+      "issue": "7",
+      "pages": "540-550",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101189458",
+      "issn": "1545-9624",
+      "essn": "1545-9632",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28440728"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS966182"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5967408"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5967408;manuscript-id: NIHMS966182;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/15459624.2017.1302589"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/04/26 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/03/13 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/04/26 06:00"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2018/05/24 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 47,
+      "fulljournalname": "Journal of occupational and environmental hygiene",
+      "elocationid": "doi: 10.1080/15459624.2017.1302589",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/07/01 00:00",
+      "sortfirstauthor": "Stefaniak AB",
+      "vernaculartitle": ""
+    },
+    "29500848": {
+      "uid": "29500848",
+      "pubdate": "2018 Jul",
+      "epubdate": "2018 Mar 25",
+      "source": "Indoor Air",
+      "authors": [
+        {
+          "name": "Gümperlein I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fischer E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dietrich-Gümperlein G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Karrasch S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nowak D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jörres RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schierl R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Schierl R",
+      "title": "Acute health effects of desktop 3D printing (fused deposition modeling) using acrylonitrile butadiene styrene and polylactic acid materials: An experimental exposure study in human volunteers.",
+      "sorttitle": "acute health effects of desktop 3d printing fused deposition modeling using acrylonitrile butadiene styrene and polylactic acid materials an experimental exposure study in human volunteers",
+      "volume": "28",
+      "issue": "4",
+      "pages": "611-623",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9423515",
+      "issn": "0905-6947",
+      "essn": "1600-0668",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29500848"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/ina.12458"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2017/12/20 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2018/02/25 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/03/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/05/02 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2018/03/04 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Indoor air",
+      "elocationid": "doi: 10.1111/ina.12458",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2018/07/01 00:00",
+      "sortfirstauthor": "Gümperlein I",
+      "vernaculartitle": ""
+    },
+    "39903438": {
+      "uid": "39903438",
+      "pubdate": "2025 Feb",
+      "epubdate": "2025 Feb 4",
+      "source": "Environ Sci Pollut Res Int",
+      "authors": [
+        {
+          "name": "Beard JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Royer BM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hesita JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Byrley P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lewis A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hadynski J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Matheson J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al-Abed SR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sayes CM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sayes CM",
+      "title": "Lung cell toxicological effects of 3D printer aerosolized filament byproducts.",
+      "sorttitle": "lung cell toxicological effects of 3d printer aerosolized filament byproducts",
+      "volume": "32",
+      "issue": "9",
+      "pages": "5078-5090",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9441769",
+      "issn": "0944-1344",
+      "essn": "1614-7499",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39903438"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11868196"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11868196;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s11356-025-36006-1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s11356-025-36006-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/09/23 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/01/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/02/27 18:20"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/02/04 17:03"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/02/04 11:22"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/02/04 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 75,
+      "fulljournalname": "Environmental science and pollution research international",
+      "elocationid": "doi: 10.1007/s11356-025-36006-1",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/02/01 00:00",
+      "sortfirstauthor": "Beard JM",
+      "vernaculartitle": ""
+    },
+    "33104072": {
+      "uid": "33104072",
+      "pubdate": "2020 Oct 9",
+      "epubdate": "2020 Oct 9",
+      "source": "J Vis Exp",
+      "authors": [
+        {
+          "name": "Sigloch H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bierkandt FS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Singh AV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gadicherla AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Laux P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Luch A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Luch A",
+      "title": "3D Printing - Evaluating Particle Emissions of a 3D Printing Pen.",
+      "sorttitle": "3d printing evaluating particle emissions of a 3d printing pen",
+      "volume": "",
+      "issue": "164",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101313252",
+      "issn": "",
+      "essn": "1940-087X",
+      "pubtype": [
+        "Journal Article",
+        "Video-Audio Media"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33104072"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3791/61829"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2020/10/26 12:09"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2020/10/27 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2020/12/15 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of visualized experiments : JoVE",
+      "elocationid": "doi: 10.3791/61829",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2020/10/09 00:00",
+      "sortfirstauthor": "Sigloch H",
+      "vernaculartitle": ""
+    },
+    "31513393": {
+      "uid": "31513393",
+      "pubdate": "2019 Oct 15",
+      "epubdate": "2019 Sep 26",
+      "source": "Environ Sci Technol",
+      "authors": [
+        {
+          "name": "Zhang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pardo M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rudich Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaplan-Ashiri I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wong JPS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Davis AY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Black MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weber RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Weber RJ",
+      "title": "Chemical Composition and Toxicity of Particles Emitted from a Consumer-Level 3D Printer Using Various Materials.",
+      "sorttitle": "chemical composition and toxicity of particles emitted from a consumer level 3d printer using various materials",
+      "volume": "53",
+      "issue": "20",
+      "pages": "12054-12061",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0213155",
+      "issn": "0013-936X",
+      "essn": "1520-5851",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31513393"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acs.est.9b04168"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2019/09/13 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2019/11/30 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2019/09/13 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Environmental science & technology",
+      "elocationid": "doi: 10.1021/acs.est.9b04168",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2019/10/15 00:00",
+      "sortfirstauthor": "Zhang Q",
+      "vernaculartitle": ""
+    },
+    "37755731": {
+      "uid": "37755731",
+      "pubdate": "2023 Aug 22",
+      "epubdate": "2023 Aug 22",
+      "source": "Toxics",
+      "authors": [
+        {
+          "name": "Fang R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohammed AN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yadav JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang J",
+      "title": "Cytotoxicity and Characterization of Ultrafine Particles from Desktop Three-Dimensional Printers with Multiple Filaments.",
+      "sorttitle": "cytotoxicity and characterization of ultrafine particles from desktop three dimensional printers with multiple filaments",
+      "volume": "11",
+      "issue": "9",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101639637",
+      "issn": "",
+      "essn": "2305-6304",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37755731"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10536656"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10536656;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/toxics11090720"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "toxics11090720"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/06/15 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2023/08/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/08/17 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/09/27 12:42"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/09/27 12:41"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/09/27 11:33"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/08/22 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 16,
+      "fulljournalname": "Toxics",
+      "elocationid": "doi: 10.3390/toxics11090720",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/08/22 00:00",
+      "sortfirstauthor": "Fang R",
+      "vernaculartitle": ""
+    },
+    "28165927": {
+      "uid": "28165927",
+      "pubdate": "2017 Jun",
+      "epubdate": "",
+      "source": "J Occup Environ Hyg",
+      "authors": [
+        {
+          "name": "Wojtyła S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Klama P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baran T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Baran T",
+      "title": "Is 3D printing safe? Analysis of the thermal treatment of thermoplastics: ABS, PLA, PET, and nylon.",
+      "sorttitle": "is 3d printing safe analysis of the thermal treatment of thermoplastics abs pla pet and nylon",
+      "volume": "14",
+      "issue": "6",
+      "pages": "D80-D85",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101189458",
+      "issn": "1545-9624",
+      "essn": "1545-9632",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28165927"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/15459624.2017.1285489"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/02/07 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/01/03 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/02/07 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of occupational and environmental hygiene",
+      "elocationid": "doi: 10.1080/15459624.2017.1285489",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/06/01 00:00",
+      "sortfirstauthor": "Wojtyła S",
+      "vernaculartitle": ""
+    }
+  }
+}

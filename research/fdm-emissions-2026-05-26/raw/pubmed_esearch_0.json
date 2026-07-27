@@ -1,0 +1,50 @@
+{
+  "query": "desktop 3D printer ultrafine particles volatile organic compounds emissions",
+  "data": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "11",
+      "retmax": "11",
+      "retstart": "0",
+      "idlist": [
+        "39719678",
+        "35685978",
+        "35979329",
+        "33076715",
+        "31798757",
+        "30622073",
+        "28440728",
+        "28165927",
+        "41969752",
+        "26741485",
+        "26550911"
+      ],
+      "translationset": [
+        {
+          "from": "desktop",
+          "to": "\"desktop\"[All Fields] OR \"desktops\"[All Fields]"
+        },
+        {
+          "from": "printer",
+          "to": "\"printer\"[All Fields] OR \"printers\"[All Fields]"
+        },
+        {
+          "from": "ultrafine particles",
+          "to": "\"particulate matter\"[Supplementary Concept] OR \"particulate matter\"[All Fields] OR \"ultrafine particles\"[All Fields] OR \"particulate matter\"[MeSH Terms] OR (\"particulate\"[All Fields] AND \"matter\"[All Fields]) OR (\"ultrafine\"[All Fields] AND \"particles\"[All Fields])"
+        },
+        {
+          "from": "volatile organic compounds",
+          "to": "\"volatile organic compounds\"[Supplementary Concept] OR \"volatile organic compounds\"[All Fields] OR \"volatile organic compounds\"[MeSH Terms] OR (\"volatile\"[All Fields] AND \"organic\"[All Fields] AND \"compounds\"[All Fields])"
+        },
+        {
+          "from": "emissions",
+          "to": "\"emission\"[All Fields] OR \"emission's\"[All Fields] OR \"emissions\"[All Fields] OR \"emissive\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"desktop\"[All Fields] OR \"desktops\"[All Fields]) AND \"3D\"[All Fields] AND (\"printer\"[All Fields] OR \"printers\"[All Fields]) AND (\"particulate matter\"[Supplementary Concept] OR \"particulate matter\"[All Fields] OR \"ultrafine particles\"[All Fields] OR \"particulate matter\"[MeSH Terms] OR (\"particulate\"[All Fields] AND \"matter\"[All Fields]) OR (\"ultrafine\"[All Fields] AND \"particles\"[All Fields])) AND (\"volatile organic compounds\"[Supplementary Concept] OR \"volatile organic compounds\"[All Fields] OR \"volatile organic compounds\"[MeSH Terms] OR (\"volatile\"[All Fields] AND \"organic\"[All Fields] AND \"compounds\"[All Fields])) AND (\"emission\"[All Fields] OR \"emission s\"[All Fields] OR \"emissions\"[All Fields] OR \"emissive\"[All Fields])"
+    }
+  }
+}

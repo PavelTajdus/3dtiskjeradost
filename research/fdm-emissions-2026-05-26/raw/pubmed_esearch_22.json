@@ -1,0 +1,37 @@
+{
+  "query": "3D printer ultrafine particles cytotoxicity A549 cells",
+  "data": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "2",
+      "retmax": "2",
+      "retstart": "0",
+      "idlist": [
+        "37755731",
+        "35399295"
+      ],
+      "translationset": [
+        {
+          "from": "printer",
+          "to": "\"printer\"[All Fields] OR \"printers\"[All Fields]"
+        },
+        {
+          "from": "ultrafine particles",
+          "to": "\"particulate matter\"[Supplementary Concept] OR \"particulate matter\"[All Fields] OR \"ultrafine particles\"[All Fields] OR \"particulate matter\"[MeSH Terms] OR (\"particulate\"[All Fields] AND \"matter\"[All Fields]) OR (\"ultrafine\"[All Fields] AND \"particles\"[All Fields])"
+        },
+        {
+          "from": "cytotoxicity",
+          "to": "\"cytotox\"[All Fields] OR \"cytotoxic\"[All Fields] OR \"cytotoxical\"[All Fields] OR \"cytotoxically\"[All Fields] OR \"cytotoxicities\"[All Fields] OR \"cytotoxicity\"[All Fields] OR \"cytotoxics\"[All Fields] OR \"cytotoxities\"[All Fields] OR \"cytotoxity\"[All Fields]"
+        },
+        {
+          "from": "A549 cells",
+          "to": "\"a549 cells\"[MeSH Terms] OR (\"a549\"[All Fields] AND \"cells\"[All Fields]) OR \"a549 cells\"[All Fields]"
+        }
+      ],
+      "querytranslation": "\"3D\"[All Fields] AND (\"printer\"[All Fields] OR \"printers\"[All Fields]) AND (\"particulate matter\"[Supplementary Concept] OR \"particulate matter\"[All Fields] OR \"ultrafine particles\"[All Fields] OR \"particulate matter\"[MeSH Terms] OR (\"particulate\"[All Fields] AND \"matter\"[All Fields]) OR (\"ultrafine\"[All Fields] AND \"particles\"[All Fields])) AND (\"cytotox\"[All Fields] OR \"cytotoxic\"[All Fields] OR \"cytotoxical\"[All Fields] OR \"cytotoxically\"[All Fields] OR \"cytotoxicities\"[All Fields] OR \"cytotoxicity\"[All Fields] OR \"cytotoxics\"[All Fields] OR \"cytotoxities\"[All Fields] OR \"cytotoxity\"[All Fields]) AND (\"a549 cells\"[MeSH Terms] OR (\"a549\"[All Fields] AND \"cells\"[All Fields]) OR \"a549 cells\"[All Fields])"
+    }
+  }
+}

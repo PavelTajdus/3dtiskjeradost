@@ -1,0 +1,129 @@
+{
+  "query": "FDM 3D printer emissions health risk UFP VOC filtration ventilation HEPA activated carbon studies DOI",
+  "results": [
+    {
+      "title": "A review of emission characteristics and control strategies for particles emitted from 3D fused deposition modeling (FDM) printing - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0360132322005819",
+      "date": "2022-08-01",
+      "excerpt": "# A review of emission characteristics and control strategies for particles emitted from 3D fused deposition modeling (FDM) printing\n## Introduction\n[12] evaluated the deposition of inhaled particles in different regions of the respiratory tract for people at the ages ranging from 3 months to 18 years. Their result suggested that 9-years-old children had an overlap of the highest exposure risk considering total mass deposition and surface deposition by pulmonary surface area. Azimi et al. [10] studied the impact of the emitted VOCs to human health and reported that high lifetime cancer risks could be yielded from the exposure to styrene which was emitted largely by all ABS filaments and the HIPS filament. Davis et al. [11] identified 216 individual VOCs emitted from different filaments inc"
+    },
+    {
+      "title": "Investigating The Health Impacts Of UFPs And VOCs From FDM Printers | Hackaday",
+      "url": "https://hackaday.com/2026/05/20/investigating-the-health-impacts-of-ufps-and-vocs-from-fdm-printers/",
+      "date": "2026-05-20",
+      "excerpt": "# Investigating The Health Impacts Of UFPs And VOCs From FDM Printers\nFDM 3D printing is fairly messy on a molecular scale, with the filament being heated up to temperatures high enough to melt it, which produces ultra-fine particles (UFPs) and volatile organic compounds (VOCs) in addition to the new plastic item on the build plate. Recently [Simon Pow] [got somewhat worried about this pollution](https://www.youtube.com/watch?v=fm6Wanjg_ZI) considering that he spends a considerable amount of time in the same room as FDM printers, sharing air.\n\n...\n\nOf course, you can do something about this problem, such as having an enclosure around the printer, with HEPA filtration and activated carbon, potentially exhausting into the outside air. The options here are covered in the video, including a [B"
+    },
+    {
+      "title": "A discussion on 3D printers, UFP emission, and HEPA filtration - Sentry Air Systems, Inc.",
+      "url": "https://www.sentryair.com/blog/industry-applications/3d-printing/a-discussion-on-3d-printers-ufp-emission-and-hepa-filtration/",
+      "date": null,
+      "excerpt": "After reviewing several studies that focused on 3D printing, UFP, nanoaerosols, or a combination of the three, their findings are strikingly similar – precaution should be taken while operating UFP-emitting devices in poorly ventilated environments. Brief excerpts from these studies are below. Given these findings, we are prompted to make the following recommendations […] in the absence of new low-emitting filaments, manufacturers should work to evaluate the effectiveness of sealed enclosures on both UFP and VOC emissions or to introduce combined gas and particle filtration systems."
+    },
+    {
+      "title": "Filter for resin 3D printer Alveo3D Filter P3DL",
+      "url": "https://www.alveo3d.com/en/product/p3dl-hepa-filter",
+      "date": "2025-12-18",
+      "excerpt": "# P3D **L** filter for resin 3D printers\n## HEPA 13 and activated carbon in a single filter\n### P3DL filter for PrintBox\nThe P3DL HEPA filter offers printing comfort thanks to a design specific to the 3D printing air filtration system. Indeed, **the P3DL HEPA filter allows for a high filtration efficiency** of nanoparticles and other volatile organic compounds released into the air during 3D printing. The activated carbon combination has been carefully developed to treat the VOCs released during 3D printing.\nThe HEPA P3DL filter differs from the HEPA P3D filter in that it has been redesigned **to offer better absorption** , thanks to its **50-millimetre-thick activated carbon layer** . It is mainly **intended for resin printers,** which release more VOCs than filament printers.\nMade for re"
+    },
+    {
+      "title": "The NIOSH on 3D Printer Fumes and Health. Your Guide to 3D Printers and Health, Best Practices. - 3DPrint.com | Additive Manufacturing Business",
+      "url": "https://3dprint.com/226801/the-niosh-on-3d-printer-fumes-and-health-your-guide-to-3d-printers-and-health-best-practices",
+      "date": "2021-10-17",
+      "excerpt": "# The NIOSH on 3D Printer Fumes and Health. Your Guide to 3D Printers and Health, Best Practices.\n> _“It is important to note that there is a current lack of data on 3D printer emissions. In addition, the rapidly shifting description of the “workplace/production environment,” the availability of this technology beyond industrial applications, and the tremendous variety of feedstock polymers that are commercially available or can be made by consumers mean that additional research is needed to evaluate these emissions’ possible health effects.”_\n**1)** **If I 3D print with FDM at home should I get a fume hood or HEPA/Carbon filtration just in case?**\n\n...\n\nFor example, in the case of FDM 3-D printing with filaments that contain carbon nanotubes, the emission of plastic-particles that contain"
+    },
+    {
+      "title": "Do you breathe 3D printer vapours? Alveo3D HEPA filter in review ",
+      "url": "https://www.3djake.com/info/guide/youtube-episode-are-you-breathing-3d-printer-fumes-bambu-lab",
+      "date": null,
+      "excerpt": "# YouTube Episode: Are You Breathing 3D Printer Fumes? Bambu Lab Upgrade!\nIs your 3D printer secretly flavouring your lungs with VOCs? In our latest YouTube video, we take a closer look at vapours and emissions during 3D printing. Did you know that a single gram of activated carbon can have a surface area of over 3000 square metres? That's about 1500 imaginary Dwayne Johnsons of absorbing power! But is that any good if your 3D printer filter looks more like a box of charcoal? And let's put it this way: a few crumbs of activated carbon are not necessarily the final enemy of printer fumes...\nSo we put the Bambu Lab X1C through its paces and compared its built-in filter with a powerful HEPA 13 upgrade from Alveo3D. With real air quality measurements, we show you whether you can breathe more e"
+    },
+    {
+      "title": "Acid Free Activated Carbon for 3D Printers & Laser Engravers",
+      "url": "https://activatedcarbondepot.com/products/thermally-activated-granular-pellet-carbon-for-3d-printers-and-laser-fume-filtration",
+      "date": "2025-12-11",
+      "excerpt": "# Activated Carbon for 3D Printing & Laser Engraving (Thermally Activated - Acid Free)\n## **Applications of Thermally Activated Carbon**\nThis premium acid-free activated carbon filtration media is used in:\n* **3D Printing Fume Filtration** – Adsorbs toxic emissions from SLA, FDM, and resin-based 3D printers.\n* **Laser Cutter Fume Control** – Removes chemical odors and particulates from laser cutting processes.\n* **Industrial Air Purification** – Enhances air quality in manufacturing and enclosed workspaces.\n* **HVAC & Air Filtration Systems** – Used in air purifiers and ventilation systems to improve indoor air quality.\nAcid Free Activated Carbon for 3D Printing & Laser Engraving\n\n...\n\n## Order Your Carbon Granules for 3D Printing Fume Filtration Today\n### 3D Printing Resources\nHow Activat"
+    },
+    {
+      "title": "3D printer emissions can harm respiratory health: study",
+      "url": "https://www.safetyandhealthmagazine.com/25714-3d-printer-emissions-can-harm-respiratory-health-study",
+      "date": "2024-07-22",
+      "excerpt": "# 3D printer emissions can harm respiratory health: study\n## Next Webinar\n### [Being a night owl might be hard on your heart](https://www.safetyandhealthmagazine.com/being-a-night-owl-might-be-hard-on-your-heart/ \"Being a night owl might be hard on your heart\")\n[](https://www.safetyandhealthmagazine.com/study-links-workplace-factors-to-elevated-risk-of-long-covid/ \"Study links workplace factors to elevated risk of long COVID\")\n\n### [Study links workplace factors to elevated risk of long COVID](https://www.safetyandhealthmagazine.com/study-links-workplace-factors-to-elevated-risk-of-long-covid/ \"Study links workplace factors to elevated risk of long COVID\")\n[](https://www.safetyandhealthmagazine.com/out-of-pocket-costs-keeping-many-workers-from-medical-care-study/ \"Out-of-pocket costs keepi"
+    },
+    {
+      "title": "\n            Particle emissions from fused deposition modeling 3D printers: Evaluation and meta-analysis - PMC\n        ",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8350970/",
+      "date": "2012-11-18",
+      "excerpt": "# Particle emissions from fused deposition modeling 3D printers: Evaluation and meta-analysis.\n## Abstract\nFused deposition modeling (FDM) 3D printers, the most popular choice among home hobbyists, have been shown to release volatile organic chemicals (VOCs) and billions of airborne particles per minute, indicating the potential for consumer inhalation exposure and consequent health risks. Publications on FDM 3D printer emissions however, contain large heterogeneity of testing methods and analytical procedures making it difficult to reach overall conclusions for particle characteristics or particle number emission rates across the field. In this publication, data were collected over the printing time from 3D printer emission studies including particle count diameters (PCDs) (nanometers), p"
+    },
+    {
+      "title": "PM2.5 and VOC Emission in 3D Printing",
+      "url": "https://metebalci.com/blog/pm2.5-and-voc-emission-in-3d-printing",
+      "date": "2023-10-18",
+      "excerpt": "# PM2.5 and VOC Emission in 3D Printing\n## Introduction\nIt is well known, like many other processes or equipments, 3D printers emit fine particles and VOC (volatile organic compounds) during operation. My 3D printer is in my living room and I have always been careful about which material I print (only PLA and PETG) and I always kept an air purifier next to it which turns on automatically at maximum power when I power the 3D printer on. However, I am not sure quantitatively how problematic the emissions are and how useful the air purifier is. To study this, I conducted a small experiment measuring the amount of fine particles (PM2.5) and VOC.\nAlthough I tried to be careful conducting the experiments described in this post, since it was done at home not in a lab, using readily available cons"
+    },
+    {
+      "title": "Review of volatile organic compound (VOC) emissions from desktop 3D printers and associated health implications | Journal of Exposure Science & Environmental Epidemiology",
+      "url": "https://www.nature.com/articles/s41370-025-00778-y",
+      "date": null,
+      "excerpt": "# Review of volatile organic compound (VOC) emissions from desktop 3D printers and associated health implications\n## References\n[Article](https://doi.org/10.1016%2Fj.atmosenv.2013.06.050) Â CAS Â [Google Scholar](http://scholar.google.com/scholar_lookup?&title=Ultrafine%20particle%20emissions%20from%20desktop%203D%20printers&journal=Atmos%20Env&doi=10.1016%2Fj.atmosenv.2013.06.050&volume=79&pages=334-9&publication_year=2013&author=Stephens%2CB&author=Azimi%2CP&author=El%20Orch%2CZ&author=Ramos%2CT) Â\n41. Mak SL, Tang WF, Li CH, Chiu WH, Lau HK. In A Critical Review on Hazardous Chemical Emissions and Particle from Fused Decomposition Modelling (FDM) Machine; IEEE: Piscataway, 2019; pp 1160â3.\n42. Health and Safety Executive EH40/2005 Workplace exposure limits. European Union News 2011.\n43."
+    },
+    {
+      "title": "Safe 3D printing without Nanoparticle & VOCs - Alveo3D",
+      "url": "https://www.alveo3d.com/en",
+      "date": "2026-04-15",
+      "excerpt": "Safe 3D printing without Nanoparticle & VOCs - Alveo3D\nProfessional air filtering solution for 3D printers. Download 3D files for the efficient filtering kit against odors, nanoparticles and VOCs."
+    },
+    {
+      "title": "Alveo3D News | Updates, Events & New Products",
+      "url": "http://alveo3d.com/en/news",
+      "date": null,
+      "excerpt": "Mar 19, 2026 — Latest Alveo3D updates: new 3D printer filters, VOC and emission tests, upcoming products, trade shows, and company news."
+    },
+    {
+      "title": "Real-Time Exposure to 3D-Printing Emissions Elicits Metabolic and Pro-Inflammatory Responses in Human Airway Epithelial Cells - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10818734/",
+      "date": null,
+      "excerpt": "In this study, we explored the respiratory health consequences of inhalation exposure to 3D printer emissions by directing real-time emissions from two filament types (ABS and PLA) to small airway epithelial cells (SAEC) cultured in an air–liquid interface. Given the popularity of 3D printers in homes and schools and given that they can emit VOCs, metals, and particulate matter within the nano-sized range, the question of their impact on respiratory health is a timely—and understudied—issue that is important for the protection of the public."
+    },
+    {
+      "title": "3D Printing Air Quality Roundup",
+      "url": "https://4dfiltration.com/resources/3d/3d-printing-air-quality-roundup",
+      "date": "2026-01-21",
+      "excerpt": "<strong>Workspaces equipped with active ventilation or filtration systems exhibit significantly lower VOC concentrations</strong>. Printing at a lower nozzle temperature reduces the UFP emission rate.31,32"
+    },
+    {
+      "title": "\n            Characterization of Ultrafine Particles and VOCs Emitted from a 3D Printer - PMC\n        ",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7908560",
+      "date": "2021-01-21",
+      "excerpt": "Characterization of Ultrafine Particles and VOCs Emitted from ...\nby S Bernatikova · 2021 · Cited by 40 — The aim of this study was to evaluate UFP and VOC emissions when printing using a commonly available 3D printer (ORIGINAL PRUSA i3 MK2 printer) using PETG and"
+    },
+    {
+      "title": "Is 3D Printing Toxic? Exploring Fumes and Health Risks - Creality",
+      "url": "https://www.creality.com/blog/is-3d-printing-toxic",
+      "date": "2026-05-20",
+      "excerpt": "Is 3D Printing Toxic? Exploring Fumes and Health Risks - Creality\nStudies have discovered that the 3D printing operation emits particulates and gases which might present health hazards to users."
+    },
+    {
+      "title": "Chemical Composition and Toxicity of Particles Emitted from a Consumer-Level 3D Printer Using Various Materials | Environmental Science & Technology",
+      "url": "https://pubs.acs.org/doi/10.1021/acs.est.9b04168",
+      "date": "2019-09-12",
+      "excerpt": "Consideration of the factors that influenced the release of chem. contaminants (including known and suspected asthmagens such as styrene and 4-oxopentanal) from a FDM 3-D printer should be made when designing exposure assessment and control strategies. ... Davis, A. Y.; Zhang, Q.; Wong, J. P. S.; Weber, R. J.; Black, M. S. Characterization of Volatile Organic Compound Emissions from Consumer Level Material Extrusion 3D Printers. Build. Environ. 2019, 160, 106209, DOI: 10.1016/j.buildenv.2019.106209"
+    },
+    {
+      "title": "Cdc",
+      "url": "https://stacks.cdc.gov/view/cdc/110293/cdc_110293_DS16.xml",
+      "date": null,
+      "excerpt": "A recent meta-analysis of 3D printer emission studies concluded the following: <strong>FDM printers used with acrylonitrile butadiene styrene (ABS) and polylactic acid (PLA) materials would likely result in respirable particle exposure</strong>; ABS had greater overall emissions than PLA filaments; and lower"
+    },
+    {
+      "title": "What Fumes Do 3D Printers Release? - Mintion",
+      "url": "https://www.mintion.net/blogs/3d-printer-accessories-guidelines/what-fumes-do-3d-printers-release",
+      "date": "2025-09-29",
+      "excerpt": "What Fumes Do 3D Printers Release? - Mintion\nSep 29, 2025 · Emission levels depend mostly on filament type and temperature. With the right enclosure, extraction, HEPA filtration, and activated carbon/ "
+    }
+  ],
+  "success": true,
+  "mode": "advanced",
+  "api_mode": "agentic",
+  "error": null
+}

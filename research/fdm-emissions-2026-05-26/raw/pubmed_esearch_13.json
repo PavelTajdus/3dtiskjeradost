@@ -1,0 +1,54 @@
+{
+  "query": "fused filament fabrication FFF particle emissions volatile organic compounds",
+  "data": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "11",
+      "retmax": "11",
+      "retstart": "0",
+      "idlist": [
+        "42124301",
+        "39903438",
+        "38314584",
+        "35979087",
+        "35758103",
+        "34963600",
+        "34139957",
+        "33901889",
+        "33641630",
+        "32502783",
+        "31798757"
+      ],
+      "translationset": [
+        {
+          "from": "fused",
+          "to": "\"fused\"[All Fields] OR \"fuses\"[All Fields] OR \"fusing\"[All Fields]"
+        },
+        {
+          "from": "filament",
+          "to": "\"cytoskeleton\"[MeSH Terms] OR \"cytoskeleton\"[All Fields] OR \"filament\"[All Fields] OR \"filament's\"[All Fields] OR \"filamented\"[All Fields] OR \"filaments\"[All Fields]"
+        },
+        {
+          "from": "fabrication",
+          "to": "\"fabric's\"[All Fields] OR \"fabricable\"[All Fields] OR \"fabricate\"[All Fields] OR \"fabricated\"[All Fields] OR \"fabricates\"[All Fields] OR \"fabricating\"[All Fields] OR \"fabrication\"[All Fields] OR \"fabrications\"[All Fields] OR \"textiles\"[MeSH Terms] OR \"textiles\"[All Fields] OR \"fabric\"[All Fields] OR \"fabrics\"[All Fields]"
+        },
+        {
+          "from": "particle",
+          "to": "\"particle\"[All Fields] OR \"particle's\"[All Fields] OR \"particles\"[All Fields]"
+        },
+        {
+          "from": "emissions",
+          "to": "\"emission\"[All Fields] OR \"emission's\"[All Fields] OR \"emissions\"[All Fields] OR \"emissive\"[All Fields]"
+        },
+        {
+          "from": "volatile organic compounds",
+          "to": "\"volatile organic compounds\"[Supplementary Concept] OR \"volatile organic compounds\"[All Fields] OR \"volatile organic compounds\"[MeSH Terms] OR (\"volatile\"[All Fields] AND \"organic\"[All Fields] AND \"compounds\"[All Fields])"
+        }
+      ],
+      "querytranslation": "(\"fused\"[All Fields] OR \"fuses\"[All Fields] OR \"fusing\"[All Fields]) AND (\"cytoskeleton\"[MeSH Terms] OR \"cytoskeleton\"[All Fields] OR \"filament\"[All Fields] OR \"filament s\"[All Fields] OR \"filamented\"[All Fields] OR \"filaments\"[All Fields]) AND (\"fabric s\"[All Fields] OR \"fabricable\"[All Fields] OR \"fabricate\"[All Fields] OR \"fabricated\"[All Fields] OR \"fabricates\"[All Fields] OR \"fabricating\"[All Fields] OR \"fabrication\"[All Fields] OR \"fabrications\"[All Fields] OR \"textiles\"[MeSH Terms] OR \"textiles\"[All Fields] OR \"fabric\"[All Fields] OR \"fabrics\"[All Fields]) AND \"FFF\"[All Fields] AND (\"particle\"[All Fields] OR \"particle s\"[All Fields] OR \"particles\"[All Fields]) AND (\"emission\"[All Fields] OR \"emission s\"[All Fields] OR \"emissions\"[All Fields] OR \"emissive\"[All Fields]) AND (\"volatile organic compounds\"[Supplementary Concept] OR \"volatile organic compounds\"[All Fields] OR \"volatile organic compounds\"[MeSH Terms] OR (\"volatile\"[All Fields] AND \"organic\"[All Fields] AND \"compounds\"[All Fields]))"
+    }
+  }
+}

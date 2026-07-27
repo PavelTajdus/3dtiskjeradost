@@ -1,0 +1,2377 @@
+{
+  "query": "fused deposition modeling FDM ultrafine particles VOC emissions",
+  "data": {
+    "total": 55,
+    "offset": 0,
+    "data": [
+      {
+        "paperId": "a6eff0a451e2a676406f7b760695ec5616aad48e",
+        "externalIds": {
+          "MAG": "2183470152",
+          "DOI": "10.1080/15459624.2015.1091957",
+          "CorpusId": 33655577,
+          "PubMed": "26550911"
+        },
+        "url": "https://www.semanticscholar.org/paper/a6eff0a451e2a676406f7b760695ec5616aad48e",
+        "title": "Characterization of emissions from a desktop 3D printer and indoor air measurements in office settings",
+        "venue": "Journal of Occupational and Environmental Hygiene",
+        "year": 2016,
+        "citationCount": 154,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null,
+          "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/15459624.2015.1091957?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/15459624.2015.1091957, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "70629762",
+            "name": "P. Steinle"
+          }
+        ],
+        "abstract": null
+      },
+      {
+        "paperId": "8210aa0f2ccf328133e12a98a7995f81c05c351b",
+        "externalIds": {
+          "DOI": "10.2352/issn.2169-4451.2017.32.121",
+          "CorpusId": 197466337
+        },
+        "url": "https://www.semanticscholar.org/paper/8210aa0f2ccf328133e12a98a7995f81c05c351b",
+        "title": "Fine particulate and chemical emissions from desktop 3D printers",
+        "venue": "NIP &amp; Digital Fabrication Conference",
+        "year": 2016,
+        "citationCount": 14,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2352/issn.2169-4451.2017.32.121?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2352/issn.2169-4451.2017.32.121, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2230254106",
+            "name": "R. Weber"
+          },
+          {
+            "authorId": "2145946270",
+            "name": "Qian Zhang"
+          },
+          {
+            "authorId": "30951212",
+            "name": "J. Wong"
+          },
+          {
+            "authorId": "21644510",
+            "name": "Aika Y. Davis"
+          },
+          {
+            "authorId": "2057792701",
+            "name": "M. Black"
+          }
+        ],
+        "abstract": "Fused deposition modeling (FDM) printers, the more common type of desktop 3D printers, emit volatile gases and particulates that may deteriorate indoor air quality. The developed method for characterizing and quantifying emissions from an operating 3D printer measures fine particulate and volatile organic compound (VOC) concentrations over time using an environment controlled testing chamber. All tested printers emitted ultrafine particulates (UFP). Approximately 70% of the particulates released from the printers were less than 50 nm in diameter. Emitted UFPs increased in size over time by coagulating with other particles and condensation of printer-generated vapors. Chemical compositions of the released gases varied depending on the filament material. Volatile chemicals such as styrene and ethylbenzene were released from acrylonitrile butadiene styrene (ABS) filament. Caprolactam, originating from a nylon filament, was a predominant released gas. Though polylactic acid (PLA) filament is thought to be safer since it is biodegradable, PLA still released chemicals such as methyl methacrylate. Acetaldehyde and formaldehyde were released from all the studied filaments. ABS emitted more particles than PLA or nylon filaments. The extrusion nozzle temperature on the printer had the greatest effect on both particles and VOC emissions; the emissions increased as the temperature of the nozzle increased. Depending on the maker of the filaments, the total particle number emissions varied by a factor of 20. Filament colors had minor effects on emissions compared to other parameters studied. Introduction The 3D printer market is estimated to grow at a compound annual rate of 44% [1]. Among diverse 3D printers on the market, fused deposition modeling (FDM) 3D printers are relatively inexpensive and convenient to use, making them accessible to the general public. FDM 3D printers heat a filament to a semi-liquid state and deposit it to build a 3dimensional object by layers [2]. In particular, desktop-sized 3D printers are often used in educational institutions (from primary schools to universities), design offices, libraries, and within homes [3]. Many of these locations have the potential to expose susceptible populations, such as children, to any toxic emissions generated in the printing process. It is known that commercial extrusion processing of thermoplastics generates both particles and volatile organic compounds (VOCs) [4], and some of the thermal decomposition products are recognized to be toxic [5, 6]. FDM 3D printers are potentially hazardous to operate in certain indoor environments. Due to the increasing usage of 3D printers and past experience with laser printer emissions, characterization of 3D printer emissions is necessary to assess human exposure and potential health impacts. A number of studies have recently reported emissions from commercial 3D printers [7, 8, 9, 10, 11], but the use of differing characterization methods make it difficult to compare and contrast factors influencing emissions reported amongst the previous studies. In order to address this limitation and to understand the factors that drive emissions, a standard testing and evaluation method is essential. Consistent characterization of particle emissions according to printer and filament combinations and operation conditions would then be possible and could be provided to consumers when considering purchasing these printers."
+      },
+      {
+        "paperId": "446766d963fb94992bdfea0e18d223f065cd29a3",
+        "externalIds": {
+          "CorpusId": 214796719
+        },
+        "url": "https://www.semanticscholar.org/paper/446766d963fb94992bdfea0e18d223f065cd29a3",
+        "title": "ACS National Meeting & Expo Conference Abstract Submission March 22-26, 2020, Philadelphia, PA Emissions from consumer level 3D printers and their potential health impacts",
+        "venue": "",
+        "year": 2020,
+        "citationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null,
+          "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://chemicalinsights.org/wp-content/uploads/2020/04/ACS-2020-3DP-abstract.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2145946270",
+            "name": "Qian Zhang"
+          },
+          {
+            "authorId": "21644510",
+            "name": "Aika Y. Davis"
+          },
+          {
+            "authorId": "2057792701",
+            "name": "M. Black"
+          },
+          {
+            "authorId": "2230254106",
+            "name": "R. Weber"
+          }
+        ],
+        "abstract": null
+      },
+      {
+        "paperId": "40b21779668ee9eb0b5a5427d7eb5ebc126ef5c9",
+        "externalIds": {
+          "PubMedCentral": "11519180",
+          "DOI": "10.1007/s11356-024-35200-x",
+          "CorpusId": 273199862,
+          "PubMed": "39382804"
+        },
+        "url": "https://www.semanticscholar.org/paper/40b21779668ee9eb0b5a5427d7eb5ebc126ef5c9",
+        "title": "Analysis of emission of volatile organic compounds and thermal degradation in investment casting using fused deposition modeling (FDM) and three-dimensional printing (3DP) made of various thermoplastic polymers",
+        "venue": "Environmental science and pollution research international",
+        "year": 2024,
+        "citationCount": 7,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://link.springer.com/content/pdf/10.1007/s11356-024-35200-x.pdf",
+          "status": "HYBRID",
+          "license": "CCBY",
+          "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11519180, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "49390721",
+            "name": "A. Hejna"
+          },
+          {
+            "authorId": "2265444806",
+            "name": "Mariusz Marć"
+          },
+          {
+            "authorId": "2238495476",
+            "name": "P. Szymański"
+          },
+          {
+            "authorId": "69064376",
+            "name": "Kamila Mizera"
+          },
+          {
+            "authorId": "6442864",
+            "name": "M. Barczewski"
+          }
+        ],
+        "abstract": "The study examined the degradation process of various types of polymers used to form models using the fused deposition modeling (FDM) and three-dimensional printing (3DP) methods and used in the investment casting method. Commercial filaments made of polylactide (PLA), acrylonitrile butadiene styrene terpolymer (ABS), high-impact polystyrene (HIPS), polyamide 12 (PA12), poly(methyl methacrylate) (PMMA), and polypropylene (PP) were used to produce gypsum molds. The assessment included organic volatile compounds (VOCs) released during mold heating and model degradation, which is characteristic of this technological process. The screening qualitative chromatographic analysis of decomposition products sampled from various points of the production hall made it possible to define potential threats related to the processing of selected polymers and the necessary preventive measures. Furthermore, passive diffusion-type samplers were used at the sampling stage of VOCs emitted to the gaseous phase to reduce nuisance and user interference. Studies have been completed to characterize the thermoplastic polymer degradation process. The coupled thermogravimetry (TGA) with analysis of gaseous products by infrared spectroscopy with Fourier transformation (FT-IR) has been used. The presented results are the first to compare and rate the use of this still-developing novel aspect of castings by the method of fused models."
+      },
+      {
+        "paperId": "05769e140fe320e478c58a79f67fcfff94aa580c",
+        "externalIds": {
+          "DOI": "10.1080/15459624.2025.2544739",
+          "CorpusId": 281323673,
+          "PubMed": "40953477"
+        },
+        "url": "https://www.semanticscholar.org/paper/05769e140fe320e478c58a79f67fcfff94aa580c",
+        "title": "Characterization of emissions generated during additive manufacturing of polymer parts by the fused deposition modeling technique",
+        "venue": "Journal of Occupational and Environmental Hygiene",
+        "year": 2025,
+        "citationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/15459624.2025.2544739?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/15459624.2025.2544739, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "96328827",
+            "name": "F. Keller"
+          },
+          {
+            "authorId": "32797941",
+            "name": "Laurence Robert"
+          },
+          {
+            "authorId": "2007941762",
+            "name": "Jennifer Klingler"
+          }
+        ],
+        "abstract": "Abstract Additive manufacturing has developed steadily since it was first introduced in the 1980s, but it is not without occupational risks. The main objectives of this study were to characterize airborne particle and VOC (Volatile Organic Compounds) emissions generated by a 3D additive manufacturing using polymers and to evaluate the effectiveness of local extraction ventilation as a control measure to reduce emissions. A comprehensive measurement methodology involving direct-reading instruments and active tube air sampling was deployed around and inside the machine. Three polymer materials were studied: ABS (Acrylonitrile Butadiene Styrene), ASA (Acrylonitrile Styrene Acrylate), and PETG (PolyEthylene Terephthalate Glycol). The same test part was fully manufactured three times with each material. During manufacturing, particle number concentrations and real-time VOC profiles, particularly focusing on styrene, were measured simultaneously. The extraction ventilation parameters on the Zortrax M300 3D printer were recorded and analyzed to assess how they affected pollutant containment and prevention of operator exposure. The number of particles measured for the various materials and their concentration suggest possible operator exposure to airborne particles. Total VOC concentration values were measured from ABS (432.8 µg/m3), ASA (124.1 µg/m3), and PETG (4.7 µg/m3). Real-time monitoring was done for styrene emissions during the manufacturing cycles for the three different materials tested, coupled with VOCs sampling on adsorbent tubes. Use of a local exhaust ventilation system reduced the airborne concentrations between 95% and 99%. It is therefore recommended that 3D printers be placed under an extraction system."
+      },
+      {
+        "paperId": "b48a70e87dc949a9852cb1ea73352172774c1a2e",
+        "externalIds": {
+          "MAG": "2900987502",
+          "DOI": "10.1016/j.scitotenv.2018.11.070",
+          "CorpusId": 53788160,
+          "PubMed": "30471608"
+        },
+        "url": "https://www.semanticscholar.org/paper/b48a70e87dc949a9852cb1ea73352172774c1a2e",
+        "title": "Particle emissions from fused deposition modeling 3D printers: Evaluation and meta-analysis.",
+        "venue": "Science of the Total Environment",
+        "year": 2019,
+        "citationCount": 78,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8350970",
+          "status": "GREEN",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.scitotenv.2018.11.070?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.scitotenv.2018.11.070, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "11943373",
+            "name": "Peter Byrley"
+          },
+          {
+            "authorId": "6799430",
+            "name": "B. J. George"
+          },
+          {
+            "authorId": "4405461",
+            "name": "W. Boyes"
+          },
+          {
+            "authorId": "33237568",
+            "name": "K. Rogers"
+          }
+        ],
+        "abstract": "Fused deposition modeling (FDM) 3D printers, the most popular choice among home hobbyists, have been shown to release volatile organic chemicals (VOCs) and billions of airborne particles per minute, indicating the potential for consumer inhalation exposure and consequent health risks. Publications on FDM 3D printer emissions however, contain large heterogeneity of testing methods and analytical procedures making it difficult to reach overall conclusions for particle characteristics or particle number emission rates across the field. In this publication, data were collected over the printing time from 3D printer emission studies including particle count diameters (PCDs) (nanometers), particle number concentrations (PNCs) (particles/cm3), and particle number emission rates (PNERs) (particles min-1). Despite heterogeneity in methods, the majority of particles released were reported as ultrafine in size (i.e., <100 nm) indicating that using both acrylonitrile butadiene styrene (ABS) and poly-lactic acid (PLA) may present a risk of exposure to respirable particles. Mean PNC emitted in 3D printing tests ranged over several orders of magnitude across publications with overall means of 300,980 particles/cm3 for ABS and 65,482 particles/cm3 for PLA. Although mean PNC data were available from only 7 of the 16 papers reviewed, ABS resulted in greater particle numbers than PLA suggesting increased exposure to ultrafine particles. A linear mixed model was fitted for mean PNCs to further explore the impact of nozzle temperature and filament material. Finally, the PNER calculation method especially regarding losses, varied widely across studies, and directly impacted the PNERs reported. To strengthen direct comparability of results going forward, it is recommended that standard emissions testing protocols be developed for FDM 3D printers and particle influxes and losses be more uniformly calculated."
+      },
+      {
+        "paperId": "5153f3f2093ad901bf4a04982865329a392f8a6b",
+        "externalIds": {
+          "DOI": "10.1016/j.buildenv.2022.109348",
+          "CorpusId": 250137512
+        },
+        "url": "https://www.semanticscholar.org/paper/5153f3f2093ad901bf4a04982865329a392f8a6b",
+        "title": "A review of emission characteristics and control strategies for particles emitted from 3D fused deposition modeling (FDM) printing",
+        "venue": "Building and Environment",
+        "year": 2022,
+        "citationCount": 30,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.buildenv.2022.109348?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.buildenv.2022.109348, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2159190241",
+            "name": "Jie Zhang"
+          },
+          {
+            "authorId": "1753133927",
+            "name": "Daohui Chen"
+          },
+          {
+            "authorId": "2145397102",
+            "name": "Sheng-Chieh Chen"
+          }
+        ],
+        "abstract": null
+      },
+      {
+        "paperId": "33d000181d1db74cce93c3576f11c1f65ceaede2",
+        "externalIds": {
+          "DOI": "10.1115/fedsm2024-131044",
+          "CorpusId": 272572121
+        },
+        "url": "https://www.semanticscholar.org/paper/33d000181d1db74cce93c3576f11c1f65ceaede2",
+        "title": "An Experimental Study on the Emission Dynamics in Fused Deposition Modelling (FDM) 3D Printing Process",
+        "venue": "Volume 1: Fluid Applications and Systems (FASTC); Fluid Measurement and Instrumentation (FMITC); Fluid Mechanics (FMTC); Multiphase Flow (MFTC)",
+        "year": 2024,
+        "citationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1115/fedsm2024-131044?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1115/fedsm2024-131044, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2320625360",
+            "name": "T. Misztal"
+          },
+          {
+            "authorId": "2320625427",
+            "name": "Omar Addasi"
+          },
+          {
+            "authorId": "2320605215",
+            "name": "Jooi Albano"
+          },
+          {
+            "authorId": "2320539720",
+            "name": "Yang Liu"
+          }
+        ],
+        "abstract": "\n Fused Deposition Modeling (FDM) 3D printing is a manufacturing process that involves the melting and layering of thermoplastic to create 3D objects. Concerns have arisen from the volatile organic compounds (VOCs) emitted when 3D printing filaments are heated to their melting points, posing environmental and health risks. In the present study, a series of experiments were conducted to characterize the thermal flow phenomena during FDM 3D printing, specifically focused on investigating the VOCs emission dynamics along with the thermal flow during heating and melting in the printing processes. A high-speed Schlieren imaging system and an infrared thermal imaging system were temporally synchronized to both qualitatively and quantitatively characterize the thermal effects and the thermal-induced multiphase flows during the 3D printing process within an FDM 3D printer. In addition, the VOC emissions during the printing process were quantified by using a spatially-distributed-and-temporally-synchronized metal-oxide sensor array system, which can achieve fast spatial tracking of the VOC emissions. By correlating the data from the multiple measurement systems, the VOC emission transport behaviors in the convective gas current were characterized in detail. The findings in this paper offer insights into off-gassing profiles of different filaments, aiding in the development of customized ventilation approaches."
+      },
+      {
+        "paperId": "53513633e6514149af5c336666fb072b30331d88",
+        "externalIds": {
+          "MAG": "3120488745",
+          "DOI": "10.1016/J.MATPR.2020.11.521",
+          "CorpusId": 234135112
+        },
+        "url": "https://www.semanticscholar.org/paper/53513633e6514149af5c336666fb072b30331d88",
+        "title": "Review on particle emissions during fused deposition modeling of acrylonitrile butadiene styrene and polylactic acid polymers",
+        "venue": "",
+        "year": 2021,
+        "citationCount": 30,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.MATPR.2020.11.521?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.MATPR.2020.11.521, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "144982991",
+            "name": "A. Manoj"
+          },
+          {
+            "authorId": "2028803307",
+            "name": "M. Bhuyan"
+          },
+          {
+            "authorId": "2062873255",
+            "name": "Swarup Raj Banik"
+          },
+          {
+            "authorId": "51081066",
+            "name": "Mamilla Ravi Sankar"
+          }
+        ],
+        "abstract": "Abstract As 3D printing technology is rapidly evolving, it's impact on human health is becoming a prime concern. The major reason behind this is the emission of particles during the heating of thermoplastics used for 3D printing. Thermoplastics find very frequent applications in additive manufacturing processes. Fused Metal Deposition (FDM) is a 3D printing technique which is well known for its ability to produce complex geometries. However, the filaments used in this process, namely Acrylonitrile Butadiene Styrene (ABS) and Polylactic Acid (PLA) generate emissions which are harmful to the human health and long term exposure to them could possibly lead to life-threatening conditions. Several factors lead to the concentration and impact of particle emissions such as process parameters, material used, chemical composition, etc. Comparative research works are also carried out to find the most suitable material for 3D printing as per output and emissions. The present paper presents a review on generation of particle emissions by the usage of ABS and PLA and the notable health risks caused by them. Also, the prevention techniques of such emissions are discussed in the subsections."
+      },
+      {
+        "paperId": "c5cc3dc75b166c13d8538dd7e89ad4b6e0e18061",
+        "externalIds": {
+          "PubMedCentral": "11025761",
+          "DOI": "10.1371/journal.pone.0300569",
+          "CorpusId": 269237178,
+          "PubMed": "38635567"
+        },
+        "url": "https://www.semanticscholar.org/paper/c5cc3dc75b166c13d8538dd7e89ad4b6e0e18061",
+        "title": "Evaluation of stress-controlled high-cycle fatigue characteristics in PLA-wood fused deposition modeling 3D-printed parts under bending loads",
+        "venue": "PLoS ONE",
+        "year": 2024,
+        "citationCount": 11,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0300569&type=printable",
+          "status": "GOLD",
+          "license": "CCBY",
+          "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11025761, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2189856864",
+            "name": "M. Kianifar"
+          },
+          {
+            "authorId": "2247611582",
+            "name": "M. Azadi"
+          },
+          {
+            "authorId": "2297346793",
+            "name": "Fatemeh Heidari"
+          }
+        ],
+        "abstract": "PLA (Poly-lactic acid)-wood provides more biodegradability through natural fibers, a significant advantage of pure PLA. Nevertheless, these bio-composites may have inferior mechanical properties compared to non-degradable polymer composites, considering the lower strength of natural particles compared to synthetic fibers. This research examines the fatigue behavior of additive-manufactured biopolymer PLA-wood and assesses its comparability with pure PLA. Therefore, solid fatigue test samples were printed using the FDM (fused deposition modeling) method. Afterward, fully reversed rotary bending fatigue experiments were performed at 4 different stress levels (7.5 to 15 MPa) to extract the S-N curve of PLA-wood. Moreover, the fatigue fracture surfaces of the PLA-wood were investigated and compared at the highest and lowest stress levels using an FE-SEM (Field Emission Scanning Electron Microscopy), indicating more ductile fracture marks at higher stress levels. The fatigue lifetime of the PLA-wood decreased by 87.48% at the highest stress level (15 MPa), rather than the result at the lowest stress level (7.5 MPa). Additionally, the results demonstrated that the fatigue characteristics of the printed pure PLA and PLA-wood were comparable, suggesting that the 3D-printed PLA-wood with the used printing parameters can be an alternative choice."
+      },
+      {
+        "paperId": "36e9197587d2a3f7332512d4fef5034a34163299",
+        "externalIds": {
+          "MAG": "2792503018",
+          "DOI": "10.1111/ina.12458",
+          "CorpusId": 4347700,
+          "PubMed": "29500848"
+        },
+        "url": "https://www.semanticscholar.org/paper/36e9197587d2a3f7332512d4fef5034a34163299",
+        "title": "Acute health effects of desktop 3D printing (fused deposition modeling) using acrylonitrile butadiene styrene and polylactic acid materials: An experimental exposure study in human volunteers",
+        "venue": "Indoor Air: International Journal of Indoor Environment and Health",
+        "year": 2018,
+        "citationCount": 83,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1111/ina.12458",
+          "status": "GOLD",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/ina.12458?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/ina.12458, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "5347628",
+            "name": "I. Gümperlein"
+          },
+          {
+            "authorId": "2064580093",
+            "name": "E. Fischer"
+          },
+          {
+            "authorId": "1398628427",
+            "name": "G. Dietrich-Gümperlein"
+          },
+          {
+            "authorId": "2255342911",
+            "name": "S. Karrasch"
+          },
+          {
+            "authorId": "2227263195",
+            "name": "Dennis Nowak"
+          },
+          {
+            "authorId": "2239262083",
+            "name": "Rudolf A. Jörres"
+          },
+          {
+            "authorId": "2253051525",
+            "name": "Rudolf Schierl"
+          }
+        ],
+        "abstract": "3D printers are increasingly run at home. Nanoparticle emissions from those printers have been reported, which raises the question whether adverse health effects from ultrafine particles (UFP) can be elicited by 3D printers. We exposed 26 healthy adults in a single-blinded, randomized, cross-over design to emissions of a desktop 3D printer using fused deposition modeling (FDM) for 1 hour (high UFP-emitting acrylonitrile butadiene styrene [ABS] vs low-emitting polylactic acid [PLA]). Before and after exposures, cytokines (IL-1β, IL-6, TNF-α, INF-γ) and ECP in nasal secretions, exhaled nitric oxide (FeNO), urinary 8-isoprostaglandin F2α (8-iso PGF2α ), and self-reported symptoms were assessed. The exposures had no significant differential effect on 8-iso PGF2α and nasal biomarkers. However, there was a difference (P < .05) in the time course of FeNO, with higher levels after ABS exposure. Moreover, indisposition and odor nuisance were increased for ABS exposure. These data suggest that 1 hour of exposure to 3D printer emissions had no acute effect on inflammatory markers in nasal secretions and urine. The slight relative increase in FeNO after ABS printing compared to PLA might be due to eosinophilic inflammation from inhaled UFP particles. This possibility should be investigated in further studies using additional biomarkers and longer observation periods."
+      },
+      {
+        "paperId": "f046affbd86f470740f6b87fb369dc37f42f89c0",
+        "externalIds": {
+          "DOI": "10.3390/app12010065",
+          "CorpusId": 245430727
+        },
+        "url": "https://www.semanticscholar.org/paper/f046affbd86f470740f6b87fb369dc37f42f89c0",
+        "title": "Digital Holographic Microscopy as Identifier of Ultrafine Particles Emitted during Fused Deposition Modelling",
+        "venue": "Applied Sciences",
+        "year": 2021,
+        "citationCount": 0,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://www.mdpi.com/2076-3417/12/1/65/pdf?version=1640169805",
+          "status": "GOLD",
+          "license": "CCBY",
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/app12010065?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/app12010065, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2146908538",
+            "name": "Daniel Alberto García-Espinosa"
+          },
+          {
+            "authorId": "1404022901",
+            "name": "M. León-Rodríguez"
+          },
+          {
+            "authorId": "1450447462",
+            "name": "Pedro Yáñez-Contreras"
+          },
+          {
+            "authorId": "1610535855",
+            "name": "I. Miguel-Andrés"
+          },
+          {
+            "authorId": "1403393214",
+            "name": "J. Padilla-Medina"
+          },
+          {
+            "authorId": "1405495146",
+            "name": "Alejandra Cruz-Bernal"
+          },
+          {
+            "authorId": "2336775418",
+            "name": "Patricia Ibarra-Torres"
+          }
+        ],
+        "abstract": "Additive manufacturing has acquired a global industrial panorama for being an alternative to redirect the industry towards sustainability. However, previous studies have indicated that fused deposition modelling (FDM) techniques are potential sources of particles that are harmful to health. For this reason, this work is focused on exploring the behaviour and distribution of FDM resultant nanoparticles from the most commonly used printable materials through alternative methods as digital holographic microscopy (DHM). In this paper, we present the feasibility of using DHM to determine the presence of nanoparticles in the FDM process. Experimental results validate this technology’s precision and provide extensive knowledge about the implications of the FDM on health. The measure of the thin films deposited in glass substrates was between a minimum of 9 nm to a maximum of 200 nm, in agreement with the previous studies."
+      },
+      {
+        "paperId": "b823d64792d79594a8d947a38ff072ec570d2faf",
+        "externalIds": {
+          "MAG": "2921290902",
+          "DOI": "10.1021/acs.est.9b00765",
+          "CorpusId": 80627487,
+          "PubMed": "30875473"
+        },
+        "url": "https://www.semanticscholar.org/paper/b823d64792d79594a8d947a38ff072ec570d2faf",
+        "title": "VOC Emissions and Formation Mechanisms from Carbon Nanotube Composites during 3D Printing.",
+        "venue": "Environmental Science and Technology",
+        "year": 2019,
+        "citationCount": 50,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://europepmc.org/articles/pmc6532411?pdf=render",
+          "status": "GREEN",
+          "license": "CCBYNC",
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1021/acs.est.9b00765?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/acs.est.9b00765, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "144016149",
+            "name": "Phillip M. Potter"
+          },
+          {
+            "authorId": "1397305109",
+            "name": "S. Al-Abed"
+          },
+          {
+            "authorId": "2057082549",
+            "name": "D. Lay"
+          },
+          {
+            "authorId": "3797321",
+            "name": "S. Lomnicki"
+          }
+        ],
+        "abstract": "A commercially available, 3D printer nanocomposite filament of carbon nanotubes (CNTs) and acrylonitrile-butadiene-styrene (ABS) was analyzed with respect to its VOC emissions during simulated fused deposition modeling (FDM) and compared with a regular ABS filament. VOC emissions were quantified and characterized under a variety of conditions to simulate the thermal degradation that takes place during FDM. Increasing the residence time and temperature resulted in significant increases in VOC emissions, and the oxygen content of the reaction gas influenced the VOC profile. In agreement with other studies, the primary emitted VOC was styrene. Multiple compounds are reported in this work for the first time as having formed during FDM, including 4-vinylcyclohexene and 2-phenyl-2-propanol. Our results show that printing 222.0 g of filament is enough to surpass the reference concentration for inhalation exposure of 1 mg/m3 according to the EPA's Integrated Risk Information System (IRIS). The presence of CNTs in the filament influenced VOC yields and product ratios through three types of surface interactions: (1) adsorption of O2 on CNTs lowers the available O2 for oxidation of primary backbone cleavage intermediates, (2) adsorption of styrene and other VOCs to CNTs leads to surface-catalyzed degradation, and (3) CNTs act as a trap for certain VOCs and prevent them from entering vapor emissions. While the presence of CNTs in the filament lowered the total VOC emission under most experimental conditions, they increased the emission of the most hazardous VOCs, such as α-methylstyrene and benzaldehyde. The present study has identified an increased risk associated with the use of CNT nanocomposites in 3D printing."
+      },
+      {
+        "paperId": "0e443eb7485390a3984c401e860c273911562c31",
+        "externalIds": {
+          "MAG": "2609835668",
+          "PubMedCentral": "5967408",
+          "DOI": "10.1080/15459624.2017.1302589",
+          "CorpusId": 3875420,
+          "PubMed": "28440728"
+        },
+        "url": "https://www.semanticscholar.org/paper/0e443eb7485390a3984c401e860c273911562c31",
+        "title": "Characterization of chemical contaminants generated by a desktop fused deposition modeling 3-dimensional Printer",
+        "venue": "Journal of Occupational and Environmental Hygiene",
+        "year": 2017,
+        "citationCount": 107,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://www.tandfonline.com/doi/pdf/10.1080/15459624.2017.1302589?needAccess=true",
+          "status": "BRONZE",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5967408, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "5334980",
+            "name": "A. Stefaniak"
+          },
+          {
+            "authorId": "5287330",
+            "name": "R. LeBouf"
+          },
+          {
+            "authorId": "4742501",
+            "name": "Jinghai Yi"
+          },
+          {
+            "authorId": "10362540",
+            "name": "J. Ham"
+          },
+          {
+            "authorId": "14766095",
+            "name": "Timothy Nurkewicz"
+          },
+          {
+            "authorId": "1398489040",
+            "name": "D. Schwegler-Berry"
+          },
+          {
+            "authorId": "1405944406",
+            "name": "Bean T. Chen"
+          },
+          {
+            "authorId": "2253124905",
+            "name": "J. Wells"
+          },
+          {
+            "authorId": "97913299",
+            "name": "M. G. Duling"
+          },
+          {
+            "authorId": "2417578",
+            "name": "R. Lawrence"
+          },
+          {
+            "authorId": "2107491338",
+            "name": "S. Martin"
+          },
+          {
+            "authorId": "2107503382",
+            "name": "A.R. Johnson"
+          },
+          {
+            "authorId": "47455846",
+            "name": "M. Virji"
+          }
+        ],
+        "abstract": "ABSTRACT Printing devices are known to emit chemicals into the indoor atmosphere. Understanding factors that influence release of chemical contaminants from printers is necessary to develop effective exposure assessment and control strategies. In this study, a desktop fused deposition modeling (FDM) 3-dimensional (3-D) printer using acrylonitrile butadiene styrene (ABS) or polylactic acid (PLA) filaments and two monochrome laser printers were evaluated in a 0.5 m3 chamber. During printing, chamber air was monitored for vapors using a real-time photoionization detector (results expressed as isobutylene equivalents) to measure total volatile organic compound (TVOC) concentrations, evacuated canisters to identify specific VOCs by off-line gas chromatography-mass spectrometry (GC-MS) analysis, and liquid bubblers to identify carbonyl compounds by GC-MS. Airborne particles were collected on filters for off-line analysis using scanning electron microscopy with an energy dispersive x-ray detector to identify elemental constituents. For 3-D printing, TVOC emission rates were influenced by a printer malfunction, filament type, and to a lesser extent, by filament color; however, rates were not influenced by the number of printer nozzles used or the manufacturer's provided cover. TVOC emission rates were significantly lower for the 3-D printer (49–3552 µg h−1) compared to the laser printers (5782–7735 µg h−1). A total of 14 VOCs were identified during 3-D printing that were not present during laser printing. 3-D printed objects continued to off-gas styrene, indicating potential for continued exposure after the print job is completed. Carbonyl reaction products were likely formed from emissions of the 3-D printer, including 4-oxopentanal. Ultrafine particles generated by the 3-D printer using ABS and a laser printer contained chromium. Consideration of the factors that influenced the release of chemical contaminants (including known and suspected asthmagens such as styrene and 4-oxopentanal) from a FDM 3-D printer should be made when designing exposure assessment and control strategies."
+      },
+      {
+        "paperId": "c4d375c4dd97e97ab317f09ca6755bf784796431",
+        "externalIds": {
+          "DOI": "10.1111/ina.13053",
+          "CorpusId": 249095519,
+          "PubMed": "35622719"
+        },
+        "url": "https://www.semanticscholar.org/paper/c4d375c4dd97e97ab317f09ca6755bf784796431",
+        "title": "Analysis of ways to reduce potential health risk from ultrafine and fine particles emitted from 3D printers in the makerspace.",
+        "venue": "Indoor Air: International Journal of Indoor Environment and Health",
+        "year": 2022,
+        "citationCount": 5,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1111/ina.13053",
+          "status": "GOLD",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/ina.13053?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/ina.13053, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "1379628887",
+            "name": "Seungkeun Yeom"
+          },
+          {
+            "authorId": "2115250539",
+            "name": "Hakpyeong Kim"
+          },
+          {
+            "authorId": "2992694",
+            "name": "Taehoon Hong"
+          },
+          {
+            "authorId": "6059500",
+            "name": "Kwangbok Jeong"
+          }
+        ],
+        "abstract": "Due to the growing maker culture, maker spaces using multiple fused deposition modeling (FDM)-3D printers have spread around the world. However, the 3D printing process is known to cause the release of ultrafine and fine particles, which may have adverse health effects on occupants. Therefore, this experiment-based study was conducted on FDM-3D printers placed in an actual makerspace by the following three scenarios: the number of operating FDM-3D printers, ventilation, and measurement location to compare the concentrations of ultrafine and fine particles. In addition, the deposited dose in alveolar region for ultrafine and fine particles was predicted using a respiratory deposition model to analyze the potential health risk on occupants. As a result, the scenario-based comparison revealed that if the number of operating 3D printers is reduced by less than half, the potential health risk can be decreased by 34.1%, proper ventilation can reduce potential health risk by 55.5%, and working away from the 3D printer can also reduce potential health risk by up to 27.5%. This study analyzed the potential health risk of multiple FDM-3D printers on users in an actual makerspace, and proposed various improvement measures to reduce the potential health risk of ultrafine and fine particles."
+      },
+      {
+        "paperId": "6584fb51e549d0f6f93920688de5c8531e46c6a5",
+        "externalIds": {
+          "MAG": "2886830955",
+          "DOI": "10.1016/J.PROMFG.2018.07.119",
+          "CorpusId": 139525050
+        },
+        "url": "https://www.semanticscholar.org/paper/6584fb51e549d0f6f93920688de5c8531e46c6a5",
+        "title": "An Experimental Study on the Energy Consumption and Emission Profile of Fused Deposition Modeling Process",
+        "venue": "",
+        "year": 2018,
+        "citationCount": 39,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1016/j.promfg.2018.07.119",
+          "status": "GOLD",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.PROMFG.2018.07.119?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.PROMFG.2018.07.119, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "153774259",
+            "name": "T. Simon"
+          },
+          {
+            "authorId": "2278186691",
+            "name": "Wo Jae Lee"
+          },
+          {
+            "authorId": "11448273",
+            "name": "Benjamin E J Spurgeon"
+          },
+          {
+            "authorId": "5976209",
+            "name": "Brandon E. Boor"
+          },
+          {
+            "authorId": "144912679",
+            "name": "Fu Zhao"
+          }
+        ],
+        "abstract": "Abstract Additive Manufacturing (AM) is widely considered as an environmentally friendly alternative to traditional processes. However, AM processes are not free of environmental impacts: they consume material and energy while emitting particulates and/or volatile organic compounds. Although there are efforts on characterizing energy consumption and air borne emissions, in depth analysis and understanding are generally lacking when compared with traditional processes, especially machining processes. Using fused deposition modeling (FDM) process as an example, this study explores how operating procedure and printing parameters affect the energy consumption and particulates emissions. Experimental data suggests that particle emission is mainly the result of condensing and agglomerating of semi-volatile organic compounds. The initial emission spike occurs when there is dripping of semi-liquid filament from heated nozzle and/or there is residue left in the nozzle. Printing speed and material flow have effects on particle emission rate but the effect is small. Power profile analysis indicates that print bed heating and temperature maintaining is the leading contributor to energy consumption."
+      },
+      {
+        "paperId": "a92a17bdab9444916ad06900b087b9c9687df827",
+        "externalIds": {
+          "DOI": "10.59429/ace.v9i1.5753",
+          "CorpusId": 284416202
+        },
+        "url": "https://www.semanticscholar.org/paper/a92a17bdab9444916ad06900b087b9c9687df827",
+        "title": "Quantitative Chromatographic Analysis of Volatile Compounds Released during Polymer FDM-AM",
+        "venue": "Applied Chemistry for Engineering",
+        "year": 2025,
+        "citationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.59429/ace.v9i1.5753?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.59429/ace.v9i1.5753, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2402281521",
+            "name": "Ali Raqee Abdulhadi"
+          },
+          {
+            "authorId": "2402281472",
+            "name": "Aqeel Al-Hilali"
+          },
+          {
+            "authorId": "2402280394",
+            "name": "Al-Dily Kareem"
+          },
+          {
+            "authorId": "2398480240",
+            "name": "Hayder Hamid Abbas Al-Anbari"
+          },
+          {
+            "authorId": "2398576291",
+            "name": "Salah Abdulhadi Salih"
+          },
+          {
+            "authorId": "2398577876",
+            "name": "Ammar S. Al Khafaji"
+          },
+          {
+            "authorId": "2402278795",
+            "name": "Sameh Hussein Hamo"
+          },
+          {
+            "authorId": "2398578314",
+            "name": "Duha Abed Almuhssen Muzahim"
+          },
+          {
+            "authorId": "2402278179",
+            "name": "Shurooq Sabah Hussein"
+          }
+        ],
+        "abstract": "The release of volatile organic compounds (VOCs) during fused deposition modeling additive manufacturing (FDM-AM) has become a critical concern due to its implications for occupational health, indoor air quality, and material performance. In this study, a quantitative chromatographic analysis was conducted to characterize and evaluate VOC emissions from commonly used thermoplastic filaments during FDM-AM. Gas chromatography coupled with mass spectrometry (GC–MS) was employed to separate and identify volatile fractions, while flame ionization detection (FID) provided quantitative assessment of emission concentrations. Representative results revealed the presence of styrene, ethylbenzene, formaldehyde, acetaldehyde, and other low-molecular-weight aldehydes and ketones, with emission profiles varying significantly across polymer types such as ABS, PLA, and PETG. Peak intensities correlated strongly with extrusion temperature, suggesting that process parameters directly influence VOC release. Comparative analysis indicated that ABS exhibited the highest emission intensity, dominated by aromatic hydrocarbons, while PLA produced lower total VOCs but higher proportions of lactide-derived species. The findings underscore the necessity of systematic monitoring of VOCs in FDM-AM environments and provide quantitative evidence for optimizing process conditions and implementing adequate ventilation systems. This work establishes a framework for linking chromatographic signatures of volatile compounds with material choice and processing parameters, contributing to safer and more sustainable additive manufacturing practices."
+      },
+      {
+        "paperId": "275969cfa9e306aa528e1da1172fe2c29fe43f0d",
+        "externalIds": {
+          "DOI": "10.1016/j.jhazmat.2025.139835",
+          "CorpusId": 281295614,
+          "PubMed": "40946464"
+        },
+        "url": "https://www.semanticscholar.org/paper/275969cfa9e306aa528e1da1172fe2c29fe43f0d",
+        "title": "Unveiling hematite-rich nanoparticle emissions from stainless steel-containing PLA filament: First experimental evidence from 3D printing.",
+        "venue": "Journal of Hazardous Materials",
+        "year": 2025,
+        "citationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jhazmat.2025.139835?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jhazmat.2025.139835, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2113343502",
+            "name": "Eun-Jin Park"
+          },
+          {
+            "authorId": "2191331945",
+            "name": "Da-Mee Eun"
+          },
+          {
+            "authorId": "2380293072",
+            "name": "Yen Thi-Hoang Le"
+          },
+          {
+            "authorId": "2376120108",
+            "name": "Hanjin Yoo"
+          },
+          {
+            "authorId": "2974058",
+            "name": "Sangmin Jeong"
+          },
+          {
+            "authorId": "2276505210",
+            "name": "Ki-Joon Jeon"
+          },
+          {
+            "authorId": "2293248962",
+            "name": "Jong-Sang Youn"
+          }
+        ],
+        "abstract": "Fused deposition modeling (FDM) 3D printing with metal-containing polymer filaments has gained widespread adoption across industrial and consumer applications. However, the potential release of metal oxide nanoparticles during the thermal processing of these composite filaments remains insufficiently investigated. This study provides the first experimental evidence of hematite (α-Fe₂O₃) - rich nanoparticle (mixed Fe-Cr-Ni) emissions from a 3D printer using stainless-steel-filled polylactic acid (PLA) filament (∼80 wt% stainless-steel). Emission testing was conducted in a standardized chamber following established protocols, and particles were characterized using scanning mobility particle sizer (SMPS), high-resolution transmission electron microscopy (HR-TEM), energy-dispersive X-ray spectroscopy (EDS), and Raman spectroscopy. Results demonstrate that PLA-steel filament generates significantly higher concentrations of ultrafine particles (maximum: 9.08 × 106 particles/cm³) compared to standard PLA (4.99 × 10⁶ particles/cm³) under identical printing conditions. The emitted particles from PLA-steel exhibited unique flake-like morphologies, with iron as the predominant element (26.5 at%). Crystallographic analysis confirmed the presence of hematite through characteristic lattice spacings (0.21 nm and 0.27 nm) and Raman spectral features (230, 412, and 609 cm⁻¹). These findings indicate that stainless steel-filled filaments can emit nanosized iron oxide particles, specifically hematite, during 3D printing. Given that hematite-rich nanoparticles have been associated with oxidative stress induction and cytotoxicity in various biological systems, their emission during 3D printing represents a potential occupational and environmental hazard that warrants further investigation, particularly considering the widespread adoption of metal-filled filaments in both professional and consumer environments."
+      },
+      {
+        "paperId": "eb8508d087845173e81deeec9153033337f87232",
+        "externalIds": {
+          "MAG": "2991507681",
+          "DOI": "10.1111/ina.12624",
+          "CorpusId": 208184651,
+          "PubMed": "31743481"
+        },
+        "url": "https://www.semanticscholar.org/paper/eb8508d087845173e81deeec9153033337f87232",
+        "title": "Effect of nozzle temperature on the emission rate of ultrafine particles during 3D printing.",
+        "venue": "Indoor Air: International Journal of Indoor Environment and Health",
+        "year": 2019,
+        "citationCount": 47,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1111/ina.12624",
+          "status": "GOLD",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/ina.12624?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/ina.12624, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "114306047",
+            "name": "Haejoon Jeon"
+          },
+          {
+            "authorId": "46979270",
+            "name": "Jihoon Park"
+          },
+          {
+            "authorId": "49899817",
+            "name": "Sunju Kim"
+          },
+          {
+            "authorId": "2152041255",
+            "name": "Kyungho Park"
+          },
+          {
+            "authorId": "4202417",
+            "name": "C. Yoon"
+          }
+        ],
+        "abstract": "Ultrafine particles and other hazardous materials are emitted during 3D printing, but the effect of temperature on such particles has not been studied systematically. The aim of this study was to evaluate the effect of temperature on the emission rate of particulate matter during fused deposition modeling (FDM) three-dimensional (3D) printing using different filament types. The number concentration of particles was measured with direct-reading instruments in an exposure chamber at various temperatures while using four filament materials during 3D printing. The temperature was increased from 185 to 290°C in 15°C increments, while incorporating the manufacturer-recommended operating conditions. The emission rate increased gradually as the temperature increased for all filament types, and temperature was the key factor affecting the emission rate after filament type. For all filaments, at the lowest operating temperature, the emission rate was 107 -109 particles/min, whereas the emission rate at the highest temperature was about 1011 particles/min, i.e., 100-10,000 times higher than the emission rate at the lowest temperature. To reduce particle emissions from 3D printing, we recommend printing at the lowest temperature possible or using low-emission materials."
+      },
+      {
+        "paperId": "83b75e42658173198f325c2110f9c66875c4a47f",
+        "externalIds": {
+          "MAG": "3096572948",
+          "DOI": "10.1021/acs.est.0c05309",
+          "CorpusId": 226232785,
+          "PubMed": "33135417"
+        },
+        "url": "https://www.semanticscholar.org/paper/83b75e42658173198f325c2110f9c66875c4a47f",
+        "title": "Dynamic Analysis of Particle Emissions from FDM 3D Printers through a Comparative Study of Chamber and Flow Tunnel Measurements.",
+        "venue": "Environmental Science and Technology",
+        "year": 2020,
+        "citationCount": 18,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://dr.ntu.edu.sg/bitstream/10356/145153/2/Dynamic%20analysis%20of%20particle%20emissions%20from%20FDM%203D%20pinters%20through%20a%20comparative%20study%20of%20chamber%20and%20flow%20tunnel%20measurements.pdf",
+          "status": "GREEN",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1021/acs.est.0c05309?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/acs.est.0c05309, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "94290502",
+            "name": "Shirun Ding"
+          },
+          {
+            "authorId": "14213956",
+            "name": "M. Wan"
+          },
+          {
+            "authorId": "8757368",
+            "name": "B. Ng"
+          }
+        ],
+        "abstract": "Ultrafine particle emissions originating from fused deposition modeling (FDM) three-dimensional (3D) printers have received widespread attention recently. However, the obvious inconsistency and uncertainty in particle emission rates (PERs, #/min) measured by chamber systems still remain, owing to different measurement conditions and calculation models used. Here, a dynamic analysis of the size-resolved PER is conducted through a comparative study of chamber and flow tunnel measurements. Two models to resolve PER from the chamber and a model for flow tunnel measurements were examined. It was found that chamber measurements for different materials underestimated PER by up to an order of magnitude and overestimated particle diameters by up to 2.3 times, while the flow tunnel measurements provided more accurate results. Field measurements of the time-resolved particle size distribution (PSD) in a typical room environment could be predicted well by the flow tunnel measurements, while the chamber measurements could not represent the main PSD characteristics (e.g., particle diameter mode). Secondary aerosols (>30 nm) formed in chambers were not observed in field measurements. Flow tunnel measurements were adopted for the first time as a possible alternative for the study of 3D printer emissions to overcome the disadvantages in chamber methods and as a means to predict exposure levels."
+      },
+      {
+        "paperId": "4ef115b6f5394bfebc64449301577d5fc8e900e9",
+        "externalIds": {
+          "MAG": "2792812076",
+          "CorpusId": 139286117
+        },
+        "url": "https://www.semanticscholar.org/paper/4ef115b6f5394bfebc64449301577d5fc8e900e9",
+        "title": "Emissions of fine and ultrafine particles and volatile organic compounds from different filament materials operated on a low-cost 3D printer",
+        "venue": "",
+        "year": 2018,
+        "citationCount": 11,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "authors": [
+          {
+            "authorId": "11454225",
+            "name": "Doris Brödner"
+          },
+          {
+            "authorId": "107854315",
+            "name": "T. Jacobi"
+          },
+          {
+            "authorId": "97929820",
+            "name": "F. Rasch"
+          },
+          {
+            "authorId": "120949211",
+            "name": "M. Rothhardt"
+          },
+          {
+            "authorId": "11714802",
+            "name": "O. Wilke"
+          }
+        ],
+        "abstract": null
+      },
+      {
+        "paperId": "c14e55d263ec90161d20a5a45fc90dd8296670e2",
+        "externalIds": {
+          "DOI": "10.1080/15459624.2024.2313655",
+          "CorpusId": 268261941,
+          "PubMed": "38451632"
+        },
+        "url": "https://www.semanticscholar.org/paper/c14e55d263ec90161d20a5a45fc90dd8296670e2",
+        "title": "Assessment of emissions and exposure in 3D printing workplaces in Taiwan",
+        "venue": "Journal of Occupational and Environmental Hygiene",
+        "year": 2024,
+        "citationCount": 7,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/15459624.2024.2313655?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/15459624.2024.2313655, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2290156976",
+            "name": "Yung-Sheng Chuang"
+          },
+          {
+            "authorId": "74567486",
+            "name": "Abiyu Kerebo Berekute"
+          },
+          {
+            "authorId": "2290160922",
+            "name": "Hsuan-Yu Hsu"
+          },
+          {
+            "authorId": "2221231514",
+            "name": "Ho-Sheng Wei"
+          },
+          {
+            "authorId": "2228370550",
+            "name": "Wen-Cheng Gong"
+          },
+          {
+            "authorId": "87743141",
+            "name": "Ya-Yuan Hsu"
+          },
+          {
+            "authorId": "2245925551",
+            "name": "Chuen-Jinn Tsai"
+          },
+          {
+            "authorId": "2281719232",
+            "name": "K. Yu"
+          }
+        ],
+        "abstract": "Abstract Three-dimensional (3D) printing is an emerging and booming industry in Taiwan. Compared to traditional manufacturing, 3D printing has various advantages, such as advanced customization, additive manufacturing, reduced mold opening time, and reduced consumption of precursors. In this study, the real-time monitoring of particulate matter (PM) and total volatile organic compound (TVOC) emissions from various filaments is investigated using fused deposition modeling with material extrusion technology, a liquid-crystal display, a stereolithography apparatus based on vat photopolymerization technology, and binder jetting for occupational settings. An exposure assessment for nearby workers using the 3D printing process was performed, and improvement measures were recommended. Nine 3D printing fields were measured. The generation rate of ultrafine particles ranged from 1.19 × 1010 to 4.90 × 1012 #/min, and the geometric mean particle size ranged from 30.91 to 55.50 nm. The average concentration of ultrafine particles ranged from 2.31 × 103 to 7.36 × 104 #/cm3, and the PM2.5 and PM10 concentrations in each field ranged from 0.74 ± 0.27 to 12.46 ± 5.61 μg/m3 and from 2.39 ± 0.60 to 30.65 ± 21.26 μg/m3, respectively. The TVOC concentration ranged from 0.127 ± 0.012 to 1.567 ± 0.172 ppm. The respiratory deposition (RDUFPs) dose ranged from 2.02 × 1013 to 5.54 × 1014 nm2/day. Depending on the operating conditions, appropriate control and protective measures should be employed to protect workers’ health."
+      },
+      {
+        "paperId": "457bf9d71ee82a747e4fadf205eb9d490231f767",
+        "externalIds": {
+          "MAG": "877299181",
+          "DOI": "10.1016/J.BUILDENV.2015.07.013",
+          "CorpusId": 107126541
+        },
+        "url": "https://www.semanticscholar.org/paper/457bf9d71ee82a747e4fadf205eb9d490231f767",
+        "title": "Characterization of particulate matters and total VOC emissions from a binder jetting 3D printer",
+        "venue": "",
+        "year": 2015,
+        "citationCount": 120,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null,
+          "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.BUILDENV.2015.07.013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.BUILDENV.2015.07.013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "1434991320",
+            "name": "Nima Afshar-Mohajer"
+          },
+          {
+            "authorId": "39392285",
+            "name": "Chang-Yu Wu"
+          },
+          {
+            "authorId": "96755381",
+            "name": "Thomas Ladun"
+          },
+          {
+            "authorId": "13545996",
+            "name": "D. Rajon"
+          },
+          {
+            "authorId": "48356012",
+            "name": "Yong Huang"
+          }
+        ],
+        "abstract": null
+      },
+      {
+        "paperId": "5fc94180d26293303ed12192f2c08803074521eb",
+        "externalIds": {
+          "PubMedCentral": "12014674",
+          "DOI": "10.3389/fpubh.2025.1582690",
+          "CorpusId": 277716358,
+          "PubMed": "40270750"
+        },
+        "url": "https://www.semanticscholar.org/paper/5fc94180d26293303ed12192f2c08803074521eb",
+        "title": "The size distribution of nanoparticles emitted from advanced manufacturing devices impacts predicted carcinogenic potential",
+        "venue": "Frontiers in Public Health",
+        "year": 2025,
+        "citationCount": 1,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": "CCBY",
+          "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12014674, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2266156192",
+            "name": "W. Hill"
+          },
+          {
+            "authorId": "80545135",
+            "name": "A. Korchevskiy"
+          },
+          {
+            "authorId": "11846879",
+            "name": "M. Moovendhan"
+          },
+          {
+            "authorId": "2238513948",
+            "name": "Håkan Tinnerberg"
+          },
+          {
+            "authorId": "2357032802",
+            "name": "Francisco António"
+          },
+          {
+            "authorId": "2357038677",
+            "name": "Coelho Silva"
+          }
+        ],
+        "abstract": "Advanced manufacturing devices such as 3D printers bring users into closer contact with processes that generate ultrafine particles or release engineered nanomaterials. While approaches to assessing the risk of lung carcinogenesis and related health effects are developing, serious questions exist regarding the impact such devices may have on human health and safety if proper actions (i.e., engineering controls including ventilation or filtration) are not taken to mitigate exposures. The size distribution of particulates emitted during fused deposition modeling (FDM) 3D printing was measured following the ANSI/CAN/UL 2904 method and associated lung cancer risk was estimated through a developing model. Particulate morphologies were assessed, identifying agglomerative and morphological characteristics which may further impact health effects. The estimation of excess lung cancer risk for 3D printer emissions based upon particle size was found to vary according to aerodynamic diameter distribution and emitted concentration, with values projected as high as 468 cases per 10,000 workers in the measured exposure scenario (1 m3 enclosure with air fully exchanged once per hour); predicted excess lung cancer risk was found to drop significantly as print extrusion temperature decreased. Actual health impacts will depend highly upon the exposure scenario, as room air volume, ventilation, and number of printers in operation will impact the concentration of particulates present. This model provides a means for assessing excess lung cancer risk across a broad aerodynamic diameter distribution, improving resolution over methods that use a single particle size bin such as PM2.5 or PM10. The effects of particle composition are only anecdotally considered in this model, however; this limitation should be accommodated as the model is implemented in practical settings."
+      },
+      {
+        "paperId": "4f49f62cce0af248dc7a576609ef566e13f4a901",
+        "externalIds": {
+          "MAG": "3026836664",
+          "DOI": "10.1016/j.scitotenv.2020.139604",
+          "CorpusId": 219399382,
+          "PubMed": "32502783"
+        },
+        "url": "https://www.semanticscholar.org/paper/4f49f62cce0af248dc7a576609ef566e13f4a901",
+        "title": "Particle and volatile organic compound emissions from a 3D printer filament extruder.",
+        "venue": "Science of the Total Environment",
+        "year": 2020,
+        "citationCount": 42,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://europepmc.org/articles/pmc8202132?pdf=render",
+          "status": "GREEN",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.scitotenv.2020.139604?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.scitotenv.2020.139604, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "11943373",
+            "name": "Peter Byrley"
+          },
+          {
+            "authorId": "26507872",
+            "name": "M. A. Geer Wallace"
+          },
+          {
+            "authorId": "4405461",
+            "name": "W. Boyes"
+          },
+          {
+            "authorId": "33237568",
+            "name": "K. Rogers"
+          }
+        ],
+        "abstract": "Fused Deposition Modeling (FDM®), also known as Fused Filament Fabrication (FFF), 3D printers have been shown in numerous studies to emit ultrafine particles and volatile organic compounds (VOCs). Filament extruders, designed to create feedstocks for 3D printers, have recently come onto the consumer market for at-home hobbyists as an alternative to buying 3D printer filaments. These instruments allow for the creation of 3D printer filaments from raw plastic pellets. Given the similarity in processes and materials used by 3D printers and filament extruders, we hypothesized that filament extruders may also release ultrafine particle emissions and VOCs. An off-the-shelf filament extruder was operated in a 2 m3 chamber using three separate feedstocks: acrylonitrile butadiene styrene (ABS) pellets, pulverized poly-lactic acid (PLA), and PLA pellets. Ultrafine particle emissions were measured in real-time using a scanning mobility particle sizer and thermal desorption tubes were used for both non-targeted and targeted analysis of VOCs present in emissions. Ultrafine particle number emission rates were comparable to those found in 3D printer studies with the greatest to least emission rates from ABS pellets, pulverized PLA, and PLA pellets, respectively. In addition, the majority of particles released were found to be ultrafine (1-100 nm), similar to 3D printer studies. A variety of VOCs were identified using the ABS feedstock, including styrene and ethylbenzene, and PLA feedstock. Styrene average mass concentration amounts were found to be near the EPA Integrated Risk Information System Reference Concentration for Inhalation Exposure for 3 min and 5 min samples. Further studies will be needed to determine the impact on emissions of environmental volume, air exchange rate, and extruder settings such as extrusion speed and temperature. The results support the hypothesis that use of a filament extruder may present an additional exposure risk to 3D printer hobbyists."
+      },
+      {
+        "paperId": "288d328a905ad1af0bdf04ddaf859ec77b405004",
+        "externalIds": {
+          "MAG": "2956697106",
+          "DOI": "10.1016/J.SCITOTENV.2019.07.257",
+          "CorpusId": 199075681,
+          "PubMed": "31540002"
+        },
+        "url": "https://www.semanticscholar.org/paper/288d328a905ad1af0bdf04ddaf859ec77b405004",
+        "title": "The characteristics and formation mechanisms of emissions from thermal decomposition of 3D printer polymer filaments.",
+        "venue": "Science of the Total Environment",
+        "year": 2019,
+        "citationCount": 53,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://dr.ntu.edu.sg/bitstream/10356/142355/2/manuscript.pdf",
+          "status": "GREEN",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.SCITOTENV.2019.07.257?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.SCITOTENV.2019.07.257, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "94290502",
+            "name": "Shirun Ding"
+          },
+          {
+            "authorId": "8757368",
+            "name": "B. Ng"
+          },
+          {
+            "authorId": "31417783",
+            "name": "Xiaopeng Shang"
+          },
+          {
+            "authorId": "2144318801",
+            "name": "Hu Liu"
+          },
+          {
+            "authorId": "2309454",
+            "name": "Xuehong Lu"
+          },
+          {
+            "authorId": "14213956",
+            "name": "M. Wan"
+          }
+        ],
+        "abstract": "Ultrafine particles (UFP) and volatile organic compounds (VOC) emitted from fused deposition modelling (FDM) 3D printing have received widespread attention. Here, we characterize the formation mechanisms of emissions from polymer filaments commonly used in FDM 3D printing. The temporal relationship between the amount and species of total VOC (TVOC) at any desired operating thermal condition is obtained through a combination of evolved gas analysis (EGA) and thermogravimetric analysis (TGA) to capture physicochemical reactions, in which the furnace of EGA or TGA closely resembles the heating process of the nozzle in the FDM 3D printer. It is generally observed that emissions initiate at the start of the glass transition process and peak during liquefaction for filaments. Initial increment in emissions during liquefaction and the relatively constant decomposition of products in the liquid phase are two main TVOC formation mechanisms. More importantly, low heating rate has the potential to restrain the formation of carcinogenic monomer, styrene, from ABS. A TVOC measurement method based on weight loss is further proposed and found that TVOC mass yield was 0.03%, 0.21% and 2.14% for PLA, ABS, and PVA, respectively, at 220 °C. Among TVOC, UFP mass accounts for 1% to 5% of TVOC mass depending on the type of filaments used. Also, for the first time, emission of UFP from the nozzle is directly observed through laser imaging."
+      },
+      {
+        "paperId": "b6a3c1f395e2fcff9bf44edc762f96044002bf5a",
+        "externalIds": {
+          "MAG": "3126239323",
+          "DOI": "10.1016/J.JAEROSCI.2021.105765",
+          "CorpusId": 234088286,
+          "PubMed": "35999899"
+        },
+        "url": "https://www.semanticscholar.org/paper/b6a3c1f395e2fcff9bf44edc762f96044002bf5a",
+        "title": "3D Printer Particle Emissions: Translation to Internal Dose in Adults and Children.",
+        "venue": "Journal of Aerosol Science",
+        "year": 2021,
+        "citationCount": 22,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9393897",
+          "status": "GREEN",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.JAEROSCI.2021.105765?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.JAEROSCI.2021.105765, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "11943373",
+            "name": "Peter Byrley"
+          },
+          {
+            "authorId": "4405461",
+            "name": "W. Boyes"
+          },
+          {
+            "authorId": "33237568",
+            "name": "K. Rogers"
+          },
+          {
+            "authorId": "4790963",
+            "name": "A. Jarabek"
+          }
+        ],
+        "abstract": "Desktop fused deposition modeling (FDM®) three-dimensional (3D) printers are becoming increasingly popular in schools, libraries, and among home hobbyists. FDM® 3D printers have been shown to release ultrafine airborne particles in large amounts, indicating the potential for inhalation exposure and consequent health risks among FDM® 3D printer users and other room occupants including children. These particles are generated from the heating of thermoplastic polymer feedstocks during the FDM® 3D printing process, with the most commonly used polymers being acrylonitrile butadiene styrene (ABS) and poly-lactic acid (PLA). Risk assessment of these exposures demands estimation of internal dose, especially to address intra-human variability across life stages. Dosimetry models have proven to effectively translate particle exposures to internal dose metrics relevant to evaluation of their effects in the respiratory tract. We used the open-access multiple path particle dosimetry (MPPD v3.04) model to estimate inhaled particle deposition in different regions of the respiratory tract for children of various age groups from three months to eighteen years old adults. Mass concentration data for input into the MPPD model were calculated using particle size distribution and density data from experimental FDM® 3D printer emissions tests using both ABS and PLA. The impact of changes in critical parameters that are principal determinants of inhaled dose, including: sex, age, and exposure duration, was examined using input parameter values available from the International Commission on Radiological Protection. Internal dose metrics used included regional mass deposition, mass deposition normalized by pulmonary surface area, surface area of deposited particles by pulmonary surface area, and retained regional mass. Total mass deposition was found to be highest in the 9-year-old to 18-year-old age groups with mass deposition by pulmonary surface area highest in 3-month-olds to 9-year-olds and surface area of deposited particles by pulmonary surface area to be highest in 9-year-olds. Clearance modeling revealed that frequent 3D printer users are at risk for an increased cumulative retained dose."
+      },
+      {
+        "paperId": "6cb2872c262d09117501700de315d4dc6e598356",
+        "externalIds": {
+          "MAG": "2757735757",
+          "DOI": "10.1016/j.taap.2017.09.016",
+          "CorpusId": 205304810,
+          "PubMed": "28942003"
+        },
+        "url": "https://www.semanticscholar.org/paper/6cb2872c262d09117501700de315d4dc6e598356",
+        "title": "Inhalation exposure to three‐dimensional printer emissions stimulates acute hypertension and microvascular dysfunction",
+        "venue": "Toxicology and Applied Pharmacology",
+        "year": 2017,
+        "citationCount": 69,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "http://manuscript.elsevier.com/S0041008X17303885/pdf/S0041008X17303885.pdf",
+          "status": "BRONZE",
+          "license": "publisher-specific-oa",
+          "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.taap.2017.09.016?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.taap.2017.09.016, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "5334980",
+            "name": "A. Stefaniak"
+          },
+          {
+            "authorId": "5287330",
+            "name": "R. LeBouf"
+          },
+          {
+            "authorId": "97913299",
+            "name": "M. G. Duling"
+          },
+          {
+            "authorId": "47888081",
+            "name": "J. Yi"
+          },
+          {
+            "authorId": "8173687",
+            "name": "A. Abukabda"
+          },
+          {
+            "authorId": "31944315",
+            "name": "Carroll R. McBride"
+          },
+          {
+            "authorId": "5974968",
+            "name": "T. Nurkiewicz"
+          }
+        ],
+        "abstract": null
+      },
+      {
+        "paperId": "a3786ac40e21b40427205598e39f40df748c1af0",
+        "externalIds": {
+          "PubMedCentral": "12031625",
+          "DOI": "10.3390/toxics13040276",
+          "CorpusId": 277576558,
+          "PubMed": "40278591"
+        },
+        "url": "https://www.semanticscholar.org/paper/a3786ac40e21b40427205598e39f40df748c1af0",
+        "title": "Emission Characteristics of Volatile Organic Compounds from Material Extrusion Printers Using Acrylonitrile–Butadiene–Styrene and Polylactic Acid Filaments in Printing Environments and Their Toxicological Concerns",
+        "venue": "Toxics",
+        "year": 2025,
+        "citationCount": 3,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": "CCBY",
+          "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12031625, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2319872112",
+            "name": "Yuan Gao"
+          },
+          {
+            "authorId": "2356498014",
+            "name": "Yawei Xue"
+          },
+          {
+            "authorId": "2354058723",
+            "name": "Chenyang Sun"
+          },
+          {
+            "authorId": "2314011542",
+            "name": "Luhang She"
+          },
+          {
+            "authorId": "2316585495",
+            "name": "Ying Peng"
+          }
+        ],
+        "abstract": "The utilization of 3D printing releases a multitude of harmful gas pollutants, posing potential health risks to operators. Materials extrusion (ME; also known as fused deposition modeling (FDM)), a widely adopted 3D printing technology, predominantly employs acrylonitrile–butadiene–styrene (ABS) and polylactic acid (PLA) as printing materials, with the respective market shares of these materials reaching approximately 75%. The extensive usage of ABS and PLA during the ME process leads to significant volatile organic compound (VOC) emissions, thereby deteriorating the quality of indoor air. Nevertheless, information regarding the emission characteristics of VOCs and their influencing factors, as well as the toxicological impacts of the printing processes, remains largely unknown. Herein, we thoroughly reviewed the emission characteristics of VOCs released during ME printing processes using ABS and PLA in various printing environments, such as chambers, laboratories, and workplaces, as well as their potential influencing factors under different environmental conditions. A total of 62 VOC substances were identified in chamber studies using ABS and PLA filaments; for example, styrene had an emission rate of 0.29–113.10 μg/min, and isopropyl alcohol had an emission rate of 3.55–56.53 μg/min. Emission rates vary depending on the composition of the filament’s raw materials, additives (such as dyes and stabilizers), printing conditions (temperature), the printer’s condition (whether it has closure), and other factors. Additionally, we reviewed the toxicological concerns associated with hazardous VOC species commonly detected during the ME printing process and estimated cancer and non-cancer risks for users after long-term inhalation exposure. Potential health hazards associated with inhalation exposure to benzene, formaldehyde, acetaldehyde, styrene, and other substances were identified, which were calculated based on concentrations measured in real indoor environments. This study provides valuable insights for future research on the development of ME printing technologies and offers suggestions to reduce VOC emissions to protect users."
+      },
+      {
+        "paperId": "306c5d986a2c7e45655a4017ad167cdc7ffedc65",
+        "externalIds": {
+          "MAG": "2751822846",
+          "PubMedCentral": "5583319",
+          "DOI": "10.1038/s41598-017-10995-7",
+          "CorpusId": 20147765,
+          "PubMed": "28871170"
+        },
+        "url": "https://www.semanticscholar.org/paper/306c5d986a2c7e45655a4017ad167cdc7ffedc65",
+        "title": "Capturing PM2.5 Emissions from 3D Printing via Nanofiber-based Air Filter",
+        "venue": "Scientific Reports",
+        "year": 2017,
+        "citationCount": 50,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://www.nature.com/articles/s41598-017-10995-7.pdf",
+          "status": "GOLD",
+          "license": "CCBY",
+          "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5583319, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "39332204",
+            "name": "Chengchen Rao"
+          },
+          {
+            "authorId": "2056183573",
+            "name": "Fu Gu"
+          },
+          {
+            "authorId": "145344378",
+            "name": "P. Zhao"
+          },
+          {
+            "authorId": "2348609131",
+            "name": "Nusrat Sharmin"
+          },
+          {
+            "authorId": "92937547",
+            "name": "Haibing Gu"
+          },
+          {
+            "authorId": "2371869",
+            "name": "Jianzhong Fu"
+          }
+        ],
+        "abstract": "This study investigated the feasibility of using polycaprolactone (PCL) nanofiber-based air filters to capture PM2.5 particles emitted from fused deposition modeling (FDM) 3D printing. Generation and aggregation of emitted particles were investigated under different testing environments. The results show that: (1) the PCL nanofiber membranes are capable of capturing particle emissions from 3D printing, (2) relative humidity plays a signification role in aggregation of the captured particles, (3) generation and aggregation of particles from 3D printing can be divided into four stages: the PM2.5 concentration and particles size increase slowly (first stage), small particles are continuously generated and their concentration increases rapidly (second stage), small particles aggregate into more large particles and the growth of concentration slows down (third stage), the PM2.5 concentration and particle aggregation sizes increase rapidly (fourth stage), and (4) the ultrafine particles denoted as “building unit” act as the fundamentals of the aggregated particles. This work has tremendous implications in providing measures for controlling the particle emissions from 3D printing, which would facilitate the extensive application of 3D printing. In addition, this study provides a potential application scenario for nanofiber-based air filters other than laboratory theoretical investigation."
+      },
+      {
+        "paperId": "f906da73a049f3cf0285add1ea01fe4c305bdca4",
+        "externalIds": {
+          "MAG": "2887829571",
+          "PubMedCentral": "6398333",
+          "DOI": "10.1111/ina.12499",
+          "CorpusId": 51968229,
+          "PubMed": "30101413"
+        },
+        "url": "https://www.semanticscholar.org/paper/f906da73a049f3cf0285add1ea01fe4c305bdca4",
+        "title": "Three-dimensional printing with nano-enabled filaments releases polymer particles containing carbon nanotubes into air",
+        "venue": "Indoor Air: International Journal of Indoor Environment and Health",
+        "year": 2018,
+        "citationCount": 50,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1111/ina.12499",
+          "status": "GOLD",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6398333, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "5334980",
+            "name": "A. Stefaniak"
+          },
+          {
+            "authorId": "37311714",
+            "name": "L. Bowers"
+          },
+          {
+            "authorId": "15879786",
+            "name": "A. Knepp"
+          },
+          {
+            "authorId": "47455846",
+            "name": "M. Virji"
+          },
+          {
+            "authorId": "49093761",
+            "name": "E. Birch"
+          },
+          {
+            "authorId": "10362540",
+            "name": "J. Ham"
+          },
+          {
+            "authorId": "50707616",
+            "name": "J. Wells"
+          },
+          {
+            "authorId": "4407672",
+            "name": "Chaolong Qi"
+          },
+          {
+            "authorId": "1398489040",
+            "name": "D. Schwegler-Berry"
+          },
+          {
+            "authorId": "4413330",
+            "name": "Sherri A Friend"
+          },
+          {
+            "authorId": "2107503382",
+            "name": "A.R. Johnson"
+          },
+          {
+            "authorId": "2107491338",
+            "name": "S. Martin"
+          },
+          {
+            "authorId": "145175697",
+            "name": "Yong Qian"
+          },
+          {
+            "authorId": "5287330",
+            "name": "R. LeBouf"
+          },
+          {
+            "authorId": "16675292",
+            "name": "Quinn Birch"
+          },
+          {
+            "authorId": "143705031",
+            "name": "D. Hammond"
+          }
+        ],
+        "abstract": "Fused deposition modeling (FDM™) 3-dimensional printing uses polymer filament to build objects. Some polymer filaments are formulated with additives, though it is unknown if they are released during printing. Three commercially available filaments that contained carbon nanotubes (CNTs) were printed with a desktop FDM™ 3-D printer in a chamber while monitoring total particle number concentration and size distribution. Airborne particles were collected on filters and analyzed using electron microscopy. Carbonyl compounds were identified by mass spectrometry. The elemental carbon content of the bulk CNT-containing filaments was 1.5 to 5.2 wt%. CNT-containing filaments released up to 1010 ultrafine (d < 100 nm) particles/g printed and 106 to 108 respirable (d ~0.5 to 2 μm) particles/g printed. From microscopy, 1% of the emitted respirable polymer particles contained visible CNTs. Carbonyl emissions were observed above the limit of detection (LOD) but were below the limit of quantitation (LOQ). Modeling indicated that, for all filaments, the average proportional lung deposition of CNT-containing polymer particles was 6.5%, 5.7%, and 7.2% for the head airways, tracheobronchiolar, and pulmonary regions, respectively. If CNT-containing polymer particles are hazardous, it would be prudent to control emissions during use of these filaments."
+      },
+      {
+        "paperId": "347be89b7ecf65aed8aa5be97eb0749f4d3683e4",
+        "externalIds": {
+          "PubMedCentral": "8455153",
+          "MAG": "3022536344",
+          "DOI": "10.1007/s11051-020-04844-4",
+          "CorpusId": 218552380,
+          "PubMed": "34552386"
+        },
+        "url": "https://www.semanticscholar.org/paper/347be89b7ecf65aed8aa5be97eb0749f4d3683e4",
+        "title": "Reducing ultrafine particulate emission from multiple 3D printers in an office environment using a prototype engineering control",
+        "venue": "Journal of nanoparticle research",
+        "year": 2020,
+        "citationCount": 26,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://europepmc.org/articles/pmc8455153?pdf=render",
+          "status": "GREEN",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8455153, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "153034032",
+            "name": "Kevin L. Dunn"
+          },
+          {
+            "authorId": "143705031",
+            "name": "D. Hammond"
+          },
+          {
+            "authorId": "1682876038",
+            "name": "K. Menchaca"
+          },
+          {
+            "authorId": "153708116",
+            "name": "G. Roth"
+          },
+          {
+            "authorId": "40622272",
+            "name": "K. Dunn"
+          }
+        ],
+        "abstract": "Recent studies have shown that high concentrations of ultrafine particles can be emitted during the 3D printing process. This study characterized the emissions from different filaments using common fused deposition modeling printers. It also assessed the effectiveness of a novel engineering control designed to capture emissions directly at the extruder head. Airborne particle and volatile organic compound concentrations were measured, and particle emission rates were calculated for several different 3D printer and filament combinations. Each printer and filament combination was tested inside a test chamber to measure overall emissions using the same print design for approximately 2 h. Emission rates ranged from 0.71 × 10 7 to 1400 × 10 7 particles/min, with particle geometric mean diameters ranging from 45.6 to 62.3 nm. To assess the effectiveness of a custom-designed engineering control, a 1-h print program using a MakerBot Replicator+ with Slate Gray Tough polylactic acid filament was employed. Emission rates and particle counts were evaluated both with and without the extruder head emission control installed. Use of the control showed a 98% reduction in ultrafine particle concentrations from an individual 3D printer evaluated in a test chamber. An assessment of the control in a simulated makerspace with 20 printers operating showed particle counts approached or exceeded 20,000 particles/cm 3 without the engineering controls but remained at or below background levels (< 1000 particles/cm 3 ) with the engineering controls in place. This study showed that a low-cost control could be added to existing 3D printers to significantly reduce emissions to the work environment."
+      },
+      {
+        "paperId": "e5fa67e5014b007079c51d73c7470216bf9e94c7",
+        "externalIds": {
+          "MAG": "3171614236",
+          "DOI": "10.1016/J.BUILDENV.2021.108008",
+          "CorpusId": 236244595
+        },
+        "url": "https://www.semanticscholar.org/paper/e5fa67e5014b007079c51d73c7470216bf9e94c7",
+        "title": "Air pollutant emissions from multi jet fusion, material-jetting, and digital light synthesis commercial 3D printers in a service bureau",
+        "venue": "",
+        "year": 2021,
+        "citationCount": 10,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://www.sciencedirect.com/science/article/am/pii/S036013232100411X",
+          "status": "BRONZE",
+          "license": "publisher-specific-oa",
+          "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.BUILDENV.2021.108008?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.BUILDENV.2021.108008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "1379560182",
+            "name": "Austin C. Hayes"
+          },
+          {
+            "authorId": "1387456301",
+            "name": "Jorge Osio-Norgaard"
+          },
+          {
+            "authorId": "21400295",
+            "name": "Shelly L. Miller"
+          },
+          {
+            "authorId": "34721565",
+            "name": "G. Whiting"
+          },
+          {
+            "authorId": "8623874",
+            "name": "M. Vance"
+          }
+        ],
+        "abstract": null
+      },
+      {
+        "paperId": "dcfcd0d7c8515a4fb7da2f1fd296aae8c0fa6e40",
+        "externalIds": {
+          "DOI": "10.1016/j.chroma.2024.464740",
+          "CorpusId": 267689736,
+          "PubMed": "38401373"
+        },
+        "url": "https://www.semanticscholar.org/paper/dcfcd0d7c8515a4fb7da2f1fd296aae8c0fa6e40",
+        "title": "Extraction of volatile organic compounds liberated upon filament extrusion by 3D pen and its comparison with a desktop 3D printer using solid-phase microextraction fiber and Arrow.",
+        "venue": "Journal of Chromatography A",
+        "year": 2024,
+        "citationCount": 3,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.chroma.2024.464740?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.chroma.2024.464740, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "144181123",
+            "name": "Bhawana Thapa"
+          },
+          {
+            "authorId": "2274805809",
+            "name": "David S. Bell"
+          },
+          {
+            "authorId": "2274713685",
+            "name": "Jared L. Anderson"
+          }
+        ],
+        "abstract": "Desktop 3D printers that operate by the fused deposition modeling (FDM) mechanism are known to release numerous hazardous volatile organic compounds (VOCs) during printing, including some with potential carcinogenic effects. Operating in a similar manner to FDM 3D printers, 3D pens have gained popularity recently from their ability to allow users to effortlessly draw in the air or create various 3D printed shapes while handling the device like a pen. In contrast to numerous modern 3D printers, 3D pens lack their own ventilation systems and are often used in settings with minimum airflow. Their operation makes users more vulnerable to VOC emissions, as the released VOCs are likely to be in the breathing zone. Consequently, monitoring VOCs released during the use of 3D pens is crucial. In this study, VOCs liberated while extruding acrylonitrile butadiene styrene (ABS) filaments from a 3D pen were measured by solid-phase microextraction (SPME) combined with gas chromatography/mass spectrometry (GC/MS). SPME was investigated using the traditional fiber and Arrow geometries with the DVB/Carbon WR/PDMS sorbent while four different brands of ABS filaments-Amazon Basics, Gizmodork, Mynt 3D, and Novamaker-were used with the 3D pen. Heatmap analysis showed differentiation among these brands based on the liberated VOCs. The nozzle temperature and printing speed were found to affect the number and amount of released VOCs. This study goes a step further and presents for the first time a comparison between 3D pen and a desktop 3D printer based on liberated VOCs. Interestingly, the findings reveal that the 3D pen releases a greater number and amount of VOCs compared to the printer. The amounts of liberated VOCs, as indicated by the corresponding chromatographic peak areas, were found to be 1.4 to 62.6 times higher for the 3D pen compared to the 3D printer when using SPME Arrow."
+      },
+      {
+        "paperId": "fdc7792954cd1da741eef0fafc175326b522e711",
+        "externalIds": {
+          "DOI": "10.13075/mp.5893.01486",
+          "CorpusId": 268655201,
+          "PubMed": "38523548"
+        },
+        "url": "https://www.semanticscholar.org/paper/fdc7792954cd1da741eef0fafc175326b522e711",
+        "title": "[Risk assessment and toxicity effects of materials used during additive manufacturing with FDM technology].",
+        "venue": "Medycyna Pracy",
+        "year": 2024,
+        "citationCount": 4,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://medpr.imp.lodz.pl/pdf-184045-107304?filename=Risk assessment and.pdf",
+          "status": "GOLD",
+          "license": "CCBYNC",
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.13075/mp.5893.01486?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.13075/mp.5893.01486, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "13250047",
+            "name": "E. Dobrzyńska"
+          },
+          {
+            "authorId": "1403494867",
+            "name": "L. Chojnacka-Puchta"
+          },
+          {
+            "authorId": "145275557",
+            "name": "D. Sawicka"
+          },
+          {
+            "authorId": "52091859",
+            "name": "P. Sobiech"
+          },
+          {
+            "authorId": "2213414090",
+            "name": "Tomasz Jankowski"
+          },
+          {
+            "authorId": "2222863758",
+            "name": "Adrian Okołowicz"
+          },
+          {
+            "authorId": "5569903",
+            "name": "M. Szewczyńska"
+          }
+        ],
+        "abstract": "This paper discusses the potential of additive printing, the risks it poses to users' health (including 3D printer operators) and the effects of chemical substances released during the printing based on the available in vitro and in vivo studies. It was shown that substances emitted during printing with the commonly used acrylonitrile butadiene styrene (ABS) filament in additive manufacturing might have carcinogenic, hepatotoxic and teratogenic effects, as well as toxic effect on the respiratory system. The latest research on the mechanism of formation of particles and volatile organic compounds (VOCs) during 3D printing, the parameters affecting their potential emission, and trends in reducing these hazards are indicated. The need for the design of more environmentally friendly and less emissive printing materials, as well as strategies for prevention and individual and collective protection measures are emphasized. Users of 3D printers should be familiar with all possible aspects of the threats associated with the printing process. Insufficient data on direct exposure to chemicals and particles released during the use of filaments makes it difficult to build awareness of safe working practices. Of particular concern is the health impact of emitted chemicals and particles from thermally treated materials in one of the most popular technologies for 3D printing, i.e., fused deposition modelling. Exposure of the users to, for example, plasticizers added to filaments occurs through a variety of routes, by absorption through the skin, by inhalation or ingestion. Available epidemiological data, as well as current experimental works, indicate that such exposure is a high risk of cardiovascular diseases, atherosclerosis in adults, and cardiac problems and metabolic disorders in children. This review, by identifying potential risk factors, may contribute to reducing the health loss of printer users and improving working conditions and safety, especially in enterprises where additive manufacturing technology is used. Med Pr Work Health Saf. 2024;75(2)."
+      },
+      {
+        "paperId": "aeef995460ed34d630418a5fa246251d0699a9fa",
+        "externalIds": {
+          "DOI": "10.1515/ipp-2024-0090",
+          "CorpusId": 278523785
+        },
+        "url": "https://www.semanticscholar.org/paper/aeef995460ed34d630418a5fa246251d0699a9fa",
+        "title": "Enhancing 3D printing with composite filaments incorporating electronic waste: a study on flexural and compression strength",
+        "venue": "",
+        "year": 2025,
+        "citationCount": 1,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null,
+          "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1515/ipp-2024-0090?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1515/ipp-2024-0090, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2333294573",
+            "name": "Yogeshwaran Kumarasamy"
+          },
+          {
+            "authorId": "3139006",
+            "name": "P. K. Mohanty"
+          },
+          {
+            "authorId": "2224177233",
+            "name": "Nagarjun Jayakumar"
+          },
+          {
+            "authorId": "2333326264",
+            "name": "Shubhajit Das"
+          }
+        ],
+        "abstract": null
+      },
+      {
+        "paperId": "14e8a496ba30e69c475cb621ca84d93cddd7b031",
+        "externalIds": {
+          "CorpusId": 250453035
+        },
+        "url": "https://www.semanticscholar.org/paper/14e8a496ba30e69c475cb621ca84d93cddd7b031",
+        "title": "Acute health effects of desktop 3D printing (FDM) using ABS and PLA materials: an experimental exposure study in human volunteers",
+        "venue": "",
+        "year": 2018,
+        "citationCount": 1,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null,
+          "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://web.archive.org/web/20210716063521/https://push-zb.helmholtz-muenchen.de/deliver.php?id=21654, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "5347628",
+            "name": "I. Gümperlein"
+          },
+          {
+            "authorId": "2064580093",
+            "name": "E. Fischer"
+          },
+          {
+            "authorId": "1398628427",
+            "name": "G. Dietrich-Gümperlein"
+          },
+          {
+            "authorId": "5111753",
+            "name": "S. Karrasch"
+          },
+          {
+            "authorId": "2171401966",
+            "name": "Dennis Nowak"
+          },
+          {
+            "authorId": "2612799",
+            "name": "R. Jörres"
+          },
+          {
+            "authorId": "4395406",
+            "name": "R. Schierl"
+          }
+        ],
+        "abstract": null
+      },
+      {
+        "paperId": "d9e4300f759228c206a56d3899f94edd3c7e8152",
+        "externalIds": {
+          "MAG": "2769551971",
+          "DOI": "10.1111/ina.12310",
+          "CorpusId": 3523886,
+          "PubMed": "27219830"
+        },
+        "url": "https://www.semanticscholar.org/paper/d9e4300f759228c206a56d3899f94edd3c7e8152",
+        "title": "Airborne particle emission of a commercial 3D printer: the effect of filament material and printing temperature",
+        "venue": "Indoor Air: International Journal of Indoor Environment and Health",
+        "year": 2017,
+        "citationCount": 133,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null,
+          "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/ina.12310?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/ina.12310, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "40399986",
+            "name": "L. Stabile"
+          },
+          {
+            "authorId": "12667739",
+            "name": "M. Scungio"
+          },
+          {
+            "authorId": "40425943",
+            "name": "G. Buonanno"
+          },
+          {
+            "authorId": "32893361",
+            "name": "F. Arpino"
+          },
+          {
+            "authorId": "101059419",
+            "name": "G. Ficco"
+          }
+        ],
+        "abstract": null
+      },
+      {
+        "paperId": "354a18420a4d46688cc65abac20b2c7801fbb548",
+        "externalIds": {
+          "CorpusId": 284472992
+        },
+        "url": "https://www.semanticscholar.org/paper/354a18420a4d46688cc65abac20b2c7801fbb548",
+        "title": "ORIGINAL RESEARCH ARTICLE Quantitative Chromatographic Analysis of Volatile Compounds Released during Polymer FDM-AM",
+        "venue": "",
+        "year": null,
+        "citationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null,
+          "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://ace.as-pub.com/index.php/ACE/article/download/5753/3324, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2402539896",
+            "name": "Ali Raqee Abdulhadi¹"
+          },
+          {
+            "authorId": "1409233321",
+            "name": "Aqeel A. Al-Hilali"
+          },
+          {
+            "authorId": "2402537874",
+            "name": "Al-Dily Kareem³"
+          },
+          {
+            "authorId": "2398665217",
+            "name": "Hayder Hamid"
+          },
+          {
+            "authorId": "2402536519",
+            "name": "Abbas Al-Anbari⁴"
+          },
+          {
+            "authorId": "2398672982",
+            "name": "Salah Abdulhadi"
+          },
+          {
+            "authorId": "2398667439",
+            "name": "Ammar S Salih⁵"
+          },
+          {
+            "authorId": "2402536515",
+            "name": "Sameh Hussein Al Khafaji⁶"
+          },
+          {
+            "authorId": "2402537896",
+            "name": "Duha Hamo⁷"
+          },
+          {
+            "authorId": "2402539723",
+            "name": "Abed Almuhssen"
+          },
+          {
+            "authorId": "2402539100",
+            "name": "Shurooq Muzahim⁷"
+          },
+          {
+            "authorId": "117725664",
+            "name": "S. Hussein"
+          },
+          {
+            "authorId": "2385165593",
+            "name": "Duha Abed"
+          },
+          {
+            "authorId": "2385166369",
+            "name": "Almuhssen Muzahim"
+          }
+        ],
+        "abstract": null
+      },
+      {
+        "paperId": "d71a4fd641751ba302b36758c3d3958362fef9d0",
+        "externalIds": {
+          "DOI": "10.1038/s41598-017-10995-7",
+          "CorpusId": 256897159
+        },
+        "url": "https://www.semanticscholar.org/paper/d71a4fd641751ba302b36758c3d3958362fef9d0",
+        "title": "Capturing PM2.5 Emissions from 3D Printing via Nanofiber-based Air Filter",
+        "venue": "Scientific Reports",
+        "year": 2017,
+        "citationCount": 0,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://www.nature.com/articles/s41598-017-10995-7.pdf",
+          "status": "GOLD",
+          "license": "CCBY",
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41598-017-10995-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41598-017-10995-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "39332204",
+            "name": "Chengchen Rao"
+          },
+          {
+            "authorId": "2056183573",
+            "name": "Fu Gu"
+          },
+          {
+            "authorId": "145344378",
+            "name": "P. Zhao"
+          },
+          {
+            "authorId": "2348609131",
+            "name": "Nusrat Sharmin"
+          },
+          {
+            "authorId": "92937547",
+            "name": "Haibing Gu"
+          },
+          {
+            "authorId": "2119314944",
+            "name": "Jianzhong Fu"
+          }
+        ],
+        "abstract": "This study investigated the feasibility of using polycaprolactone (PCL) nanofiber-based air filters to capture PM2.5 particles emitted from fused deposition modeling (FDM) 3D printing. Generation and aggregation of emitted particles were investigated under different testing environments. The results show that: (1) the PCL nanofiber membranes are capable of capturing particle emissions from 3D printing, (2) relative humidity plays a signification role in aggregation of the captured particles, (3) generation and aggregation of particles from 3D printing can be divided into four stages: the PM2.5 concentration and particles size increase slowly (first stage), small particles are continuously generated and their concentration increases rapidly (second stage), small particles aggregate into more large particles and the growth of concentration slows down (third stage), the PM2.5 concentration and particle aggregation sizes increase rapidly (fourth stage), and (4) the ultrafine particles denoted as “building unit” act as the fundamentals of the aggregated particles. This work has tremendous implications in providing measures for controlling the particle emissions from 3D printing, which would facilitate the extensive application of 3D printing. In addition, this study provides a potential application scenario for nanofiber-based air filters other than laboratory theoretical investigation."
+      },
+      {
+        "paperId": "05c1f78ef7977b3d56279b831964ed8fb8598bad",
+        "externalIds": {
+          "PubMedCentral": "11054724",
+          "DOI": "10.3390/polym16081104",
+          "CorpusId": 269192850,
+          "PubMed": "38675022"
+        },
+        "url": "https://www.semanticscholar.org/paper/05c1f78ef7977b3d56279b831964ed8fb8598bad",
+        "title": "Evaluation of the Viability of 3D Printing in Recycling Polymers",
+        "venue": "Polymers",
+        "year": 2024,
+        "citationCount": 24,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://www.mdpi.com/2073-4360/16/8/1104/pdf?version=1713260269",
+          "status": "GOLD",
+          "license": "CCBY",
+          "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11054724, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2229607751",
+            "name": "Chrysanthos Maraveas"
+          },
+          {
+            "authorId": "2100683557",
+            "name": "Ioannis-Vasileios Kyrtopoulos"
+          },
+          {
+            "authorId": "2280270599",
+            "name": "K. Arvanitis"
+          }
+        ],
+        "abstract": "The increased use of plastics in industrial and agricultural applications has led to high levels of pollution worldwide and is a significant challenge. To address this plastic pollution, conventional methods such as landfills and incineration are used, leading to further challenges such as the generation of greenhouse gas emissions. Therefore, increasing interest has been directed to identifying alternative methods to dispose of plastic waste from agriculture. The novelty of the current research arose from the lack of critical reviews on how 3-Dimensional (3D) printing was adopted for recycling plastics, its application in the production of agricultural plastics, and its specific benefits, disadvantages, and limitations in recycling plastics. The review paper offers novel insights regarding the application of 3D printing methods including Fused Particle Fabrication (FPF), Hot Melt Extrusion (HME), and Fused Deposition Modelling (FDM) to make filaments from plastics. However, the methods were adopted in local recycling setups where only small quantities of the raw materials were considered. Data was collected using a systematic review involving 39 studies. Findings showed that the application of the 3D printing methods led to the generation of agricultural plastics such as Polylactic Acid (PLA), Acrylonitrile Butadiene Styrene (ABS), Polyethylene Terephthalate (PET), and High-Density Polyethylene (HDPE), which were found to have properties comparable to those of virgin plastic, suggesting the viability of 3D printing in managing plastic pollution. However, limitations were also associated with the 3D printing methods; 3D-printed plastics deteriorated rapidly under Ultraviolet (UV) light and are non-biodegradable, posing further risks of plastic pollution. However, UV stabilization helps reduce plastic deterioration, thus increasing longevity and reducing disposal. Future directions emphasize identifying methods to reduce the deterioration of 3D-printed agricultural plastics and increasing their longevity in addition to UV stability."
+      },
+      {
+        "paperId": "6b56b0913a0e40718fc11b710ccd7e024e73521e",
+        "externalIds": {
+          "MAG": "2769804449",
+          "CorpusId": 116134830
+        },
+        "url": "https://www.semanticscholar.org/paper/6b56b0913a0e40718fc11b710ccd7e024e73521e",
+        "title": "Characterization of Particle Emissions from Desktop 3D Printers: A Look at the Effect of Part Design and Build Pathing",
+        "venue": "",
+        "year": 2016,
+        "citationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null,
+          "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2285&context=open_access_theses, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "102119506",
+            "name": "G. A. Aguilera"
+          }
+        ],
+        "abstract": null
+      },
+      {
+        "paperId": "4fdf77dfaa8b1604dd501c596e0989506ea5add3",
+        "externalIds": {
+          "MAG": "2917954597",
+          "DOI": "10.1016/J.SCITOTENV.2019.02.207",
+          "CorpusId": 104391720,
+          "PubMed": "30970468"
+        },
+        "url": "https://www.semanticscholar.org/paper/4fdf77dfaa8b1604dd501c596e0989506ea5add3",
+        "title": "Improving the electrospinning process of fabricating nanofibrous membranes to filter PM2.5.",
+        "venue": "Science of the Total Environment",
+        "year": 2019,
+        "citationCount": 53,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.SCITOTENV.2019.02.207?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.SCITOTENV.2019.02.207, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "96161560",
+            "name": "Mingyi Cao"
+          },
+          {
+            "authorId": "2056183573",
+            "name": "Fu Gu"
+          },
+          {
+            "authorId": "39332204",
+            "name": "Chengchen Rao"
+          },
+          {
+            "authorId": "2371869",
+            "name": "Jianzhong Fu"
+          },
+          {
+            "authorId": "145344378",
+            "name": "P. Zhao"
+          }
+        ],
+        "abstract": "To mitigate PM2.5 emissions is becoming a pressing concern, because these particles pose a threat to public health. Evidence shows that bead-free nanofiber with diameter of <100 nm is more likely to capture the PM2.5, however, currently it is impossible to fabricate bead-free nanofiber with such diameter without introduction of other substances. To fabricate bead-free polyacrylonitrile (PAN) nanofibers with diameter of <100 nm, we improved the electrospinning process of membrane fabrication via design of experiment (DOE), and we then used these nanofibers to filter PM2.5 emissions from burning cigarettes and fused deposition modeling (FDM) three-dimensional (3D) printing. The DOE was based on a L27 (313) orthodoxy array, which consists of six controllable factors, that is, the concentration of solution, the spinning voltage, the rotating speed, the tip-to-collector distance, the flow rate of the syringe pump, and the electrospinning temperature, each of them has three levels. The results showed that the nanofibers of the least diameter (i.e., 77 nm) can be fabricated under the following condition: 8 wt% PAN solution, 12 kV voltage, 5000 r/min, 12 cm tip-to-collector distance, 0.6 ml/h flow rate, and 50 °C electrospinning temperature. Range analysis and analysis of variance (ANOVA) showed that the concentration of PAN solution has the most significant effect on the diameter, and their values are positively correlated. An examination in a two-chamber filtering device showed the PAN membrane with the least fiber diameter has a PM2.5 filtration efficiency of 99.26%. A filtration test on standard FDM 3D printing process showed the membrane has a PM2.5 removal efficiency of 81.16%. This work could mitigate PM2.5 emissions from cigarette tobacco and FDM 3D printing, and it would be used to other scenarios, such as industrial and traffic emissions."
+      },
+      {
+        "paperId": "cac69f210d3f8c3cf9f04ceb6d30b889ea904bda",
+        "externalIds": {
+          "DOI": "10.38177/ajast.2025.9402",
+          "CorpusId": 283231922
+        },
+        "url": "https://www.semanticscholar.org/paper/cac69f210d3f8c3cf9f04ceb6d30b889ea904bda",
+        "title": "Occupational Exposure to Nanoparticles in Additive Manufacturing Risk Assessment and Mitigation Strategies",
+        "venue": "Asian journal of applied science and technology",
+        "year": 2025,
+        "citationCount": 2,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.38177/ajast.2025.9402?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.38177/ajast.2025.9402, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2385340487",
+            "name": "E. N. Orhuebor"
+          },
+          {
+            "authorId": "2393977398",
+            "name": "John Aberebuofori"
+          },
+          {
+            "authorId": "2388295679",
+            "name": "Chris Akpololohor"
+          },
+          {
+            "authorId": "2351370262",
+            "name": "G. Isangadighi"
+          },
+          {
+            "authorId": "2393975411",
+            "name": "Nkechi Blessing Chinedu"
+          }
+        ],
+        "abstract": "The Implementation of nanotechnology in additive manufacturing (AM) has revolutionised production productivity. Nevertheless, it has also created several occupational health issues, leading to the release of nanoparticles into the atmosphere. Though the exposure process is primarily used in industry, there is little quantitative understanding of exposure patterns and the effectiveness of mitigation in AMs. The objective of the study was to measure nanoparticle exposure in three AM processes —Fused Deposition Modelling (FDM), Selective Laser Melding (SLM), and Binder Jetting — and to develop a comprehensive risk control and assessment framework. Real-time aerosol surveillance of airborne nanoparticles was measured and characterised using a Canning Mobility Particle Sizer (SMPS), a Condensation Particle Counter (CPC), and an Aerodynamic Particle Sizer (APS), in conjunction with transmission electron microscopy (TEM) and GIS-based spatial modelling. Risk indices used to determine exposure severity include the Composite Exposure Index (CEI), Hazard Quotient (HQ), and Normative Risk Index (NRI). It was determined that the maximum concentration (1.1 x 106 particles/cm3 ) and NRI (0.80) was observed in SLM and the most emitted particles were the ultrafine particles (<100 nm). The use of mitigation measures of sealed enclosure, local exhaust ventilation, and administration control reduced the filing of nanoparticles by 58%. The thermodynamic influences on the dynamics of emission were confirmed as the correlation between high process temperature, length of exposure and strength of concentration were high. The research concludes that AM, as a form of nanoparticle exposure, is process-driven and can be significantly reduced through innovative engineering and intervention strategies. It suggests that real-time monitoring, enclosed handling systems, and occupational biomonitoring should be institutionalised. At the same time, nano-specific exposure limits should be implemented to promote safer industrial practices in new manufacturing technologies."
+      },
+      {
+        "paperId": "4481a7937fa26d897dee25a5c8669c17e2a00857",
+        "externalIds": {
+          "PubMedCentral": "8678392",
+          "DOI": "10.1080/10937404.2021.1936319",
+          "CorpusId": 235472082,
+          "PubMed": "34139957"
+        },
+        "url": "https://www.semanticscholar.org/paper/4481a7937fa26d897dee25a5c8669c17e2a00857",
+        "title": "Additive Manufacturing for Occupational Hygiene: A Comprehensive Review of Processes, Emissions, & Exposures",
+        "venue": "Journal of Toxicology and Environmental Health. Part B, Critical Reviews",
+        "year": 2021,
+        "citationCount": 53,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8678392",
+          "status": "GREEN",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8678392, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "5334980",
+            "name": "A. Stefaniak"
+          },
+          {
+            "authorId": "1569553494",
+            "name": "S. du Preez"
+          },
+          {
+            "authorId": "2114210424",
+            "name": "J. du Plessis"
+          }
+        ],
+        "abstract": "ABSTRACT This comprehensive review introduces occupational (industrial) hygienists and toxicologists to the seven basic additive manufacturing (AM) process categories. Forty-six articles were identified that reported real-world measurements for all AM processes, except sheet lamination. Particles released from powder bed fusion (PBF), material jetting (MJ), material extrusion (ME), and directed energy deposition (DED) processes exhibited nanoscale to submicron scale; real-time particle number (mobility sizers, condensation nuclei counters, miniDiSC, electrical diffusion batteries) and surface area monitors (diffusion chargers) were generally sufficient for these processes. Binder jetting (BJ) machines released particles up to 8.5 µm; optical particle sizers (number) and laser scattering photometers (mass) were sufficient for this process. PBF and DED processes (powdered metallic feedstocks) released particles that contained respiratory irritants (chromium, molybdenum), central nervous system toxicants (manganese), and carcinogens (nickel). All process categories, except those that use metallic feedstocks, released organic gases, including (but not limited to), respiratory irritants (toluene, xylenes), asthmagens (methyl methacrylate, styrene), and carcinogens (benzene, formaldehyde, acetaldehyde). Real-time photoionization detectors for total volatile organics provided useful information for processes that utilize polymer feedstock materials. More research is needed to understand 1) facility-, machine-, and feedstock-related factors that influence emissions and exposures, 2) dermal exposure and biological burden, and 3) task-based exposures. Harmonized emissions monitoring and exposure assessment approaches are needed to facilitate inter-comparison of study results. Improved understanding of AM process emissions and exposures is needed for hygienists to ensure appropriate health and safety conditions for workers and for toxicologists to design experimental protocols that accurately mimic real-world exposure conditions. ABBREVIATIONS ABS : acrylonitrile butadiene styrene; ACGIH® TLV® : American Conference of Governmental Industrial Hygienists Threshold Limit Value; ACH : air change per hour; AM : additive manufacturing; ASA : acrylonitrile styrene acrylate; AVP : acetone vapor polishing; BJ : binder jetting; CAM-LEM : computer-aided manufacturing of laminated engineering materials; CNF : carbon nanofiber; CNT : carbon nanotube; CP : co-polyester; CNC : condensation nuclei counter; CVP : chloroform vapor polishing; DED : directed energy deposition; DLP : digital light processing; EBM : electron beam melting; EELS : electron energy loss spectrometry; EDB : electrical diffusion batteries; EDX : energy dispersive x-ray analyzer; ER : emission rate; FDM™ : fused deposition modeling; FFF : fused filament fabrication; IAQ : indoor air quality; LSP : laser scattering photometer; LCD : liquid crystal display; LDSA : lung deposited particle surface area; LOD : limit of detection; LOM : laminated object manufacturing; LOQ : limit of quantitation; MCE : mixed cellulose ester filter; ME : material extrusion; MJ : material jetting; OEL : occupational exposure limit; OPS : optical particle sizer; PBF : powder bed fusion; PBZ : personal breathing zone; PC : polycarbonate; PEEK : poly ether ether ketone; PET : polyethylene terephthalate; PETG : Polyethylene terephthalate glycol; PID : photoionization detector; PLA : polylactic acid; PM1 : particulate matter with aerodynamic diameter less than 1 µm; PM2.5 : particulate matter with aerodynamic diameter less than 2.5 µm; PM10 : particulate matter with aerodynamic diameter less than 10 µm; PSL : plastic sheet lamination; PVA : polyvinyl alcohol; REL : recommended exposure limit; SDL : selective deposition lamination; SDS : safety data sheet; SEM : scanning electron microscopy; SL : sheet lamination; SLA : stereolithography; SLM : selective laser melting; SMPS : scanning mobility particle sizer; SVOC : semi-volatile organic compound; TEM : transmission electron microscopy; TGA : thermal gravimetric analysis; TPU : thermo polyurethane; UAM : ultrasonic additive manufacturing; UC : ultrasonic consolidation; TVOC : total volatile organic compounds; TWA : time-weighted average; VOC : volatile organic compound; VP : vat photopolymerization"
+      },
+      {
+        "paperId": "be98629e4cd03895f4f2835707d8e8fd7427ce94",
+        "externalIds": {
+          "PubMedCentral": "9152899",
+          "DOI": "10.4055/cios21181",
+          "CorpusId": 249055398,
+          "PubMed": "35685978"
+        },
+        "url": "https://www.semanticscholar.org/paper/be98629e4cd03895f4f2835707d8e8fd7427ce94",
+        "title": "Sarcomas in Teachers Using Three-Dimensional Printers: A Report of Three Patients and Literature Review",
+        "venue": "Clinics in Orthopedic Surgery",
+        "year": 2022,
+        "citationCount": 9,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.4055/cios21181",
+          "status": "GOLD",
+          "license": "CCBYNC",
+          "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9152899, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "3926540",
+            "name": "M. Joo"
+          },
+          {
+            "authorId": "2110034032",
+            "name": "Yong-Suk Lee"
+          },
+          {
+            "authorId": "34663343",
+            "name": "Yang-Guk Chung"
+          },
+          {
+            "authorId": "2166276879",
+            "name": "Hong Kwon Lee"
+          }
+        ],
+        "abstract": "Background While low-cost, small-scale, desktop three-dimensional (3D) printers are gaining popularity in the education sector, some studies have reported harmful emissions of particles and volatile organic compounds during the fused deposition modeling (FDM) process, posing a potential health risk. Sarcomas are rare tumors, constituting a group of diverse rare malignant tumors. While some genetic and environmental factors contribute to the development of sarcomas, most cases are idiopathic and sporadic. Methods We secured the medical records and statements about work environment from teachers diagnosed with sarcomas after frequent use of 3D printers in high schools, reviewed the cases, and described them in narrative format. Furthermore, popularization of FDM 3D printers, worrisome emissions released during the printing process, and related precautions and countermeasures were discussed through literature review. Results Exceptionally, the cases of sarcomas, such as Ewing’s sarcoma, malignant peripheral nerve sheath tumor, and well-differentiated liposarcoma, arose in a common specific condition. All the teachers regularly operated 3D printers in poorly ventilated spaces for at least 2 years. They had no past or family history of relevant diseases. Conclusions We first reported three cases of sarcoma in teachers who used 3D printers in poorly ventilated conditions. Although a relationship between the use of 3D printers and the development of sarcomas has not been determined yet, it is important to come up with measures to protect teachers and students using 3D printers from the potential hazard."
+      },
+      {
+        "paperId": "6ea08903906767d5431b28bdfd701cc8c8cbda75",
+        "externalIds": {
+          "MAG": "2616058632",
+          "DOI": "10.1021/ACS.JCHEMED.6B00745",
+          "CorpusId": 99888232
+        },
+        "url": "https://www.semanticscholar.org/paper/6ea08903906767d5431b28bdfd701cc8c8cbda75",
+        "title": "Three-Dimensional (3D) Printers in Libraries: Perspective and Preliminary Safety Analysis",
+        "venue": "",
+        "year": 2017,
+        "citationCount": 60,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null,
+          "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1021/ACS.JCHEMED.6B00745?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/ACS.JCHEMED.6B00745, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "47081411",
+            "name": "N. Bharti"
+          },
+          {
+            "authorId": "153203918",
+            "name": "Shailendra Singh"
+          }
+        ],
+        "abstract": null
+      },
+      {
+        "paperId": "71fdc5b13fe8be79a403bcf42d415dc9aa1d6794",
+        "externalIds": {
+          "MAG": "3041516577",
+          "DOI": "10.1016/j.atmosenv.2020.117765",
+          "CorpusId": 224858385
+        },
+        "url": "https://www.semanticscholar.org/paper/71fdc5b13fe8be79a403bcf42d415dc9aa1d6794",
+        "title": "Characterization of particle emission from thermoplastic additive manufacturing",
+        "venue": "Atmospheric Environment",
+        "year": 2020,
+        "citationCount": 23,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "http://pure-oai.bham.ac.uk/ws/files/100308240/Manuscript_CleanCopy.docx",
+          "status": "GREEN",
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.atmosenv.2020.117765?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.atmosenv.2020.117765, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2319745555",
+            "name": "S. Sittichompoo"
+          },
+          {
+            "authorId": "81683209",
+            "name": "Sanjeevan Kanagalingam"
+          },
+          {
+            "authorId": "2296511006",
+            "name": "Lauren E J Thomas-Seale"
+          },
+          {
+            "authorId": "144043921",
+            "name": "A. Tsolakis"
+          },
+          {
+            "authorId": "143855439",
+            "name": "J. Herreros"
+          }
+        ],
+        "abstract": "Abstract Particle emission from fused-deposition modelling (FDM) desktop 3D printer has raised concerns regarding indoor personal health due to the increased accessibility of printers. This study characterises the size, number and morphology of the emitted particles to understand particle formation processes and propose guidelines for their abatement. The effects of extruder temperature, layer height, filament colour and shape of printing object on particle characteristics emitted from a desktop 3D printer have been investigated. For first time, a novel thermogravimetric analysis (TGA) method is developed to emulate printing process, which offers an insight into particle formation during extruder heating, standing-by and during the printing process. Printing temperature and printing layer height demonstrate a major effect on the ultra-fine particles (UFP) emitted, while ABS filament colour shows a minor effect on the nanoparticle emissions. Local temperature and concentration of volatile organic material emitted from the filament play an important role on the number of particles formed, while printing duration and air change rate (ACH) affect particle size, morphology and emission rate. The results provide guidelines to develop printing settings that will lead to lower UFP emissions for improved indoor air quality. The developed TGA method demonstrates the qualitative behaviour of particle emissions from a material under heating, which is approximately proportional to an FDM printers’ particle emissions; facilitating increased repeatability, time and cost efficiency for printing material assessment."
+      },
+      {
+        "paperId": "6f7b78cf77f5182dd78f89b3ad2a09d1063e9af1",
+        "externalIds": {
+          "DOI": "10.32571/ijct.1375421",
+          "CorpusId": 266721071
+        },
+        "url": "https://www.semanticscholar.org/paper/6f7b78cf77f5182dd78f89b3ad2a09d1063e9af1",
+        "title": "Production and New Green Activation of Conductive 3D-Printed Cu/PLA Electrode: Its Performance in Hydrogen Evolution Reactions in Alkaline Media",
+        "venue": "International Journal of Chemical Technology",
+        "year": 2023,
+        "citationCount": 1,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.32571/ijct.1375421",
+          "status": "GOLD",
+          "license": "CCBYNC",
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.32571/ijct.1375421?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32571/ijct.1375421, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2071568419",
+            "name": "Halil Eki̇ci̇"
+          },
+          {
+            "authorId": "96575769",
+            "name": "Sevgi Ateş"
+          },
+          {
+            "authorId": "1833390582",
+            "name": "Evrim Baran Aydın"
+          }
+        ],
+        "abstract": "In this study, Cu-polylactic acid (PLA) composite filaments were produced with an extruder and three-dimensional (3D) Cu/PLA electrodes were 3D printed with Fused Deposition Modelling (FDM) method. To improve the electrochemical performance of the 3D-Cu/PLA electrode, a novel electrochemical activation method, which differentiates from complex activation methods in the literature, was applied in 1 M KOH solution without using any solvent. Field emission scanning electron microscopy (FE-SEM), Energy-Dispersive X-ray Spectroscopy (EDX), Fourier Transform Infrared Spectroscopy (FT-IR), and RAMAN techniques were used to characterize the 3D-Cu/PLA electrode before and after activation. The results showed that Cu particles were released after the degradation of PLA after activation. In addition, the thermal stability of the 3D electrode was demonstrated by the TGA technique. The performance of the 3D Cu/PLA electrode before and after activation in the hydrogen evolution reaction (HER) in 1M solution was measured using cyclic voltammetry (CV), electrochemical impedance spectroscopy (EIS), and cathodic polarization curves methods. The EIS results showed that the charge transfer resistance values of the 3D-Cu/PLA electrode in 1 M KOH decreased significantly after activation. Post-activation hydrogen content measurements of the 3D-Cu/PLA electrode after electrolysis at different potentials and energy efficiency tests at different current densities were also carried out. The results indicate that the electrocatalytic properties of 3D-Cu electrodes were improved for HER through the activation process."
+      },
+      {
+        "paperId": "7c38527e559e9daacc0b00f35375b4cb9d222b7c",
+        "externalIds": {
+          "MAG": "3100409115",
+          "DOI": "10.1016/j.aca.2020.11.012",
+          "CorpusId": 228922715,
+          "PubMed": "33384106"
+        },
+        "url": "https://www.semanticscholar.org/paper/7c38527e559e9daacc0b00f35375b4cb9d222b7c",
+        "title": "Paper-based optoelectronic nose for identification of indoor air pollution caused by 3D printing thermoplastic filaments.",
+        "venue": "Analytica Chimica Acta",
+        "year": 2021,
+        "citationCount": 22,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null,
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.aca.2020.11.012?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.aca.2020.11.012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "2036994393",
+            "name": "Naira Dias Pinheiro"
+          },
+          {
+            "authorId": "7336451",
+            "name": "R. Freire"
+          },
+          {
+            "authorId": "2023126604",
+            "name": "J. Conrado"
+          },
+          {
+            "authorId": "15191301",
+            "name": "A. Batista"
+          },
+          {
+            "authorId": "48235500",
+            "name": "João Flávio da Silveira Petruci"
+          }
+        ],
+        "abstract": "Commercial printers based on fused deposition modeling (FDM) are widely adopted for 3D printing applications. This method consists of the heating of polymeric filaments over the melting point followed by their deposition onto a solid base to create the desirable 3D structure. Prior investigation using chromatographic techniques has shown that chemical compounds (e.g. VOCs), which can be harmful to users, are emitted during the printing process, producing adverse effects to human health and contributing to indoor air pollution. In this study, we present a simple, inexpensive and disposable paper-based optoelectronic nose (i.e. colorimetric sensor array) to identify the gaseous emission fingerprint of five different types of thermoplastic filaments (ABS, TPU, PETG, TRITAN and PLA) in the indoor environment. The optoelectronic nose is comprised of selected 15 dyes with different chemical properties deposited onto a microfluidic paper-based device with spots of 5 mm in diameter each. Digital images were obtained from an ordinary flatbed scanner, and the RGB information collected before and after air exposure was extracted by using an automated routine designed in MATLAB, in which the color changes provide a unique fingerprint for each filament in 5 min of printing. Reproducibility was obtained in the range of 2.5-10% (RSD). Hierarchical clustering analysis (HCA) and principal component analysis (PCA) were successfully employed, showing suitable discrimination of all studied filaments and the non-polluted air. Besides, air spiked with vapors of the most representative VOCs were analyzed by the optoelectronic nose and visually compared to each filament. The described study shows the potential of the paper-based optoelectronic nose to monitor possible hazard emissions from 3D printers."
+      },
+      {
+        "paperId": "1a4c67d47c4972c07dc378a7c2d51525b1484712",
+        "externalIds": {
+          "MAG": "2796442072",
+          "DOI": "10.29173/istl1712",
+          "CorpusId": 169432587
+        },
+        "url": "https://www.semanticscholar.org/paper/1a4c67d47c4972c07dc378a7c2d51525b1484712",
+        "title": "3D Printing in Makerspaces: Health and Safety Concerns.",
+        "venue": "Issues in Science and Technology Librarianship",
+        "year": 2017,
+        "citationCount": 2,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://doi.org/10.29173/istl1712",
+          "status": "HYBRID",
+          "license": "CCBYNCSA",
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.29173/istl1712?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.29173/istl1712, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "47081411",
+            "name": "N. Bharti"
+          }
+        ],
+        "abstract": "3D (three-dimensional) printing is included in makerspaces around the world and has become increasingly affordable and useful. Most makerspaces use Fused Deposition Modeling (FDM)-based 3D printers, using polylactic acid (PLA) and acrylonitrile butadiene styrene (ABS) as printing materials. However, heating PLA and ABS to high temperatures emits ultrafine particles and volatile organic compounds, which are potentially harmful and raise health and safety concerns. This paper discusses the health and safety hazards posed by 3D printing and presents recommendations to minimize the effects of these hazards. [ABSTRACT FROM AUTHOR]\n \n "
+      },
+      {
+        "paperId": "838a1ca2b05a65296ef637fc085b572d7004c310",
+        "externalIds": {
+          "DOI": "10.24840/2184-0954_006.001_0003",
+          "CorpusId": 248467704
+        },
+        "url": "https://www.semanticscholar.org/paper/838a1ca2b05a65296ef637fc085b572d7004c310",
+        "title": "Health and safety in 3D printing",
+        "venue": "International Journal of Occupational and Environmental Safety",
+        "year": 2022,
+        "citationCount": 8,
+        "isOpenAccess": true,
+        "openAccessPdf": {
+          "url": "https://journalsojs3.fe.up.pt/index.php/ijooes/article/download/2184-0954_006-001_0003/614",
+          "status": "GOLD",
+          "license": "CCBY",
+          "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.24840/2184-0954_006.001_0003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.24840/2184-0954_006.001_0003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "31175534",
+            "name": "Héctor García"
+          },
+          {
+            "authorId": "2163896328",
+            "name": "Teresa López Pola"
+          }
+        ],
+        "abstract": "Fused deposition modelling, or 3D printing, is an additive manufacturing technique that is quickly gaining popularity because of its ability to produce usable parts with several geometries. It provides multiple advantages in everyday life. However, the emerging risks of using 3D printers at home is an issue that needs to be addressed. It is estimated that a person spends, on average, 80-90% of their time inside a building, up to 60% of that time is at home. Therefore it is essential to control the pollutants in the indoor environment. This paper evaluated the Volatile Organic Compounds (VOCs) and nanoparticle emissions during 3D printing with the most common Poly-Lactic Acid (PLA) and Acrylonitrile Butadiene Styrene (ABS) materials. Real-time aerosol monitors were used to characterise particulate emission, and laboratory analysis was used to check the VOCs levels.  During printing, an increase of VOCs and nanoparticles was observed. This  increase was more significant during printing with ABS filaments than during printing with PLA filaments. The nanoparticles size emitted for the ABS filament was smaller than the particles emitted for the PLA filament. A carcinogen substance like benzene was found during printing. The pollutants levels observed may cause health problems, and it is recommended that  printing be avoided without engineering controls in place, e.g. a good ventilation and extraction system."
+      },
+      {
+        "paperId": "31af9c2116761161c62f09c90f17fe29cb814831",
+        "externalIds": {
+          "MAG": "2908945294",
+          "CorpusId": 139259885
+        },
+        "url": "https://www.semanticscholar.org/paper/31af9c2116761161c62f09c90f17fe29cb814831",
+        "title": "3D 프린팅 기술의 이해, 유해 인자 노출 평가와 제어",
+        "venue": "",
+        "year": 2018,
+        "citationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        },
+        "authors": [
+          {
+            "authorId": "96101484",
+            "name": "박지훈"
+          },
+          {
+            "authorId": "114566456",
+            "name": "전혜준"
+          },
+          {
+            "authorId": "66765877",
+            "name": "오영석"
+          },
+          {
+            "authorId": "66502333",
+            "name": "박경호"
+          },
+          {
+            "authorId": "78001767",
+            "name": "윤충식"
+          }
+        ],
+        "abstract": null
+      },
+      {
+        "paperId": "f7b5e409a66c0dc734240891ad3d00c8e6fc2dbc",
+        "externalIds": {
+          "MAG": "2323274657",
+          "DOI": "10.15373/2249555X/MAY2014/78",
+          "CorpusId": 131008892
+        },
+        "url": "https://www.semanticscholar.org/paper/f7b5e409a66c0dc734240891ad3d00c8e6fc2dbc",
+        "title": "Application of air pollution models and remote sensing in Air Quality Management",
+        "venue": "",
+        "year": 2011,
+        "citationCount": 6,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": "CLOSED",
+          "license": null,
+          "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.15373/2249555X/MAY2014/78?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15373/2249555X/MAY2014/78, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "39226489",
+            "name": "Bhawna Dubey"
+          }
+        ],
+        "abstract": null
+      },
+      {
+        "paperId": "901ec7bcef0a89e03d0641ad1aa0965f0fb5fdcf",
+        "externalIds": {
+          "MAG": "1543108800",
+          "DOI": "10.3929/ethz-a-007582388",
+          "CorpusId": 62899166
+        },
+        "url": "https://www.semanticscholar.org/paper/901ec7bcef0a89e03d0641ad1aa0965f0fb5fdcf",
+        "title": "Towards a better insight into the health effects of aerosol particle",
+        "venue": "",
+        "year": 2012,
+        "citationCount": 0,
+        "isOpenAccess": false,
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null,
+          "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3929/ethz-a-007582388?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3929/ethz-a-007582388, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+          {
+            "authorId": "40127087",
+            "name": "P. Mertes"
+          }
+        ],
+        "abstract": null
+      }
+    ]
+  }
+}

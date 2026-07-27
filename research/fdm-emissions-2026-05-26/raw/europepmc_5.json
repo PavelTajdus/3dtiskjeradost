@@ -1,0 +1,262 @@
+{
+  "query": "3D printer emissions health risk indoor air filtration ventilation HEPA activated carbon",
+  "data": {
+    "version": "6.9",
+    "hitCount": 7,
+    "request": {
+      "queryString": "3D printer emissions health risk indoor air filtration ventilation HEPA activated carbon",
+      "resultType": "lite",
+      "cursorMark": "*",
+      "pageSize": 50,
+      "sort": "",
+      "synonym": false
+    },
+    "resultList": {
+      "result": [
+        {
+          "id": "41613160",
+          "source": "MED",
+          "pmid": "41613160",
+          "pmcid": "PMC12848961",
+          "fullTextIdList": {
+            "fullTextId": [
+              "PMC12848961"
+            ]
+          },
+          "doi": "10.1021/acs.chas.5c00167",
+          "title": "An Experimental Study of Volatile Organic Compound (VOC) Emissions from a Resin 3D Printer to Assess Exposure and Exposure Mitigation.",
+          "authorString": "Baguley DA, Bard D, Evans GS, Monks PS, Cordell RL.",
+          "journalTitle": "J Chem Health Saf",
+          "issue": "1",
+          "journalVolume": "33",
+          "pubYear": "2026",
+          "journalIssn": "1871-5532; 1878-0504; ",
+          "pageInfo": "98-109",
+          "pubType": "research-article; journal article",
+          "isOpenAccess": "Y",
+          "inEPMC": "Y",
+          "inPMC": "Y",
+          "hasPDF": "Y",
+          "hasBook": "N",
+          "hasSuppl": "N",
+          "citedByCount": 0,
+          "hasReferences": "Y",
+          "hasTextMinedTerms": "Y",
+          "hasDbCrossReferences": "N",
+          "hasLabsLinks": "Y",
+          "hasTMAccessionNumbers": "N",
+          "firstIndexDate": "2026-02-06",
+          "firstPublicationDate": "2025-12-17"
+        },
+        {
+          "id": "41304030",
+          "source": "MED",
+          "pmid": "41304030",
+          "pmcid": "PMC12654491",
+          "fullTextIdList": {
+            "fullTextId": [
+              "PMC12654491"
+            ]
+          },
+          "doi": "10.3390/ma18225185",
+          "title": "Enhancing the Performance of FFF-Printed Parts: A Review of Reinforcement and Modification Strategies for Thermoplastic Polymers.",
+          "authorString": "Leśniowski J, Stawiarski A, Barski M.",
+          "journalTitle": "Materials (Basel)",
+          "issue": "22",
+          "journalVolume": "18",
+          "pubYear": "2025",
+          "journalIssn": "1996-1944",
+          "pageInfo": "5185",
+          "pubType": "review-article; review; journal article",
+          "isOpenAccess": "Y",
+          "inEPMC": "Y",
+          "inPMC": "Y",
+          "hasPDF": "Y",
+          "hasBook": "N",
+          "hasSuppl": "N",
+          "citedByCount": 0,
+          "hasReferences": "Y",
+          "hasTextMinedTerms": "Y",
+          "hasDbCrossReferences": "N",
+          "hasLabsLinks": "N",
+          "hasTMAccessionNumbers": "N",
+          "firstIndexDate": "2025-11-27",
+          "firstPublicationDate": "2025-11-14"
+        },
+        {
+          "id": "35758103",
+          "source": "MED",
+          "pmid": "35758103",
+          "pmcid": "PMC9420827",
+          "fullTextIdList": {
+            "fullTextId": [
+              "PMC9420827"
+            ]
+          },
+          "doi": "10.1080/10937404.2022.2092569",
+          "title": "Identification of effective control technologies for additive manufacturing.",
+          "authorString": "Plessis JD, Preez SD, Stefaniak AB.",
+          "journalTitle": "J Toxicol Environ Health B Crit Rev",
+          "issue": "5",
+          "journalVolume": "25",
+          "pubYear": "2022",
+          "journalIssn": "1093-7404; 1521-6950; ",
+          "pageInfo": "211-249",
+          "pubType": "research support, u.s. gov't, p.h.s.; research support, non-u.s. gov't; research-article; review; journal article",
+          "isOpenAccess": "N",
+          "inEPMC": "Y",
+          "inPMC": "Y",
+          "hasPDF": "Y",
+          "hasBook": "N",
+          "hasSuppl": "Y",
+          "citedByCount": 1,
+          "hasReferences": "Y",
+          "hasTextMinedTerms": "Y",
+          "hasDbCrossReferences": "N",
+          "hasLabsLinks": "Y",
+          "hasTMAccessionNumbers": "N",
+          "firstIndexDate": "2022-06-28",
+          "firstPublicationDate": "2022-06-26"
+        },
+        {
+          "id": "35548681",
+          "source": "MED",
+          "pmid": "35548681",
+          "pmcid": "PMC9081788",
+          "fullTextIdList": {
+            "fullTextId": [
+              "PMC9081788"
+            ]
+          },
+          "doi": "10.3389/ftox.2022.836447",
+          "title": "Particle Safety Assessment in Additive Manufacturing: From Exposure Risks to Advanced Toxicology Testing.",
+          "authorString": "Alijagic A, Engwall M, Särndahl E, Karlsson H, Hedbrant A, Andersson L, Karlsson P, Dalemo M, Scherbak N, Färnlund K, Larsson M, Persson A.",
+          "journalTitle": "Front Toxicol",
+          "journalVolume": "4",
+          "pubYear": "2022",
+          "journalIssn": "2673-3080",
+          "pageInfo": "836447",
+          "pubType": "review-article; review; journal article",
+          "isOpenAccess": "Y",
+          "inEPMC": "Y",
+          "inPMC": "Y",
+          "hasPDF": "Y",
+          "hasBook": "N",
+          "hasSuppl": "N",
+          "citedByCount": 13,
+          "hasReferences": "Y",
+          "hasTextMinedTerms": "Y",
+          "hasDbCrossReferences": "N",
+          "hasLabsLinks": "Y",
+          "hasTMAccessionNumbers": "N",
+          "firstIndexDate": "2022-05-14",
+          "firstPublicationDate": "2022-04-25"
+        },
+        {
+          "id": "34305433",
+          "source": "MED",
+          "pmid": "34305433",
+          "pmcid": "PMC8301741",
+          "fullTextIdList": {
+            "fullTextId": [
+              "PMC8301741"
+            ]
+          },
+          "doi": "10.1016/j.atmosenv.2020.117321",
+          "title": "Comparative analysis of ventilation efficiency on ultrafine particle removal in university MakerSpaces.",
+          "authorString": "Secondo LE, Adawi HI, Cuddehe J, Hopson K, Schumacher A, Mendoza L, Cartin C, Lewinski NA.",
+          "journalTitle": "Atmos Environ (1994)",
+          "journalVolume": "224",
+          "pubYear": "2020",
+          "journalIssn": "1352-2310",
+          "pageInfo": "117321",
+          "pubType": "research-article; journal article",
+          "isOpenAccess": "N",
+          "inEPMC": "Y",
+          "inPMC": "Y",
+          "hasPDF": "Y",
+          "hasBook": "N",
+          "hasSuppl": "Y",
+          "citedByCount": 6,
+          "hasReferences": "Y",
+          "hasTextMinedTerms": "Y",
+          "hasDbCrossReferences": "N",
+          "hasLabsLinks": "Y",
+          "hasTMAccessionNumbers": "N",
+          "firstIndexDate": "2021-07-27",
+          "firstPublicationDate": "2020-02-06"
+        },
+        {
+          "id": "41969752",
+          "source": "MED",
+          "pmid": "41969752",
+          "pmcid": "PMC13061758",
+          "fullTextIdList": {
+            "fullTextId": [
+              "PMC13061758"
+            ]
+          },
+          "doi": "10.1111/jiec.12578",
+          "title": "Predicting Concentrations of Ultrafine Particles and Volatile Organic Compounds Resulting from Desktop 3D Printer Operation and the Impact of Potential Control Strategies.",
+          "authorString": "Azimi P, Fazli T, Stephens B.",
+          "journalTitle": "J Ind Ecol",
+          "issue": "suppl 1",
+          "journalVolume": "21",
+          "pubYear": "2017",
+          "journalIssn": "1088-1980; 1530-9290; ",
+          "pageInfo": "S107-S119",
+          "pubType": "research-article; journal article",
+          "isOpenAccess": "Y",
+          "inEPMC": "Y",
+          "inPMC": "Y",
+          "hasPDF": "Y",
+          "hasBook": "N",
+          "hasSuppl": "N",
+          "citedByCount": 0,
+          "hasReferences": "N",
+          "hasTextMinedTerms": "Y",
+          "hasDbCrossReferences": "N",
+          "hasLabsLinks": "Y",
+          "hasTMAccessionNumbers": "N",
+          "firstIndexDate": "2026-04-13",
+          "firstPublicationDate": "2017-04-06"
+        },
+        {
+          "id": "31798757",
+          "source": "MED",
+          "pmid": "31798757",
+          "pmcid": "PMC6889885",
+          "fullTextIdList": {
+            "fullTextId": [
+              "PMC6889885"
+            ]
+          },
+          "doi": "10.1016/j.jchas.2018.11.001",
+          "title": "Evaluation of emissions and exposures at workplaces using desktop 3-dimensional printer.",
+          "authorString": "Stefaniak AB, Johnson AR, du Preez S, Hammond DR, Wells JR, Ham JE, LeBouf RF, Menchaca KW, Martin SB, Duling MG, Bowers LN, Knepp AK, Su FC, de Beer DJ, du Plessis JL.",
+          "journalTitle": "J Chem Health Saf",
+          "issue": "2",
+          "journalVolume": "26",
+          "pubYear": "2019",
+          "journalIssn": "1871-5532; 1878-0504; ",
+          "pageInfo": "19-30",
+          "pubType": "research-article; journal article",
+          "isOpenAccess": "N",
+          "inEPMC": "Y",
+          "inPMC": "Y",
+          "hasPDF": "Y",
+          "hasBook": "N",
+          "hasSuppl": "Y",
+          "citedByCount": 41,
+          "hasReferences": "Y",
+          "hasTextMinedTerms": "Y",
+          "hasDbCrossReferences": "N",
+          "hasLabsLinks": "Y",
+          "hasTMAccessionNumbers": "N",
+          "firstIndexDate": "2019-12-05",
+          "firstPublicationDate": "2019-03-01"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "query": "3D printer nanoparticles emissions ABS PLA styrene lactide",
+  "data": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "3",
+      "retmax": "3",
+      "retstart": "0",
+      "idlist": [
+        "38710394",
+        "33104072",
+        "29500848"
+      ],
+      "translationset": [
+        {
+          "from": "printer",
+          "to": "\"printer\"[All Fields] OR \"printers\"[All Fields]"
+        },
+        {
+          "from": "nanoparticles",
+          "to": "\"nanoparticle's\"[All Fields] OR \"nanoparticles\"[MeSH Terms] OR \"nanoparticles\"[All Fields] OR \"nanoparticle\"[All Fields]"
+        },
+        {
+          "from": "emissions",
+          "to": "\"emission\"[All Fields] OR \"emission's\"[All Fields] OR \"emissions\"[All Fields] OR \"emissive\"[All Fields]"
+        },
+        {
+          "from": "ABS",
+          "to": "\"Ann Breast Surg\"[Journal:__jid9918266295906676] OR \"Am Behav Sci\"[Journal:__jid0055030] OR \"Acta Biol Slov\"[Journal:__jid101158480] OR \"Acta Biol Sib\"[Journal:__jid101764481] OR \"abs\"[All Fields]"
+        },
+        {
+          "from": "styrene",
+          "to": "\"styrenated\"[All Fields] OR \"styrene\"[Supplementary Concept] OR \"styrene\"[All Fields] OR \"styrene\"[MeSH Terms] OR \"styrenes\"[MeSH Terms] OR \"styrenes\"[All Fields] OR \"styrenic\"[All Fields]"
+        },
+        {
+          "from": "lactide",
+          "to": "\"dilactide\"[Supplementary Concept] OR \"dilactide\"[All Fields] OR \"lactide\"[All Fields] OR \"lactid\"[All Fields] OR \"lactides\"[All Fields]"
+        }
+      ],
+      "querytranslation": "\"3D\"[All Fields] AND (\"printer\"[All Fields] OR \"printers\"[All Fields]) AND (\"nanoparticle s\"[All Fields] OR \"nanoparticles\"[MeSH Terms] OR \"nanoparticles\"[All Fields] OR \"nanoparticle\"[All Fields]) AND (\"emission\"[All Fields] OR \"emission s\"[All Fields] OR \"emissions\"[All Fields] OR \"emissive\"[All Fields]) AND (\"ann breast surg\"[Journal] OR \"am behav sci\"[Journal] OR \"abs\"[All Fields]) AND \"PLA\"[All Fields] AND (\"styrenated\"[All Fields] OR \"styrene\"[Supplementary Concept] OR \"styrene\"[All Fields] OR \"styrene\"[MeSH Terms] OR \"styrenes\"[MeSH Terms] OR \"styrenes\"[All Fields] OR \"styrenic\"[All Fields]) AND (\"dilactide\"[Supplementary Concept] OR \"dilactide\"[All Fields] OR \"lactide\"[All Fields] OR \"lactid\"[All Fields] OR \"lactides\"[All Fields])"
+    }
+  }
+}
