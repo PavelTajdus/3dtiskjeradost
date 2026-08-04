@@ -44,13 +44,17 @@ Výzkumníci z Queen’s University Belfast postavili testovací článek průto
 
 Tištěné díly tu nejsou dekorace. Tvoří části článku, které vedou kapalinu kolem membrány a elektrod. Sestava má zhruba deset součástí a výzkumníci k ní připravili postup ve stylu návodu od IKEA. Stejnou konstrukci už používá přes 35 výzkumných skupin včetně týmů na MIT, Harvardu a Cambridge.
 
-Nejde o baterii, kterou si vytiskneš doma a připojíš k solárům. Zajímavá je hlavně standardizace. Když laboratoře měří na stejném levném článku, mohou konečně rozumněji porovnávat výsledky místo toho, aby každá testovala na jiném bazmeku.
+Nejde o baterii, kterou si vytiskneš doma a připojíš k solárům. Zajímavá je hlavně standardizace. Když laboratoře měří na stejném levném článku, mohou konečně rozumněji porovnávat výsledky místo toho, aby každá používala vlastní testovací článek.
 
 [Zdroj: BBC](https://www.bbc.com/news/articles/c3dyd4l8250o)
 
 ---
 
 ## 3D tištěná baletní špička se dá rozebrat a opravit
+
+![Ilustrační obrázek modulární baletní špičky se segmentovanou 3D tištěnou podrážkou](/content/images/2026/08/pod-tryskou-32-2026-baletni-spicka.webp)
+
+*Ilustrační obrázek vytvořený pomocí AI podle technického principu modulární boty.*
 
 Německá firma Act’ble rozdělila baletní špičku na tři vyměnitelné části: tištěnou vnitřní podrážku, pletený návlek a stuhy. Klasická špička se často vyhodí po 10 až 20 hodinách, protože změkne nebo se poškodí jedna její část. Tady může tanečnice vyměnit jen to, co je opotřebené.
 
