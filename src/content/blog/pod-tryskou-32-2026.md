@@ -52,9 +52,10 @@ Nejde o baterii, kterou si vytiskneš doma a připojíš k solárům. Zajímavá
 
 ## 3D tištěná baletní špička se dá rozebrat a opravit
 
-![Ilustrační obrázek modulární baletní špičky se segmentovanou 3D tištěnou podrážkou](/content/images/2026/08/pod-tryskou-32-2026-baletni-spicka.webp)
-
-*Ilustrační obrázek vytvořený pomocí AI podle technického principu modulární boty.*
+<figure class="article-figure">
+  <img src="/content/images/2026/08/pod-tryskou-32-2026-baletni-spicka.webp" alt="Ilustrační obrázek modulární baletní špičky se segmentovanou 3D tištěnou podrážkou" loading="lazy">
+  <figcaption>Ilustrační obrázek vytvořený pomocí AI podle technického principu modulární boty.</figcaption>
+</figure>
 
 Německá firma Act’ble rozdělila baletní špičku na tři vyměnitelné části: tištěnou vnitřní podrážku, pletený návlek a stuhy. Klasická špička se často vyhodí po 10 až 20 hodinách, protože změkne nebo se poškodí jedna její část. Tady může tanečnice vyměnit jen to, co je opotřebené.
 
