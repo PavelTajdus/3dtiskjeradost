@@ -79,7 +79,7 @@ Tohle je přesně situace, kde má lokální výroba smysl. Ne každý náhradn�
 
 ---
 
-## Chemická přísada zkrotila přehřívání při objemovém tisku
+## Přísada snížila nárůst teploty při objemovém 3D tisku
 
 Výzkumníci z Nottinghamu a Berkeley řeší přehřívání při objemovém 3D tisku. Nejde o FDM ani běžné vytvrzování po vrstvách. Metoda CAL promítá vzory světla do otáčející se nádoby s pryskyřicí a vytvrdí celý objekt během několika sekund.
 
