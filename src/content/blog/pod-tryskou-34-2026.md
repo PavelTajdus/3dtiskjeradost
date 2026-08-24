@@ -8,12 +8,6 @@ heroImage: "/content/images/2026/08/pod-tryskou-34-2026-hero.webp"
 
 # Pod tryskou 34/2026: Prusa Research omladila tři tiskárny a FDM hledá další směr
 
-Tenhle týden přinesl jen pár použitelných novinek.
-
-Zůstaly dvě věci, které spolu docela dobře souvisejí. Prusa Research vylepšila tři současné tiskárny a The Next Layer otevřel otázku, jestli další velký posun domácího FDM tisku ještě přijde z hardwaru.
-
----
-
 ## Prusa Research rovnou prodává XL+, CORE One L+ a CORE One+ (Gen 2)
 
 Prusa Research obnovila skoro celou řadu najednou. XL+ dostala nové ofukování kolem celé trysky, GT1.5 řemeny, vysokoprůtokové trysky, stěrač trysky a senzor pro rychlejší srovnání jednotlivých nástrojových hlav. GT1.5 znamená jemnější rozteč zubů řemenu. Výrobce tím chce omezit drobné pravidelné vzory, které mohou být vidět na hladkých stěnách výtisku.
