@@ -1,14 +1,14 @@
 ---
-title: "Pod tryskou 34/2026: Prusa omladila tři tiskárny a FDM hledá další směr"
+title: "Pod tryskou 34/2026: Prusa Research omladila tři tiskárny a FDM hledá další směr"
 pubDate: "2026-08-17T05:00:00.000Z"
 description: "Prusa Research rovnou prodává nové verze XL+, CORE One L+ a CORE One+ (Gen 2), zatímco tvůrci řeší, kam se může domácí FDM tisk posunout dál."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/08/pod-tryskou-34-2026-hero.webp"
 ---
 
-# Pod tryskou 34/2026: Prusa omladila tři tiskárny a FDM hledá další směr
+# Pod tryskou 34/2026: Prusa Research omladila tři tiskárny a FDM hledá další směr
 
-Tenhle týden přinesl jen pár použitelných novinek. Jedna z nich navíc zopakovala test hořlavosti filamentů z minulého vydání, takže jsem ji znovu nezařazoval.
+Tenhle týden přinesl jen pár použitelných novinek.
 
 Zůstaly dvě věci, které spolu docela dobře souvisejí. Prusa Research vylepšila tři současné tiskárny a The Next Layer otevřel otázku, jestli další velký posun domácího FDM tisku ještě přijde z hardwaru.
 
