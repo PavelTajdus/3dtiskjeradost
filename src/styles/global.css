@@ -965,6 +965,29 @@ p { margin-bottom: 1.25em; }
 	margin-top: 8px;
 }
 
+.prose .article-figure {
+	margin: 2em 0;
+}
+
+.prose .article-figure img {
+	display: block;
+	width: 100%;
+	margin: 0;
+	border-radius: var(--radius-sm) var(--radius-sm) 0 0;
+}
+
+.prose .article-figure figcaption {
+	margin: 0;
+	padding: 0.7rem 1rem 0.8rem;
+	border: 1px solid var(--border);
+	border-top: 0;
+	border-radius: 0 0 var(--radius-sm) var(--radius-sm);
+	background: var(--bg-soft);
+	font-size: 0.8rem;
+	line-height: 1.5;
+	text-align: left;
+}
+
 .prose blockquote {
 	border-left: 3px solid var(--accent);
 	padding-left: 1.5em;
