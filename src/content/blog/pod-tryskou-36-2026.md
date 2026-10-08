@@ -49,7 +49,7 @@ Tým z Purdue University postavil čidlo, které měří, kudy a jak rychle teč
 
 ![Výzkumník Purdue University drží 3D tištěný snímač proudění podzemní vody](/content/images/2026/08/purdue-groundwater-sensor.webp)
 
-První prototypy vydržely pod vodou sedm až osm měsíců bez poruchy. Další testy chystají v terénu u amerického geologického ústavu USGS a v mokřadu, který univerzita spravuje. Zatím je to výzkumný prototyp. Pouzdro si ale tým tiskne sám, takže ho může při vývoji rychle upravit.
+První prototypy vydržely pod vodou sedm až osm měsíců bez poruchy. Další testy chystají v terénu u amerického geologického ústavu USGS a v mokřadu, který univerzita spravuje. Zatím je to prototyp. Jak se osvědčí v terénu, uvidíme.
 
 [Zdroj: Purdue University](https://ag.purdue.edu/news/2026/07/purdue-researchers-use-3d-printing-to-make-open-source-alternative-to-costly-groundwater-sensors.html)
 
@@ -61,7 +61,7 @@ Studenti z kanadské Queen's University vyvíjejí mechanickou protézu pro lidi
 
 ![Prototypy mechanických a 3D tištěných protéz týmu Queen's University](/content/images/2026/08/queens-3d-printed-prosthetic.webp)
 
-Protéza se ovládá postrojem a pohybem těla, bez motorů a elektroniky. Po dvou letech vývoje zvládne samostatně ovládat loket i jednotlivé prsty. Díly se dají upravit na míru a po poškození znovu vytisknout. Do tištěných protéz přes e-NABLE jsem se kdysi taky zapojoval, takže tohle mě potěšilo.
+Protéza se ovládá postrojem a pohybem těla, bez motorů a elektroniky. Po dvou letech vývoje zvládne samostatně ovládat loket i jednotlivé prsty. Do tištěných protéz přes e-NABLE jsem se kdysi taky zapojoval, takže tohle mě potěšilo.
 
 [Zdroj: Queen's University](https://www.queensu.ca/gazette/stories/queen-s-students-develop-3d-printed-prosthetics)
 
@@ -69,7 +69,7 @@ Protéza se ovládá postrojem a pohybem těla, bez motorů a elektroniky. Po dv
 
 ## Tištěná pomůcka na bowling
 
-Americké ministerstvo pro veterány navrhlo pro Francine Goode, veteránku letectva po amputaci, pomůcku na bowling. Dlouhou tyčí pošle kouli po dráze sama, bez pomoci druhého člověka. Tým pomůcku zkoušel přímo s ní a podle její zpětné vazby upravoval.
+Americké ministerstvo pro veterány navrhlo pro Francine Goode, veteránku letectva po amputaci, pomůcku na bowling. S tištěnou tyčí ovládá kouli líp a může hrát bez pomoci druhého člověka. Tým pomůcku zkoušel přímo s ní a podle její zpětné vazby upravoval.
 
 ![Veteránka Francine Goode používá při bowlingu pomůcku s 3D tištěnými díly](/content/images/2026/08/va-3d-printed-bowling-stick.webp)
 

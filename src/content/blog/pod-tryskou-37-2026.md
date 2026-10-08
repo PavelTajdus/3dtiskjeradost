@@ -2,7 +2,7 @@
 title: "Pod tryskou 37/2026: od recyklátu po tištěnou botu"
 pubDate: "2026-09-07T05:00:00.000Z"
 updatedDate: "2026-10-08T12:00:00.000Z"
-description: "3devo představilo FMX10 pro výrobu filamentu, Meshy 7 porovnává modely s předlohou, adidas oznámil tištěné boty Futurecool a The Next Layer se ptá na další vývoj FDM."
+description: "3devo představilo FMX10 pro výrobu filamentu, Meshy 7 porovnává modely s předlohou a adidas oznámil tištěné boty Futurecool."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/09/pod-tryskou-37-2026-hero.webp"
 ---
@@ -19,7 +19,7 @@ U referenčního PLA výrobce uvádí až **1,5 kg za hodinu**. Stroj má čtyř
 
 Průměr měří až po vychladnutí. U recyklovaného PA12 s uhlíkovým vláknem 3devo uvádí odchylku **±30 mikrometrů na celé cívce**. Během testování podle firmy zpracovalo přes **2 000 kg odpadního prášku PA12 z MJF tisku**. Patnáct strojů zkoušelo déle než šest měsíců.
 
-Možnost zpracovat vlastní materiál se mi líbí. Jen bych do nákladů počítal i třídění a sušení odpadu a čas člověka, který připraví směs. Samotný extrudér tohle za vás neudělá.
+Možnost zpracovat vlastní materiál se mi líbí. Do nákladů bych počítal i třídění a sušení odpadu a čas na přípravu směsi.
 
 [Zdroj: 3devo, Filament Maker X10](https://www.3devo.com/filament-maker-x10)
 
@@ -27,15 +27,15 @@ Možnost zpracovat vlastní materiál se mi líbí. Jen bych do nákladů počí
 
 ## Meshy 7: jak moc model odpovídá obrázku
 
-Meshy u verze 7 měří, jak dobře vygenerovaný 3D model odpovídá předloze. Porovnává celkové proporce, rozmístění hmoty a detaily povrchu. To mě zajímá víc než samotný hezký render, na kterém chybný tvar snadno přehlédnete.
+Meshy vydalo verzi 7 svého modelu pro generování 3D objektů z obrázku a k ní benchmark. Ten porovnává vygenerovaný model s předlohou. Měří celkové proporce, rozmístění hmoty a detaily povrchu. Docela mě zajímá, jak přesně dokáže podle obrázku zachovat tvar.
 
 ![Meshy 7 ukazuje cestu od konceptu mechanického ptáka přes šedou geometrii k finálnímu 3D renderu](/content/images/2026/09/pod-tryskou-37-2026-meshy-7.webp)
 
-Ve vlastním benchmarku Meshy uvádí při zadání jednoho pohledu skóre **81,0 %** pro proporce, **79,7 %** pro prostorové rozmístění a **59,8 %** pro povrchové detaily. Se čtyřmi pohledy dosáhlo **84,4 %, 81,8 % a 60,6 %**. Referenční modely firma vynechala z tréninku. Hodnota 100 % znamená, že se referenční model porovná sám se sebou.
+Ve vlastním benchmarku Meshy uvádí při zadání jednoho pohledu shora, označeného „top-quarter“, skóre **81,0 %** pro proporce, **79,7 %** pro prostorové rozmístění a **59,8 %** pro povrchové detaily. Se čtyřmi pohledy dosáhlo **84,4 %, 81,8 % a 60,6 %**. Referenční modely firma vynechala z tréninku. Hodnota 100 % znamená, že se referenční model porovná sám se sebou.
 
-Ve stejném týdnu vyšla praktická recenze od týmu 3D Printing Industry. Ten ale testoval **Meshy 6**. Narazil na vysoké počty polygonů, neuzavřenou geometrii a chyby v rozměrech.
+Tým 3D Printing Industry zveřejnil vlastní test starší verze **Meshy 6**.
 
-U kostky se stranou 25 mm a textem na stěnách naměřil rozdíl mezi šířkou a hloubkou **2,918 mm**. Když zadání zjednodušil a odstranil písmena, rozdíl byl **0,008 mm**. To jsou výsledky dvou konkrétních zadání ve starší verzi. Jak by stejná kostka dopadla v sedmičce, z těch čísel nevíme.
+U kostky se stranou 25 mm a textem na stěnách naměřil rozdíl mezi šířkou a hloubkou **2,918 mm**. Když zadání zjednodušil a odstranil písmena, rozdíl byl **0,008 mm**. Jak by si s tou kostkou poradilo Meshy 7, nevím.
 
 [Zdroj: Meshy, benchmark geometrické shody Meshy 7](https://www.meshy.ai/blog/meshy-7-image-to-3d-geometry-alignment) a [vlastní test Meshy 6 od 3D Printing Industry](https://3dprintingindustry.com/news/review-meshy-ai-tested-across-six-practical-3d-modelling-tests-254447/)
 
@@ -43,24 +43,12 @@ U kostky se stranou 25 mm a textem na stěnách naměřil rozdíl mezi šířkou
 
 ## Plně tištěné boty adidas Futurecool
 
-adidas oznámil **Futurecool**, boty s bezešvou, plně tištěnou konstrukcí. Po systému Climacool tak pokračuje s tiskem celé boty. Výrobce uvádí **360stupňové větrání**.
+adidas oznámil **Futurecool**, boty tištěné jako jeden bezešvý kus. Výrobce uvádí **360stupňové větrání**.
 
 ![Oficiální snímek k oznámení adidas Futurecool](/content/images/2026/09/pod-tryskou-37-2026-adidas-futurecool.webp)
 
-První série měla **400 individuálně číslovaných párů**. Slosování v aplikaci CONFIRMED začalo **28. srpna**. Širší uvedení adidas plánuje na **1. dubna 2027**, za **180 eur**, v unisex velikostech **UK 4 až 14**.
+adidas v oznámení uvádí limitovanou sérii **400 individuálně číslovaných párů**, dostupnou přes slosování v aplikaci CONFIRMED od **28. srpna**. Širší uvedení plánuje na **1. dubna 2027**, za **180 eur**, v unisex velikostech **UK 4 až 14**.
 
-Na obrázku vypadají docela zajímavě. Jak pohodlně se v nich chodí a co vydrží, nevím. Za 180 eur bych chtěl vědět hlavně tohle.
+Na obrázku vypadají docela zajímavě. Za 180 eur by mě zajímalo, jak se v nich chodí a co vydrží, ale to nevím.
 
 [Zdroj: adidas, oznámení Futurecool](https://news.adidas.com/sportswear/adidas-unveils-futurecool---the-next-era-of-3d-printed-footwear/s/644401b9-189e-47f6-8328-4460c4448805)
-
----
-
-## The Next Layer o dalším vývoji FDM
-
-The Next Layer ve videu rozebírá, jestli už domácí FDM tiskárny dosáhly svého vrcholu. Input shaping omezuje vibrace při rychlých pohybech, CoreXY tiskárny jsou běžně dostupné a přibývají stroje s výměnou tiskových hlav. Co se dá ještě zlepšit?
-
-![Náhled videa The Next Layer o tom, zda FDM dosáhlo svého vrcholu](/content/images/2026/09/pod-tryskou-37-2026-fdm-peak.webp)
-
-Vedle rychlosti se dá dál pracovat na výměně materiálů, měření a automatickém nastavení tisku. Mně se líbí hlavně možnost ubrat ruční ladění.
-
-[Zdroj: The Next Layer](https://www.youtube.com/watch?v=4lJJW8wNnLk)

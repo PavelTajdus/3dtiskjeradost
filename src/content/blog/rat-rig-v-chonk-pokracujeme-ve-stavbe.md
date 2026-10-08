@@ -8,7 +8,7 @@ tags: ["Youtube streamy", "Rat Rig", "V-Chonk", "Stavba 3D tiskárny"]
 draft: false
 ---
 
-V [prvním dílu stavby](/blog/rat-rig-v-chonk-konecne-zase-stavba-3d-tiskarny/) jsem postavil rám a začal s osou Z. Tentokrát jsem chtěl hlavně dodělat podložku. Dostal jsem se i k osám X a Y, i když jsem cestou hledal šrouby, vracel se pro závitové vložky a pár věcí zase rozebíral. V-Chonk mě pořád překvapuje tím, jak je bytelný.
+Navazuju na [první díl stavby](/blog/rat-rig-v-chonk-konecne-zase-stavba-3d-tiskarny/). Tentokrát jsem chtěl hlavně dodělat podložku. Dostal jsem se i k osám X a Y, i když jsem cestou hledal šrouby, vracel se pro závitové vložky a pár věcí zase rozebíral. V-Chonk mě pořád překvapuje tím, jak je bytelný.
 
 > Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=oYAzK7PnGW4).
 
@@ -16,9 +16,9 @@ V [prvním dílu stavby](/blog/rat-rig-v-chonk-konecne-zase-stavba-3d-tiskarny/)
 
 ## Matice a závitové tyče osy Z
 
-Znovu jsem otevřel veřejný model v Onshape a pokračoval u držáku podložky. Konstrukce má skoro čtyřicet centimetrů, takže jsem si ji musel na stole natáčet, abych se dostal ke šroubům a zároveň něco viděl.
+Znovu jsem otevřel veřejný model v Onshape a pokračoval u držáku podložky. Tiskárnu jsem si na stole natáčel, abych se dostal ke šroubům a zároveň něco viděl.
 
-Nejdřív jsem doplnil matice do tištěných dílů a nachystal zbývající bloky pro vymezení vůle na závitových tyčích. Jednu matici jsem nemohl dostat dovnitř rukou. Pomohl jsem si šroubem a vtáhl ji na místo, podobně jako u stavebnic od Průši. Napoprvé jsem k tomu vybral nevhodný šroub, takže jsem ho ještě měnil.
+Nejdřív jsem doplnil matice do tištěných dílů a nachystal zbývající bloky pro vymezení vůle na závitových tyčích. Jednu matici jsem nemohl dostat dovnitř rukou. Pomohl jsem si šroubem a vtáhl ji na místo. Napoprvé jsem k tomu vybral nevhodný šroub, takže jsem ho ještě měnil.
 
 Na motory jsem nasadil spojky a do nich závitové tyče. Výšku jsem zatím nastavil přibližně, doladit ji můžu později. U jedné tyče nešlo nasadit matici od konce, z druhé strany šla dobře. Závit byl na konci trošku poškozený a nechtěl projít plastovou maticí.
 
@@ -30,7 +30,7 @@ U spojení s vozíky jsem v modelu našel **M3 × 10**. Vysypal jsem sáčky, pr
 
 Zkusil jsem M3 × 12. Nejdřív samostatně, abych zjistil, jak hluboko se dá zašroubovat do vozíku. Pak jsem zkoušel celý spoj a kontroloval, jestli díly dosednou. Někde jsem viděl mezeru a přístup ke šroubům byl dost nepříjemný.
 
-Nakonec jsem s dvanáctkami pokračoval. Stejný problém se mi později vrátil u horní mechaniky. Tam delší šroub prošel a ničemu nevadil.
+Nakonec jsem s dvanáctkami pokračoval.
 
 ---
 
@@ -38,7 +38,7 @@ Nakonec jsem s dvanáctkami pokračoval. Stejný problém se mi později vrátil
 
 U držáku bedu jsem pořád kontroloval model. Potřeboval jsem se nejdřív připojit k vozíkům a pak přidělávat další díly, jinak bych se ke šroubům nedostal. Když jsem si tiskárnu otočil, musel jsem si zase ujasnit, kde je předek.
 
-Do držáku patří i závitové vložky M4. Samozřejmě jsem je neměl všechny osazené předem. Páječku jsem nastavil na **250 °C** a vložky zatavil až teď. Na hotovém rámu už k tomu není tolik místa.
+Do držáku patří i závitové vložky M4. Neměl jsem je všechny osazené předem, takže jsem zbývající zatavil až teď.
 
 Pak jsem zjistil, že mám jeden díl obráceně. Takže zase sundat a přidělat správně. U dalšího spoje jsem po dotažení nebyl spokojený s pohybem. Trošku jsem ho povolil a chod se zlepšil.
 
@@ -58,7 +58,7 @@ U připojení dalších dílů jsem se zase vracel k tomu, co jsem měl nasadit 
 
 ---
 
-## Ložiska osy X a otočený vozík
+## Ložiska osy X a kontrola vozíku
 
 U osy X jsem hledal ložiska, podložky a správné šrouby. V modelu jsem nejdřív vyčetl delší šroub, než jsem měl k dispozici. Pak jsem zjistil, že mi tam pětačtyřicítka prochází. Možná jsem předtím označil jiný šroub.
 
@@ -66,13 +66,13 @@ Ložiska jsem skládal přímo na tiskárně a podložky si přidržoval pinzeto
 
 Po dotažení jsem spoj zase trošku povolil, aby se ložiska volně točila. Plast se při stažení poddá a chod to ovlivní. Po povolení se ložiska točila hezky.
 
-Na konci jsem si všiml, že vozík kouká dopředu, přitom má být dozadu. Už nasazená ložiska trošku překážela při rozebírání, ale opravit to šlo. Dlouho jsem nic nešrouboval, tak jsem si to aspoň zopakoval.
+Na konci jsem tiskárnu znovu natočil a kontroloval, kde je předek a kam má vozík koukat. Nakonec jsem si ověřil, že míří dozadu správně.
 
 ---
 
 ## Příště zadní část a řemeny
 
-Hotová je podložka s osou Z a poskládané jsou i osy X a Y. Zbývá dodělat zadní část, zasadit motory a protáhnout řemeny. Pak bych se chtěl pustit do kabeláže.
+Podložku s osou Z mám sestavenou, nasadil jsem vedení Y a rozpracoval osu X. Zbývá dodělat zadní část, zasadit motory a protáhnout řemeny. Pak bych se chtěl pustit do kabeláže.
 
 Musím říct, že mě tahle stavba baví víc, než jsem čekal. Bál jsem se, že z převážně vytištěné tiskárny bude něco vachrlatého. Profily 40 × 40 mm ale dělají svoje a celá konstrukce drží pevně. Největší problém pro mě zatím byl vytisknout tak velké díly a odvodit postup bez návodu.
 

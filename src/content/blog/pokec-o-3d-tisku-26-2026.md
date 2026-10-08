@@ -8,7 +8,7 @@ tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Bambu Lab"]
 draft: false
 ---
 
-Od Bambu Lab jsem čekal něco kolem výměny trysek a přišel laser. Nabídku jsem viděl teprve chvíli před streamem, takže jsme ji prošli společně. Pak jsem ukázal adhezivum Devil Design a hlavolamy, které právě tisknu pro ženu do práce. A1 mini s výměnou plátů teď jede i přes noc.
+Od Bambu Lab jsem čekal konkurenci pro INDX a přišel laser. Nabídku jsem viděl teprve chvíli před streamem, takže jsme ji prošli společně. Pak jsem ukázal adhezivum Devil Design a hlavolamy, které právě tisknu pro ženu do práce. A1 mini s výměnou plátů teď jede i přes noc.
 
 > Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=SjZja7Mxgog). Jedná se o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
@@ -18,9 +18,9 @@ Od Bambu Lab jsem čekal něco kolem výměny trysek a přišel laser. Nabídku 
 
 Bambu Lab vydalo CO2 laser s výkonem 55 W a pracovní plochou 600 × 300 mm. Samotný stroj v době streamu stál kolem 2 500 eur. Se zvýšeným podstavcem a podavačem přibližně 3 300 eur, kompletní sada kolem 3 500 eur.
 
-O laserech toho moc nevím a tenhle jsem nezkoušel. Na dřevo, překližku a akrylát mi ale připadá zajímavý. Myslím si, že si ho pořídí hlavně lidé, kteří už se dřevem pracují a budou na něm vyrábět víc než pár ozdob ročně.
+O laserech toho moc nevím a tenhle jsem nezkoušel. Na dřevo, překližku a akrylát mi ale připadá zajímavý. Myslím, že to dává smysl pro lidi, kteří pracují se dřevem a sem tam si něco vypálí.
 
-Cena mi vzhledem k výbavě nepřišla šílená. Bambu podle mě dobře umí obsluhu a software. Kdo si zaplatí hotový stroj, nemusí tolik času věnovat vlastní stavbě a ladění.
+Cena mi vzhledem k výbavě nepřišla šílená. Bambu umí ovládání a software dobře, takže se nebojím, že by to nefungovalo.
 
 U ukázek silného akrylátu a dřeva bych ale čekal víc práce s nastavením. Některé obrázky mi připadaly jako rendery. Tak čisté hrany bych po prvním zapnutí automaticky nečekal.
 
@@ -50,7 +50,7 @@ Používám adhezivum Devil Design v balení 110 ml. Patlám ho na pláty a nija
 
 U ASA jsem s tím počítal. Pak jsem tiskl růžové silk PLA a nemohl ho sundat. Musel jsem ho škrábat a na několika místech jsem si poškodil povrch plátu.
 
-Dával jsem jednu vrstvu, druhou jiným směrem a pak to rozetřel hadříkem. Možná jsem to roztírání neměl dělat. **Vyzkoušejte, kolik adheziva potřebujete, a taky jestli pak výtisk sundáte.** Na běžné PLA bych nic automaticky nenanášel.
+Dal jsem jednu vrstvu, druhou diagonálně a pak jsem to rozetřel hadříkem. Možná jsem to roztírání neměl dělat. **Vyzkoušejte, kolik adheziva potřebujete, a taky jestli pak výtisk sundáte.** Na běžné PLA bych nic automaticky nenanášel.
 
 Zkoušel jsem ho i na holém hliníkovém plechu našeho prototypu s plochou 60 × 30 cm. Drželo to silně i tam. Spodek výtisku byl ale hodně lesklý a to se mi nelíbilo.
 
@@ -72,7 +72,7 @@ Na A1 mini používám swapmod. Po dokončení tiskárna sama odloží plát a n
 
 Mám pět plátů. Když jeden tisk trvá zhruba dvě hodiny, nachystám si asi deset hodin tisku bez sahání na tiskárnu. Večer jsem připravil sérii a ráno měl dvacet polovin hlavolamů. Pak jsem dotiskával další části.
 
-Ukázali jsme i Jobox pro velkou A1. Používal jsem ho na zakázkách a fungoval mi výborně. Když jsme ho s Kubou skládali, líbilo se nám, jak jednoduše je mechanismus vymyšlený. Už dva pláty pomůžou, protože tiskárna jeden sundá a nasadí druhý. Navazující tisk si můžu připravit v [Printerhive](https://printerhive.com/cs).
+Ukázali jsme i Jobox pro velkou A1. Mám ho na velké A1 a funguje mi výborně. Když jsme ho s Kubou skládali, líbilo se nám, jak jednoduše je mechanismus vymyšlený. Už dva pláty pomůžou, protože tiskárna jeden sundá a nasadí druhý. Navazující tisk si můžu připravit v [Printerhive](https://printerhive.com/cs).
 
 Pokud tisknete série a nemáte kam dát další tiskárnu, tohle doporučuju. Jednotlivý tisk se nezrychlí, ale stroj může pracovat i v hodinách, kdy by jinak čekal na sundání výtisku. U mě teď takhle tiskne přes noc.
 

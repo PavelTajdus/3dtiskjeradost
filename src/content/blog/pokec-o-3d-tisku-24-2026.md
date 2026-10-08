@@ -8,7 +8,7 @@ tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Voron"]
 draft: false
 ---
 
-Spustil jsem [MakerBazar](https://makerbazar.cz) a členům kanálu ho ukázal jako prvním. Kolem sebe mám hromadu tiskáren a krabic, které potřebuju poslat dál. A mezitím jsem vyměnil MacBook za bazarový ThinkPad s Linuxem. Musím říct, že mě počítač takhle dlouho nebavil.
+Spustil jsem [MakerBazar](https://makerbazar.cz) a členům kanálu ho ukázal jako prvním. Kolem sebe mám hromadu tiskáren a krabic, které potřebuju poslat dál. A mezitím jsem vyměnil MacBook za bazarový ThinkPad s Linuxem. Na počítači jsem se dlouho nebavil, a teď mě to zase baví.
 
 > Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=q0p1ImXRX8k). Jedná se o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
@@ -40,7 +40,7 @@ ThinkPad jsem koupil z bazaru záměrně kvůli Linuxu. Stál kolem 11 000 Kč, 
 
 Používám Omarchy. Okna se skládají vedle sebe a mezi plochami přepínám klávesnicí. Otevřu terminál, něco udělám, zavřu ho a ostatní okna zase využijí místo. Při ukázce jsem skoro nesáhl na touchpad.
 
-Dřív jsem měl na dvou monitorech všechno najednou. Mail, AI, editor, prohlížeč. Strašně mě to rozptylovalo. **Teď vidím hlavně to, na čem pracuju.** Když potřebuju mail, přepnu se, podívám se a vrátím se k práci.
+Dřív jsem měl na dvou monitorech všechno najednou. Mail, AI, editor, prohlížeč. Strašně mě to rozptylovalo. Když potřebuju mail, přepnu se, podívám se a vrátím se k práci.
 
 Na běžnou práci mi jeden displej vyhovuje. Při streamování mi ale druhý chyběl, protože jsem pořád neviděl chat. To ještě musím doladit.
 
@@ -48,7 +48,7 @@ Na běžnou práci mi jeden displej vyhovuje. Při streamování mi ale druhý c
 
 ## Nastavení počítače nechávám na AI
 
-Když mi něco nefunguje, napíšu AI, co se děje, a nechám ji hledat problém. Takhle jsem rozběhl zvuk a čtečku otisků prstů. Stream Deck včetně ikon jsem měl připravený přibližně za dvacet minut. Při prvním nastavování mi přitom dal dost práce.
+Když mi něco nefunguje, napíšu AI, co se děje, a nechám ji hledat problém. Takhle jsem rozběhl čtečku otisků prstů. Stream Deck včetně ikon jsem měl připravený přibližně za dvacet minut. Při prvním nastavování mi přitom dal dost práce.
 
 Některé nastavení bych ručně změnil rychleji. Jenže já zadám úkol a můžu si mezitím číst maily nebo dělat něco jiného. Nemusím u toho sedět a hledat každý krok.
 
@@ -58,7 +58,7 @@ Chybí mi Affinity. Kvůli grafice jsem ještě otevřel MacBook, udělal potře
 
 ## Štítky tisknu přes Raspberry Pi
 
-Porouchala se mi Zebra, tak jsem na Alze pořídil jinou USB tiskárnu na štítky. Připojil jsem ji k Linuxu, nechal AI vyřešit nastavení a dostal se k testovacímu tisku.
+Na Alze jsem pořídil USB tiskárnu na štítky. Připojil jsem ji k Linuxu, nechal AI vyřešit nastavení a dostal se k testovacímu tisku.
 
 Pak mě napadlo, proč ji mít napevno připojenou k notebooku. Vedle už běží Raspberry Pi s [Printerhive](https://printerhive.com/cs). Přepojil jsem tiskárnu do něj a udělal z něj i tiskový server.
 
@@ -78,7 +78,7 @@ Který projekt bude další, jsem ještě nevěděl. Ruku nechci pořád odklád
 
 ## Automatická výměna různých průměrů trysek
 
-Prošli jsme i ukázku výměny trysek. Líbí se mi možnost tisknout infill tryskou 0,8 mm a zbytek jiným průměrem. To bych dokázal využít.
+Prošli jsme i ukázku výměny trysek. Líbí se mi možnost tisknout infill tryskou 0,8 mm a zbytek jiným průměrem.
 
 Jsem zvědavý, jak dobře to bude fungovat. Bondtech vyvíjí INDX dlouho a myslím si, že svoje řemeslo umí. Takže bych nečekal, že někdo podobný systém dotáhne snadno jen proto, že už má video z výstavy. Příští rok se podle mě může objevit víc možností.
 
@@ -86,9 +86,9 @@ U Printerhive jste se ptali na posílání více plátů z OrcaSliceru. Stav ře
 
 ---
 
-## Hotend.cz po zrušení prodejny
+## Po zrušení prodejny mám víc volnosti
 
-Nečekal jsem, jak osvobozující pro mě zrušení prodejny bude. E-shop pokračuje, ale nemusím každý den sedět za pultem. Můžu odjet na schůzku nebo výstavu a mám větší volnost.
+Nečekal jsem, jak osvobozující pro mě zrušení prodejny bude. Nemusím každý den sedět na prodejně. Můžu odjet na schůzku nebo výstavu.
 
 Zaplacené objednávky skladového zboží automaticky přecházejí do logistického centra. Kolem toho jsem si udělal další automatizace. Někdy ani nevím, že konkrétní objednávka přišla, dokud mi zákazník nenapíše.
 

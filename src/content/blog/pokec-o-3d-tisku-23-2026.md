@@ -4,7 +4,7 @@ pubDate: "2026-08-04T12:00:00.000Z"
 updatedDate: "2026-10-08T12:00:00.000Z"
 description: "Robotická ruka s hotendem, tištěné baletní špičky, náhradní díly na lodi, trysky INDX a HTPLA Pro. Co mě zaujalo na srpnovém Pokecu."
 heroImage: "/content/images/youtube/HjLKF-5HjlU.jpg"
-tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Prusa"]
+tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku"]
 draft: false
 ---
 
@@ -38,21 +38,21 @@ Našel jsem tištěnou baletní špičku s vyměnitelnými částmi. Jak přesn�
 
 Na jejich ukázkách je pěkně vidět vnitřní struktura. Vypadá podobně jako infill, jen ji tady neschovávají pod plnou stěnu. Různým propletením vytvářejí pružení boty. Nevím, jak tu strukturu napojují na zbytek, ale vypadá to zajímavě. Museli na tom udělat spoustu testů.
 
-Před dvěma lety jsem na Formnextu viděl podobný směr. Měli tam naducané tištěné pantofle, jako kdybyste z gyroidní výplně udělali celou botu. Pamatuju si je dodnes. A tahle firma měla navíc moc pěkný web, což jako webdesignér oceňuju.
+Před dvěma lety jsem na Formnextu viděl podobný směr. Měli tam naducané tištěné pantofle, jako kdybyste z gyroidní výplně udělali celou botu. A tahle firma měla navíc moc pěkný web, což jako webdesignér oceňuju.
 
 ---
 
 ## Náhradní díl vytiskli přímo na lodi
 
-Posádka potřebovala opravit menší člun a do dalšího zásobování zbývaly tři týdny. Plastový díl si proto vyrobila na kontejnerové 3D tiskárně, kterou měla na lodi.
+Posádka potřebovala opravit menší člun. Plastový díl si vyrobila na kontejnerové 3D tiskárně, kterou měla na lodi.
 
-Podle zprávy stál podobně jako koupený díl. Mně se na tom líbí hlavně dostupnost. Tiskárnu už měli s sebou a mohli si náhradu vyrobit během několika hodin, místo aby čekali na zásobování.
+Podle zprávy stál podobně jako koupený díl. Líbí se mi, že nemusíte vozit každý náhradní díl. Tiskárnu měli s sebou a náhradu si vyrobili během několika hodin.
 
 ---
 
 ## Laboratorní článek za přibližně 3 000 liber
 
-Prošli jsme také laboratorní článek pro práci s bateriemi. Komerční varianta podle zprávy stála kolem 3 000 liber. Výzkumníci si vytvořili vlastní řešení s tištěnou částí a návrh sdílejí mezi laboratořemi.
+Prošli jsme také laboratorní článek. Komerční varianta podle zprávy stála kolem 3 000 liber. Výzkumníci si vytvořili vlastní řešení s tištěnou částí a návrh sdílejí mezi laboratořemi.
 
 Do konstrukce jsem se nepouštěl, tomu nerozumím dost. Líbí se mi ale, že kromě úspory můžou mít různá pracoviště stejné podmínky pro testování.
 
@@ -64,7 +64,7 @@ U INDX jsme probírali zprávy, že trysky dodané zákazníkům byly měkčí, 
 
 Nemyslím si, že by kvůli tomu tryska ze dne na den odešla. Na PLA, PETG nebo ABS bych z toho velkou obavu neměl. U abrazivních materiálů už je tvrdost podstatná, třeba u svítících filamentů.
 
-**Můj dojem byl, že INDX ještě není úplně hotový.** Vyvíjejí ho dlouho, přesto čekám, že se při používání budou objevovat další věci k doladění. Jestli ho rozjedou ve velkém, nevím.
+Myslím si, že INDX ještě není úplně dodělaný. Vyvíjejí ho dlouho, přesto čekám, že se při používání budou objevovat další věci k doladění. Jestli ho rozjedou ve velkém, nevím.
 
 Se Snapmakerem U1 jsem naopak hodně spokojený. Chtěl bych něco víc profi, ale jako první počin je dost dobrý. Větší Snapmaker jako konkurence k XL by mě zajímal. Zatím je to jen moje přání.
 
