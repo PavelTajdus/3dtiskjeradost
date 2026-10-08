@@ -13,7 +13,7 @@ heroImage: "/content/images/2026/09/pod-tryskou-40-2026-hero.webp"
 
 ## Továrna z Factoria na Printables
 
-Studio Wube připravilo **65 modelů a 247 souborů STL** z Factoria, hry o stavění továren. Můžete si vytisknout dopravníky, vkladače, pece, truhly i nepřátelská hnízda. Některé díly do sebe zapadnou bez lepidla, jiné mají větší vůli pro lepení. Nápad na oficiální modely vznikl při společném tisku tvorů ze hry na Prusa XL.
+Studio Wube připravilo **65 modelů a 247 souborů STL** z Factoria, hry o stavění továren. Můžete si vytisknout pásové dopravníky, robotická ramena, která ve hře přehazují věci z pásu do strojů (inserter), pece, truhly i hnízda nepřátel. Některé díly do sebe zapadnou bez lepidla, jiné mají větší vůli pro lepení. Nápad na oficiální modely vznikl při společném tisku tvorů ze hry na Prusa XL.
 
 ![Fyzická miniatura továrny Factorio s dopravníky a stroji na stole](/content/images/2026/09/pod-tryskou-40-2026-factorio-diorama.webp)
 
