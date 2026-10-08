@@ -2,7 +2,7 @@
 title: "Pokec o 3D tisku: laser od Bambu a výměna plátů"
 pubDate: "2026-09-22T12:00:00.000Z"
 updatedDate: "2026-09-22T12:00:00.000Z"
-description: "Laser od Bambu Lab, silně držící adhezivum Devil Design, mozkové hlavolamy, automatická výměna plátů a zkušenosti s Maker Bazarem."
+description: "Laser od Bambu Lab, silně držící adhezivum Devil Design, mozkové hlavolamy, automatická výměna plátů a zkušenosti s MakerBazarem."
 heroImage: "/content/images/youtube/SjZja7Mxgog.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Bambu Lab"]
 draft: false
@@ -66,9 +66,9 @@ Ukazovali jsme si také systém pro velkou A1 od Joboxu, se kterým mám zkušen
 
 Za mě to dává smysl, když máš nárazové série a nechceš hned kupovat další tiskárnu. Nezrychlíš jednotlivý tisk. **Využiješ ale hodiny, kdy by jinak hotový model jen ležel na podložce.** Právě to je u mě rozdíl mezi jednou večerní várkou a tiskem, který běží i během spánku.
 
-## Maker Bazar už žije skutečnými prodeji
+## MakerBazar už žije skutečnými prodeji
 
-Na konci jsem ukázal i svůj Maker Bazar. Inzeráty přidávají další lidé a věci se prodávají, z čehož mám radost. Teď potřebuje hlavně více lidí, aby se nabídka a poptávka potkávaly častěji.
+Na konci jsem ukázal i svůj MakerBazar. Inzeráty přidávají další lidé a věci se prodávají, z čehož mám radost. Teď potřebuje hlavně více lidí, aby se nabídka a poptávka potkávaly častěji.
 
 Komunikace zůstává u konkrétního prodeje a zprávy mají také e-mailové notifikace. Mám tak na jednom místě historii domluvy i údaje potřebné k odeslání. Přes svého Hermes agenta a propojení s Balíkobotem si z toho nechávám připravit přepravní štítky, místo abych znovu přepisoval adresu.
 

@@ -52,7 +52,7 @@ Na Futurecool je zajímavé právě měřítko. Jednu efektní botu z aditivní 
 
 Tady se 3D tisk potkává s módou i výrobou ve velkém. Pokud Futurecool zůstane jen limitovaným experimentem, pořád ukáže, jak daleko lze posunout konstrukci bez klasického šití a lepení. Pokud se podaří plánované širší vydání, bude důležitější než samotný vzhled otázka, jestli se celý proces dá opakovat ve stovkách a tisících párů.
 
-Zdroj: [adidas Group, oficiální seznam oznámení](https://www.adidas-group.com/en/investors) a [3D Printing Industry, podrobnosti k Futurecool](https://3dprintingindustry.com/news/from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool-254323/)
+Zdroj: [adidas, oznámení Futurecool](https://news.adidas.com/sportswear/adidas-unveils-futurecool---the-next-era-of-3d-printed-footwear/s/644401b9-189e-47f6-8328-4460c4448805) a [3D Printing Industry, podrobnosti k Futurecool](https://3dprintingindustry.com/news/from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool-254323/)
 
 ## FDM nenarazilo na strop, jen už nepřináší takové skoky
 

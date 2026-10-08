@@ -1,24 +1,24 @@
 ---
-title: "Pokec o 3D tisku: Maker Bazar, Linux a podzimní stavby"
+title: "Pokec o 3D tisku: MakerBazar, Linux a podzimní stavby"
 pubDate: "2026-09-08T12:00:00.000Z"
 updatedDate: "2026-09-08T12:00:00.000Z"
-description: "Spouštím Maker Bazar, ukazuju práci na Linuxu a tisk štítků přes Raspberry Pi. K tomu plány na Rat Rig, robotickou ruku a výměnu trysek."
+description: "Spouštím MakerBazar, ukazuju práci na Linuxu a tisk štítků přes Raspberry Pi. K tomu plány na Rat Rig, robotickou ruku a výměnu trysek."
 heroImage: "/content/images/youtube/q0p1ImXRX8k.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Voron"]
 draft: false
 ---
 
-Po letní pauze mám pracovnu plnou tiskáren a krabic, ale taky pár nových věcí, ze kterých mám radost. Spustil jsem Maker Bazar, vyměnil MacBook za bazarový ThinkPad s Linuxem a znovu mě baví hrát si s počítačem. Do toho potřebuju dodělat Rat Rig a robotickou ruku, takže nápadů na další streamy mám dost, jen jim nejdřív musím udělat místo.
+Po letní pauze mám pracovnu plnou tiskáren a krabic, ale taky pár nových věcí, ze kterých mám radost. Spustil jsem MakerBazar, vyměnil MacBook za bazarový ThinkPad s Linuxem a znovu mě baví hrát si s počítačem. Do toho potřebuju dodělat Rat Rig a robotickou ruku, takže nápadů na další streamy mám dost, jen jim nejdřív musím udělat místo.
 
 > Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=q0p1ImXRX8k). Jedná se o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 
-## Maker Bazar místo inzerátů schovaných na Discordu
+## MakerBazar místo inzerátů schovaných na Discordu
 
 Bazar na našem Discordu fungoval. Co jsem tam nabídl, se většinou prodalo, včetně velkého Rat Rigu. Jenže měl jednu docela podstatnou nevýhodu: kdo není na Discordu, k inzerátu se nedostane. A to mi přišlo škoda.
 
-Tak jsem vytvořil **Maker Bazar**, veřejný web pro nabídku věcí kolem 3D tisku a tvoření. Název vznikl dost prakticky podle toho, co dávalo smysl a jaké byly dostupné domény. Ve streamu jsem ho poprvé ukázal členům kanálu. Nebyla to jen ukázka návrhu, web už byl v provozu a vložené inzeráty měly zůstat.
+Tak jsem vytvořil **MakerBazar**, veřejný web pro nabídku věcí kolem 3D tisku a tvoření. Název vznikl dost prakticky podle toho, co dávalo smysl a jaké byly dostupné domény. Ve streamu jsem ho poprvé ukázal členům kanálu. Nebyla to jen ukázka návrhu, web už byl v provozu a vložené inzeráty měly zůstat.
 
 Snažil jsem se hlavně o jednoduchost. Zadáš e-mail, přijde ověřovací zpráva, přihlásíš se a vystavíš inzerát. Žádné vymýšlení dalšího hesla. Dotazy k nabídce chodí do mailu, takže kvůli tomu nemusíš hlídat další chat.
 
@@ -32,7 +32,7 @@ Mluvil jsem třeba o BQ Huracanu, malém modrém Voronu a Artillery M1 Pro. Hura
 
 Fialového Vorona si naopak nechávám. Je to moje srdcovka, se kterou jsem objel řadu Maker Fairů. Už jsem ho postavil na antivibrační podložky, což u mě znamená, že s tiskárnou počítám a hodlám na ní tisknout.
 
-S Maker Bazarem jsem plánoval přesunout inzerci z Discordu na web. Až by tam bylo dost nabídek, chtěl jsem přidat možnost jejich zvýraznění, aby se aspoň částečně zaplatil server. To byl plán do budoucna, ne podmínka běžného používání při spuštění.
+S MakerBazarem jsem plánoval přesunout inzerci z Discordu na web. Až by tam bylo dost nabídek, chtěl jsem přidat možnost jejich zvýraznění, aby se aspoň částečně zaplatil server. To byl plán do budoucna, ne podmínka běžného používání při spuštění.
 
 ## ThinkPad s Linuxem mě zase baví
 
@@ -66,7 +66,7 @@ Když si vzpomenu na svoje starší pokusy s Linuxem a hledání ovladačů, je 
 
 ## Weekboard a podzimní projekty
 
-Vedle bazaru jsem ukázal i vlastní Weekboard, jednoduchý týdenní přehled úkolů s připojenými kalendáři. Používám ho i s agentem, který mi do něj zapisuje úkoly. Obě aplikace, Weekboard i Maker Bazar, jsem napsal v Ruby on Rails.
+Vedle bazaru jsem ukázal i vlastní Weekboard, jednoduchý týdenní přehled úkolů s připojenými kalendáři. Používám ho i s agentem, který mi do něj zapisuje úkoly. Obě aplikace, Weekboard i MakerBazar, jsem napsal v Ruby on Rails.
 
 Na další stavby ale nezapomínám. Pořád tu mám robotickou ruku a Rat Rig, ke kterému už jsou vytištěné díly. Chci ho konečně dokončit, jen pro další otevřenou tiskárnu nemám moc využití, takže jsem počítal s tím, že ho pak možná pošlu dál.
 
@@ -90,4 +90,4 @@ Zaplacené objednávky zboží, které je skladem, přecházejí automaticky do 
 
 Neznamená to, že všechny starosti zmizely. Ale mám větší volnost a jsem s tou změnou spokojený. Teď ještě dostat přebytečné stroje a krabice z pracovny, ať je kde stavět.
 
-Pokud máš něco kolem 3D tisku na prodej, vyzkoušej Maker Bazar a dej mi vědět, když se něco zasekne. Já tam postupně přidám svoje věci. A na další stream máme rozdělanou ruku i tiskárnu, takže o práci nouze nebude.
+Pokud máš něco kolem 3D tisku na prodej, vyzkoušej MakerBazar a dej mi vědět, když se něco zasekne. Já tam postupně přidám svoje věci. A na další stream máme rozdělanou ruku i tiskárnu, takže o práci nouze nebude.

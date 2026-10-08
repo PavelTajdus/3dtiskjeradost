@@ -40,7 +40,7 @@ Prusa Research **8. září uvedla Prusament PLA ColorMix**, sadu částečně p
 
 ![Tři tištěné rybky ukazují ColorMix se čtyřmi barvami, s přidanou černou a se třpytivými filamenty](/content/images/2026/09/pod-tryskou-38-2026-colormix-rybky.webp)
 
-Oproti experimentům s obrazovými texturami z minulého vydání je tu zajímavá hlavně **průsvitnost samotného filamentu**. Má omezit viditelné pruhování a rozdíly mezi barvou svislé, šikmé a vodorovné plochy. Výrobce ukazuje srovnávací výtisky; není to můj vlastní test. Průsvitnost má i nevýhodu: u některých modelů může být vidět struktura výplně. Vedle ColorMixu proto vznikla také sytější, neprůsvitná varianta PLA CMYK.
+Oproti experimentům s obrazovými texturami z [vydání 36/2026](/blog/pod-tryskou-36-2026/) je tu zajímavá hlavně **průsvitnost samotného filamentu**. Má omezit viditelné pruhování a rozdíly mezi barvou svislé, šikmé a vodorovné plochy. Výrobce ukazuje srovnávací výtisky; není to můj vlastní test. Průsvitnost má i nevýhodu: u některých modelů může být vidět struktura výplně. Vedle ColorMixu proto vznikla také sytější, neprůsvitná varianta PLA CMYK.
 
 ![Barevné vzorky a prostorové výtisky ColorMix pro srovnání odstínů na různě skloněných plochách](/content/images/2026/09/pod-tryskou-38-2026-colormix-plochy.webp)
 
