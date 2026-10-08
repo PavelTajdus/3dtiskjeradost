@@ -10,7 +10,7 @@ draft: false
 
 Blíží se konec roku a novinek ze světa 3D tisku ubývá. Přesto jsme na members streamu probrali pár zajímavých věcí — od nové spolupráce Průši s Noctua až po chystaný sklad filamentů v [Printerhive](https://printerhive.com/cs).
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=GxPWBqdnjM4). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=GxPWBqdnjM4). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

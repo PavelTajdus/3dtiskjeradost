@@ -10,7 +10,7 @@ draft: false
 
 Na dnešním members streamu jsme se podívali na horkou novinku — Bambu Lab Vortek (systém výměnných trysek pro chystanou H2C), srovnali to s INDX řešením od Bondtechu a na závěr se ponořili do nastavení sliceru pro hezčí povrch tisků.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=uR6fyBG9BVc). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=uR6fyBG9BVc). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

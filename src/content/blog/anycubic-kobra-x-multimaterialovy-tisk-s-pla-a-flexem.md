@@ -10,7 +10,7 @@ draft: false
 
 [Anycubic Kobra X](https://store.anycubic.com/products/kobra-x-combo-3d-printer) mě v předchozím streamu příjemně překvapila, takže jsem ji chtěl vzít trochu víc za slovo. Ne jen další barevný tisk, ale kombinaci tvrdého PLA a pružného flexu, ideálně na jednom modelu. Spoiler: flex nás nakonec vyškolil, ale multimateriálové podpěry dopadly překvapivě dobře.
 
-> Celý veřejný stream si můžeš pustit [na YouTube](https://www.youtube.com/watch?v=n90yK_VRDb4). Není to members-only Pokec, ale praktický test Anycubic Kobra X s PLA, TPU a PETG.
+> Celý veřejný stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=n90yK_VRDb4). Není to members-only Pokec, ale praktický test Anycubic Kobra X s PLA, TPU a PETG.
 
 ## Plán: PLA tělo a pružná část uvnitř
 

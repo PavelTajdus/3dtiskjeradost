@@ -10,7 +10,7 @@ draft: false
 
 Dnešní members stream jsem se pokusil stlačit do jedné hodiny — a povedlo se! Probrali jsme Black Friday nabídky, úspěšný launch Core One L, bezpečnostní problém s Artillery a ukázku cenové kalkulačky v [Printerhive](https://printerhive.com/cs).
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=jGkwMS3K3wE). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=jGkwMS3K3wE). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

@@ -10,7 +10,7 @@ draft: false
 
 Bambu Lab představilo P2S a já jsem neodolal — objednal jsem ji ještě před streamem. Za 18 tisíc korun dostanete zaboxovanou tiskárnu s AMS2 se sušením, HD kamerou a spoustou vychytávek. Pojďme se podívat, co všechno nabízí.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=WtUevWYWlQY). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=WtUevWYWlQY). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

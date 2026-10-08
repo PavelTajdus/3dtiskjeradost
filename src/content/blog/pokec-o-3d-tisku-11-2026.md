@@ -12,7 +12,7 @@ Na minulém members streamu jsem probral novou **Bambu X2D**. Na první pohled j
 
 Ber to jako **první dojmy**, ne finální recenzi. Tiskárna byla venku jen chvíli, takže jsem ji na streamu spíš poctivě procházel a rozebíral, co z toho může dávat smysl v praxi.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=HcPdE2vSorA). Jde o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=HcPdE2vSorA). Jde o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

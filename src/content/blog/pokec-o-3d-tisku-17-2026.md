@@ -12,7 +12,7 @@ Tenhle Pokec byl kratší, protože se blížil hokej, ale témat se tam nakonec
 
 Pak jsme stihli můj Enderwire na RepRapFirmware, Průšův patent na čištění trysky, další pokračování Bambu kauzy, AI asistované slicování a nakonec i trochu vážnější téma kolem vzduchu u tiskáren.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=pe1e3Jt8WQU). Jde o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=pe1e3Jt8WQU). Jde o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

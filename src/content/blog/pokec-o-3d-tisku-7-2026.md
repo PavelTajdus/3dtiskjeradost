@@ -10,7 +10,7 @@ draft: false
 
 Novinek ze světa 3D tisku bylo tentokrát pomálu — Perplexity mi tři týdny házel pořád to samé. Ale přece jen se něco dělo: Labubu žaluje Bambu Lab a my jsme se ponořili do retro firmware.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=gT5v0DGrrC8). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=gT5v0DGrrC8). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

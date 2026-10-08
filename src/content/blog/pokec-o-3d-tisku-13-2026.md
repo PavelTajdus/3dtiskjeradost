@@ -10,7 +10,7 @@ draft: false
 
 V tomhle members streamu jsme navázali na předchozí veřejné bastlení s **Voronem Trident**. Cíl byl jasný: posunout stroj dál po upgradech na **TAP** a **CAN**, projít zbytky kabeláže a dotáhnout věci, které u podobné přestavby vždycky zaberou víc času, než člověk čeká.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=LCXGhODwfvw). Jde o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=LCXGhODwfvw). Jde o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

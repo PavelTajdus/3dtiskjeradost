@@ -11,7 +11,7 @@ Tentokrát to byl stream ve velmi punkovém režimu. Streamovací počítač mi 
 
 I tak jsme stihli několik zajímavých věcí. Nintendo Switch jako počítač pro Klipper, slicer PreForm s interlocking perimetry, otevřenou Orcu po bambulí kauze, tisk ze skleněného prášku, filament switch pro Bambu a nakonec PLA s rýžovým odpadem.
 
-> Celý stream si můžeš pustit [na YouTube](https://www.youtube.com/watch?v=eSXriUD57SM). Jedná se o members-only obsah, [členství začíná na 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=eSXriUD57SM). Jedná se o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

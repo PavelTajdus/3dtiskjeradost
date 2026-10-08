@@ -10,7 +10,7 @@ draft: false
 
 Poslední Pokec v březnu — vrtám se v přípravě newsletteru a našel jsem pár zajímavostí, které stojí za probírku. Od mikrorobotů po umírající Voron komunitu.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=7Lxy5tEfs6w). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=7Lxy5tEfs6w). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

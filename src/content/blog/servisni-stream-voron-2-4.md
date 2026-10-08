@@ -10,7 +10,7 @@ draft: false
 
 Přivezli mi Vorona 2.4, kterého jsem sám stavěl. Tiskl, tiskl a najednou se rozhodl zajet hotendem 4 mm do podložky. Na streamu jsme to rozebrali a zjistili, co se stalo.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=eGs62g1aZQU). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=eGs62g1aZQU). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

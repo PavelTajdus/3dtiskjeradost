@@ -10,7 +10,7 @@ draft: false
 
 Na úterním members streamu jsme probrali několik zajímavých novinek — Prusa Open Print tagy, oznámení Core One L, změny špulek u Devil Designu a pár dalších věcí ze světa 3D tisku.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=iAbTJwDjzog). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=iAbTJwDjzog). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

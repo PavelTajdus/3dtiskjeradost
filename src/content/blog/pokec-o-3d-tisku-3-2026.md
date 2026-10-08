@@ -10,7 +10,7 @@ draft: false
 
 Dnešní Pokec byl bohatý — od non-planar tisku přes recyklaci filamentů až po čínské výrobní linky na struny. A samozřejmě tradiční komunální povídání.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=T3OlaS_UHls). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=T3OlaS_UHls). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

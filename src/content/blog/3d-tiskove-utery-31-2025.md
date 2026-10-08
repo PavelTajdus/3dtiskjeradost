@@ -10,7 +10,7 @@ draft: false
 
 Bambu Lab na Form Nextu představilo H2C — svou nejpokročilejší tiskárnu s Vortek systémem výměnných hotendů. Na streamu jsme rozebrali, jak to funguje v praxi a pro koho to dává smysl.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=3HcwCYUy_es). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=3HcwCYUy_es). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

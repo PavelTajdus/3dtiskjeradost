@@ -10,7 +10,7 @@ draft: false
 
 Dnešní Pokec byl mix novinek a filozofování. Pokochali jsme se Bambu Lab retailovým obchodem, koukali na šílené Benchy a zamysleli se nad tím, proč vlastně tiskneme.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=FFJRJiu3trQ). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=FFJRJiu3trQ). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 
