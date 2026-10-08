@@ -10,7 +10,7 @@ draft: false
 
 Dneska novinek ze světa 3D tisku moc nebylo — o to víc času jsme věnovali Core One Plus upgradu (který mě dost překvapil), krásné Ston 3D tiskárně a ladění Klipper maker na MK3S.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=iBEyNy-F9r8). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=iBEyNy-F9r8). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

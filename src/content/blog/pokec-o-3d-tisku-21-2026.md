@@ -10,7 +10,7 @@ draft: false
 
 Tenhle Pokec byl přesně ten typ streamu, kdy se nejdřív vaří místnost, pak slicer a nakonec i člověk. Chtěl jsem jen pustit rychlý dvoubarevný tisk jako podkres, ale hledání normálního modelu zabralo skoro čtvrt hodiny. Nakonec z toho byl pokerový žeton, mezitím pár novinek kolem [Printerhive](https://printerhive.com/cs), Anycubicu, OrcaSliceru a zase jedno připomenutí, že DIY multicolor umí být krásná hračka, ale levné to být nemusí.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=gidGbMVnP9Q). Jedná se o members-only obsah, [členství začíná na 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=gidGbMVnP9Q). Jedná se o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

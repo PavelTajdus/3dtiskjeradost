@@ -10,7 +10,7 @@ draft: false
 
 Na posledním members streamu jsme probrali Printables Awards — 3D tiskové Oscary od Průši — a podívali se na zajímavé modely, které vyhrály.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=01PAyjvAn3o). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=01PAyjvAn3o). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

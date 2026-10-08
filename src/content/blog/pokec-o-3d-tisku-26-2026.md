@@ -10,7 +10,7 @@ draft: false
 
 Od Bambu Lab jsem čekal další novinku pro 3D tisk, ale tentokrát přišel samostatný laser. Prošel jsem jeho výbavu a ceny, pak už jsme se vrátili k tomu, co mi právě běželo na stole: hlavolamům, adhezivu a automatické výměně tiskových plátů. Právě na malé sérii dárků je krásně vidět, kolik práce dokáže jedna A1 mini udělat, když nemusí po každém tisku čekat na člověka.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=SjZja7Mxgog). Jedná se o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=SjZja7Mxgog). Jedná se o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

@@ -10,7 +10,7 @@ draft: false
 
 Tentokrát to byl stream trochu jiného druhu. Umřel mi streamovací stroj, takže jsem skočil na Mac, nainstaloval Streamlabs v rychlosti a jel. Mikrofon ležel na stole, kamera přepálená, klávesové zkratky jsem míchal windowsové s macovými. Ale obsah byl fajn, takže pojďme na to.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=eSXriUD57SM). Jde o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=eSXriUD57SM). Jde o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ## Nintendo Switch jako Klipper server
 

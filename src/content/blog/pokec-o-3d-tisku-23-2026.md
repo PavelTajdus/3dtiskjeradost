@@ -10,7 +10,7 @@ draft: false
 
 Robotická ruka s obyčejným hotendem mě tentokrát zaujala víc než další nová tiskárna. Prošli jsme i tištěné boty, výrobu náhradního dílu přímo na lodi a PLA, které má po žíhání vydržet vyšší teploty. A mezi tím jsem stihl oznámit malý vlastní úspěch: těstovinová tiskárna už vyrobila první těstovinu, i když krásná zatím nebyla.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=HjLKF-5HjlU). Jedná se o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=HjLKF-5HjlU). Jedná se o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

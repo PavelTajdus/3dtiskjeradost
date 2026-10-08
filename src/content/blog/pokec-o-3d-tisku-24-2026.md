@@ -10,7 +10,7 @@ draft: false
 
 Po letní pauze mám pracovnu plnou tiskáren a krabic, ale taky pár nových věcí, ze kterých mám radost. Spustil jsem Maker Bazar, vyměnil MacBook za bazarový ThinkPad s Linuxem a znovu mě baví hrát si s počítačem. Do toho potřebuju dodělat Rat Rig a robotickou ruku, takže nápadů na další streamy mám dost, jen jim nejdřív musím udělat místo.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=q0p1ImXRX8k). Jedná se o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=q0p1ImXRX8k). Jedná se o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

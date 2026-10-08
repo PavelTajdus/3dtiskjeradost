@@ -10,7 +10,7 @@ draft: false
 
 Vracíme se po třítýdenní pauze a toho se nahromadilo hodně. Na programu: první dojmy z Prusa Core One po reálném tisku, novinky v Printerhive a velké téma — Bambu Lab právě oznámilo P2S.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=v3-E8g5FUiM). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=v3-E8g5FUiM). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

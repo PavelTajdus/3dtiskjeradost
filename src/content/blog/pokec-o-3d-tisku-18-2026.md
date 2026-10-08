@@ -10,7 +10,7 @@ draft: false
 
 Úterní stream byl tentokrát hodně pestrý. Řešili jsme přechod Hotend.cz do logistického centra, tisk ortopedických vložek z flexu, nový tool changer ze světa Kickstarteru a pak jsme se pořádně zahrabali do katalogu francouzského výrobce průmyslových filamentů Nanovia. Bylo toho dost.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=Och8wCB8Kx0). Jde o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=Och8wCB8Kx0). Jde o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ## Logistické centrum konečně jede, ale pomalu
 

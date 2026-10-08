@@ -10,7 +10,7 @@ draft: false
 
 Tentokrát jsem si místo montování tiskárny zkusil nechat AI navrhnout něco k vytištění. Začali jsme stojánkem na mobil, pak přišla krabička podle obrázku a nakonec tělo makropadu. Byl to můj první pokus s touhle aplikací, takže jsme její možnosti i chyby objevovali společně přímo na streamu.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=ewOaxGOcbGI). Jedná se o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=ewOaxGOcbGI). Jedná se o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

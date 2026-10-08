@@ -10,7 +10,7 @@ draft: false
 
 Rok a půl jsem měl v hlavě projekt vzduchového filtru pro místnost plnou 3D tiskáren. Nakonec se toho ujal Marek a dneska jsem na streamu ukázal první funkční prototyp — kompletně 3D tištěný.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=vUcsNblj3Bg). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=vUcsNblj3Bg). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

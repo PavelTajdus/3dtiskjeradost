@@ -10,7 +10,7 @@ draft: false
 
 Tenhle Pokec začal trochu nečekaně. Na stole mi přistála filtrační jednotka pro 3D tiskárny, takže jsme ji rovnou rozbalili, zapnuli a podívali se, co v ní vlastně je. Pak přišla klasická směs novinek: recyklace plastů, filament z ovčí vlny, automatické sundávání tisků a nakonec i docela ostré téma kolem Bambu Lab a open source komunity.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=7CJbBOdLvlA). Jde o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=7CJbBOdLvlA). Jde o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

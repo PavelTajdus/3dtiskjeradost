@@ -10,7 +10,7 @@ draft: false
 
 Přišly mi nové hračky — laserová řezačka Two Trees. Na members streamu jsme ji rozbalili a rovnou zkoušeli pálit a řezat. Mám k tomu jeden konkrétní nápad, který spojí laser s 3D tiskem.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=xbucMpiLPEM). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=xbucMpiLPEM). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

@@ -10,7 +10,7 @@ draft: false
 
 Další members stream se točil kolem **Voronu**, hlavně kolem témat, která se táhla už z předchozích dílů: **TAP**, **CAN**, kabeláž, drobné úpravy a všechno, co člověk řeší, když chce mít stroj opravdu použitelný a ne jen poskládaný na stole.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=EVcKZE0OesA). Jde o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=EVcKZE0OesA). Jde o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

@@ -10,7 +10,7 @@ draft: false
 
 Úterní stream byl nabitý. Prošli jsme novinky z PrinterHive, koukli jsme na nový patent od Průši, zabrousili do AI-assisted slicování a na závěr jsme se dotkli tématu, které se mě osobně týká víc, než bych chtěl: co vlastně dýcháme při 3D tisku.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=pe1e3Jt8WQU). Jde o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=pe1e3Jt8WQU). Jde o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ## Printerhive: zapůjčení tiskárny přes odkaz
 
