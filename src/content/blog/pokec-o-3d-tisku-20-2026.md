@@ -10,7 +10,7 @@ draft: false
 
 Na úterním streamu jsme prošli značení výtisků lasery, tisknutelné modely NASA, recyklaci plastu a provoz velkých tiskových farem.
 
-> Celý stream si můžeš pustit [na YouTube](https://www.youtube.com/watch?v=9PbjKlFhl3M). Jde o members-only obsah, [členství si můžeš pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=9PbjKlFhl3M). Jde o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ## CNC Kitchen a UV laser na značení výtisků
 
