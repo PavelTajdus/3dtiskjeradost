@@ -2,7 +2,7 @@
 title: "Pod tryskou 38/2026: víc podložek v jednom projektu a méně zkroucených rohů"
 pubDate: "2026-09-14T06:34:36.000Z"
 updatedDate: "2026-10-08T12:00:00.000Z"
-description: "PrusaSlicer 3.0 má samostatná nastavení podložek, drážky ve spodku modelu pomáhají proti kroucení a Prusament přidává průsvitné PLA ColorMix. K tomu test starší špulky PETG."
+description: "PrusaSlicer 3.0 má samostatná nastavení podložek, drážky ve spodku modelu pomáhají proti kroucení a Prusament přidává průsvitné PLA ColorMix."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/09/pod-tryskou-38-2026-hero.webp"
 ---
@@ -52,17 +52,3 @@ Obrazové textury z upraveného OrcaSliceru najdete ve [vydání 36/2026](/blog/
 Při uvedení stál kilogram **32,99 EUR včetně DPH**. Pro všech pět barev potřebujete tiskárnu se systémem na pět filamentů. Se čtyřmi můžete začít bez černé. Slicer ale pořád mění materiál, takže počítejte s časem na výměny a podle tiskárny i s odpadem při proplachování.
 
 [Zdroj: Prusa Research, materiály Prusament PLA ColorMix](https://blog.prusa3d.com/prusament-pla-colormix-print-45-color-shades-using-just-five-filament-spools-and-more_137835/)
-
----
-
-## Tři roky staré PETG v testu Mayi Posch
-
-Maya Posch v článku z **1. září** popsala tisk z čirého PETG Reprapper, které koupila v **březnu 2023**. Část času leželo na držáku tiskárny, pak v uzavřeném sáčku. Bez sušení z něj na **Elegoo Neptune 4** vytiskla články kabelového řetězu.
-
-![Čiré články kabelového řetězu, které Maya Posch vytiskla ze starší špulky PETG](/content/images/2026/09/pod-tryskou-38-2026-petg-kabelovy-retez.webp)
-
-Podle jejího popisu šly články zacvaknout bez lámání. Materiál zpočátku trošku vytékal z trysky, pak tisk proběhl normálně.
-
-PETG přijímá vlhkost, takže jiná role může po stejném čase dopadnout jinak. U starší špulky můžete nejdřív vytisknout malý díl. Když materiál prská, tvoří bubliny nebo má horší povrch, vysušte ho podle doporučení výrobce.
-
-[Zdroj: Maya Posch na Hackaday, vlastní zkouška staršího PETG](https://hackaday.com/2026/09/01/petg-the-pla-filament-alternative-that-just-works/)
