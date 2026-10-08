@@ -10,7 +10,7 @@ draft: false
 
 Dnešní stream měl jasný úkol od Kuby: vyzkoušet novou funkci [Printerhive](https://printerhive.com/cs) — sklad filamentů. Poprvé jsem to viděl a rovnou jsem to na streamu plnil. Plus jsme rozebrali chystaný Creality Filament Maker.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=wG_DRp692c4). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=wG_DRp692c4). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

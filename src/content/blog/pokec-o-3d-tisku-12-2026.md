@@ -10,7 +10,7 @@ draft: false
 
 V tomto members streamu jsme navázali na téma **Bambu Lab X2D** a probrali i několik obecnějších věcí kolem 3D tisku. Vedle nové bambulky přišla řeč na **recyklaci filamentu**, **non-planar tisk**, přesnější měření a různé nápady z komunity.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=RrfMYMetWcE). Jde o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=RrfMYMetWcE). Jde o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

@@ -10,7 +10,7 @@ draft: false
 
 Na posledním members streamu jsem ukázal nový web 3dtiskjeradost.cz, řešil konec Bambu Lab X1, krach Zmorphu a zkoušel texturování modelů od CNC Kitchen. Došlo i na pár kuriozit včetně obřích modelů z Titan 3D a drahého nástroje na čištění hotendu.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=6IsdZw-fwnI). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=6IsdZw-fwnI). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

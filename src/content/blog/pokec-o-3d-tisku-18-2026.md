@@ -12,7 +12,7 @@ Tenhle Pokec byl takový klasický mix života kolem Hotendu a technických krá
 
 A mezi tím jsem stihl zjistit, že tisknout měkké vložky do bot z flexu je přesně taková sranda, jak čekáš. Tisk samotný jde. Udržet to na podložce je úplně jiná disciplína.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=Och8wCB8Kx0). Jde o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=Och8wCB8Kx0). Jde o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

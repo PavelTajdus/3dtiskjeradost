@@ -10,7 +10,7 @@ draft: false
 
 Speciální stream z prodejny **Hotend.cz** byl věnovaný pokračování stavby velké 3D tiskárny **Venture XL**. Je to spíš díl pro ty, které baví delší stavby, velké stroje a zákulisí toho, co se děje v dílně a na prodejně.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=182nVedvkMs). Jde o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=182nVedvkMs). Jde o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

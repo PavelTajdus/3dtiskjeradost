@@ -10,7 +10,7 @@ draft: false
 
 Tenhle díl byl klasické **3D tiskové úterý** pro členy kanálu. Volnější stream, kde se potkává aktuální dění kolem 3D tisku, otázky komunity a praktické poznámky z provozu tiskáren.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=1xeKe-ceKOA). Jde o members-only obsah, [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=1xeKe-ceKOA). Jde o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

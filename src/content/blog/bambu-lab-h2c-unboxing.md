@@ -10,7 +10,7 @@ draft: false
 
 Nový rok, nová tiskárna. Na prvním members streamu roku 2026 jsem rozbalil Bambu Lab H2C — nejpokročilejší tiskárnu od Bambu s Vortek systémem výměnných hotendů.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=eFPUkSKbTVE). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=eFPUkSKbTVE). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

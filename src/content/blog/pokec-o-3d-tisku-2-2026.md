@@ -10,7 +10,7 @@ draft: false
 
 Vyšlo Bambu Studio 2.5 a rovnou i hotfix. Na members streamu jsme si prošli hlavní novinky — od nových infill patternů přes ironing na supportech až po povrchové efekty.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=WdoYgk9jTCw). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=WdoYgk9jTCw). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

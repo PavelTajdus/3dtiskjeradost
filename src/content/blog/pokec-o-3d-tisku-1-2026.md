@@ -10,7 +10,7 @@ draft: false
 
 První Pokec o 3D tisku v roce 2026 — nový název pro úterní members streamy, protože "3D tiskové úterý" nikomu nic neřekne. Na programu: šílený návrh zákona z USA, mizející CAN desky pro Vorony a plány na 3D skenování.
 
-> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=CXq_QTO0gfQ). Jedná se o members-only obsah — [členství od 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=CXq_QTO0gfQ). Jedná se o members-only obsah — [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 

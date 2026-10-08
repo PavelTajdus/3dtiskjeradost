@@ -10,7 +10,7 @@ draft: false
 
 Úterní stream byl tentokrát hodně volný. Prošli jsme portály s 3D modely, zavzpomínali na Hypercube, odbočili k pájecí vlně a nakonec se dostali k Voron Trident R2.
 
-> Celý stream si můžeš pustit [na YouTube](https://www.youtube.com/watch?v=q-9fRvVBWu0). Jde o members-only obsah, [členství začíná na 45 Kč](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
+> Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=q-9fRvVBWu0). Jde o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ## Kam dneska chodím pro modely
 
