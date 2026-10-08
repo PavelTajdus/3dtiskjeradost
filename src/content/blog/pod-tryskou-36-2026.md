@@ -21,7 +21,7 @@ OrcaSlicer-ImageMap je experimentální fork OrcaSliceru. Každá vrstva se tisk
 
 Načte textury z OBJ, glTF nebo GLB, umí promítnout obrázek na model a pracuje s paletou CMYK, RGBW nebo vlastní. Autor vydal beta verze pro Windows a macOS a píše, že je zkoušel na skutečné tiskárně. V běžném OrcaSliceru to zatím není, je to samostatný projekt.
 
-Čím víc barev, tím víc vrstev zabere jeden barevný cyklus. Na strmých stěnách se efekt rozpadá. Mně se ale tenhle přístup líbí víc než další ladění čistící věže. Méně výměn znamená méně odpadu i času.
+Čím víc barev, tím víc vrstev zabere jeden barevný cyklus. Mně se ale tenhle přístup líbí víc než další ladění čistící věže. Méně výměn znamená méně odpadu i času.
 
 [Zdroj: GitHub, OrcaSlicer-ImageMap](https://github.com/sentientstardust-dev/OrcaSlicer-ImageMap)
 
@@ -45,11 +45,11 @@ Za mě zajímavý matroš, když potřebujete něco odolnějšího a nemáte zak
 
 ## Tištěné čidlo podzemní vody za pár stovek dolarů
 
-Tým z Purdue University postavil čidlo, které měří, kudy a jak rychle teče podzemní voda. V tištěném pouzdře je řada teplotních čidel. Z malých rozdílů teploty systém spočítá směr a rychlost proudění. Jeden kus vyjde na několik stovek dolarů a pouzdro si tým může upravit a vytisknout sám.
+Tým z Purdue University postavil čidlo, které měří, kudy a jak rychle teče podzemní voda. V tištěném pouzdře je řada teplotních čidel. Z jejich měření systém určí směr a rychlost proudění. Jeden kus vyjde na několik stovek dolarů a pouzdro si tým může upravit a vytisknout sám.
 
 ![Výzkumník Purdue University drží 3D tištěný snímač proudění podzemní vody](/content/images/2026/08/purdue-groundwater-sensor.webp)
 
-První prototypy vydržely pod vodou sedm až osm měsíců bez poruchy. Dál je budou testovat ve studních amerického geologického ústavu USGS a v mokřadu, který univerzita spravuje. Doma si to zatím nevytisknete, je to výzkumný prototyp. Ale je to přesně to použití, kde mi 3D tisk dává smysl. Elektroniku koupíte, tělo si vytisknete a můžete ho rychle předělat.
+První prototypy vydržely pod vodou sedm až osm měsíců bez poruchy. Další testy chystají v terénu u amerického geologického ústavu USGS a v mokřadu, který univerzita spravuje. Zatím je to výzkumný prototyp. Pouzdro si ale tým tiskne sám, takže ho může při vývoji rychle upravit.
 
 [Zdroj: Purdue University](https://ag.purdue.edu/news/2026/07/purdue-researchers-use-3d-printing-to-make-open-source-alternative-to-costly-groundwater-sensors.html)
 
@@ -57,7 +57,7 @@ První prototypy vydržely pod vodou sedm až osm měsíců bez poruchy. Dál je
 
 ## Mechanická protéza paže bez baterie
 
-Studenti z kanadské Queen's University vyvíjejí mechanickou protézu pro lidi s amputací nad loktem. Je pro Burma Children Medical Fund na hranici Thajska a Myanmaru. Tam už tým tiskne jednodušší protézy na sedmi 3D tiskárnách. Elektronické protézy jsou tam drahé, špatně se opravují a potřebují baterie.
+Studenti z kanadské Queen's University vyvíjejí mechanickou protézu pro lidi s amputací nad loktem. Je pro Burma Children Medical Fund na hranici Thajska a Myanmaru. Tam už tým tiskne jednodušší protézy. Elektronické protézy se v takových podmínkách těžko udržují v provozu.
 
 ![Prototypy mechanických a 3D tištěných protéz týmu Queen's University](/content/images/2026/08/queens-3d-printed-prosthetic.webp)
 
@@ -69,10 +69,10 @@ Protéza se ovládá postrojem a pohybem těla, bez motorů a elektroniky. Po dv
 
 ## Tištěná pomůcka na bowling
 
-Americké ministerstvo pro veterány navrhlo pro Francine Goode, veteránku letectva po amputaci, pomůcku na bowling. Dlouhou rukojetí zvedne a navede kouli i bez běžného úchopu. Tým vytiskl několik verzí, zkoušel je přímo s ní a podle toho upravoval délku, tvar i to, jak se koule pouští.
+Americké ministerstvo pro veterány navrhlo pro Francine Goode, veteránku letectva po amputaci, pomůcku na bowling. Dlouhou tyčí pošle kouli po dráze sama, bez pomoci druhého člověka. Tým pomůcku zkoušel přímo s ní a podle její zpětné vazby upravoval.
 
 ![Veteránka Francine Goode používá při bowlingu pomůcku s 3D tištěnými díly](/content/images/2026/08/va-3d-printed-bowling-stick.webp)
 
-Žádná složitá technika, jen pár verzí, než to sedlo. Upravit model a vytisknout další kus trvá pár hodin a hned se to dá vyzkoušet. Takové projekty mám rád.
+Takové projekty mám rád.
 
 [Zdroj: U.S. Department of Veterans Affairs](https://news.va.gov/147865/vas-3d-printed-bowling-stick-veteran-athletes/)

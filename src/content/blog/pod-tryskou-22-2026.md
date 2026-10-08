@@ -1,14 +1,15 @@
 ---
 title: "Pod tryskou 22/2026: Novinky z 3D tisku"
 pubDate: "2026-05-25T05:02:43.000Z"
-description: "Tenhle týden přinesl pár pěkných novinek. Patent od Prusy, soudní přestřelka kolem Bambu Labu, nový materiál pro potravinářský tisk a trochu varování ohledně zdraví. Je toho dost, jdeme na to."
+updatedDate: "2026-10-08T12:00:00.000Z"
+description: "Tenhle týden přinesl pár pěkných novinek. Patent od Prusy, soudní přestřelka kolem Bambu Labu, nový materiál pro potravinářský tisk a trošku varování ohledně zdraví. Je toho dost, jdeme na to."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/05/pod-tryskou-22-2026-hero.webp"
 ---
 
-Tenhle týden přinesl pár pěkných novinek. Patent od Prusy, soudní přestřelka kolem Bambu Labu, nový materiál pro potravinářský tisk a trochu varování ohledně zdraví. Je toho dost, jdeme na to.
+Tenhle týden přinesl pár pěkných novinek. Patent od Prusy, soudní přestřelka kolem Bambu Labu, nový materiál pro potravinářský tisk a trošku varování ohledně zdraví. Je toho dost, jdeme na to.
 
-## Prusa chce vyřešit usazeniny na trysce
+## Prusa Research podala přihlášku k čištění trysky
 
 Prusa Research podala patentovou přihlášku, která má za cíl zlepšit začátek tisku, konkrétně se zaměřuje na znečištěné trysky a problémy s prvními vrstvami. Zatím jde jen o přihlášku, ne o hotovou technologii. Uvidíme, jestli z toho něco reálného vzejde, ale směr je dobrý. Kdo někdy bojoval s tím, že první vrstva nechce přilnout kvůli zbytku filamentu na trysce, ví, o čem mluvím.
 
@@ -30,7 +31,7 @@ Bambu Lab přidal do BambuStudia funkci, která dokáže textury 3D modelu autom
 
 ## AI post-slicing: úspora materiálu až 25 %
 
-Výzkum ukazuje, že úpravy G-kódu pomocí AI po fázi slicování mohou snížit spotřebu materiálu až o 25 %. Číslo je to pěkné, ale je potřeba ho brát v kontextu, jde o laboratorní výsledky na konkrétních typech modelů, ne o záruku pro každý tisk. U velkých kusů nebo drahých filamentů by to nicméně mohlo být zajímavé, pokud se tahle metoda dostane do běžných nástrojů.
+Výzkum ukazuje, že úpravy G-kódu pomocí AI po fázi slicování mohou snížit spotřebu materiálu až o 25 %. Číslo je to pěkné, ale je potřeba ho brát v kontextu, jde o laboratorní výsledky na konkrétních typech modelů, ne o záruku pro každý tisk. U velkých kusů nebo drahých filamentů by to mohlo být zajímavé, pokud se tahle metoda dostane do běžných nástrojů.
 
 [Více informací](https://www.fabbaloo.com/news/ai-post-slicing-g-code-cuts-fff-material-use)
 

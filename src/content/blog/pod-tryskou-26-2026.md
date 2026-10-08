@@ -1,6 +1,7 @@
 ---
 title: "Pod tryskou 26/2026: PLA Pure, Snapmaker U1, 3D skenování a modely od NASA"
 pubDate: "2026-06-22T05:00:00.000Z"
+updatedDate: "2026-10-08T12:00:00.000Z"
 description: "Tenhle týden: Bambu Lab PLA Pure s certifikacemi k emisím, tištěné airbrush šablony od Prusa Research, Hi3D pro tisknutelnější AI modely, Snapmaker U1 v EU akci, levnější 3D skener, pedálový drtič odpadu a veřejný archiv 3D modelů od NASA."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/06/pod-tryskou-26-2026-hero.webp"
@@ -12,7 +13,7 @@ Beru to prakticky. Co se dá použít, co je zatím hlavně slib, a kde má smys
 
 ---
 
-## Bambu Lab PLA Pure míří na tisk v bytě
+## Bambu Lab PLA Pure má certifikaci nízkých emisí při tisku
 
 Bambu Lab uvedlo PLA Pure. Zajímavé nejsou barvy, ale certifikace. Výrobce uvádí UL GREENGUARD 2904 pro nízké emise při tisku, EN 71 pro dětské hračky a suroviny s food-contact certifikací.
 
@@ -36,7 +37,7 @@ Důležité jsou i limity. U malých symbolů narazíš na průměr trysky, tlou
 
 ---
 
-## Hi3D chce generovat modely použitelnější pro tisk
+## Hi3D přidává kontrolu tisknutelnosti AI modelů
 
 Hi3D posouvá svůj maker toolkit směrem k 3D tisku. Slibuje export do STL, OBJ, FBX nebo GLB a hlavně kontrolu věcí, které u tisku rozhodují: uzavřená geometrie, správně otočené plochy, méně chyb v síti a převisy, které slicer zvládne připravit.
 
@@ -78,7 +79,7 @@ Na Hackaday se objevil projekt pedálového drtiče na odpad z 3D tisku. Brogan 
 
 Drtič z odpadu neudělá automaticky nový filament. Aby z drti vznikla použitelná struna, musíš řešit čistotu materiálu, sušení, průměr a stabilní extruzi. Bez toho je to spíš školní nebo dílenský experiment.
 
-I tak je to dobrá ukázka problému, který zná skoro každý tiskař. Supporty, brimy, kalibrační kostky a nepovedené výtisky se hromadí rychle. I jednoduché mechanické zpracování odpadu je lepší téma než jen další krabice plastu pod stolem.
+Supporty, brimy, kalibrační kostky a nepovedené výtisky se hromadí rychle. Drtič je rozmělní, ale další zpracování plastu už musíte zařídit zvlášť.
 
 [Zdroj: Hackaday](https://hackaday.com/2026/06/16/bike-powered-shredder-makes-short-work-of-3d-printer-waste/)
 

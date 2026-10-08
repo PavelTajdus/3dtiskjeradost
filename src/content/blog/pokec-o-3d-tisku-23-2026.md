@@ -1,79 +1,81 @@
 ---
 title: "Pokec o 3D tisku: robotická ruka, tištěné boty a odolnější PLA"
 pubDate: "2026-08-04T12:00:00.000Z"
-updatedDate: "2026-08-04T12:00:00.000Z"
+updatedDate: "2026-10-08T12:00:00.000Z"
 description: "Robotická ruka s hotendem, tištěné baletní špičky, náhradní díly na lodi, trysky INDX a HTPLA Pro. Co mě zaujalo na srpnovém Pokecu."
 heroImage: "/content/images/youtube/HjLKF-5HjlU.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Prusa"]
 draft: false
 ---
 
-Robotická ruka s obyčejným hotendem mě tentokrát zaujala víc než další nová tiskárna. Prošli jsme i tištěné boty, výrobu náhradního dílu přímo na lodi a PLA, které má po žíhání vydržet vyšší teploty. A mezi tím jsem stihl oznámit malý vlastní úspěch: těstovinová tiskárna už vyrobila první těstovinu, i když krásná zatím nebyla.
+Povedlo se mi rozhýbat těstovinovou tiskárnu. První těstovina je sice nevzhledná, ale existuje. Na streamu jsme pak prošli robotický tisk, tištěné boty a nové PLA od Polymakeru. V pracovně bylo 28,4 °C, takže tentokrát jen kratší pokec.
 
 > Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=HjLKF-5HjlU). Jedná se o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 
-## Robotická ruka: zajímavé nejsou jen motory
+## Robotická ruka s extruderem a hotendem
 
-Začali jsme ukázkami robotického tisku kolem ABB a Massive Dimension. Na první pohled je to vlastně docela známá sestava: extruder, hotend a místo běžné konstrukce tiskárny robotická ruka. Jenže pohyby a způsob, jakým vzniká výtisk, už běžnou stolní tiskárnu moc nepřipomínají.
+Zaujaly mě ukázky robotického tisku kolem ABB a Massive Dimension. Na ruce je klasický extruder s hotendem. Samotná tisková hlava tedy není nic neskutečného, ale podívejte se, jaké dráhy s ní dokážou tisknout.
 
-Mě na tom baví hlavně příprava dráhy. Samotný hotend není nějaký zázračný vynález. To zajímavé přichází ve chvíli, kdy software využije možnosti ruky a řídí tisk jinak, než jsme zvyklí u klasických vrstev. Ve streamu padlo i RobotStudio, ale konkrétní rozdělení práce mezi jednotlivé programy jsem neměl ověřené.
+To zajímavé podle mě dodává hlavně slicer. Padlo i RobotStudio, jen jsem neměl jasno v tom, který program připravuje kterou část dráhy. Robotice se běžně nevěnuju, ale tohle mě baví sledovat.
 
-V chatu jsme řešili, jestli už tomu říkat 4D tisk. Já bych se držel toho, že výsledkem je pořád trojrozměrný objekt. Víc os pohybu samo o sobě neznamená další rozměr výtisku. Každopádně je to zajímavý směr a podobné ukázky mě baví sledovat, i když se robotice běžně nevěnuju.
+V chatu jsme se zasekli na tom, jestli už je to 4D tisk. Já bych tomu pořád říkal 3D. Ruka se může naklánět, ale ven z ní vypadne trojrozměrný objekt.
 
-## Rozpustné PVA ukázalo zámek mezi materiály
+---
 
-Další pěkná ukázka využila propojení dvou materiálů, takzvaný interlocking. Místo toho, aby na sebe materiály jen dosedly, slicer mezi nimi vytvoří mechanický zámek. Vrstvy se do sebe propletou a spojení nemusí stát jen na tom, jak dobře k sobě plasty přilnou.
+## PVA odkrylo zámek mezi dvěma materiály
 
-Autor použil jako jeden z materiálů rozpustné PVA. Když ho odstranil, zůstala vidět samotná struktura zámku. A to mě zaujalo: běžně vidíš hotový dvoumateriálový díl, ale ne to, co se schovává uvnitř spoje.
+V další ukázce autor použil interlocking, tedy mechanické propojení dvou materiálů. Slicer mezi nimi vytvoří zámek a vrstvy se do sebe propletou. Spoj tak nemusí držet jen díky přilnavosti plastů.
 
-PVA v ukázce ještě nezmizelo úplně, takže bych z toho nedělal měření pevnosti. Jako názorné vysvětlení propojení materiálů to ale fungovalo dobře. Na takovém příkladu pochopíš princip mnohem rychleji než z obrázku nastavení ve sliceru.
+Jeden z materiálů byl rozpustný PVA. Po jeho odstranění bylo krásně vidět, jak zámek uvnitř vypadá. PVA tam ještě trošku zůstalo, ale propojení vrstev bylo dobře čitelné. To se mi líbilo.
 
-## Tištěné baletní špičky a boty s pružnou strukturou
+---
 
-U bot jsme začali baletní špičkou s vyměnitelnými částmi. Nejsem baletní expert a nebudu předstírat, že umím posoudit, jak se v tom bude stát nebo tančit. Zaujalo mě ale řešení, které odděluje jednotlivé části boty a umožňuje je měnit.
+## Baletní špičky a pružné tištěné boty
 
-Odtud jsme se dostali k firmě vyrábějící tištěnou obuv a podrážky. V ukázkách hrála velkou roli vnitřní struktura: propletené tvary, které vypadají trochu jako infill, ale nejsou jen výplní schovanou pod stěnou. Tady přímo vytvářejí vlastnosti hotové boty, hlavně její pružení.
+Našel jsem tištěnou baletní špičku s vyměnitelnými částmi. Jak přesně funguje baletní bota, netuším. Zaujalo mě, že se dají její části měnit, a přes odkaz jsem se dostal k firmě vyrábějící tištěnou obuv a podrážky.
 
-Za mě je právě tohle na podobných aplikacích zajímavé. Netiskneš jen obvyklý tvar jinou výrobní metodou, ale využíváš geometrii, kterou si můžeš navrhnout podle toho, co od dílu chceš. A za hezkou ukázkou je samozřejmě spousta testování. Na webu to vypadá jednoduše, ale dostat botu do použitelného stavu určitě není otázka jednoho modelu a jednoho tisku.
+Na jejich ukázkách je pěkně vidět vnitřní struktura. Vypadá podobně jako infill, jen ji tady neschovávají pod plnou stěnu. Různým propletením vytvářejí pružení boty. Nevím, jak tu strukturu napojují na zbytek, ale vypadá to zajímavě. Museli na tom udělat spoustu testů.
 
-Vzpomněl jsem si i na Formnext před dvěma lety, kde jsem viděl stroje a naducané tištěné pantofle s výraznou vnitřní strukturou. Takže to není úplně nová myšlenka. Jen je pěkné sledovat, kam se konkrétní použití posouvá.
+Před dvěma lety jsem na Formnextu viděl podobný směr. Měli tam naducané tištěné pantofle, jako kdybyste z gyroidní výplně udělali celou botu. Pamatuju si je dodnes. A tahle firma měla navíc moc pěkný web, což jako webdesignér oceňuju.
 
-## Náhradní díl na lodi: nejde jen o cenu plastu
+---
 
-Pak jsme prošli příklad opravy člunu pomocí dílu vyrobeného na kontejnerové 3D tiskárně přímo na lodi. Podstatné nebylo, že by tištěný díl stál zlomek ceny originálu. Podle probírané zprávy vyšel finančně podobně jako koupený.
+## Náhradní díl vytiskli přímo na lodi
 
-Rozdíl byl v dostupnosti. Loď byla týdny od dalšího zásobování, ale tiskárnu měli s sebou. Místo čekání na dodávku mohli potřebný díl navrhnout a vyrobit tam, kde ho potřebovali.
+Posádka potřebovala opravit menší člun a do dalšího zásobování zbývaly tři týdny. Plastový díl si proto vyrobila na kontejnerové 3D tiskárně, kterou měla na lodi.
 
-**Tady vidím velký přínos 3D tisku.** Nemusíš vozit zásobu každého možného dílu, pokud některé zvládneš vyrobit na místě. Neznamená to, že tiskárna nahradí celý sklad náhradních součástek. U vhodné opravy ti ale může ušetřit hlavně čas, a ten je na podobném místě důležitější než samotná cena materiálu.
+Podle zprávy stál podobně jako koupený díl. Mně se na tom líbí hlavně dostupnost. Tiskárnu už měli s sebou a mohli si náhradu vyrobit během několika hodin, místo aby čekali na zásobování.
 
-## Tištěná část laboratorního článku a sdílení mezi laboratořemi
+---
 
-Podobnou pointu měl příklad laboratorního článku pro práci s bateriemi. Komerční řešení podle probírané zprávy stálo kolem 3 000 liber a výzkumníci si vytvořili vlastní variantu s tištěnou částí.
+## Laboratorní článek za přibližně 3 000 liber
 
-Nešlo o to, že by si doma vytiskli celou baterii. Zaujala mě možnost sdílet návrh mezi laboratořemi a používat stejné řešení při testování. Vedle úspory peněz tak získáš i srovnatelnější podmínky.
+Prošli jsme také laboratorní článek pro práci s bateriemi. Komerční varianta podle zprávy stála kolem 3 000 liber. Výzkumníci si vytvořili vlastní řešení s tištěnou částí a návrh sdílejí mezi laboratořemi.
 
-Do detailů konstrukce jsem se nepouštěl, protože jim nerozumím dost na to, abych je vysvětloval. Samotný princip je ale hezký: někdo vyřeší konkrétní problém, návrh zpřístupní ostatním a další pracoviště nemusí začínat znovu od nuly.
+Do konstrukce jsem se nepouštěl, tomu nerozumím dost. Líbí se mi ale, že kromě úspory můžou mít různá pracoviště stejné podmínky pro testování.
 
-## Trysky INDX a moje rezerva k rozjezdu systému
+---
 
-Dostali jsme se i k debatě kolem tvrdosti trysek v systému INDX od Bondtechu. Ve streamu jsem mluvil o rozdílu mezi deklarovanými tvrzenými tryskami a tím, co se podle probíraných informací dostalo k zákazníkům. Výsledek řešení celé kauzy jsem v tu chvíli neměl nastudovaný.
+## Tvrdost trysek INDX a spokojenost se Snapmakerem U1
 
-Za mě to není totéž jako říct, že každému ze dne na den odejde tryska. U běžného PLA, PETG nebo ABS je situace jiná než u silně abrazivních materiálů. Pokud ale kupuješ trysku právě kvůli plněným nebo svítícím filamentům, její odolnost tě zajímá dost zásadně.
+U INDX jsme probírali zprávy, že trysky dodané zákazníkům byly měkčí, než odpovídalo označení tvrzených trysek. Výsledek celé kauzy jsem neměl nastudovaný.
 
-K rozjezdu INDX ve velkém jsem byl opatrný. Můj dojem v době streamu byl, že se ještě budou objevovat věci k doladění. To je názor, ne informace o interních plánech Bondtechu nebo Prusa Research.
+Nemyslím si, že by kvůli tomu tryska ze dne na den odešla. Na PLA, PETG nebo ABS bych z toho velkou obavu neměl. U abrazivních materiálů už je tvrdost podstatná, třeba u svítících filamentů.
 
-Naopak se Snapmakerem U1 jsem byl hodně spokojený. Chtěl bych něco víc profi, ale jako první počin mi dával smysl. Větší stroj jako konkurence k XL by mě zajímal, jenže to byla moje představa, ne oznámený produkt.
+**Můj dojem byl, že INDX ještě není úplně hotový.** Vyvíjejí ho dlouho, přesto čekám, že se při používání budou objevovat další věci k doladění. Jestli ho rozjedou ve velkém, nevím.
 
-## HTPLA Pro: vysoká teplota záleží na žíhání i zatížení
+Se Snapmakerem U1 jsem naopak hodně spokojený. Chtěl bych něco víc profi, ale jako první počin je dost dobrý. Větší Snapmaker jako konkurence k XL by mě zajímal. Zatím je to jen moje přání.
 
-Na závěr jsme prošli Polymaker HTPLA Pro. Líbí se mi myšlenka materiálu, který se tiskne podobně jako PLA, ale po dodatečné úpravě může mít výrazně vyšší teplotní odolnost.
+---
 
-Tady je potřeba číst údaje pozorně. **Odolnost bez zatížení není stejná jako odolnost pod zatížením.** A stejně tak není jedno, jestli porovnáváš čerstvý výtisk, nebo díl po žíhání. Při procházení údajů jsem se k tomu několikrát vracel, protože jedno velké číslo samo o sobě nestačí.
+## HTPLA Pro a půlhodina žíhání
 
-Probírali jsme žíhání přibližně půl hodiny při 100 °C. Napadlo mě použít podložku tiskárny, ale hned jsme narazili na problém: 100 °C na podložce neznamená 100 °C v celé komoře ani rovnoměrné prohřátí dílu. Takže to neber jako hotový návod, který stačí zopakovat.
+Polymaker má HTPLA Pro, které se tiskne podobně jako běžné PLA, kolem 230 °C na trysce. Zajímá mě jako možnost pro odolnější díly i na otevřené tiskárně.
 
-Padlo i PBT a materiály se skelným vláknem. U nich mě zajímají konkrétní zkušenosti zákazníků, ale nechci z jednotlivého použití dělat obecnou záruku teplotní odolnosti. Za mě byl hlavní závěr jednoduchý: i u PLA už má smysl sledovat víc než barvu a cenu špulky.
+Při procházení tabulek jsem se musel vrátit k teplotám. **Bez zatížení a pod zatížením jsou to dvě různé hodnoty.** Čerstvý výtisk pod zatížením měkne kolem 56 °C. Po 30 minutách žíhání při 100 °C se ta hranice dostává přibližně na 107 °C.
 
-Tentokrát jsme se od robotické ruky dostali až k žíhání plastu. A moje první těstovina? Nevzhledná, ale existuje. Po předchozím ladění je i tohle příjemný posun. Další Pokec zase najdeš na kanálu, díky členům za podporu.
+Napadlo mě žíhat na podložce tiskárny. Jenže když má podložka 100 °C, celá komora tolik nemá. U plochého dílu by to možná šlo, rovnoměrné prohřátí většího dílu bych tím ale neměl vyřešené. A jestli se při žíhání mění rozměry, výrobce v údajích, které jsme procházeli, nepsal.
+
+Padlo ještě dražší PBT a plasty se skelným vláknem. U PBT mám od zákazníků zprávu, že jim díly vydržely v troubě přes 180 °C. HTPLA Pro mi každopádně přišlo jako zajímavý matroš.

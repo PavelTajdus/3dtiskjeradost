@@ -1,7 +1,7 @@
 ---
 title: "Pod tryskou 28/2026: robotický vysavač, INDX držák a počítač ve ventilátoru"
 pubDate: "2026-07-06T05:00:00.000Z"
-updatedDate: "2026-07-27T07:51:19.000Z"
+updatedDate: "2026-10-08T12:00:00.000Z"
 description: "Otevřený robotický vysavač OOMWOO má tištěné šasi, INDX senzor dostal držák na 2020 profil a Zac Builds schoval herní počítač do stojanového ventilátoru."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/07/pod-tryskou-28-2026-hero.webp"
@@ -51,7 +51,7 @@ Pokud něco podobného zkoušíš, musíš hlídat izolaci, prach, vibrace, tepl
 
 ## Studio RAP obložilo trafostanici 322 tištěnými dlaždicemi
 
-Studio RAP vytvořilo Powerwall, fasádu nizozemské trafostanice z 322 zakázkových keramických dlaždic. Nejde o domácí FDM, ale o robotické vytlačování keramiky.
+Studio RAP vytvořilo Powerwall, fasádu nizozemské trafostanice z 322 zakázkových keramických dlaždic. Dlaždice vznikly robotickým vytlačováním keramiky.
 
 Každá dlaždice může mít jiný tvar a dohromady vytvářejí vzor, který by se klasickou sériovou výrobou dělal složitě. Vrstvy materiálu zůstávají viditelné a tvoří součást výsledného povrchu.
 
