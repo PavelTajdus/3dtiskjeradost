@@ -54,6 +54,6 @@ Snapmaker v březnu zveřejnil své verze **Klipperu, Moonrakeru a Fluiddu** pro
 
 ![Webové rozhraní Fluidd pro Snapmaker U1 s ovládáním nástrojů, teplotami a konzolí](/content/images/2026/10/pod-tryskou-41-2026-fluidd.webp)
 
-Na Pokecu jsem říkal, že jsem se Snapmakerem U1 hodně spokojený a jako první počin mi připadá dost dobrý. Zveřejněný kód je fajn hlavně pro lidi, kteří si chtějí projít, jak tiskárna funguje, nebo na úpravách dál pracovat. Některé další funkce U1 ale Snapmaker podle svého oznámení zpracovává v samostatných modulech. Z těchto tří repozitářů proto celý systém nesestavíte.
+Zveřejněný kód je fajn hlavně pro lidi, kteří si chtějí projít, jak tiskárna funguje, nebo na úpravách dál pracovat. Některé další funkce U1 ale Snapmaker podle svého oznámení zpracovává v samostatných modulech. Z těchto tří repozitářů proto celý systém nesestavíte.
 
-[Zdroj: Snapmaker, zveřejnění firmwaru U1](https://www.snapmaker.com/blog/snapmaker-u1-firmware-now-on-github) a [repozitář u1-klipper](https://github.com/Snapmaker/u1-klipper). [Moje zkušenost na Pokecu 23/2026](https://www.youtube.com/watch?v=HjLKF-5HjlU)
+[Zdroj: Snapmaker, zveřejnění firmwaru U1](https://www.snapmaker.com/blog/snapmaker-u1-firmware-now-on-github) a [repozitář u1-klipper](https://github.com/Snapmaker/u1-klipper).
