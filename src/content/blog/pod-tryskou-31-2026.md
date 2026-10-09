@@ -1,6 +1,7 @@
 ---
 title: "Pod tryskou 31/2026: TopoSaic, PA11 na ozubená kola a rychlejší barevný tisk"
 pubDate: "2026-07-27T05:00:00.000Z"
+updatedDate: "2026-10-08T12:00:00.000Z"
 description: "TopoSaic skládá krajinu do tisknutelného puzzle, Prusament PA11 míří na namáhané pohyblivé díly a nový způsob barevného tisku omezuje počet změn filamentu."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/07/pod-tryskou-31-2026-hero.webp"
@@ -26,7 +27,7 @@ Projekt běží lokálně na počítači, má verze pro Windows, macOS i Linux a
 
 ---
 
-## Prusament PA11 Natural míří na ozubená kola a pohyblivé díly
+## Prusament PA11 Natural na ozubená kola a pohyblivé díly
 
 Prusa Research uvedla Prusament PA11 Natural bez karbonové výplně. Čistý PA11 má podle výrobce dobrou soudržnost vrstev, odolnost proti nárazu a nízké tření. To dává smysl pro ozubená kola, kluzné díly, panty nebo součástky, které se opakovaně ohýbají.
 
@@ -42,7 +43,7 @@ Po správném žíhání při 110 °C výrobce uvádí teplotní odolnost 122,5 
 
 YKG3D ukázal slicer založený na výzkumu z roku 2018, který skládá barevný povrch jinak než běžné střídání filamentu v každém detailu. Základní barvy pravidelně rotují po vrstvách a jejich viditelnost upravuje množství vytlačeného materiálu nebo posun hran. Výsledkem mohou být plynulejší přechody s menším počtem výměn.
 
-Má to háček. Když tiskneš třemi barvami při výšce vrstvy 0,2 mm, barevný vzor se opticky opakuje po 0,6 mm. Na strmých stěnách se navíc míchání barev začne rozpadat. Není to náhrada za plnobarevnou průmyslovou tiskárnu, ale chytrý způsob, jak ze známého hardwaru vytáhnout něco navíc.
+Když tisknete třemi barvami při výšce vrstvy 0,2 mm, barevný vzor se opticky opakuje po 0,6 mm. Na strmých stěnách se navíc míchání barev začne rozpadat. Pro jemný plnobarevný tisk bych proto dál počítal s průmyslovou tiskárnou.
 
 Pro běžný multifilamentový tisk je zajímavý hlavně nižší počet změn. Každá změna znamená čas a u systémů s jednou tryskou často také odpad při proplachování. Pokud se tenhle přístup dostane do normálně použitelného sliceru, může zrychlit dekorativní tisky bez dalšího bazmeku na tiskárně.
 
@@ -68,7 +69,7 @@ Purdue University staví senzor, který měří pohyb podzemní vody pomocí tep
 
 První prototypy podle univerzity pracovaly pod vodou nepřetržitě sedm až osm měsíců. Data posílají přes LoRa, tedy úspornou bezdrátovou síť s dlouhým dosahem, a zároveň je ukládají lokálně pro případ výpadku spojení.
 
-Purdue projekt označuje jako open-source alternativu, ale veřejné výrobní podklady jsem zatím nenašel. Bral bych to tedy hlavně jako dobrou ukázku levné lokální výroby přístroje, ne jako hotový víkendový návod ke stažení.
+Purdue projekt označuje jako open-source alternativu, ale veřejné výrobní podklady jsem zatím nenašel. Hotový víkendový návod ke stažení tedy zatím nemám.
 
 [Zdroj: Purdue University](https://ag.purdue.edu/news/2026/07/purdue-researchers-use-3d-printing-to-make-open-source-alternative-to-costly-groundwater-sensors.html)
 

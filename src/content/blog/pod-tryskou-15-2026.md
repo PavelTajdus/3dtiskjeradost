@@ -1,6 +1,7 @@
 ---
 title: "Pod tryskou 15/2026: Malé roboty, velké inovace"
 pubDate: "2026-04-06T07:13:35.000Z"
+updatedDate: "2026-10-08T12:00:00.000Z"
 description: "Tento týden se toho dělo víc než dost, od mikrorobotů, kteří se pohybují bez jediného řádku kódu, přes nový hardware od Průši až po nepříjemné přiznání Bambu Lab. Pojďme na to."
 heroImage: "/content/images/2026/04/mikroroboti-leiden.png"
 tags: ["Newsletter"]
@@ -22,7 +23,7 @@ Jako hobby tiskař tohle čtu s otevřenou pusou. Nejde o žádnou sci-fi, je to
 
 Jeden redditor se pustil do projektu, který by většinu z nás odradil hned na začátku: šroubovák s ráčnovým mechanismem, kompletně print-in-place a bez montáže. Výsledek přišel až po více než třiceti iteracích a spoustě selhání.
 
-Tohle mám rád. Žádná zkratka, žádný hotový model ke stažení, jen systematické ladění a odmítnutí vzdát se. Pokud vás projekt taky táhne do podobně bláznivých vod, tohle je dobrá připomínka, že vytrvalost se vyplácí.
+Tohle mám rád. Autor mechanismus postupně ladil a po každém neúspěchu upravil další verzi. Přes třicet pokusů na jeden šroubovák, to už chce trpělivost.
 
 [Více informací](https://www.reddit.com/r/3Dprinting/comments/1s87kg1/i_made_a_fully_3d_printinplace_ratchet/)
 

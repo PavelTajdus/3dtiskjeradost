@@ -1,14 +1,13 @@
 ---
 title: "Pod tryskou 23/2026: Barvy, otevřený software a tisk, který se hlídá za běhu"
 pubDate: "2026-06-01T05:03:11.000Z"
-description: "Prusa Research otevřela ColorMix, kolem Bambu Lab se zvedla další vlna kvůli AGPL, EPFL posunula volumetrický tisk světlem a ORNL ukazuje řízení velkoformátového tisku za běhu."
+updatedDate: "2026-10-08T12:00:00.000Z"
+description: "Čtyři novinky: ColorMix od Prusa Research, spor SFC s Bambu Lab kolem AGPL, volumetrický tisk světlem z EPFL a řízení velkoformátového tisku za běhu v ORNL."
 tags: ["Newsletter"]
 heroImage: "/content/images/2026/06/pod-tryskou-23-2026-hero.webp"
 ---
 
-Tenhle týden je dobrá směs softwaru, světla a automatizace. Žádná další kopie stejné novinky, ale pár různých směrů, které ukazují, kam se 3D tisk posouvá.
-
-Na jedné straně ColorMix a otevřený software. Na druhé straně výzkum, kde se netiskne obyčejně po vrstvách, nebo se velký plastový tisk hlídá podle toho, co se při tisku fakt děje.
+Tentokrát tu mám čtyři novinky: ColorMix, spor kolem otevřeného softwaru Bambu Lab, tisk světlem z EPFL a kontrolu velkých plastových výtisků v ORNL.
 
 ---
 
@@ -60,30 +59,6 @@ Za mě je tohle zajímavější než marketingové řeči o „AI tiskárně“.
 
 ---
 
-## Bosch řeší teplotu přímo kolem trysky
-
-Bosch má patent okolo přesnější kontroly teploty u výstupu filamentu. Zjednodušeně: nejde jen o to topit celý hotend, ale lépe řídit, co se děje přímo u trysky a kolem vytékajícího materiálu.
-
-U běžného PLA ti to možná zní jako akademická hračka. U technických materiálů už ne. Jakmile tiskneš nylon, PC, PEEK nebo cokoliv citlivějšího na teplotu, malý rozdíl v reálném chování materiálu umí udělat velký bordel.
-
-Patent samozřejmě neznamená produkt. Může zůstat v šuplíku, může se licencovat, může se objevit v úplně jiné podobě. Ale ukazuje, že i tak obyčejná věc jako tryska pořád není vyřešená jednou provždy.
-
-[Zdroj: Google Patents](https://patents.google.com/?q=Bosch+heated+ring+FFF+nozzle)
-
----
-
-## Trinckle patentuje hlídání špatných nastavení
-
-Trinckle si nechal patentovat systém, který má uživatele navést dřív, než si sám připraví model k nefunkčnímu tisku. Typicky tenké stěny, špatná orientace, nevhodné rozměry nebo nastavení, které na první pohled vypadá nevinně a pak skončí špagetami na podložce.
-
-Myšlenka je dobrá. Každý, kdo někdy pomáhal začátečníkovi, ví, že největší problém není vždycky tiskárna. Často je to špatně připravený model nebo očekávání, že slicer nějak zázračně pochopí fyziku.
-
-Trochu mě ale zvedá ze židle patentování obecného konceptu typu „software poradí uživateli, aby si nerozbil tisk“. Takové věci by měly být normální součást nástrojů, ne minové pole pro ostatní vývojáře.
-
-[Zdroj: Google Patents](https://patents.google.com/?q=Trinckle+user-guided+3D+printing+configuration)
-
----
-
 Za mě solidní týden. ColorMix je praktická novinka, kauza Bambu připomíná, že open source není jen marketingová nálepka, a ORNL s EPFL ukazují dva úplně jiné směry automatizace. Jeden hlídá velké plastové díly, druhý tiskne světlem v objemu. Obojí je daleko od běžné domácí tiskárny, ale přesně takové věci časem posouvají celý obor.
 
 **Shrnutí:**
@@ -92,4 +67,3 @@ Za mě solidní týden. ColorMix je praktická novinka, kauza Bambu připomíná
 - **Bambu Lab** má další tlak kolem AGPL a otevřeného softwaru.
 - **EPFL** ukazuje rychlejší volumetrický tisk světlem.
 - **ORNL** řeší reálnou kontrolu velkoformátového plastového tisku.
-- **Patenty kolem trysek a nastavení** ukazují, že i malé problémy pořád nejsou vyřešené.

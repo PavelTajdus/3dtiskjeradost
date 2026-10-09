@@ -1,6 +1,7 @@
 ---
 title: "Pod tryskou 18/2026: Co je nového v 3D tisku"
 pubDate: "2026-04-27T05:02:40.000Z"
+updatedDate: "2026-10-08T12:00:00.000Z"
 description: "Tento týden bylo v 3D tisku rušno, od nastavení sliceru pro odolné PLA díly přes INDX od Prusa Research až po knihovnu presetů od Polymakeru. Tady je přehled toho, co stojí za pozornost."
 tags: ["Newsletter"]
 heroImage: "https://hackaday.com/wp-content/uploads/2026/04/maker-muse-strong-pla.jpg"
@@ -10,7 +11,7 @@ Tento týden bylo v 3D tisku rušno, od nastavení sliceru pro odolné PLA díly
 
 ## Extrémně odolné díly z PLA
 
-Maker's Muse ukázal, jak v OrcaSliceru nastavit parametry tak, aby PLA díly vydržely podmínky bojových robotů. Sdílel hotový 3MF soubor s nastavením, základ je v maximální hustotě výplně a kvalitním propojení vrstev. Nejde o žádnou magii, ale o konkrétní kombinaci parametrů, která z běžného PLA vytáhne výrazně víc, než bychom čekali. Pokud tisknete funkční díly do náročnějšího prostředí, tohle nastavení se vyplatí vyzkoušet.
+Maker's Muse ukázal, jak v OrcaSliceru nastavit parametry tak, aby PLA díly vydržely podmínky bojových robotů. Sdílel hotový 3MF soubor s nastavením, základ je v maximální hustotě výplně a kvalitním propojení vrstev. Právě tahle kombinace parametrů z běžného PLA vytáhne výrazně víc, než bychom čekali. Pokud tisknete funkční díly do náročnějšího prostředí, tohle nastavení se vyplatí vyzkoušet.
 
 [Více informací](https://hackaday.com/2026/04/25/slicer-settings-for-indestructible-battle-bot-worthy-pla-parts/)
 
@@ -40,7 +41,7 @@ Na Kickstarteru se objevila tiskárna DualCore s architekturou IDEX. Zajímavé 
 
 ## VisiPrint od MIT: náhled výsledku ještě před tiskem
 
-MIT vyvinulo systém VisiPrint, který pomocí modelu předpovídá, jak bude výtisk vypadat ještě před zahájením tisku, včetně povrchové kvality a barevného podání. Nejde o render ze sliceru, ale o predikci založenou na fyzikálních vlastnostech materiálu. Pokud se tahle technologie dostane do běžných nástrojů, může ušetřit dost zmařených výtisků.
+MIT vyvinulo systém VisiPrint, který pomocí modelu předpovídá, jak bude výtisk vypadat ještě před zahájením tisku, včetně povrchové kvality a barevného podání. Předpověď vychází z fyzikálních vlastností materiálu, takže zahrnuje i věci, které obyčejný render ze sliceru neukáže. Pokud se tahle technologie dostane do běžných nástrojů, může ušetřit dost zmařených výtisků.
 
 [Více informací](https://3dprintingindustry.com/news/mits-visiprint-uses-ai-to-show-exactly-how-a-3d-print-will-look-before-its-made-250710/?utm_source=rss&utm_medium=rss&utm_campaign=mits-visiprint-uses-ai-to-show-exactly-how-a-3d-print-will-look-before-its-made)
 
