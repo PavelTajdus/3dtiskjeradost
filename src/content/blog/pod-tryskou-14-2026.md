@@ -1,10 +1,10 @@
 ---
-title: "Pod tryskou 13/2026: Když LEGO tiskne a Průša skrývá lasery"
+title: "Pod tryskou 14/2026: Když LEGO tiskne a Průša skrývá lasery"
 pubDate: "2026-03-31T12:20:29.000Z"
 updatedDate: "2026-10-08T12:00:00.000Z"
 description: "Týden plný překvapení! Zatímco vědci tisknou mikroroboty bez mozku, někdo sestavil tiskárnu z LEGO kostiček a v Prusa firmware se našly stopy po laserech. Plus Bambu Lab řešilo problémy s autorským..."
 tags: ["Pod tryskou", "Novinky"]
-draft: true
+draft: false
 ---
 
 Týden plný překvapení! Zatímco vědci tisknou mikroroboty bez mozku, někdo sestavil tiskárnu z LEGO kostiček a v Prusa firmware se našly stopy po laserech. Plus Bambu Lab řešilo problémy s autorskými právy a Adidas ukázal nové basketbalové boty z tiskárny.
