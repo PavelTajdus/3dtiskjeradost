@@ -1,71 +1,75 @@
 ---
 title: "Rat Rig V-Chonk: konečně zase stavba 3D tiskárny"
 pubDate: "2026-09-17T12:00:00.000Z"
-updatedDate: "2026-09-17T12:00:00.000Z"
-description: "Začínám stavět Rat Rig V-Chonk. Tištěný rám, masivní profily, montáž osy Z a hledání správného postupu podle CAD modelu."
+updatedDate: "2026-10-08T12:00:00.000Z"
+description: "Začínám stavět Rat Rig V-Chonk. Velké tištěné díly, profily 40 × 40 mm, chybějící imbus a montáž rámu a osy Z podle modelu v Onshape."
 heroImage: "/content/images/youtube/0PcN1-0L5W0.jpg"
 tags: ["Youtube streamy", "Rat Rig", "V-Chonk", "Stavba 3D tiskárny"]
 draft: false
 ---
 
-Po dlouhé době jsem zase vytáhl stavebnici, u které nestačí přišroubovat pár dílů a zapojit konektory. Rat Rig V-Chonk má velkou část konstrukce vytištěnou a já jsem byl zvědavý hlavně na to, jak pevné to celé bude. Připravil jsem díly, otevřel krabici a pustil se do rámu a základů osy Z. Hned na začátku se ale ukázalo, že si postup budu muset odvodit z CAD modelu.
+Přiznám se, že takhle od kitu jsem tiskárnu dlouho nestavěl. Tentokrát jsem vytáhl Rat Rig V-Chonk, u kterého si velkou část konstrukce vytisknete sami. Ten princip se mi docela líbí. Jen jsem nepočítal s tím, že nenajdu návod a že moje sada imbusů skončí hned u prvních šroubů.
 
 > Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=0PcN1-0L5W0).
 
 ---
 
-## Tištěné díly nejsou zrovna malé
+## Držák bedu má 37,5 centimetru
 
-Část dílů jsem měl ještě z dřívějška z PETG, další jsem vytiskl z černého ABS. U otevřené tiskárny jsem ABS použít nemusel, ale měl jsem ho připravené, tak jsem u něj zůstal. Výsledkem je převážně černá konstrukce, i když jsem měl po ruce také filament v zelené podobné té ratrigovské.
+Část dílů jsem měl vytištěnou už z dřívějška z PETG, další jsem dotiskl z černého ABS. V-Chonk je otevřená tiskárna, takže jsem ABS použít nemusel. Měl jsem ho ale připravené, tak jsem u něj zůstal.
 
-Největší překážka přichází ještě před stavbou. **Velké tištěné díly potřebují velkou tiskárnu.** Držák bedu má přibližně 37,5 cm a tiskl jsem ho na Venture XL. Už na tiskárně se čtyřsetmilimetrovou podložkou je to dost na hraně, na běžné malé mašince tenhle díl prostě nevytiskneš vcelku.
+Držák bedu jsem tiskl na Venture XL. Má přibližně **37,5 cm**, takže potřebujete podložku kolem 400 mm nebo větší. Zkoušel jsem ho dřív umístit i na čtyřsetmilimetrový Rat Rig a bylo to dost na hraně. Na malé tiskárně ho vcelku nevytisknete.
 
-Na stole jsem měl spodní a horní části konstrukce, držák bedu, nožky a další drobnosti. Spodek počítá i s elektronikou a vedením kabeláže. Zkoušel jsem zacvaknout jeden z úchytů na kabely a držel tak dobře, že jsem ho hned nemohl sundat. Aspoň jedna věc tedy fungovala ještě před prvním šroubem.
+Na stole jsem měl horní a spodní části konstrukce, nožky, držák bedu a menší díly. Ve spodku jsou místa pro elektroniku a úchyty kabelů. Jeden úchyt jsem zkusil zacvaknout a pak jsem ho nemohl dostat ven. Držel až moc dobře.
 
-## Co je v krabici a proč je všechno tak masivní
+---
 
-Z kitu jsem postupně vytáhl motory, zdroj, drivery, Orbiter 2, ventilátory, lineární vedení, závitové tyče, řemeny a spojovací materiál. Vyhřívání podložky je označené 24 V a 180 W. Samotný bed tvoří opracovaný hliník a tiskový plát má rozměr **180 × 180 mm**.
+## Malá podložka, velké profily
 
-Vedle toho tu jsou profily 40 × 40 mm, velké šrouby M12 × 45 a desetimilimetrové řemeny. Na tak malou tiskovou plochu to působí dost předimenzovaně. Vysvětloval jsem si to tím, že Rat Rig využívá komponenty, které už má pro svoje větší stavebnice, místo aby kvůli malé tiskárně zaváděl úplně jiné díly.
+Z krabice jsem vytáhl motory, zdroj, čtyři drivery, Orbiter 2, ventilátory, lineární vedení, závitové tyče a spojovací materiál. Vyhřívání podložky má na sobě **24 V a 180 W**. Hliníkový bed je hezky opracovaný, tiskový plát má 180 × 180 mm.
 
-U ventilátorů jsem nadšený nebyl. Tyhle turbíny nemám rád kvůli hluku a říkal jsem to už při rozbalování. Na jejich skutečný provoz ve V-Chonku ale ještě nedošlo. V tu chvíli jsem jen třídil součástky a odkládal bokem to, co nebudu hned potřebovat.
+K tomu profily **40 × 40 mm**, šrouby M12 × 45 a desetimilimetrové řemeny. Na tiskárnu se stoosmdesátimilimetrovou podložkou mi to přijde dost předimenzované. Rat Rig tu používá věci ze svých větších stavebnic. Chápu, že kvůli malé tiskárně nebudou držet další rozměry řemenů a řemeniček.
 
-## Místo návodu veřejný model v Onshape
+U ventilátorů jsem nadšený nebyl. Tyhle turbíny nemám rád, ten hluk se mi špatně poslouchá. Zatím jsem je odložil s ostatními věcmi, které při stavbě rámu nepotřebuju.
 
-Čekal jsem, že otevřu stavební návod a pojedu podle něj. Jenže jsem ho pro V-Chonk nenašel. Procházel jsem stránky Rat Rigu i jeho návody, ale k téhle tiskárně jsem se tím nedostal.
+---
 
-Zbýval CAD. Nejdřív jsem zkoušel importovat STEP do Onshape, pak mi David poradil najít V-Chonk mezi veřejnými dokumenty. **Veřejný model v Onshape mě zachránil.** Mohl jsem si prohlížet sestavu, schovávat díly a zjišťovat, jak do sebe všechno zapadá.
+## Návod jsem nenašel, pomohl Onshape
 
-Rozhodl jsem se začít velkou konstrukcí: stojiny, horní a spodní část, nožky a výztuhy. Chtěl jsem, aby to nejdřív stálo a získalo tvar tiskárny. Pak se na to dají přidávat další věci a zároveň ze stolu ubývají největší kusy.
+Prošel jsem stránky Rat Rigu a stavební návody, ale V-Chonk jsem tam nenašel. Měl jsem stažený STEP model a začal jsem ho importovat do Onshape. Pak mi David z chatu poradil vyhledat V-Chonk rovnou mezi veřejnými dokumenty. Díky za ten tip, Onshape mě zachránil.
 
-## Velké šrouby a malá sada imbusů
+V modelu jsem si mohl schovávat díly a podívat se, co je pod nimi. Zjišťoval jsem tak, kam patří šrouby, matice a podložky. Pořadí montáže jsem si musel vymyslet.
 
-První zádrhel byl až směšně jednoduchý. Na velké šrouby v profilech jsem neměl vhodný imbus. Běžná sada, kterou používám kolem tiskáren, na ně nestačila a ani hledání v dalších krabicích mě nespasilo.
+Začal jsem stojinami, horní a spodní částí a nožkami. Chtěl jsem, aby konstrukce stála, měla tvar tiskárny a ze stolu zmizely největší díly. Pak na ni můžu přidělávat zbytek.
 
-Nakonec pomohl tip z chatu: vložit do hlavy šroubu dva menší imbusy vedle sebe. Tím jsem ho dokázal přidržet a pokračovat. Byla to improvizace pro ten večer, ne nářadí, se kterým bych chtěl stavět všechno. Jestli se do V-Chonku pustíš, **zkontroluj si předem i nástroje na velké šrouby**, ne jen obvyklé malé imbusy.
+---
 
-Při spojování konstrukce jsem zároveň musel hlídat tištěné díly. Kovový profil snese jiné zacházení než plast. Tady nemá smysl dotahovat všechno silou jen proto, že máš velký šroub a můžeš zabrat.
+## Na M12 nemám imbus
 
-## Výztuhy změnily dojem z rámu
+Vzal jsem první velký šroub a zjistil, že do jeho hlavy nemám co strčit. Prošel jsem další nářadí, ale ani tam jsem nic vhodného nenašel. Největší imbus z mojí běžné sady byl malý.
 
-Po základním spojení přišly na řadu rohové výztuhy. Podle modelu jsem kontroloval šrouby, matice a podložky. Jednu část jsem zase rozebral, protože jsem podložku nedal tam, kam patřila. CAD mi ukázal jednotlivé součástky, pořadí montáže jsem si ale musel vymyslet sám.
+Z chatu přišel tip dát do hlavy **dva menší imbusy vedle sebe**. A fungovalo to. Dokázal jsem šroub přidržet a pokračovat ve stavbě. Michal tím ten večer docela zachránil.
 
-S každou další výztuhou jsem byl příjemněji překvapený. Čekal jsem od převážně tištěné konstrukce větší poddajnost, jenže rám držel pevně už v téhle rozpracované podobě. Po dotažení výztuh se při manipulaci prakticky nehýbal.
+Pohodlné to nebylo. Při dotahování jsem si těmi dvěma klíči pomáhal a otáčel celou konstrukcí. Do plastu jsem se snažil moc nezabírat, protože ten velký šroub ještě neznamená, že můžu všechno utáhnout silou.
 
-To je zatím dojem z montáže, ne výsledek tiskového testu. Ale **pevnost mě překvapila už první večer**. Ten princip tištěné tiskárny se mi líbí a tady začínal vypadat rozumně i v ruce, nejen na obrázku.
+---
 
-## Lineární vedení: očistit, namazat a otočit správně
+## Rám se skoro nehýbe
 
-Dál jsem se pustil do přípravy osy Z. Usazoval jsem ložiska do tištěných dílů, očistil drobné otřepy a připravil lineární vedení. Sáčky byly místy mastnější než samotné kolejnice, takže jsem nejdřív otíral přebytečný olej.
+Po základní konstrukci jsem přidal rohové výztuhy. U prvního spoje jsem podle modelu zjistil, že tam má přijít i podložka. Takže zase povolit, rozebrat a přidat ji.
 
-Na mazání jsem použil Mobilux EP2, který mi zůstal z dob stavění Voronů. Tentokrát jsem to nevzal jako důkladnou rozborku vozíků. Vazelínu jsem nanesl jednoduše a vedení několikrát projel. Pohyb se potom citelně zlepšil.
+Musím říct, že mě pevnost překvapila. Čekal jsem od převážně tištěné konstrukce něco poddajnějšího. Už před výztuhami se rám skoro nehýbal a po jejich přidání držel ještě líp. Při skládání to působilo opravdu bytelně.
 
-Další připomínka z chatu se týkala orientace vozíků. Zkontroloval jsem předek a zadek podle sestavy a otočení opravil. U modelu, který si můžeš libovolně natočit, je snadné ztratit přehled, z jaké strany se právě díváš.
+---
 
-## Chybějící zarážka a první motory
+## Vedení osy Z a dotisk zarážky
 
-Při kontrole vedení jsem zjistil, že mám jednu tištěnou zarážku jen jednou, přestože potřebuji dvě. U některých souborů nebyl počet kusů z názvu jasný. Než jsem spustil dotisk, prošel jsem okolní sestavu, jestli mi nechybí ještě něco dalšího.
+Pak jsem se pustil do podložky a osy Z. Do tištěných dílů jsem usadil ložiska a očistil otřepy. Lineární vedení jsem otřel, přitom mi sáčky přišly zvenku mastnější než kolejnice uvnitř.
 
-Zarážka se tiskla asi patnáct minut a mezitím jsem pokračoval se šrouby a závitovými vložkami. Chvíli jsem hledal správné vložky, ale v balení byly. Zatavil jsem je páječkou a nachystal další spoje.
+Na mazání jsem vytáhl **Mobilux EP2**, který mám ještě z dob stavění Voronů. Tentokrát jsem se s tím moc nehrál. Vazelínu jsem nanesl na vedení a několikrát projel vozíky. Pohyb se citelně zlepšil.
 
-Na závěr jsem namontoval motory pro osu Z. Držák bedu a jeho napojení jsem ještě nedotáhl do hotové sestavy, ale rám už stál, měl výztuhy, vedení a motory. **Na první večer slušný posun.** Příště bude potřeba dokončit podložku a pokračovat dalšími osami. Na to, jak se tenhle převážně tištěný Rat Rig nakonec rozjede, jsem teď zvědavější než před rozbalením.
+Jednu tištěnou zarážku jsem měl jen jednou, přitom jsem potřeboval dvě. U toho souboru jsem v názvu neviděl počet kusů. Než jsem pustil dotisk, prošel jsem v modelu zbytek osy Z, jestli mi nechybí ještě něco. Slicer ukazoval asi patnáct minut, tak jsem tisk spustil a pokračoval.
+
+Mezitím jsem našel závitové vložky a zatavil je páječkou. Z chatu přišla ještě připomínka k otočení vozíků. Zkontroloval jsem předek a zadek podle modelu a orientaci opravil.
+
+Na závěr jsem namontoval motory osy Z. Držák podložky ještě zbývalo dopojit, ale rám už stál a měl výztuhy i vedení. Těší mě, že z toho začíná být tiskárna. V [druhém dílu stavby](/blog/rat-rig-v-chonk-pokracujeme-ve-stavbe/) pokračuju podložkou a osami X a Y.

@@ -1,77 +1,87 @@
 ---
 title: "Pokec o 3D tisku: laser od Bambu a výměna plátů"
 pubDate: "2026-09-22T12:00:00.000Z"
-updatedDate: "2026-09-22T12:00:00.000Z"
-description: "Laser od Bambu Lab, silně držící adhezivum Devil Design, mozkové hlavolamy, automatická výměna plátů a zkušenosti s Maker Bazarem."
+updatedDate: "2026-10-08T12:00:00.000Z"
+description: "Laser od Bambu Lab, silně držící adhezivum Devil Design, mozkové hlavolamy, automatická výměna plátů a zkušenosti s MakerBazarem."
 heroImage: "/content/images/youtube/SjZja7Mxgog.jpg"
 tags: ["Youtube streamy", "Members only", "Pokec o 3D tisku", "Bambu Lab"]
 draft: false
 ---
 
-Od Bambu Lab jsem čekal další novinku pro 3D tisk, ale tentokrát přišel samostatný laser. Prošel jsem jeho výbavu a ceny, pak už jsme se vrátili k tomu, co mi právě běželo na stole: hlavolamům, adhezivu a automatické výměně tiskových plátů. Právě na malé sérii dárků je krásně vidět, kolik práce dokáže jedna A1 mini udělat, když nemusí po každém tisku čekat na člověka.
+Od Bambu Lab jsem čekal konkurenci pro INDX a přišel laser. Nabídku jsem viděl teprve chvíli před streamem, takže jsme ji prošli společně. Pak jsem ukázal adhezivum Devil Design a hlavolamy, které právě tisknu pro ženu do práce. A1 mini s výměnou plátů teď jede i přes noc.
 
 > Celý stream si můžete pustit [na YouTube](https://www.youtube.com/watch?v=SjZja7Mxgog). Jedná se o members-only obsah, [členství si můžete pořídit tady](https://www.youtube.com/channel/UCACAWyuYlpfH2Jn6HLhhGgw/join).
 
 ---
 
-## Bambu Lab tentokrát místo tiskárny ukázalo laser
+## CO2 laser od Bambu Lab za 2 500 eur
 
-Novinka je CO2 laser s výkonem 55 W a pracovní plochou 600 × 300 mm. Samotná mašina v době streamu stála kolem 2500 eur. S podavačem a zvýšeným podstavcem jsme se dostali přibližně na 3300 eur, kompletní sada příslušenství pak vycházela kolem 3500 eur. Není to levná hračka na pár ozdob jednou za rok.
+Bambu Lab vydalo CO2 laser s výkonem 55 W a pracovní plochou 600 × 300 mm. Samotný stroj v době streamu stál kolem 2 500 eur. Se zvýšeným podstavcem a podavačem přibližně 3 300 eur, kompletní sada kolem 3 500 eur.
 
-Já nejsem laserový specialista a stroj jsem neměl v ruce. Brali jsme to jako první prohlídku nabídky, ne jako test. Na dřevo, překližku a akrylát mi ale taková mašina připadá zajímavá. Zvlášť pro někoho, kdo už podobné věci vyrábí a chce hotové řešení místo stavby a ladění vlastního laseru.
+O laserech toho moc nevím a tenhle jsem nezkoušel. Na dřevo, překližku a akrylát mi ale připadá zajímavý. Myslím, že to dává smysl pro lidi, kteří pracují se dřevem a sem tam si něco vypálí.
 
-Výrobce ukazoval i řezání silných materiálů. U takových ukázek bych si hlídal rozdíl mezi pěkným obrázkem a skutečným výsledkem. **Maximální tloušťka v tabulce neznamená, že ji budeš pokaždé snadno a čistě řezat.** Materiál, nastavení a opálení hran pořád musíš řešit.
+Cena mi vzhledem k výbavě nepřišla šílená. Bambu umí ovládání a software dobře, takže se nebojím, že by to nefungovalo.
 
-## Kamery a kalibrace jsou pro mě zajímavější než samotný výkon
+U ukázek silného akrylátu a dřeva bych ale čekal víc práce s nastavením. Některé obrázky mi připadaly jako rendery. Tak čisté hrany bych po prvním zapnutí automaticky nečekal.
 
-Na Bambu mě baví hlavně způsob, jakým umí připravit celý stroj pro běžné používání. Tady jsme viděli kameru nad pracovní plochou i kameru na hlavě. Když položíš dovnitř předmět a v softwaru ho vidíš shora, můžeš na něj mnohem pohodlněji umístit nápis nebo obrázek.
+---
 
-Zaujala mě také automatizace kalibrace optiky. Kdysi jsem přemýšlel, že bych si CO2 laser postavil, a díval jsem se na nastavování zrcadel. Není to jen přišroubovat trubici a začít řezat. Přesné vedení paprsku je další práce, kterou tady výrobce podle prezentace řeší za tebe.
+## Dvě kamery a automatická kalibrace zrcadel
 
-S podavačem navíc můžeš postupně zpracovávat delší materiál. Jak přesně navazuje jednotlivé části řezu, to jsem nezkoumal a nemám s tím zkušenost. Za mě ale dává smysl platit nejen za výkon, nýbrž i za kamery, kalibraci a pohodlnou obsluhu. Jestli to celé funguje tak dobře jako v prezentaci, musí ukázat reálné používání.
+Laser má kameru nad pracovní plochou a další na hlavě. Ta horní se mi líbí. Položíte dovnitř předmět, vidíte ho v softwaru a můžete na něj přesně umístit nápis nebo obrázek.
 
-## Filtrace není detail, který bych u laseru přehlédl
+Kdysi jsem si chtěl CO2 laser postavit. Díval jsem se, jak se nastavují zrcadla, aby paprsek došel přesně do hlavy. To je dost podstatná práce. Bambu podle prezentace používá motorky a umí si optiku zkalibrovat samo.
 
-Hned na začátku jsem si všiml samostatné filtrační jednotky. Laser není jen krabice na stole. Potřebuješ počítat i s odvodem kouře, příslušenstvím a místem kolem něj.
+S podavačem můžete postupně zpracovávat delší materiál. Jak software navazuje jednotlivé části řezu, nevím. S tím zkušenost nemám.
 
-Při řezání dřeva materiál opaluješ a vzniká kouř. V prezentaci jsme se dívali na odtah i přifukování k řezanému místu. To jsou dvě různé věci: jedna pomáhá u samotného řezu, druhá odvádí zplodiny ze stroje.
+---
 
-**Jak dobře konkrétní filtrace čistí vzduch, nevím.** Samotná její přítomnost pro mě není důkaz, že můžu laser bez dalšího zavřít do kanceláře a nic neřešit. Na stránce byly i bezpečnostní prvky, ale jejich skutečné fungování jsem při prohlížení nabídky samozřejmě neověřil.
+## K laseru je potřeba odtah a filtrace
 
-## Adhezivum Devil Design drží až moc dobře
+Hned při otevření nabídky jsem si všiml filtrační jednotky. Vedle samotného laseru potřebujete místo i na další krabici. Kouř z řezaného dřeva bych zpátky do místnosti foukat nechtěl.
 
-Od laseru jsme přešli k mnohem menší lahvičce. Používám adhezivum Devil Design, balení má 110 ml a při mém používání z něj nijak rychle neubývá. Hlavní poznatek ale není výdrž: **některé výtisky mi na něm držely až příliš.**
+V prezentaci jsme viděli odtah i přifukování do místa řezu. Přifukování pomáhá omezit opálení, odtah odvádí kouř ze stroje. Jak dobře konkrétní filtr čistí vzduch, by mě zajímalo. To jsem při procházení stránky nezjistil.
 
-U ASA jsem silnou přilnavost očekával. Pak jsem ale tiskl růžové silk PLA a nemohl jsem ho z podložky sundat. Při škrábání jsem si na několika místech poškodil povrch plátu. To není vlastnost, kterou chceš objevit až při sundávání hotového tisku.
+---
 
-Dával jsem dvě vrstvy různými směry a pak je ještě rozetřel hadříkem. Možná právě tohle nebyl nejlepší postup. Doporučuju nejdřív vyzkoušet menší množství a ověřit si nejen to, jestli model drží, ale taky jestli ho dokážeš rozumně sundat. Na běžné PLA bych automaticky nic nepatlal.
+## Devil Design drží výtisk až příliš
 
-Zkoušel jsem ho i na holém hliníkovém plechu u našeho prototypu tiskárny s plochou 60 × 30 cm. Přilnavost byla silná i tam, jen spodek výtisku vyšel lesklý, což se mi nelíbilo. Univerzálnost uvedená na lahvičce je fajn, moje zkušenost ale není test všech vypsaných materiálů.
+Používám adhezivum Devil Design v balení 110 ml. Patlám ho na pláty a nijak rychle neubývá. Drží ale opravdu silně.
 
-## Mozkové hlavolamy jako dárek i pořádná zkouška trpělivosti
+U ASA jsem s tím počítal. Pak jsem tiskl růžové silk PLA a nemohl ho sundat. Musel jsem ho škrábat a na několika místech jsem si poškodil povrch plátu.
 
-Pro ženu do práce tisknu hlavolamy s motivem mozku. Velký model jsem tiskl už několikrát a pořád mě baví. Poskládat ho není vůbec jednoduché, mně to zabralo přibližně dvě hodiny. Žena se u něj taky chvíli zlobila, ale nakonec ho složila.
+Dal jsem jednu vrstvu, druhou diagonálně a pak jsem to rozetřel hadříkem. Možná jsem to roztírání neměl dělat. **Vyzkoušejte, kolik adheziva potřebujete, a taky jestli pak výtisk sundáte.** Na běžné PLA bych nic automaticky nenanášel.
 
-Na Bambu se podle nastavení bavíme zhruba o 14 až 20 hodinách tisku. Není to drobnost na půl hodiny, zato z toho vznikne dárek, se kterým si obdarovaný opravdu chvíli pohraje. Doporučuju výraznou barvu, případně dvě kontrastní barvy, aby byly jednotlivé části dobře čitelné.
+Zkoušel jsem ho i na holém hliníkovém plechu našeho prototypu s plochou 60 × 30 cm. Drželo to silně i tam. Spodek výtisku byl ale hodně lesklý a to se mi nelíbilo.
 
-Vedle toho jsem rozjel malé hlavolamy v sérii. Požadavek byl na sto sad, takže jsem střídal barvy a snažil se využít tiskárnu i přes noc. Limit nebyl jen stroj, ale také filamenty: neměl jsem od každé barvy více rolí, abych mohl stejnou práci pustit na několika tiskárnách najednou.
+---
 
-## Výměna plátů mi prodlužuje tisk bez obsluhy
+## Mozkové hlavolamy pro ženu do práce
 
-Na A1 mini mám swapmod a pořád mě baví sledovat, jak si tiskárna po dokončení sama vymění plát. Praktická výhoda ale není v tom, že to pěkně vypadá. Tiskárna nemusí čekat, až se k ní vrátím a sundám výtisk.
+Tisknu hlavolamy s motivem mozku. Ten velký model jsem dělal už několikrát a pořád je to pěkný dárek. Mně jeho složení zabralo přibližně dvě hodiny. Žena se u něj taky párkrát zlobila, ale nakonec ho složila.
 
-Mám pět plátů. Když jeden plný plát trvá zhruba dvě hodiny, připravím si přibližně deset hodin práce bez sahání na tiskárnu. Večer nachystám sérii a ráno přijdu k hotovým dílům. U těchhle hlavolamů jsem tak přes noc vytiskl dvacet polovin sad a pak doplňoval další části.
+Na Bambu tisk trvá přibližně 14 až 20 hodin podle nastavení. Doporučuju výraznou barvu, případně dvě kontrastní. K modelu jsou i krytky, takže si s tím můžete vyhrát.
 
-Ukazovali jsme si také systém pro velkou A1 od Joboxu, se kterým mám zkušenost ze zakázek. Při skládání s Kubou se mi líbilo, jak jednoduše je mechanismus vymyšlený. Už dva pláty přinesou užitek, protože stroj jeden odloží a nasadí druhý. Navazující práci si můžu nastavit v [Printerhive](https://printerhive.com/cs).
+Vedle toho tisknu malé hlavolamy. Žena chce sto sad, tak střídám barvy a průběžně doplňuju části. Nemám více rolí od každé barvy, abych to mohl rozjet na několika tiskárnách zároveň. Tisknu z toho, co mám.
 
-Za mě to dává smysl, když máš nárazové série a nechceš hned kupovat další tiskárnu. Nezrychlíš jednotlivý tisk. **Využiješ ale hodiny, kdy by jinak hotový model jen ležel na podložce.** Právě to je u mě rozdíl mezi jednou večerní várkou a tiskem, který běží i během spánku.
+---
 
-## Maker Bazar už žije skutečnými prodeji
+## Pět plátů na A1 mini vystačí na noc
 
-Na konci jsem ukázal i svůj Maker Bazar. Inzeráty přidávají další lidé a věci se prodávají, z čehož mám radost. Teď potřebuje hlavně více lidí, aby se nabídka a poptávka potkávaly častěji.
+Na A1 mini používám swapmod. Po dokončení tiskárna sama odloží plát a nasadí nový. Pořád mě baví se na tu výměnu dívat.
 
-Komunikace zůstává u konkrétního prodeje a zprávy mají také e-mailové notifikace. Mám tak na jednom místě historii domluvy i údaje potřebné k odeslání. Přes svého Hermes agenta a propojení s Balíkobotem si z toho nechávám připravit přepravní štítky, místo abych znovu přepisoval adresu.
+Mám pět plátů. Když jeden tisk trvá zhruba dvě hodiny, nachystám si asi deset hodin tisku bez sahání na tiskárnu. Večer jsem připravil sérii a ráno měl dvacet polovin hlavolamů. Pak jsem dotiskával další části.
 
-Vyzkoušel jsem také generování bankovního QR kódu s předvyplněnými údaji na skutečných prodejích. Jsou to malé funkce, ale při každém balíku mi ušetří pár kroků. Když na bazaru něco nefunguje nebo ti nějaká drobnost chybí, dej mi vědět.
+Ukázali jsme i Jobox pro velkou A1. Mám ho na velké A1 a funguje mi výborně. Když jsme ho s Kubou skládali, líbilo se nám, jak jednoduše je mechanismus vymyšlený. Už dva pláty pomůžou, protože tiskárna jeden sundá a nasadí druhý. Navazující tisk si můžu připravit v [Printerhive](https://printerhive.com/cs).
 
-Tenhle večer pro mě nakonec vyhrála malá A1 mini s výměnou plátů. Nový laser byl zajímavý na prohlížení, ale hotové hlavolamy ráno na stole jsou něco, co už používám a co mi reálně šetří čas. Uvidíme se na dalším streamu.
+Pokud tisknete série a nemáte kam dát další tiskárnu, tohle doporučuju. Jednotlivý tisk se nezrychlí, ale stroj může pracovat i v hodinách, kdy by jinak čekal na sundání výtisku. U mě teď takhle tiskne přes noc.
+
+---
+
+## MakerBazar a štítky bez přepisování adres
+
+Na [MakerBazaru](https://makerbazar.cz) už přidávají nabídky i další lidé a věci se prodávají. Mám z toho radost. Potřebujeme hlavně víc návštěvníků, takže pokud ho můžete někde nasdílet, budu rád.
+
+Zprávy jsou uložené u konkrétního prodeje a chodí k nim e-mailové notifikace. Mám tak pohromadě domluvu i údaje k odeslání. Používám Hermes agenta propojeného s Balíkobotem. Řeknu mu, ať si vytáhne konkrétní inzerát a připraví štítky, a za chvíli je mám na tiskárně.
+
+Vyzkoušel jsem také bankovní QR kód s předvyplněnými údaji. Na třech skutečných prodejích fungoval. Když vám na bazaru něco chybí nebo nefunguje, dejte mi vědět. Baví mě ten projekt a rád ho dál upravím.
