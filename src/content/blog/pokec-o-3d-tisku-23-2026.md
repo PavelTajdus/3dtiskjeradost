@@ -58,15 +58,13 @@ Do konstrukce jsem se nepouštěl, tomu nerozumím dost. Líbí se mi ale, že k
 
 ---
 
-## Tvrdost trysek INDX a spokojenost se Snapmakerem U1
+## Tvrdost trysek INDX
 
 U INDX jsme probírali zprávy, že trysky dodané zákazníkům byly měkčí, než odpovídalo označení tvrzených trysek. Výsledek celé kauzy jsem neměl nastudovaný.
 
 Nemyslím si, že by kvůli tomu tryska ze dne na den odešla. Na PLA, PETG nebo ABS bych z toho velkou obavu neměl. U abrazivních materiálů už je tvrdost podstatná, třeba u svítících filamentů.
 
 Myslím si, že INDX ještě není úplně dodělaný. Vyvíjejí ho dlouho, přesto čekám, že se při používání budou objevovat další věci k doladění. Jestli ho rozjedou ve velkém, nevím.
-
-Se Snapmakerem U1 jsem naopak hodně spokojený. Chtěl bych něco víc profi, ale jako první počin je dost dobrý. Větší Snapmaker jako konkurence k XL by mě zajímal. Zatím je to jen moje přání.
 
 ---
 
