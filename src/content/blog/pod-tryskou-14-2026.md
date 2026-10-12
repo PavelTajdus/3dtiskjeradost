@@ -3,6 +3,7 @@ title: "Pod tryskou 14/2026: LEGO tiskne a ráčna vyjede v jednom kuse"
 pubDate: "2026-03-31T12:20:29.000Z"
 updatedDate: "2026-10-08T12:00:00.000Z"
 description: "Tiskárna z LEGO kostek, ráčnový šroubovák bez montáže, rychlejší MMU3, rehabilitační pomůcky z Tenerife a mikroroboti pohánění elektrickým polem."
+heroImage: "/content/images/2026/03/pod-tryskou-14-2026-hero.webp"
 tags: ["Newsletter"]
 draft: false
 ---
@@ -12,6 +13,8 @@ draft: false
 Adam Turaj postavil Studprint, funkční 3D tiskárnu s rámem, pohybovým systémem a částí extruderu z LEGO. Použil hlavně klasické kostky. Motory, elektroniku a hotend má běžné, některé držáky si vytiskl. Těch **92 % LEGO** počítá podle počtu součástek v seznamu dílů, takže to neznamená 92 % hmotnosti tiskárny.
 
 Nejvíc mě na tom zaujala kolečka, která jezdí přímo po výstupcích kostek. Tam bych dal hladké krycí kostky, aby to tolik nedrncalo. Sám autor přiznává vůle v osách X a Y a výrazné vady na vytištěné Benchy. Ale tiskne to a na GitHubu najdete CAD model i seznam dílů, pokud byste se do podobné stavby chtěli pustit.
+
+![Studprint s rámem z LEGO kostek a cívkou filamentu vedle tiskárny](/content/images/2026/03/pod-tryskou-14-2026-studprint-lego-tiskarna.webp)
 
 [Zdroj: GitHub, Studprint](https://github.com/AdamTuraj/Studprint)
 
@@ -25,6 +28,8 @@ Autor doporučuje vrstvy 0,2 mm a výplň 15–20 %. V mechanismu nechal vůle k
 
 V jeho článku najdete postup návrhu, nepovedené pokusy i odkaz na model. Pokud vás zajímají tištěné mechanismy, je tam docela dost konkrétních věcí k prohlédnutí.
 
+![Bílé vytištěné prototypy a díly ráčnového šroubováku na řezací podložce](/content/images/2026/03/pod-tryskou-14-2026-racnovy-sroubovak-joe-sturge.webp)
+
 [Zdroj: Joe Sturge, návrh ráčnového šroubováku](https://dev.joesturge.com/p/3d-print-in-place-a-design-journey/)
 
 ---
@@ -34,6 +39,8 @@ V jeho článku najdete postup návrhu, nepovedené pokusy i odkaz na model. Pok
 Prusa Research vydala aktualizaci, která zkracuje výměnu filamentu u MMU3 **až o 9 sekund**. Část pohybů teď probíhá současně a tiskárna nemusí čekat na dokončení některých kroků, než začne znovu tisknout. U modelu se stovkami výměn už se to nasčítá.
 
 Potřebujete firmware tiskárny 6.5.3, firmware MMU3 3.0.4 a nové profily v PrusaSliceru. Nestačí aktualizovat jen samotnou MMU. Pozor také na MK3S+: Prusa Research výslovně uvádí, že firmware MMU3 3.0.4 s její sestavou není kompatibilní.
+
+![Vícebarevné výtisky busty Deadpoola a helmy Iron Mana z článku Prusa Research o MMU3](/content/images/2026/03/pod-tryskou-14-2026-mmu3-prusa-multimaterial.webp)
 
 [Zdroj: Prusa Research, zrychlení MMU3](https://blog.prusa3d.com/massive-mmu3-speed-boost-new-fw-slashes-filament-change-times-core-one-l-mmu3-news_132957/)
 
@@ -60,5 +67,7 @@ Daniela Kraft a Mengshi Wei z Leidenské univerzity vytiskli na mikrotiskárně 
 Po zapnutí elektrického pole se řetízky začnou pohybovat. Když předek narazí na překážku, zadní články dál tlačí, řetízek se ohne a změní směr. Nepotřebuje k tomu čidla ani řídicí elektroniku, pohyb ovlivňuje jeho tvar a pružnost. Energii mu ale pořád dodává elektrické pole.
 
 Na první pohled mě to moc nezaujalo. Pak jsem si pustil video a koukal, jak se pohybují jako červíci, vyhnou se překážce a pokračují dál. To už je docela zvláštní podívaná. Video najdete přímo u univerzitní zprávy.
+
+![Mikroskopický snímek řetízku propojených článků mikrorobota z Leidenské univerzity](/content/images/2026/03/pod-tryskou-14-2026-mikrorobot-leiden-retizek.webp)
 
 [Zdroj: Leidenská univerzita](https://www.universiteitleiden.nl/en/news/2026/03/alive-or-not-tiny-3d-printed-robots-without-a-brain-that-swim-and-navigate-just-like-animals)
