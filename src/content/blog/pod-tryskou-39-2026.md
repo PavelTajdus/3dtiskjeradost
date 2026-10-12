@@ -28,7 +28,7 @@ Líbí se mi, že je u toho vidět celý postup. Jestli máte podobný tenký kr
 
 ## FreeCAD 1.1 ukáže úpravu dílu ještě před potvrzením
 
-FreeCAD v březnu vydal verzi 1.1. Při modelování přidala průsvitné náhledy a ovládací prvky přímo u modelu. Při úpravě můžete sledovat změnu na dílu a upravit rozměry tažením ovládacích prvků. Nástroj Clarify Selection zase dočasně zprůhlední okolní geometrii, abyste vybrali hranu schovanou za jinou plochou.
+Vývojáři FreeCADu v březnu vydali verzi 1.1. Přidali průsvitné náhledy a ovládací prvky přímo u modelu. Při úpravě můžete sledovat změnu na dílu a upravit rozměry tažením ovládacích prvků. Nástroj Clarify Selection zase dočasně zprůhlední okolní geometrii, abyste vybrali hranu schovanou za jinou plochou.
 
 ![Model montážního úhelníku s otvory a žebry, kolem kterého FreeCAD zobrazuje ovládací prvky úpravy](/content/images/2026/09/pod-tryskou-39-2026-freecad.webp)
 
