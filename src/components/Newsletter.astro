@@ -214,6 +214,8 @@ const {
 
 			const emailInput = currentForm.querySelector('input[name="email"]');
 			if (!(emailInput instanceof HTMLInputElement) || !emailInput.value) return;
+			const consentInput = currentForm.querySelector('input[name="consent"]');
+			if (!(consentInput instanceof HTMLInputElement) || !consentInput.checked) return;
 
 			// Get Turnstile token
 			const turnstileInput = currentForm.querySelector('input[name="cf-turnstile-response"]');
@@ -236,6 +238,7 @@ const {
 					headers: { 'Content-Type': 'application/json' },
 					body: JSON.stringify({
 						email: emailInput.value,
+						consent: consentInput.checked,
 						turnstileToken,
 					}),
 				});
@@ -244,7 +247,9 @@ const {
 					const data = await response.json().catch(() => null);
 					currentForm.classList.add('success');
 
-					if (data?.data?.has_optin) {
+					if (data?.data?.suppressed) {
+						showMessage(currentForm, 'Tento e-mail nelze přihlásit. Pokud jste se dříve odhlásili, odběr neobnovujeme automaticky.');
+					} else if (data?.data?.has_optin) {
 						showMessage(currentForm, '🎉 Díky! Zkontroluj si e-mail a potvrď odběr.');
 					} else {
 						showMessage(currentForm, '🎉 Díky za přihlášení! Od teď ti neunikne žádná novinka.');
