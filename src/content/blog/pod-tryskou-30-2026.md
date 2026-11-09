@@ -12,8 +12,6 @@ draft: false
 
 Čidlo, kterým tiskárna hledá povrch podložky, může sledovat i průběh extruze. CNC Kitchen to využil při automatické kalibraci Pressure Advance. Vedle toho tu mám rychloupínací systém pro vlastní příslušenství, tištěné mapy závodních okruhů a materiál, do kterého výrobce zpracovává odpad z palmových listů.
 
-> Zpětně doplněné vydání pro týden od 20. července 2026, připravené 9. listopadu 2026. Výběr vychází z podkladů zveřejněných do 20. července. Odkazované projekty se od té doby mohly změnit.
-
 ## Pressure Advance podle síly působící na trysku
 
 Stefan z CNC Kitchen připravil **otevřený nástroj pro automatické hledání hodnoty Pressure Advance**. Tohle nastavení kompenzuje zpoždění průtoku při změnách rychlosti. Při špatné hodnotě může být v rozích příliš mnoho materiálu nebo naopak vzniknou mezery.

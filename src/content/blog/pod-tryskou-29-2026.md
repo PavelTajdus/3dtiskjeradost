@@ -12,8 +12,6 @@ draft: false
 
 Červencová aktualizace BumpMeshe přidala ukládání projektů a zlepšila geometrii textur. Vedle ní tu mám náhledy tiskových souborů na Macu, generátor magnetických štítků a tištěné kolíky do písku. Dva programy pro práci s modely a dvě věci, které můžete rovnou připravit k tisku.
 
-> Zpětně doplněné vydání pro týden od 13. července 2026, připravené 9. listopadu 2026. Výběr vychází z podkladů zveřejněných do 13. července. Odkazované projekty se od té doby mohly změnit.
-
 ## BumpMesh ukládá projekty a lépe připravuje síť pro textury
 
 Stefan z CNC Kitchen ukázal další verzi **BumpMeshe**, bezplatného nástroje pro přidávání prostorových textur na modely. Načtete model a obrázek textury a program podle něj upraví skutečný povrch. Tak si můžete připravit třeba rukojeť s hrubším povrchem nebo kryt s kresbou dřeva.
